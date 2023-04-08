@@ -1,3 +1,4 @@
+name: Changelog Updated
 on:
   pull_request:
     types: edited

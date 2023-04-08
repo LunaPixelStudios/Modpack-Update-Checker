@@ -1,12 +1,6 @@
-name: Update version
+name: Update Hashes
 on:
-  workflow_dispatch:
-    inputs:
-      version:
-        description: 'Version'
-        required: true
-        type: string
-        default: ''
+  workflow_dispatch
 jobs:
   updateVersionFile:
     runs-on: [ubuntu-latest]
@@ -20,20 +14,18 @@ jobs:
           java-version: '17'
       - name: Output dir
         run: ls
-      - name: Update File
+      - name: Update Hashes
         run: java -Dfile.encoding=UTF-8 -jar modpackUpdater.jar
         env: 
-          VERSION: ${{ inputs.version }}
+          HASHES: a
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
-          title: '[Bot] Update to ${{ inputs.version }}'
-          labels: |
-              version-update
+          title: '[Bot] Updated hashes'
           body: |
-            Replace my contents with the changelog
+            Hashes generated
           branch: |
-            changelog/${{ inputs.version }}
+            hotfixupdate/${{ github.run_number }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VERSION: ${{ inputs.version }}
+          HASHES: a
