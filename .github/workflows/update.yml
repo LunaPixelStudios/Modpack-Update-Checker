@@ -33,7 +33,7 @@ jobs:
           body: |
             Replace my contents with the changelog
           branch: |
-            changelog/${{ inputs.version }}
+            changelog/${{ github.run_number }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VERSION: ${{ inputs.version }}
