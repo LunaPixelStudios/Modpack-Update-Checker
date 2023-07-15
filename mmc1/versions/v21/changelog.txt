@@ -1,0 +1,124 @@
+[Dungeons, Structures & Content Update]
+FABRIC 0.14.21
+
+New dimension: Promenade of The Condemned (New Update requires you to reset the Minecells Dimension)
+How to Reset? [Go to your world folder > dimensions folder > delete Minecells folder]
+
++ Added ModernFix
++ Added Modpack Update Checker
++ Added Fabric Seasons: Terraformers Compat
++ Added Fabric Seasons: Delight Compat
++ Added Fabric Seasons: BYG Compat
++ Added Fabric Seasons: Extras
++ Added Dungeon and Taverns
++ Added When Dungeons Arise - Loot Tweaks
++ Added When Dungeons Arise - Spacing Tweaks
++ Added DungeonZ
++ Added Variety Aquatic
++ Added Mutant Monsters [Forge & Fabric]
++ Added Gazebos
++ Added Cave Dust
++ Added Paladins & Priests
++ Added Dark Waters
++ Added Immersive Structures II: Nether edition
++ Added DEUF Refabricated
++ Added Bobby
+- Removed Creatures From The Snow (Contains stolen assets, failed the vibe check)
+- Removed Farsight (Replaced)
+- Removed Smooth Boot (Replaced)
+
+Configs:
+- Blacklisted Basic Inventory Hoppers, Crystalline Flowers and Enchanted Basins from being carried via CarryOn
+- Minor quest tweaks, fixes, and additions
+- Applied new Resource Pack Overrides Config to work with new updated Resourcepacks
+- Regenerated Config for New Traveler's Backpack Update
+- Regenerated Config for New Wizards Update
+- Using Spell Engine Config from Prominence to fix many items not working
+
+Updates:
+- New dimension: Promenade of The Condemned (Mine Cells - Dead Cells Mod)
+- Added support for Brewin' and Chewin' (Dehydration Expanded Drinks)
+- Fixed Quick-move / shift-click bug in brewer screens (Adorn)
+- Fixed glitching shoulders while sneaking with 2 handed weapons (Better Combat)
+- Fixed Null Pointer Exception in Mob Spawner custom rule set causing server wide crash (Dungeon Difficulty)
+- Fixed manually placed spawners not spawning mobs (Dungeon Difficulty)
+- Fixed temperature cutoff (EnvironmentZ)
+- Fixed item temperature (EnvironmentZ)
+- Added dimension acclimatization (EnvironmentZ)
+- Added wanderer armor (EnvironmentZ)
+- Fixed a problem where the bookmark buttons didn't work last 1 or 2 trades (Inventory Profiles Next)
+- Fixed random crash some players are experiencing while trading or switching villagers (Inventory Profiles Next)
+- Added: Frontier announcement in title (MapFrontiers)
+- Added: Option to announce or not unnamed frontiers (MapFrontiers)
+- Added: Copy and Paste buttons for frontier info (MapFrontiers)
+- Added: Undo and Redo buttons for frontier info (MapFrontiers)
+- Changed: Splitted visibility options between fullscreen map and minimap (MapFrontiers)
+- Fixed: Exception when game was closed on frontier info screen (MapFrontiers)
+- Fixed: Deleting frontier on info screen crashes (MapFrontiers)
+- Fixed: filter options not being saved (MapFrontiers)
+- Fixed: tooltips getting stuck (MapFrontiers)
+- Fixed bug where Withered Wabbajack would crash game due to render issues (Marium's Soulslike Weaponry)
+- Fixed bug where Withered Wabbajack would crash game due to too high Unluck status effect level (Marium's Soulslike Weaponry)
+- Fixed bug where Old Moon Altar crashed game due to trying to place it up or down (Marium's Soulslike Weaponry)
+- Actually fixed crash on startup related to improper application of Mixin Extras (MC Dungeons Weapons)
+- Fixed Burst Bowstring duplication in config (MC Dungeons Weapons)
+- Fixed Guarding Strike applying to bows, incorrectly (MC Dungeons Weapons)
+- Fixed Busy Bee Enchantment not working with Better Combat (MC Dungeons Weapons)
+- Mechanised Sawblade now mines wood and has other axe functionality (MC Dungeons Weapons)
+- Fixed Swift Striker not being have enchantments upgraded (MC Dungeons Weapons)
+- Fixed nudibranch death bug (Mythic Mounts)
+- Fixed swimming speed for aquatic mounts (Mythic Mounts)
+- Mark the mod as server compatible, now it actually loads properly on dedicated servers (Show Me Your Skin!)
+- Fixed Spell Book creation in multiplayer (Spell Engine)
+- Fixed enchantments not stacking (Spell Power Attributes)
+- Fixed armorstand bug (TieredZ)
+- Fixed archery bug (TieredZ)
+- Fixed crash with trinkets (Traveler's Backpack)
+- Fixed crash when Brute Piglins were spawned (Traveler's Backpack)
+- Added hoppers support for backpack (Traveler's Backpack)
+- Fixed crash with memory slots (Traveler's Backpack)
+- Fixed crash with dragon backpack (Traveler's Backpack)
+- Added smithing table upgrade recipes to upgrade to netherite weapons (Wizards)
+- Added Arcane, Fire and Frost spell books (Wizards)
+- Added Improved tome of scrapping and tome of extraction to match parity with Apotheosis (Zenith)
+
+- Added many new mobs, textures, items, and reworks (Oh The Biomes You'll Go)
+- Added new blocks and connected textures to some blocks (Architect's Palette)
+- Added new blocks (Every Compat)
+- Added the Totem of Illusion and the Totem of Freezing (Friends & Foes)
+- Added 2 new fish and 2 new blocks (Nether Depths Upgrade)
+- Added the Gabbro geode (More Geodes)
+- Added Mod Name sorting (Tom's Simple Storage)
+- Added support for Deeper and Darker slabs (KleeSlabs)
+- Added more entries to the default blacklist (Carry On)
+- Removed/renamed all Aether related items (Paradise Lost)
+- Renaming / repairing no longer accounts for the prior work penalty of an item (Easy Anvils)
+- The 'Too Expensive!' limit is now disabled (Easy Anvils)
+- Right click harvesting now uses less hunger (RightClickHarvest)
+- Moved chat auto complete suggestions to accommodate for chat heads (Chat Heads)
+- Tortoise/Alligator Eggs spawn much faster now (Naturalist)
+- Ducks no longer lay Chicken Eggs (Naturalist)
+- Dispensers can now deploy keys against key lockable blocks (Supplementaries)
+- Destroyed unclaimed graves will now drop all its contents, or the grave containing the items, on the ground (You're In Grave Danger)
+- Vanilla connection attempts on servers from bots will no longer appear in logs (Logs BeGone)
+- Fixed the Zombie Villager version of the Chef and Cook missing textures (Chef's Delight)
+- Fixed anvils losing items after it has remained open when the anvil has just been damaged (Easy Anvils)
+- Fixed villagers not taking up the work of cooking with the skillet (Chef's Delight)
+- Fixed a bug that caused Catfish to get stuck on top of water or in 1 deep areas (Naturalist)
+- Fixed Bears getting stuck in their sleeping animation (Naturalist)
+- Fixed Fireflies spawning en-masse (Naturalist)
+- Fixed notice boards not working with banner patterns (Supplementaries)
+- Fixed Void Totems not working properly for void damage (Charm of Undying)
+- Fixed Rotten Cherries not being compostable (Vinery)
+- Fixed Apple Juice not depleting when drank (Vinery)
+- Many Fixes and improved performance (Fabric Seasons)
+- Many Fixes (Excalibur Resourcepack)
+- Many Fixes (Bewitchment)
+- Many Reworks (ChoiceTheorem's Overhauled Village)
+- Many Fixes (FTB Chunks)
+- Many Fixes and new Content (Mine Cells - Dead Cells Mod)
+- Many Fixes (Spellblades and Such)
+- Many added things (Traveler's Backpack)
+- Updated all mods and Datapacks
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

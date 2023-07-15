@@ -1,0 +1,100 @@
+[Major Update]
+
+Performance Improvements / Fixes / QoL Changes
+
+- Added Mythic Mobs
+- Added Simply Swords [Fabric & Forge]
+- Added Promenade
+- Added [EMF] Entity Model Features [Fabric & Forge]
+- Added Memory Settings
+- Added fix GPU memory leak[Forge/Fabric]
+- Added FullStack Watchdog
+- Added Recipe Book Delight
+- Added Charm Fixer
+- Added "Better End City" for Better End
+- Added CTOV - Wizards compatibility pack
+- Added CTOV - Villagers Plus Compat
+- Added CTOV - Paladins & Priests compat
+- Added CTOV - BYG Compat
+- Added CTOV - Gazebo compat
+- Added Repurposed Structures - Wizards Compat Datapack
+- Added Charm Woodcutter BYG
+- Added Charm - Promenade Compat Datapack
+- Added Charm Woodcutter Bewitchment/Plus
+- Added AdventureZ Netherite Fix
+- Added Trinkets Offhand Glove Fix
+- Added Farmer's Delight Tools Expanded
+- Added Twilight Forest - Glacier Melt Fix
+- Added BalanceEx
+- Added BalanceEx - Magic Addon
+- Added ArchonEx
+- Added STONEBORN - Meï's Additions for Modded GUIs
+- Removed Immersive Weathering (Causes issues)
+- Removed Farmer's Respite (Crashing)
+- Removed Decorative Blocks (Causes issues)
+- Removed MedievalWeapons (Replaced)
+- Removed RPG Difficulty (Conflicts with Dungeon Difficulty causing its scaled mobs to always display as level 1 & 1000 hp zombies randomly even near spawn)
+- Lowered mob armor overall to prevent things like 30 damage swords only dealing 3 damage to nether/end mobs, added a small amount of health to compensate
+- Removed bonus non-RelicEx stats being applied to RelicEx relics (it's a bit confusing and they don't transfer)
+- Twilight forest, minecells, and the nether are slightly easier
+- Added much higher dimension-based difficulty scaling for Archmagus and nerfed spellblade loot scaling on recommendation of spellblades dev.
+- Lowered base rate and bonus rolls rate, magic gear was overriding loot tables completely once a player started to accumulate luck
+- Phantoms Origin phase blacklist, makes hardstone (minecells) and mazestone/mazebrick (twilight forest) unphasable to phantoms
+- Fix attribute display for looted helmets with "dropped experience" bonus attribute
+- Nerfed robe crit enchants as they are suddenly much stronger than expected due to what was apparently a bug being fixed
+- Fixed twilight forest glacial biome temperature, which fixes fabric seasons incompat with random melting
+- Fixed Things gloves being inequippable in the offhand glove slot
+- Disabled MedievalOrigins' Ogre charge ability since it bypasses claims and unbreakable blocks
+- Modded tool recipe support for farmer's delight cutting board recipes
+- Moved roll arrows to bottom left so they don't overlap the hotbar when you get multiple rolls
+- Centered the player thermometer since the environment thermometer was disabled
+- Tagging mythic metals' carmot staff, conjuring's soul alloy scythe, and many weapons that are "axes" internally as weapons for TieredZ reforging, instead of tools
+- Buffed riot gauntlet, it was end-game expensive but is outclassed by easy to get enchantments
+- Hide face apple rendering
+- Made warthog shells slightly looting resistant
+- Made warthog shells require 4 shells per netherite scrap instead of 2
+- Strength no longer gives defensive stats
+- Constitution is now a better defensive stat
+- Dex is now more specifically a ranged stat
+- Int is now more specifically a magic stat
+- Nerfed magic stat boosts overall (they have more access to bonuses from other sources)
+- Luckiness/evasion nerfed
+- Crit damage and lifesteal relics nerfed
+- Immortal tier relics are less likely to be weak
+- Fixed some weapons with custom abilities being unusable
+- Fixed Mob Spawning (Dark Waters)
+- Fixed waystone marker not remove on waystone broke (JMI)
+- Fixed a crashing bug on Fabric related to Refreshment Enchantment (MCDW)
+- Fixed mutant creatures over-spawning in modded biomes using vanilla's spawn costs system (Mutant Monsters)
+- Fixed splash/lingering potions' affected areas not being scaled (Pehkui)
+- Fixed scaled projectiles' damage being incorectly scaled by their velocities (Pehkui)
+- Fixed there being an unnecessary condition in the prepared power (RPG Origins)
+- Fixed occasional crash when placing down Waystones (Fabric Waystones)
+- "Mixed" foods now restore reduced food to vegetarians/carnivores, instead of being completely inedible.
+- Enderians are now immune to thirst.
+- Immunities are now applied immediately upon origin selection
+- Fixed a bug with the purified water bucket. Woops!
+- Added modded compatibility for travelers backpacks & toms simple storage crafting recipes
+- Fixed any silver be used for silver chests and any wooden chest be used to craft mythic metals chests
+- Many Fixes from [Let's Do] Meadow
+- Many Fixes from Better Statistics Screen
+- Many Fixes from Friends&Foes
+- Many Fixes from FTB Chunks
+- Many Fixes from FTB Quests
+- Many Fixes from Inventory Profiles Next
+- Many Fixes from Galosphere
+- Many Fixes from ModernFix
+- Many Fixes from Moonlight
+- Many Fixes from Oh The Biomes You'll Go Refabricated
+- Many Fixes from PlayerEx
+- Many Fixes from Supplementaries
+- Many Fixes from Spellblades and Such
+- Many Fixes from Traveler's Backpack
+- Many Fixes from Zenith
+- Many Fixes from Other Mods
+- Reduced the Mod Count
+- Updated all the Mods
+
+Big thanks to MuonR helping with all the Datapacks & Config Changes
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
