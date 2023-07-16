@@ -29,7 +29,6 @@ Performance Improvements / Fixes / QoL Changes
 - Added BalanceEx - Magic Addon
 - Added ArchonEx
 - Added STONEBORN - Meï's Additions for Modded GUIs
-- Removed Immersive Weathering (Causes issues)
 - Removed Farmer's Respite (Crashing)
 - Removed Decorative Blocks (Causes issues)
 - Removed MedievalWeapons (Replaced)
@@ -46,7 +45,7 @@ Performance Improvements / Fixes / QoL Changes
 - Fixed Things gloves being inequippable in the offhand glove slot
 - Disabled MedievalOrigins' Ogre charge ability since it bypasses claims and unbreakable blocks
 - Modded tool recipe support for farmer's delight cutting board recipes
-- Moved roll arrows to bottom left so they don't overlap the hotbar when you get multiple rolls
+- Moved roll arrows to bottom left so they don't overlap the hotbar when you get multiple rolls 
 - Centered the player thermometer since the environment thermometer was disabled
 - Tagging mythic metals' carmot staff, conjuring's soul alloy scythe, and many weapons that are "axes" internally as weapons for TieredZ reforging, instead of tools
 - Buffed riot gauntlet, it was end-game expensive but is outclassed by easy to get enchantments
@@ -71,7 +70,7 @@ Performance Improvements / Fixes / QoL Changes
 - Fixed there being an unnecessary condition in the prepared power (RPG Origins)
 - Fixed occasional crash when placing down Waystones (Fabric Waystones)
 - "Mixed" foods now restore reduced food to vegetarians/carnivores, instead of being completely inedible.
-- Enderians are now immune to thirst.
+- Enderians are now immune to thirst. 
 - Immunities are now applied immediately upon origin selection
 - Fixed a bug with the purified water bucket. Woops!
 - Added modded compatibility for travelers backpacks & toms simple storage crafting recipes
