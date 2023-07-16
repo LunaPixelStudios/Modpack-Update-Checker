@@ -1,1 +1,39 @@
+[Major Update]
 
+Performance Improvements / QoL Changes
+
+- Added Promenade
+- Added [EMF] Entity Model Features [Fabric & Forge]
+- Added Memory Settings
+- Added Structory: Towers
+- Added fix GPU memory leak[Forge/Fabric]
+- Added FullStack Watchdog
+- Added "Better End City" for Better End
+- Added When Dungeons Arise - No Flying Structures
+- Added When Dungeons Arise - Spacing Tweaks
+- Added Charm Woodcutter BYG
+- Added Charm - Promenade Compat Datapack
+- Added AdventureZ Netherite Fix
+- Added Trinkets Offhand Glove Fix
+- Added Farmer's Delight Tools Expanded
+- Added Twilight Forest - Glacier Melt Fix
+- Removed Immersive Weathering (Causes issues)
+- Removed Farmer's Respite (Crashing)
+- Removed Decorative Blocks (Causes issues)
+- Fixed occasional crash when placing down Waystones (Fabric Waystones)
+- Many Fixes from [Let's Do] Meadow
+- Many Fixes from Better Statistics Screen
+- Many Fixes from Friends&Foes
+- Many Fixes from FTB Quests
+- Many Fixes from Galosphere
+- Many Fixes from ModernFix
+- Many Fixes from Moonlight
+- Many Fixes from Oh The Biomes You'll Go Refabricated
+- Many Fixes from Open Parties and Claims
+- Many Fixes from Supplementaries
+- Many Fixes from Xaero's
+- Many Fixes from Other Mods
+- Reduced the Mod Count
+- Updated all the Mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
