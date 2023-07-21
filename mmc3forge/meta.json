@@ -3,12 +3,8 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "v19",
-      "releasedAt": 1689470265689
-    },
-    {
-      "id": "v19.5",
-      "releasedAt": 1689495050000
+      "id": "v17",
+      "releasedAt": 1689992833809
     }
   ]
 }
