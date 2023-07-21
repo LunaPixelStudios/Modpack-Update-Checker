@@ -1,1 +1,36 @@
+[Content & Fixes Update]
+FORGE IS NOW 43.2.19
 
+- Added Exquisito
+- Added Hearths
+- Added [EMF] Entity Model Features [Fabric & Forge]
+- Added Memory Settings
+- Added fix GPU memory leak[Forge/Fabric]
+- Added FullStack Watchdog
+- Added Sound Physics Remastered
+- Added Let Me Despawn
+- Added ServerCore
+- Added "Better End Cities"
+- Removed Abormals Delight (Causes Issues)
+- Fixed Soul Stone and Cobbled Blackstone blobs not spawning (Bygone Nether)
+- Fixed recursion crash when opening loot chests (Farmer's Delight)
+- Fixed some issues with quark module (Every Compat)
+- Fixed crash related to carved pumpkin (Friends&Foes)
+- Fixed crash related to wildfire (Friends&Foes)
+- Fixed Acacia Beehive not dropping (Friends&Foes)
+- Fixed massive performance issues in world generation, particularly in the Nether (Waystones)
+- Many Fixes from: 
+> FTB Quests
+> Galosphere
+> Rubidium Extras
+> ModernFix
+> Moonlight
+> Oh The Biomes You'll Go
+> Quark
+> Supplementaries
+> Other Mods
+- Fixed Keybinds
+- Reduced the Mod Count
+- Updated all the Mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
