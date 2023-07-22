@@ -1,5 +1,0 @@
-Hotfix
-
-+ Added Cataclysmic Combat
-+ Added Cataclysm Weaponery
-- Updated Epic Paladins to add new fixes and features
