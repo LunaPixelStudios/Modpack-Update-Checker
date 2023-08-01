@@ -1,0 +1,55 @@
+[Performance Update]
+
+Mods:
++ Added Twilight's Flavors & Delight (by Icy0x1)
++ Added Farmer's Delight Wood Stripping Expanded (by SkyStelm)
++ Added Repurposed Structures - Better Strongholds Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Better Witch Huts Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Incubation Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Better Ocean Monuments Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Bygone Nether Compat Datapack (by telepathicgrunt)
++ Added Fast Paintings (by MehVahdJukaar)
++ Added Neruina - Ticking Entity Fixer (by bawnorton)
++ Added Client Crafting (by someaddon)
++ Added Redirectionor (by potatoboy)
++ Added DoesPotatoTick (by potatoboy)
+
+Configs:
+- Re-added Honey Bread to the tutorial quest rewards
+- Added the Twilight's Flavors & Delight guide book to the end of tutorial reward
+- Modified the Xaeros Minimap compass to be more readable
+- Disabled ImmediatelyFast's Fast Buffer Upload to improve performance on lower end machines
+- Bound Zoom to C
+- Bound Crawl to Z
+- Unbound Sit to prevent accidental keypresses
+- Unbound Jade keybinds 
+
+Updates:
+- Added 5 new structures (Philip's Ruins)
+- Non-players can now sit in seats! Either make them walk on top of the seat or right-click the block with a leashed mob and they will sit on the block. Right-click the seat again to eject them (Another Furniture)
+- Added most items to be usable as furnace fuel (Another Furniture)
+- All seat blocks now emit a comparator signal of 15 when sat in (Another Furniture)
+- Curtains now connect similar to shelves and planter boxes, making it much easier to join them together (Another Furniture)
+- Curtains have been overhauled to look more vanilla-esque (Another Furniture)
+- The Abyss Orb's tracking speed has been reduced 3x (LEnder's Cataclysm)
+- Leviathan's dropped items now have a glowing effect (LEnder's Cataclysm)
+- Bosses now drop items as soon as they die (LEnder's Cataclysm)
+- Reduced the basic music volume (LEnder's Cataclysm)
+- Nerfed Sunken city's spawn rate (LEnder's Cataclysm)
+- Coral spears now fly 25% faster in the water (LEnder's Cataclysm)
+- Stools can now be hammered to lower them by 1 pixel (Another Furniture)
+- Shutters now open all of their connected counterparts when powered by redstone, rather than only itself (Another Furniture)
+- Shutters can now be interacted though specific blocks, such as glass blocks, panes, and fences (Another Furniture)
+
+Fixes:
+- An occasional crash when reloading resources (Diagonal Fences)
+- Broken custom window icon and title which could lead to crashes (FancyMenu)
+- Exception when opping/deopping offline players (Open Parties and Claims)
+- Leviathan's Triple Laser pattern (LEnder's Cataclysm)
+- Crash when the model of a block is null (Xaero's Worldmap)
+- Planter box cullfacing issues when a solid block is above it (Another Furniture)
+- Mipmap warnings from table supports (Another Furniture)
+- Many performance and stability improvements (ModernFix)
+
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
