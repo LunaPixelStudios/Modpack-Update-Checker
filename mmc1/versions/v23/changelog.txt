@@ -1,1 +1,243 @@
-v
+[Major Update]
+FABRIC MODLOADER IS NOW 0.14.22
+
+Make sure to reset the Mine Cells dimension before updating! Read the guide here: https://mim1q.dev/minecells/updating/
+This update includes hundreds of balancing changes, fixes, and new features.
+Changelog overview: https://www.youtube.com/watch?v=DpvsCt1U_Bg
+
+Mods:
++ Added RPGDifficulty (by GloboxZ)
++ Added Medieval Origins Revival (by MuonR)
++ Added Decorative Blocks Forked (by TheWinABagel)
++ Added Biome Music (by someaddon)
++ Added Environmental Water (by AgentMindStorm)
++ Added Repurposed Structures - Bygone Nether Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Paladins & Preists Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Gazebo Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Better Witch Huts Compat Datapack (by telepathicgrunt)
++ Added Piglin Safety (by potatoboy)
++ Added Smite-a-lot (by cleannrooster)
++ Added Fabrishot (by ramidzkh)
++ Added Fix Experience Bug (by MacTso)
++ Added Fast Paintings (by MehVahdJukaar)
++ Added Neruina - Ticking Entity Fixer (by bawnorton)
++ Added Load my F*ing Tags (by Blodhgrm)
++ Added FTB XMod Compat (by FTB)
++ Added Redirectionor (by potatoboy)
++ Added Better chunk loading (by someaddon)
++ Added Client Crafting (by someaddon)
+- Removed Medieval Origins (Replaced)
+
+Configs:
+- Rivers will no longer stay frozen after winter
+- Added quests for the End Remastered eyes
+- Added a "Mobs" quest category
+- Added a "Backpacks and Storage" quest category
+- Added new quests to the "Mobs" section
+- Added a "Getting Stronger" section to the tutorial
+- Added new quests for End progression
+- Added many new quests to the "Bosses" category
+- Added quests for the new flasks
+- Tweaked Nether quests
+- Added the Mythic Mounts, Mythic Mobs, and Simply Swords guidebooks to the tutorial quests
+- Added Excalibur Mod support for Zenith, Supplementaries, Graveyard, Twilight Forest, Ecologics, and Another Furniture (Thanks Pablito_o, the.green.link, Abyssal_Kutku, MuonR, GrandPappyJay, Venom2000, Ratty, and anivay!)
+- Added connected textures for many grass blocks, such as BYG Lush Grass
+- Added Excalibur Blood Swings
+- Added Excalibur Tudor Addon (Try black, white, and light gray glazed terracotta!)
+- Added more bosses to the c:bosses tag to prevent them getting buffed more than intended and being targetable by boss-excluding abilities
+- Added a warning at the bottom of the final tutorial quest, telling users to claim the guide books once they have storage available
+- Enabled Architect's Palette vertical slabs 
+- Changed some quests to use more neutral wording, "Kill" -> "Defeat", for example
+- Hid the Inventory Profiles Next sort keys in the Travelers Backpack GUI
+- Re-enabled ModernFix Blast Search Trees for better performance and faster world & server join times
+- Made feline night vision work properly
+- Disabled MC Storymode Armor's set bonus abilities for Adamantine Impervium, Redstone Riot, Shield of Infinity, Star Shield, and Sword Breaker
+- Updated Wizards, Minecells, EnvironmentZ, Miscellanous quest pages with up-to-date information
+- Bound Take Large Screenshot to F2
+- Bound Origin Active Power to G
+- Changed the order of quest categories to better represent progression and difficulty
+- Buffed base armor points on the sets listed above to compensate for losing set bonuses
+- Slightly nerfed damage boosts from RPG Origins' Brute and Archer
+- MC Story Mode Armors are no longer a Hero of the Village armorer gift
+- Rebalanced magic weapons to make staffs and wands more viable
+- The recipe book now works again. This will cause a decrease in performance, but players insist on having their recipe book
+- Made Bewitchment Silver alloy forgeable
+- Made the prismatic cobweb and enchantment library more expensive to craft
+- Made Void strike and Enigma resonator slightly more equal
+- Sculk Snappers are now completely disabled, as they cause crashes
+- Buffed lord-soul crafted Soulslike Weaponry weapons (they are also harder to get)
+- Potion Charms now only work when equipped into a Trinkets slot
+- Tools are no longer replaced before breaking
+- Potion Charms can be equipped in either Charm slot
+- Separated boss strength from dimension difficulty for many bosses, like the Wither. Instead of 300 hp in some areas and 15000 hp in others, it will be around 1200hp in most areas (depends on difficulty and player amount).
+- Buffed some incredibly weak bosses, like those from Archon, Graveyard, and Soulslike Weaponry
+- Mob displayed level adjusted slightly to more accurately reflect mob strength
+- Capped Magic Protection max level at 5 due to the new protection exclusivity changes
+- Higher Protection levels available from high level Zenith enchanting setups (some still exclusive to structures)
+- Lowered the effectiveness of Knowledge Potions/Knowledge Charms (300%-600% > 200%-400% experience gain)
+- Increased find rate of MC Dungeons Weapons in chests
+- Shipped ModernFix's upgraded structure files to reduce log spam and improve performance
+- Increased the base rate of MC Dungeons Weapons loot, but kept the amount of bonus rolls with high luck low. This allows for more interesting weapons early game, without them being common in the late game.
+- End Structory Towers have City Treasure loot again since loot attribute bonuses aren't scaled multiple times
+- Bastion Remnants now spawn more varied loot
+- Fixed 3d crafting tables not applying for some blocks
+- Fixed glass connected texture issues
+- Fixed wandering traders spawning underground
+- Fixed ore to stone consistency for many modded ores
+- Fixed some mobs not having their damage dealt scaled
+- Fixed formatting of warning on LAN screen
+- Fixed some mobs and bosses unintentionally being scaled astronomically high
+- Fixed mob damage not scaling properly in RPGDifficulty
+- Fixed players being affected by difficulty modifiers
+- Blacklisted more weapons from Spell Engine casting to fix compatibility issues
+- Removed Complementary Shaders in favor of Complementary Reimagined
+- Removed Mythic mobs guidebook given on world start
+- Removed datapacks that are no longer necessary due to the Medieval Origins Revival mod
+- Removed the broken 1337 fleece recipe
+- Removed the empty YIGD scroll recipe
+- Removed blank Better Nether grinder recipe
+- Removed the Sculk Snapper quest
+- Disabled Spell Power's Magic Protection enchant in favor of Bewitchment's
+- Disabled Spell Power's magic protection in Spell Power config to ensure no duplicates
+- Disabled scarecrow structures from spawning due to high spawn rates and the blocks they consist of
+- Disabled grindstone enchantment extraction for balancing reasons, as Zenith lets you extract enchants
+- Disabled ImmediatelyFast fastbufferupload for better performance on some machines
+- Disabled Simply Swords guide book being given on world start
+- Disabled the ModMenu update checker
+
+Updates:
+- Added 30 new structures (Wabi-Sabi Structures)
+- Added Water Dweller power for origins like Merling, which restores thirst meter while underwater (Origins EnvironmentZ Dehydration Patch)
+- Added the Charismatic power to Bards, which makes nearby players move faster and heal faster (RPG Origins)
+- Added many new features for shader developers, allowing shaders to use new 
+- Added the Pure power to Clerics, which makes them unable to naturally heal in The Nether (RPG Origins)
+- Added the One With the World power to Clerics, which reverts insomnia when exposed to the sun (RPG Origins)
+- Added the Weak power to Thiefs, which makes them take longer to heal when at five health points or under (RPG Origins)
+- Added enchantment module parity with Apotheosis. This means new bookshelves and different progression (Zenith)
+- Added support for several new mods, which makes the creative inventory look much more appealing (Mei's Stoneborn Additions)
+- Added Wine Racks for big sized Bottles (Vinery)
+- Added missing blocks for the Prison Stone and Putrid Wood set (Mine Cells)
+- Added crimson variant of kelp and seagrass (Nether Depths Upgrade)
+- Added advancements (Nether Depths Upgrade)
+- Added Divine Smite, a new spell-attack that can be applied on Paladins weapons (Spellblades and Such)
+- Added a new portal room in the Promenade of The Condemned, tweaked all old portal rooms (Mine Cells)
+- Added a new Overworld Portal structure that takes you to the Prisoners' Quarters! Has a chance to spawn an enemy not seen before in survival - the Inquisitor (Mine Cells)
+- Added most items to be usable as furnace fuel (Another Furniture)
+- Added sounds for rope sliding and water suds (Supplementaries)
+- Added some more modded biomes to existing biome tags for various newish structures (Wabi-Sabi Structures)
+- Added Wither Potion (Nether Depths Upgrade)
+- Added red falling leaf particles to Promenade (Mine Cells)
+- Added furniture hammer recipe (Another Furniture)
+- Added sound on planting flowers in the flower tub (Supplementaries)
+- Added sound on planting corals in the aquarium (Supplementaries)
+- Added Glowing Potion (Nether Depths Upgrade)
+- Added Potion of the Steadfast Trader (Nether Depths Upgrade)
+- Replaced circular dimension portals with Doorways that can be broken, crafted and placed in the Overworld (Mine Cells)
+- The dimensions are now divided into 1024x1024 areas, which cannot be crossed (Mine Cells)
+- 1 -> 2.5 mana per intelligence point (ArchonEX)
+- You can now create a dormant portal to the Glass Ocean by right clicking on air with a Hexblade (Spellblades and Such)
+- Buffed the constitution skill (BalanceEX)
+- Nerfed the requirements of several Queen Desire advancements to make it less grindy (The Bumblezone)
+- Magic Missile has been reworked to be an extremely reliable spell for both single target and AOE (Spellblades and Such)
+- Gloves are not needed anymore in order to craft the Winemaker Apron (Vinery)
+- Blazefish can be fished when in fortress (Nether Depths Upgrade)
+- Automatons now drop Gear item upon death (Mythic Mobs)
+- Improved wildfire visuals (Friends & Foes)
+- Adjusted texture on one Trans Bumble Bee armor variant to make it more distinct (The Bumblezone) (dev note: based)
+- Adjusted texture for one Honey Bee Leggings to make it more distinct from the other variant (The Bumblezone)
+- Many Bumblezone Music Discs now shows a link to where one can buy the song as part of the item's tooltip (The Bumblezone)
+- A compass now guided you to the entry of your current dimension and area (Mine Cells)
+- Overhauled structure generation in the Promenade (Mine Cells)
+- Crystalline Flower now takes slightly more than 100 XP to get to tier 2 so consuming enchanted books cannot be infinitely recycled for infinite Honey Crystal Shards (The Bumblezone)
+- Improved performance on views lookup for ~20% (Roughly Enough Items)
+- Insufferable Crypt now leads back to the Overworld. The arena is also closed off by two doors that are locked until you kill the boss (Mine Cells)
+- Improved the look of the Conjunctivius' Tentacle swinging animaion (Mine Cells)
+- All seat blocks now emit a comparator signal of 15 when sat in (Another Furniture)
+- Made Not The Smartest only remove 35% of XP instead of 50% (RPG Origins)
+- A tooltip is shown that tells you if you have already visited the Prisoners' Quarters in the area you're in (Mine Cells)
+- Curtains now connect similar to shelves and planter boxes, making it much easier to join them together (Another Furniture)
+- Curtains have been overhauled to look more vanilla-esque, and therefore no longer have an animated model (Another Furniture)
+- Made the Feel The Goat Horn Bard ability give Regeneration 2 instead of 1 (RPG Origins)
+- Shutters can now be interacted though specific blocks, such as glass blocks, panes, and fences (Another Furniture)
+- Shutters now open all of their connected counterparts when powered by redstone, rather than only itself (Another Furniture)
+- Made Crimson and Warped Kelp/Seagrass more common in their respective biomes (Nether Depths Upgrade)
+- Renamed Not The Strongest to Untrained (RPG Origins)
+- Improved the recipe for soap (Supplementaries)
+- Stools can now be hammered to lower them by 1 pixel, to help you match them with sofas in builds (Another Furniture)
+- Non-players can now sit in seats! Either make them walk on top of the seat or right-click the block with a leashed mob and they will sit on the block. Right-click the seat again to eject them (Another Furniture)
+- Elevators can now be powered with hidden redstone (Mine Cells)
+- Adjusted rarities for a bunch of structures (Wabi-Sabi Structures)
+- Each set item of the Winemaker set now loses 2% durability after using the set bonus (Vinery)
+- Magic protection buffed to be more symmetric to armor (BalanceEX)
+- Fruits and drinks from Promenade, Vinery and Meadow are now more compatible with origins (Dehydration Expanded Drinks)
+- Simplified the code for registering fuels, it should now automatically register any short and tall doors as fuel that meet the two criteria: wooden and not flammable (Dramatic Doors)
+- Spawner runes have been reworked. They are now entities, so after they're activated you can place blocks at their position (Mine Cells)
+- Average for % spell power relics decreased from 15-50% -> 15-45% (BalanceEX)
+- Removed unused generic loot table that caused errors in console (Wabi-Sabi Structures)
+- Anyone can now drink Rat Poison, Lean, and Mobilk-1 (Origins Expanded Food)
+- Ctrl+F now works outside edit mode to search for quests (FTB Quests)
+- Damage bonuses are now percent-based for better mod compatibility and balance (BalanceEX)
+- Ducks now only breed with fish (Naturalist)
+- Underground structures that spawn in water now attempt to force source blocks and reduce weird air pockets (Wabi-Sabi Structures)
+- All Marine Observation Hub Barrels now have loot, but the amount of loot in each is drastically reduced (Wabi-Sabi Structures)
+- Slightly modified design of the sphinx in Sphinx Hidey Hole (Wabi-Sabi Structures)
+- Reduced the amount of Candles that generate in Candlemaker House (Wabi-Sabi Structures)
+- Improved mod compatibility (RightClickHarvest)
+- Lions, Rhinos, and Elephants now only attack Players if they attack their baby or themselves (Naturalist)
+- Birds now emit Note Block particles when their ambient noise plays, and they do not make ambient noises at night (Naturalist)
+- Fireflies now spawn in small groups across the Overworld (Naturalist)
+- Savanna mobs now spawn more regularly (Naturalist)
+- Renamed “Grizzly Bear” to “Brown Bear” (Naturalist)
+- Hippos spawn more often, mostly near water sources (Naturalist)
+- Many performance improvements, fixed lag on low end machines (ImmediatelyFast)
+- Many performance and stabiilty improvements when using shaders (Iris Shaders)
+- Many performance and stabiilty improvements related to loading times and memory usage (ModernFix)
+- Updated all mods
+
+Fixes:
+- Difficulty modifiers being applied to players (Dungeon Difficulty)
+- Swamp village crash (Overhauled Villages)
+- Memory leak (Magnum Torch)
+- Scaled passenger riding offsets (Pekhui)
+- Elemental Specialization level-up key hover descriptions (BalanceEX)
+- Crash when language is set to Turkish (JamLib)
+- Protection against random crashes caused by UI (Spell Engine)
+- Players sometimes disconnecting when using a GUI function (Vinery)
+- Egg hatching subtitles (Naturalist)
+- Drake sounds (Mythic Mobs)
+- Mountains Village not spawning Villagers (Repurposed Structures)
+- Irregular lag spikes when GPU is under heavy load (ImmediatelyFast)
+- Fast buffer upload freezing in some cases on Intel iGPUs (ImmediatelyFast)
+- Color of potion icons in Bumblezone advancements (The Bumblezone)
+- Shroomlights being mistaken for leaves (Ht's Treechop)
+- Planter box cullfacing issues when a solid block is above it (Another Furniture)
+- Mipmap warnings from table supports (Another Furniture)
+- Duplication bug with Crafting Terminal (Toms Simple Storage)
+- Pings not clearing when switching worlds or dimensions (Ping Wheel)
+- Crash due to trying to process cape textures (Chat Heads)
+- Mud drying in incorrect biomes (Immersive Weathering)
+- Saplings drying in incorrect biomes (Immersive Weathering)
+- Snowy and sandy wall models being broken (Immersive Weathering)
+- Bonemealing hanging roots being able to break any block (Immersive Weathering)
+- Wall-hanging Roots not being waterloggable (Immersive Weathering)
+- Weeds dropping wheat (Immersive Weathering)
+- Some items not being compostable (Immersive Weathering)
+- Inconsistencies with block charring and ash (Immersive Weathering)
+- Sled textures (Snowy Spirit)
+- Old Tiny House having multiple Armor Stands instead of one (Wabi-Sabi Structures)
+- Fixed a crash (Guard Villagers)
+- Steeleaf knife recipe (Farmers Knives)
+- Random crashes (Journeymap Integration)
+- Heads of mobs that would grow with shaders or when the game is paused (Naturalist)
+- Broken window icon and title, which could cause crashes (FancyMenu)
+- Many fixes and compatibility improvements (Cultural Delights)
+- Many fixes and optimizations (HT's TreeChop)
+- Many fixes (Brewin And Chewin)
+- Many fixes (Iris Shaders)
+
+Special thanks to:
+MuonR for contributing datapacks, configs and much more
+TheWinABagel for forking Decorative Blocks & maintaining Zenith
+Grongleset for reporting bugs & being cool
+SideralisMusic for creating the awesome video overview of all of the changes (https://www.youtube.com/watch?v=DpvsCt1U_Bg)
+Forg for contributing configs
