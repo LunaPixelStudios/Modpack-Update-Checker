@@ -1,0 +1,76 @@
+[Performance Update]
+
+Mods:
++ Added Equipable Twilight Forest Charms (by MemeMan)
++ Added Cataclysm Boss Bar (by potatoboy)
++ Added MemoryLeakFix (by fxmorin)
++ Added oPotato (by potatoboy)
++ Added Amber (by HellishMods)
++ Added Bobby (by DerekInc)
++ Added Radon (by Asek3)
++ Added Better End Cities (by TheArchitects777)
++ Added Smooth Chunk Save (by someaddon)
++ Added Memory Settings (by someaddon)
++ Added Modpack Update Checker (by jab125)
++ Added RenderTypeCache (by potatoboy)
++ Added Fullstack Watchdog (by telepathicgrunt)
++ Added Chunk Sending (by someaddon)
++ Added DespawnTweaker (by potatoboy)
++ Added Better FPS Render Distance (by someaddon)
++ Added Goal Optimizer (by potatoboy)
++ Added Client Crafting (by someaddon)
++ Added Redirectionor (by potatoboy)
++ Added Rapid Leaf Decay (by GeheimagentNr1)
+- Removed Entity Collision FPS Fix (Replaced)
+- Removed Starlight (Caused fullbright in caves)
+- Removed Fast Leaf Decay (Replaced, caused deadlock when leaving worlds)
+- Removed Smooth Boot (Replaced)
+- Removed Let Me Despawn (Replaced)
+- Removed Saturn (Replaced)
+- Removed Jade (Replaced)
+
+Configs:
+- Enabled ModernFix Dynamic Resources, cutting overall memory usage in half. Please report missing or bugged textures on Discord or Github
+- Enabled Always Defer Chunk Updates for much faster chunk loading
+- Re-enabled ModernFix's async locator, as the end portal bug is now fixed
+- Reworked Twilight Forest quests
+- Modified the Xaeros Minimap compass to be more readable
+- Mimicream can no longer be used to duplicate items
+- Some items can no longer be uncrafted for balancing reasons
+- Replaced Complementary Shaders with Complementary Reimagined
+- Shipped ModernFix upgraded structures with the modpack for better chunk loading performance and less logspam
+- Whitelisted vanilla hostile mobs in the DoesPotatoTick config, so most mob farms will work the same as they do in vanilla
+- Restored Recipe Book functionality at the cost of performance
+- Removed extra Alex's Mobs guidebook from tutorial
+- Disabled Forge version checking
+
+Updates:
+- Added vertical slabs for each slab (Bygone Nether)
+- Added compatibility with Quark Mod (Bygone Nether)
+- Added a new info display for chunk coordinates (Xaeros Minimap)
+- Added a new type of waypoints that automatically disappear when reached (Xaeros Minimap)
+- Added a new new info display for the real world time (Xaeros Minimap)
+- Nerfed Ancient Debris generation in Catacombs (Bygone Nether)
+- Hundreds of optimizations, fixes, and stability improvements (ModernFix)
+- Massive improvements to performance (Rubidium)
+- Massive improvements to performance (DoesPotatoTick)
+- Minor performance improvements (Magnesium/Rubidium Extra: Potato Edition)
+- Fluids will now continue ticking even when you're far away, as otherwise waterfalls & cobble generators break (DoesPotatoTick)
+- Replaced the Display Y radar option with Display Height that has many modes now (Xaeros Minimap)
+- Simplified entity height display on radar (Xaeros Minimap)
+
+Fixes:
+- Duplication issue related to backpack inventory staying open (Backpacked)
+- Broken end sky (Better End: Potato Edition)
+- Oh The Biomes You'll Go biome generation issue (Better End: Potato Edition)
+- Blackstone and soul stone blob errors (Bygone Nether) 
+- Some instances of icons not rendering for some mobs (Xaeros Minimap)
+- Broken custom window title and icon that could lead to a crash (FancyMenu)
+- Bosses from some mods not being excluded, causing them to stop moving at a certain distance (DoesPotatoTick)
+- Snow layers generating under ferns, causing them to float (Snow Real Magic: Potato Edition)
+- "Bad Access To Protected Data" bug/crash (FancyMenu)
+- Crash for other players when certain entities were carried (CarryOn)
+- Multiplayer tooltips (Serene Seasons)
+- Shaderpacks and donation buttons overlapping (Textrue's Rubidium Options)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
