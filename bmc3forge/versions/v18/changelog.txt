@@ -123,5 +123,5 @@ Fixes:
 - Bug fixes and performance improvements related to the Cutting Board (Farmers Delight)
 - Many fixes (Entity Model Features)
 - Many fixes (Xaeros Minimap)
- 
+
 AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
