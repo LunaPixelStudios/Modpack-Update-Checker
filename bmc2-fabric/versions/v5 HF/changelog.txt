@@ -1,0 +1,38 @@
+[1.20.1 Update]
+
+PLEASE NOTE THAT ITEMS FROM THE AdventureZ & VoidZ MODS WILL BE REMOVED IF YOU UPDATE FROM AN EXISTING WORLD. AdventureZ & VoidZ will be ported to 1.20.1 in the next modpack update.
+
+HotFix:
+- Fixed Datapacks not Loading
+
+Mods:
++ Added Advanced Netherite (Fabric) (by AutovwDev)
++ Added Farmer's Delight [Fabric] (by NewHoryzon)
++ Added Structory (by botanydev)
++ Added  Structory: Towers (by botanydev)
++ Added Bountiful (Fabric) (by Ejektaflex)
++ Added Fastload (by StockiesLad)
++ Added Repurposed Structures - Friends and Foes Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - VillagerPlus Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Bountiful Compat Datapack (by telepathicgrunt)
++ Added Carry On (by Tschipp)
++ Added XaeroPlus (by CoinRS)
++ Added Global Packs (by JTK222)
++ Added BisectHosting Server Integration Menu [FABRIC] (by BisectHosting)
+- Removed AdventureZ (Not yet available for 1.20.1)
+- Removed VoidZ (Not yet available for 1.20.1)
+- Removed Tool Stats (Not yet available for 1.20.1)
+- Removed TalkBubbles (Not yet available for 1.20.1)
+- Removed Tips (Not yet available for 1.20.1)
+- Removed Enchantment Descriptions (Not yet available for 1.20.1)
+- Removed LazyDFU (Unnecessary)
+- Removed Carrier (Replaced)
+- Removed Open Loader (Replaced)
+
+Configs:
+- Blacklisted some things from being carried for balance and stability
+
+Updates:
+- Updated all mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

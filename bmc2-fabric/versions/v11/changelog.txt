@@ -1,0 +1,40 @@
+[Features Update]
+
+Mods:
+- Added Nature's Spirit (by Team_Hibiscus)
+- Added Luna (by LunaPixelStudios)
+- Added Controlify (by XanderIsDev)
+- Added Vivecraft (by Ferri_Arnus)
+- Added way2wayfabric (by jb_ramsay)
+- Added Auto Third Person (by quat)
+- Added Biome Music[Forge/Fabric] (by someaddon)
+- Added Recipe Essentials[Forge/Fabric] (by someaddon)
+- Added Cull Less Leaves (by XanderIsDev)
+- Added Server Country Flags (by khajiitos)
+
+Configs:
+- Updated Resource Pack Overrides Config to add new Updated Mandala's GUI Resource Pack
+- Enabled Bisect Public Servers in Multiplayer
+- Disabled Xaero's Beacons
+
+Updates:
+- Added 4 New Structures (Philip's Ruins)
+- Added warning for offthread entity add and add them later onthread (Cupboard)
+- Added support for Deeper & Darker (Variant Crafting Tables)
+- Added a little bit of archeology to Ocean Temples (Repurposed Structures)
+
+Fixes:
+- Blaze guardian shields on summon (AdventureZ)
+- Patchouli book (AdventureZ)
+- Crash when getting item from Trinkets slot (Backpacked)
+- Hoppers ignoring banned items (Backpacked)
+- Shelves not placing against the clicked face (Backpacked)
+- Placement issues (Carry On)
+- Goblins not despawning (Goblin Traders)
+- Equipment slot crash (Redirectionor)
+- Server side crash (Redirectionor)
+- Crash due to typo in Swamp Village Butcher Shop 2 piece (Repurposed Structures)
+- Elytra flight in void (VoidZ)
+- Mobs not rendering in jars (Supplementaries)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

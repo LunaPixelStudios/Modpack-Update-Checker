@@ -1,0 +1,58 @@
+[Content & Performance Update]
+
+Mods:
++ Added AdventureZ (by Globox_Z)
++ Added VoidZ (by Globox_Z)
++ Added AdventureZ Netherite Fix (by MuonR)
++ Added Item Highlighter [Fabric] (by Grend_G)
++ Added Better chunk loading[Forge/Fabric] (by someaddon)
++ Added Keybind Fix (by fzzyhmstrs)
++ Added Crawl (Fabric) (by fewizz_)
++ Added DeepslateCutting (by NoComment1105)
++ Added Fabric Seasons: Delight Compat (by D4rkness_King)
++ Added Better Compatibility Checker (by Gaz_)
++ Added  Farsight [Fabric] (by someaddon)
+- Removed Bobby (Temporarily removed, incompatible with Sodium update)
+
+Configs:
+- Enabled the Sodium Extras Multi-Fog sliders
+- Re-enabled Snow Real Magic retainOriginalBlocks
+- Bound Crawl to Left Alt
+- Disabled tooltip debug message in chat when creating/joining new worlds
+- Disabled Additional Structures & Explorations scarecrows
+
+Updates:
+- Chunk loading is now 40-60% faster (Sodium)
+- Memory allocation rate while loading the geometry for new chunks has been decreased by around 80% (Sodium)
+- Occlusion culling is anywhere from 25-45% faster now (Sodium)
+- Terrain rendering now uses shared index buffers which can reduce video memory bandwidth/usage requirements by up to 25% (Sodium)
+- Certain NVIDIA graphics cards will have 200-300% better performance (Sodium)
+- Many other major improvements to stability and performance (Sodium)
+- Added 2 new structures (Philip's Ruins)
+- Added particle effect when breaking block in shiftdown mode (Falling Tree)
+- Added a live zoom preview to most of the Zoomify settings (Zoomify)
+- Updated Horse Speed to correct value (Jade)
+- Added Trinkets compatibility (Supplementaries)
+- Added quiver keybind (Supplementaries)
+- Optimized transparent minimap background rendering (XaeroPlus)
+- Text in progress element i snow easier to see in light color scheme (Jade)
+- Pitch is no longer displayed if a noteblock is not tunable (Jade)
+
+Fixes:
+- Massive lag on some hardware (ImmediatelyFast)
+- Crashes when viewing some blocks such as signs (Puzzles Lib)
+- An incompatibility with the Night Config Fixes mod (Forge Config Screens)
+- Steeleaf knife recipe (Farmers Knives)
+- Netherite door sounds (Supplementaries)
+- Creative tabs (Supplementaries)
+- Jar rendering (Supplementaries)
+- EnumProperty-related crashes (Redirectionior)
+- Feature order cycle crash (Cultural Delights)
+- Cryomarble tools not being craftable (Winterly)
+- Juicer recipe parse error (Expanded Delight)
+- Juicer and Mortar & Pestle placement crash (Expanded Delight)
+- Many performance and stability improvements (ImmediatelyFast)
+- Many performance and stability improvements (ModernFix)
+- Many fixes (Continuity)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

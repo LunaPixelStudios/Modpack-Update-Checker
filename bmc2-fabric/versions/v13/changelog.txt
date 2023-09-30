@@ -1,0 +1,54 @@
+[Quests & Better End Island Update]
+
+Mods:
+- Added YUNG's Better End Island (Fabric) (by YUNGNICKYOUNG)
+- Added FTB Quests (Fabric) (by FTB)
+- Added FTB Teams (Fabric) (by FTB)
+- Added Inmis (by Draylar1)
+- Added InmisAddon (by Globox_Z)
+- Added Chef's Delight [Fabric] (by redstone3game)
+- Added SuperBetterGrass (by dimadencep)
+- Added Paxi (Fabric) (by YUNGNICKYOUNG)
+- Removed Open Loader (Replaced)
+
+Configs:
+- Blacklisted Universal Graves for Carry On
+
+Updates:
+- Various minor optimizations and code cleanups (Entity Model Features)
+- Large rework, reimplementation, and internalisation of animation code and model variant checking (Entity Model Features)
+- Block entities fully supported (Entity Model Features)
+- Added support for render variables in animations (Entity Model Features)
+- Expanded animation model variable support to block entities, seemingly matching OptiFines output for these (Entity Model Features)
+- Leaving the config screen now only triggers a resource reload if a setting has been changed (Entity Model Features)
+- Mushroom houses added (Additional Structures)
+- Obsidian trees added (Additional Structures)
+- Suspicious sand patches added (Additional Structures)
+- Suspicious gravel patches added (Additional Structures)
+- Villager statues added (Additional Structures)
+- Pyramid dungeon overhaul (Additional Structures)
+- Spawn overrides to some structures added (Additional Structures)
+- Significantly improved performance of the processor I use for adding archeology to structures (Repurposed Structures)
+- Added archeology to Jungle Monuments (Repurposed Structures)
+- 3 New Lava Ruin Strucutres (Philip's Ruins)
+- A new Ghast boss (Philip's Ruins)
+- Added Altimeter (Supplementaries)
+- Added Slice maps (Supplementaries)
+
+Fixes:
+- Dupe with Grindstone (Guard Villagers)
+- Dynamic Lights not working (LambDynamicLights)
+- All occurrences of animation de-sync and fixing animations for all modded/replaced entities/models and block entities (Entity Model Features)
+- Should no longer cause `part not found` crashes or model failures (Entity Model Features)
+- Various stability fixes to model variants including texture support (Entity Model Features)
+- Countless fixes caused by the previous beta not having OptiFine parity (Entity Model Features)
+- Mauler related crash (Friends&Foes)
+- Issue with shapeless recipe generation (Supplementaries & Moonlight)
+
+To use YUNG's Better End Island on existing worlds either reset the End dimension or run the /end_island reset command.
+
+=====================>
+Using this command while in the End will attempt to reset the dragon fight back to its initial state and replace any previous portal/pillars with the redesigned versions. But this command attempts some major things behind the scenes, so please back up your world before trying!
+=====================>
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

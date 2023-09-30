@@ -1,0 +1,45 @@
+[Content Update]
+
+Mods:
++ Added Explorify – Dungeons & Structures (by bebebea_loste)
++ Added Hearths (by bebebea_loste)
++ Added Frostiful (by TheDeathlyCow)
++ Added Snow! Real Magic! ⛄ (Fabric) (by Snownee_)
++ Added Additional Structures (Fabric/Quilt) (by XxRexRaptorxX)
++ Added Better Tridents (by Fuzs)
++ Added Friends&Foes - Beekeeper Hut (Fabric) (by faboslav)
++ Added Polymorph (Fabric/Forge/Quilt) (by TheIllusiveC4)
++ Added Smarter Farmers (farmers replant) (by MehVahdJukaar)
++ Added More Culling (by fxmorin)
++ Added MemoryLeakFix (by fxmorin)
++ Added LazyDFU (by tuxed)
++ Added fix GPU memory leak[Forge/Fabric] (by someaddon)
++ Added Language Reload (by Jerozgen)
++ Added Better Mount HUD (by Lortseam_)
++ Added Model Gap Fix (by MehVahdJukaar)
++ Added No Chat Reports (by Aizistral)
++ Added MixinTrace (by comp500)
++ Added StackDeobfuscator (by booky10)
++ Added AttributeFix (by DarkhaxDev)
++ Added Resource Pack Overrides [Forge & Fabric] (by Fuzs)
++ Added Night Config Fixes [Forge & Fabric] (by Fuzs)
++ Added Transparent (by Trikzon)
+- Removed Cull Less Leaves (Replaced)
+
+Configs:
+- Re-enabled BlastSearchTrees to improve loading times and ram usage
+- Added a tooltip to the Performance Guide button on the main menu
+- Unbound the Social Interactions Screen
+
+Updates:
+- Added two new structures (Philip's Ruins)
+- Greatly improved tick speed (Neurina)
+- Updated all mods
+
+Fixes:
+- Experience values not being set when using a spawn egg (Clumps)
+- Dark Amaranth biomes won't generate correctly (Promenade)
+- Acacia Beehive not dropping (Friends & Foes)
+- Waxed Oxidized Copper Button position in the creative inventory (Friends & Foes)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

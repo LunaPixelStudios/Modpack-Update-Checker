@@ -1,0 +1,17 @@
+[Minor Update]
+
+Updates:
+- Added archeology to Jungle Fortress (Repurposed Structures)
+- Added the ability for vertical slabs to connect to glass panes when facing the same direction (AutoSlabs)
+- Disabled the right click menu from opening upward, as it was confusing (Xaeros Minimap)
+
+Fixes:
+- Fixed crash when joining servers (Moonlight Lib)
+- Duplication bug when sneaking while breaking single slab (AutoSlabs)
+- Chunks not rendering in front of the player when using mods that disable fog effects (Sodium)
+- Crash that could occur when mods make use of NIO channels on the chunk meshing threads (Sodium)
+- Crash with plaque screens (Supplementaries Squared)
+- Some mods causing the map to open at 0 0 instead of the player's position (Xaeros Minimap)
+- Improved performance and reduced disk space usage (Xaeros Minimap)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

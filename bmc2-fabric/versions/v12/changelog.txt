@@ -1,0 +1,29 @@
+[YUNG's Mods Update]
+
+Mods:
+- Added YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Nether Fortresses (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Witch Huts (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Bridges (Fabric) (by YUNGNICKYOUNG)
+
+Configs:
+- Backpacks now have 4 rows of Inventory
+
+Updates:
+- OptiFine CEM appears to be officially solved in EMF and seems to be fully working for almost every single use case (Entity Model Features)
+- Ensure that setting a double slab in water sets the waterlogged property to false like Vanilla Minecraft (AutoSlabs)
+
+Fixes:
+- Various stability fixes to model variants including texture support (Entity Model Features)
+- Forge crash & performance boosts (Entity Model Features)
+- Bug where slabs have no block placement animation or sounds (AutoSlabs)
+- A nissue with dynamic pack root resources (Moonlight Lib)
+- Crash on recipe book disable (Recipe Essentials)
+- An issue where entities would not have their passive temperature changes properly calculated while riding a vehicle (Thermoo)
+
+Quests coming next update!
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

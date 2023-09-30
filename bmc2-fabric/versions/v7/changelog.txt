@@ -1,0 +1,34 @@
+[Illager Update]
+
+Mods:
++ Added Illager Invasion [Forge & Fabric] (by Fuzs)
++ Added Paintings ++ (by AbsolemJackdaw)
++ Added Expanded Delight [Fabric] (by ianm1647)
++ Added Farmer's Knives [Fabric] (by ianm1647)
++ Added TalkBubbles (by Globox_Z)
++ Added Redirectionor (by pOtAto__bOy)
++ Added Open Loader (by DarkhaxDev)
+- Removed Global Packs (Curseforge bug/new feature(?) is preventing us from properly adding datapacks via this mod)
+
+Configs:
+- Enabled ModernFix Dynamic Resources, cutting overall memory usage in half. Please report missing or bugged textures on Discord or Github
+- Updated the Memory Settings config to recommend much lower RAM amounts. It is recommended for the average user to allocate around 3-4 gigabytes
+- Modified the Xaeros Minimap compass to be more readable
+- Fixed Discord rich presence
+Updates:
+- Added 2 new structures (Philip's Ruins)
+- City Spawners will now spawn WitherSkeletons equipped with Cincinnasite Gear (BetterNether)
+- Rebalanced strength of different blocks (BetterNether)
+- Horticulturist will sell cherry saplings and leaves (VillagersPlus)
+- Flower tubs will hold new plants (VillagersPlus)
+- Waypoint beacons not in field of view are no longer rendered (XaeroPlus)
+
+Fixes:
+- An occasional crash when reloading resources (Diagonal Fences)
+- Exception when opping/deopping offline players (Open Parties & Claims)
+- Pings not clearing when switching worlds or dimensions (Ping Wheel)
+- Ghost waypoint beacon present after deleting all waypoints (XaeroPlus)
+- Many performance and stability improvements (ModernFix)
+- Many fixes (Continuity)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

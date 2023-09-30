@@ -1,0 +1,44 @@
+[Content Update]
+
+Mods:
+- Added Deeper and Darker (by KyaniteMods)
+- Added Goblin Traders [Fabric] (by MrCrayfish)
+- Added XP Storage (by sfinc)
+- Added XP Storage - Trinkets (by sfinc)
+- Added Tom's Trading Network (by tom54541)
+- Added Every Compat (Wood Good) (by MehVahdJukaar)
+
+
+Updates:
+- Added back support for JourneyMap [Fixes crashes when both mods are installed] (Fabric Waystones)
+- Added icon for free waystone cost (Fabric Waystones)
+- Added bamboo beehive (Friends&Foes)
+- Added 2 new structures (Philip's Ruins)
+- Added Cherry Village to floral biomes of any kind!  (Repurposed Structures)
+- Added Bamboo Village to bamboo biomes!  (Repurposed Structures)
+- Added archeology to Jungle Fortress (Repurposed Structures)
+
+Fixes:
+- Irregular lag spikes when GPU is under heavy load (ImmediatelyFast)
+- Fast buffer upload freezing in some cases on Intel iGPUs (ImmediatelyFast)
+- Crash issue on dedicated servers and log spam when placing slabs next to glass panes (AutoSlabs)
+- Blockstate desync issue where placing a slab would occasionally flicker the proper placement and then snap to an incorrect one (AutoSlabs)
+- Critical bug with armour trim textures not resolving correctly on modded armour (Dynamic Trim)
+- Global waystones still being shown when toggled off in the ingame waystone config (Fabric Waystones)
+- Free waystones displaying the wrong cost (Fabric Waystones)
+- Occasional crash when alchemists are spawned in a structure during world generation (Illager Invasion)
+- Billagers not fleeing from new illager enemies (Illager Invasion)
+- Endurance trim doubling the rate at which food is drained instead of cutting it in half (Illager Invasion)
+- Crash upon opening Mod Setting (Jade)
+- Possibly fixed an issue concerning wood types (Every Compat)
+- Compass spinning when player's yaw goes from positive to negative or vice versa (Nature's Compass)
+- Server hang and eventual crash that occurred when using the compass to teleport to coordinates with no blocks to stand on (Nature's Compass)
+- Search bar focus bug for Sodium (Reese's Sodium Options)
+- Fixed zombie Birch, Mountains, and Oak Villages not having any Zombie Villagers (Repurposed Structures)
+- Crash with present screen (Supplementaries)
+- Crash with overencumbered effect (Supplementaries)
+- Issue where sometimes some chunks stayed loaded too long (Better chunk loading)
+- Quiver not working in offhand (Supplementaries)
+- Many Fixes (ModernFix)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

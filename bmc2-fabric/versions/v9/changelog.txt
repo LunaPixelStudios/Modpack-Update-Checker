@@ -1,0 +1,64 @@
+[Backpack Update]
+FABRIC LOADER IS NOW 0.14.22
+
+Mods:
++ Added Backpacked (Fabric) (by MrCrayfish)
++ Added AutoSlabs (by Andrew6rant)
++ Added Supplementaries Squared (by plantspookable)
++ Added Decorative Blocks (Fork) (by TheWinABagel)
++ Added Dynamic Trim (by Andrew6rant)
++ Added Better Trim Tooltips (by Andrew6rant)
++ Added Fix Experience Bug (now with FABRIC and FORGE versions) (by MacTso)
++ Added Bobby (by Johni0702)
++ Added Fast Paintings (by MehVahdJukaar)
++ Added Hidden Recipe Book (by Serilum)
++ Added Load My F***ing Tags (by Blodhgrm)
+- Removed Farsight (Replaced)
+
+Configs:
+- Ice near water now melts
+- Disabled passive freezing
+- Disabled torches breaking from wind
+
+Updates:
+- Reduced memory, CPU, GPU and bandwith usage by up to 20% (Sodium)
+- Added two new structures (Philips Ruins)
+- Added Cherry Village to floral biomes of any kind (Repurposed Structures)
+- Added Bamboo Village to bamboo biomes (Repurposed Structures)
+- Added Cherry Well to floral biomes of any kind (Repurposed Structures)
+- Added sound on planting flowers in the flower tub (VillagersPlus)
+- Added sound on planting corals in the aquarium (VillagersPlus)
+- Increased mineshaft elevator spawn frequency (Supplementaries)
+- Improved compatibility with Farmers Delight (Supplementaries)
+- Jars can now hold 12 different cookies at the same time (Supplementaries)
+- Basalt ash patches can now spawn different height ash layers (Supplementaries)
+- Made it less likely for a picked up trident to delete an existing item in the inventory slot where it wants to go (Better Tridents)
+- Improved mod compatibility (RightClickHarvest)
+- Lowered skeleton quiver spawn chance (Supplementaries)
+- Reduced rate of Ocean Mineshafts a little bit (Repurposed Structures)
+- The focus behavior of the Video Settings screen has changed, and elements are now only focused if the keyboard is used, rather than on each mouse click (Sodium)
+- Many performance and stability improvements (ModernFix)
+
+Fixes:
+- Zombie Birch, Mountains, and Oak Villages not having any Zombie Villagers (Repurposed Structures)
+- Some surfaces not rendering when the player stands at certain positions (Sodium)
+- Basalt ash not spawning (Supplementaries)
+- Flower boxes not rendering double plants correctly (Supplementaries)
+- Crash with faucets (Supplementaries)
+- Necromancer summoning particles not rendering (Illager Invasion)
+- Basalt ash feature not using correct ashen basalt block below (Supplementaries)
+- Pancakes duplicating in jukeboxes (Supplementaries)
+- The "update your graphics drivers" message appearing even if the latest NVIDIA graphics drivers were installed on Windows (Sodium)
+- Grindstone duplication glitch (Guard Villagers)
+- Petals in flower boxes (Supplementaries)
+- The "Always Defer Chunk Updates" option (in "Video Settings > Performance") not working correctly (Sodium)
+- Sign shade not working for back face (Supplementaries)
+- Jar item being invisible (Supplementaries)
+- Mineshaft elevator sometimes spawning without pulley (Supplementaries)
+- Crash on lookup (Roughly Enough Items)
+- Broken speaker slider (Supplementaries)
+- Race condition that could cause sporadic crashes when other mods attempt to perform rendering off-thread (Sodium)
+- Issues with the Mixins configuration file which prevented other mods from disabling certain functionality (Sodium)
+- Many fixes and performance improvements (Jade)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

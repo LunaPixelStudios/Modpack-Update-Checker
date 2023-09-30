@@ -1,0 +1,24 @@
+[Bumblezone Update]
+
+Mods:
+- Added The Bumblezone (Quilt/Fabric) (by telepathicgrunt)
+- Added Snowy Spirit (by MehVahdJukaar)
+- Added Complementary Shaders - Reimagined (by EminGTR)
+
+Configs:
+- Added Seasonal Quests
+- Added Bumblezone Quests
+
+Updates:
+- Updated all structure files to 1.20.1 standards to prevent lag caused by DFU (All YUNG's Mods)
+
+Fixes:
+- Situational lag in v1.0 related to block entity rendering (Entity Model Features)
+- Server->Client desync when claiming rewards for repeatable quests (FTB Quests)
+- Custom map data not being sent to client correctly (Moonlight Lib)
+- Overhanging structures (Philip's Ruins)
+- The Lost soul dungeon from spawning at surface levels (Philip's Ruins)
+- Random crash from loading Philip's Ruins (Philip's Ruins)
+- Incorrect bounding box check that could rarely result in server deadlock (All YUNG's Mods)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

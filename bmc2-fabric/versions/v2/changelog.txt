@@ -1,0 +1,16 @@
+[Stability Update]
+
++ Added LambDynamicLights (by LambdAurora)
++ Added Chunk Sending[Forge/Fabric] (by someaddon)
++ Added Structure Essentials[Forge/Fabric] (by someaddon)
++ Added Loot Integrations[Forge/Fabric] (by someaddon)
++ Added Server Browser [Fabric/Forge] (by thethonk)
++ Added Better Advancements (by way2muchnoise)
++ Added Charm of Undying (Fabric/Forge/Quilt) (by TheIllusiveC4)
++ Added DEUF Refabricated (by ElocinDev)
++ Added Neruina - Ticking Entity Fixer (by bawnorton)
++ Added No See, No Tick (by Vishnu)
++ Added Nature's Compass (by Chaosyr)
++ Updated all the Mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

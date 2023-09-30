@@ -1,0 +1,26 @@
+[Content Update]
+
++ Added Promenade (by Hugman_76)
++ Added When Dungeons Arise - Fabric! (by Aureljz)
++ Added Universal Graves (by Patbox)
++ Added Guard Villagers (Fabric/Quilt) (by MrSterner_)
++ Added Universal Ores (Fabric) (by Hugman_76)
++ Added Explorations [Forge|Fabric] (by Buecher_wurm)
++ Added Twigs (by ninnih_)
++ Added Carrier (by GabrielHOlv)
++ Added Memory Settings[Forge/Fabric] (by someaddon)
++ Added Animatica (by FoundationGames)
++ Added Better Fps - Render Distance[Fabric] (by someaddon)
++ Added Elytra Slot (Fabric/Forge/Quilt) (by TheIllusiveC4)
++ Added Chat Heads (by dzwdz)
++ Added Zoomify (by XanderIsDev)
++ Added Farsight [Fabric] (by someaddon)
++ Added Void Totem (Fabric) (by Affehund)
++ Added TalkBubbles (by Globox_Z)
++ Added When Dungeons Arise - Loot Tweaks (by Aureljz)
++ Added When Dungeons Arise - No Flying Structures (by Aureljz)
++ Added When Dungeons Arise - Spacing Tweaks (by Aureljz)
+- Fixed Keybinds
++ Updated all the Mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

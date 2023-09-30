@@ -1,0 +1,17 @@
+[Minor Update]
+
+Mods:
+- Removed Diagonal Windows (Caused issues with Dynamic Resources)
+- Removed Diagonal Fences (Caused issues with Dynamic Resources)
+
+Updates:
+- Added 3 new structures (Philip's Ruins)
+- Added WorldMap support for changing cave mode settings while dimension switched (XaeroPlus)
+- Improved several vanilla descriptions (Enchantment Descriptions)
+
+Fixes:
+- Fixed lag on low-end computers (ImmediatelyFast)
+- Layered cave mapping below y=0 (XaeroPlus)
+- Many improvements to stability and performance (ModernFix)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

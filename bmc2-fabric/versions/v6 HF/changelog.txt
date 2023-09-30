@@ -1,0 +1,54 @@
+[QoL Update]
+
+HotFix
+- Fixed Torch Light Updates
+
+
+Mods:
++ Added Geophilic – Biome Overhauls (by bebebea_loste)
++ Added Variant Crafting Tables [Fabric/Quilt] (by XanthianZ)
++ Added Bobby (by Johni0702)
++ Added Tool Stats (by DarkhaxDev)
++ Added Cultural Delights [Fabric] (by MrSterner_)
++ Added Enchantment Descriptions (by DarkhaxDev)
++ Added Tips (by DarkhaxDev)
++ Added Farmer's Delight Tools Expanded (by MuonR)
++ Added Trinkets Offhand Glove Fix (by MuonR)
++ Added Patchouli (Fabric/Quilt) (by williewillus)
++ Added Rebind Narrator (by quat)
++ Added Client Crafting (by someaddon)
++ Added FullStack Watchdog (by telepathicgrunt)
+
+Configs:
+- Bound Mark Location to R
+- Bound Vein Mining to `
+- Unbound Player Interactions Screen
+- Unbound InventoryHUD overlay
+- Unbound Jade keybinds
+- Unbound Iris keybinds
+
+Updates:
+- Added Ice Skates that let you move faster on ice (Frostiful)
+- Added Frosty Armor Trim, rarely found in the Frostologer Castle (Frostiful)
+- Added 2 new structures (Philip's Ruins)
+- Fur and Fur Padded Chainmail Armor can now be trimmed (Frostiful)
+- Bounty boards now generate with a different look depending which village it generates in (Bountiful)
+- Items will once again show up in creative tabs (Bountiful)
+- Many fixes (ModernFix)
+- Updated all mods
+
+Fixes:
+- Basket block placement that wouldn't be facing up or down (Farmers Delight)
+- Crash due to trying to process cape textures (Chat Heads)
+- Speaker blocks not saving data (Supplementaries)
+- "IndexOutOfBoundsException" & "already building" crashes related to texture overrides in sub-models (Entity Model Features)
+- Duplication bug with Crafting Terminal (Toms Simple Storage)
+- Broken enchantment books that could be found in some structures (Explorations)
+- Faucet water color (Supplementaries)
+- Crash when raining (Supplementaries)
+- Notice board interactions (Supplementaries)
+- Banner patterns not rendering on notice boards (Supplementaries)
+- Cross-dimension waypoints beacon rendering position (XaeroPlus)
+- The "missing ops" cosmetic issue upon world load (Bountiful)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
