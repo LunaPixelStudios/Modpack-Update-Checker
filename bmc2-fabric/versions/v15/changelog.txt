@@ -1,0 +1,38 @@
+[Content Update]
+
+Mods:
+- Added Bygone Nether (Fabric) (by izofar)
+- Added Nether's Delight (Fabric) (by StevePlayzz_)
+- Added Villages&Pillages (by faboslav)
+- Added YUNG's Menu Tweaks (Fabric) (by YUNGNICKYOUNG)
+- Added Euphoria Patches (by SpacEagle17)
+
+Configs:
+- Updated Options.txt in YOSBR
+
+Updates:
+- Added compatibility with paintings++ (Fast Paintings)
+- Item amount display (Jade 🔍)
+- Added 2 New Structures (Philip's Ruins)
+- Check that prevented Bumblezone from spawning enough bees over time (The Bumblezone)
+
+Fixes:
+- Crash with Lithium (Decorative Blocks)
+- Possibly resolved an issue with paintings across chunk boundaries when crossing into unloaded chunks (Fast Paintings)
+- Crash related to bees in world/structure generation (Friends&Foes)
+- Server crash while building creative mode tabs (FTB Quests)
+- Incorrect display of Zombie Villager conversion time (Jade 🔍)
+- Bugs related to getting pick result (Jade 🔍)
+- Crash with Searchable (Language Reload)
+- Theoretical crash if we didn't have a flag for a country (Server Country Flags)
+- Simple safes not working (Supplementaries)
+- Server crash when placing Potion Candles, Essence Block Entity spawns, or Infinity Barrier Spawns (The Bumblezone)
+- Crash when a modded non-flying mob gets Beenergized effect that doesn't have the flying speed attribute (The Bumblezone)
+- Crash my shader had with Macs because of a Mac bug (The Bumblezone)
+- Check that prevented Bumblezone from spawning enough bees over time (The Bumblezone)
+- Crash in Buzzing Briefcase screen when clicking on an item button when you don't have said item in inventory (The Bumblezone)
+- Temperature not properly syncing on dedicated servers (Thermoo)
+- Waypoint edit screen not working correctly for multiple waypoints (Xaero's Minimap)
+- Minimap waypoints sometimes overlapping in a messy way (Xaero's Minimap)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

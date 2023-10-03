@@ -1,0 +1,4 @@
+HotFix:
+- Shaders Disabled on Start Up
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
