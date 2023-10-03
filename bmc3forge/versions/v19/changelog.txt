@@ -1,0 +1,41 @@
+If you want the new features added by the "Yung's Better End Island" mod to appear ingame, you will need to reset the end island by running the following command: /end_island reset 
+
+Using this command while in the End will attempt to reset the dragon fight back to its initial state and replace any previous portal/pillars with the redesigned versions. But this command attempts some major things behind the scenes, so please back up your world before trying!
+If you don't want to do this, it is completely fine. Updating the modpack is still completely safe and will not damage your world, even if you do not run the command.
+
+[Stability Update]
+FORGE MODLOADER IS NOW 42.3.2
+
+Mods:
++ Added Yung's Better End Island (by YUNGNICKYOUNG)
++ Added Debugify Reforged (by muraokun)
++ Added Almost Unified (by AlmostReliable)
++ Added Euphoria Patches (by SpacEagle17)
++ Added MoreCrashInfo (by xfl03)
+- Removed FixMySpawnR (Affected vanilla behavior too much)
+- Removed Entity Collision FPS Fix (Replaced)
+
+Configs:
+- Added a quest to explain the new ice cube mechanics
+- Enabled retainOriginalBlocks in the Snow Real Magic config for better mod compatibility
+- Disabled scarecrows from the Explorations & Additional Structures mods from spawning, due to their unbalanced nature & how frequently they spawned.
+- Fixed Neapolitan and Frosted Friends ice cubes not dropping when mining ice 
+- Fixed the Mindful Darkness button on the main menu not working
+- Disabled the message in chat from the Kiwi mod when starting a new world
+
+Updates:
+- Added 3 new structure types: Mushroom Houses, Obsidian Trees, and Villager Statues (Additional Structures)
+- Added 2 new structures (Philips Ruins)
+- Added a recipe for crafting the Grindstone with a Holystone Slab (The Aether)
+- Nerfed dart shooter damage and usage speed (The Aether)
+- Adjusted the spawn rate of some structures (Additional Structures)
+- Tweaked fog shader logic for better parity with vanilla, fixing some mod compat issues (Embeddium)
+- Resized all body parts of the Moa's saddle model (The Aether)
+- Updated some lore entries to be more accurate to modern gameplay (The Aether)
+
+Fixes:
+- Waypoint edit screen not working correctly for multiple waypoints (Xaeros Minimap)
+- Pyramid dungeon structure not working as intended (Additional Structures)
+- Crash related to bees in world/structure generation (Friends & Foes)
+- Missing chest loot with Turkish system language (The Aether)
+- FTB Chunks' performance problem on claimedChunks acquisition (DoesPotatoTick)
