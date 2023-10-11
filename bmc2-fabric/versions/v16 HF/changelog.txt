@@ -1,0 +1,4 @@
+HotFix:
+- Removed Vivecraft Update Button in the Menu
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING

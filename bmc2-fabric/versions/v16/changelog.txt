@@ -1,0 +1,24 @@
+[Structures Update]
+
+Mods:
+- Added Formations Overworld (by SuperMartijn642)
+- Added Formations Nether (by SuperMartijn642)
+
+Updates:
+- Remove automatically enabling Euphoria Patches by default (Euphoria)
+- Added protection from landing projectiles spawning mobs (Open Parties and Claims)
+- Re-implemented `REI` integration. With REI installed, you can left/right-click item stats to show up their corresponding REI screens (Better Statistics Screen)
+- Re-implemented the "Wiki" feature, where by middle-mouse-button-clicking a stat would show a prompt to open its corresponding Wikipedia article (Better Statistics Screen)
+- Re-implemented the stat grouping and sorting filters (Better Statistics Screen)
+- Minor changes to the GUI (Better Statistics Screen)
+- Reworked the player badge system, allowing players to obtain the same badge multiple times (Better Statistics Screen)
+- Added a "Player badges" statistics tab, allowing users to see all badges, including ones they don't have, so users can know what badges exist and are yet to be obtained (Better Statistics Screen)
+- Implemented a feature that allows you to save and load statistics files, allowing you to share your statistics with anyone over the internet (Better Statistics Screen)
+
+Fixes:
+- Protected player death loot merging with other item stacks (Open Parties and Claims)
+- client side not being actually optional (Open Parties and Claims)
+- Snowy Outpost having Taiga Trees spawn on top in Grove biome (Repurposed Structures)
+- Eating a stack of Bee Soup consuming the entire stack instead of just 1 (The Bumblezone)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
