@@ -7,7 +7,6 @@ Mods:
 - Added Modpack Update Checker
 - Added Wandering Collector
 - Added Sparse Structures
-- Added Quality Sounds
 - Added Pastel Shaders
 
 Updates:
