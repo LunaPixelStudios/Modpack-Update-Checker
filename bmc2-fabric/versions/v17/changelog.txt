@@ -1,0 +1,46 @@
+[Content Update]
+FABRIC LOADER IS NOW 0.14.23
+
+Mods:
+- Added Hybrid Aquatic
+- Added Dungeons and Taverns
+- Added Modpack Update Checker
+- Added Wandering Collector
+- Added Sparse Structures
+- Added Quality Sounds
+- Added Pastel Shaders
+
+Updates:
+- Added Rascal (Friends&Foes)
+- Added some more compat for wood types (Moonlight Lib)
+- Added 3 more structures (Philip's Ruins)
+
+Fixes:
+- Nighttime music (Biome Music)
+- Server side packet issue (Moonlight Lib)
+- Worldgen issues with unclosed Minecraft instances (Promenade)
+- Ultra long lag spike when using Waystones mods and a zombie RS village tries to spawn (Repurposed Structures)
+- Blocks being destroyed when they shouldn't (Vein Mining)
+- Configuration files being reset while loaded into a world (Vein Mining)
+- Mixed reality mirror (Vivecraft)
+- GPU error screen message (Vivecraft)
+- Fly freemove being ignored (Vivecraft)
+- Server keeping player vr state when they leave (Vivecraft)
+- Drink me easter egg (Vivecraft)
+- Server log spam when player are climbing (Vivecraft)
+- Butt particles (Vivecraft)
+- Headshot multiplier being too much, even on 1x (Vivecraft)
+- Players being kicked when using an outdated vivecraft (Vivecraft)
+- Radial menu and keyboard when the mirror window is not 16:9 (Vivecraft)
+- Forge constantly thinking there is a new update (Vivecraft)
+- Server combat settings notifying all players (Vivecraft)
+- Camera widget lighting (Vivecraft)
+- Spyglass enchantment glint in hand (Vivecraft)
+- Post effects (Vivecraft)
+- Culling issue with sodium 0.5+c (Vivecraft)
+- 3rd person hands with sodium 0.4.9+ (Vivecraft)
+- Server log spam when player are climbing (Vivecraft)
+- Issues with resolution control compatibility, add support for its dynamic resolution (Vivecraft)
+- Fixed many bugs (Nature's Spirit)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
