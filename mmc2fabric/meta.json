@@ -1,1 +1,10 @@
-
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "v17",
+      "releasedAt": 1697590044000
+    }
+  ]
+}
