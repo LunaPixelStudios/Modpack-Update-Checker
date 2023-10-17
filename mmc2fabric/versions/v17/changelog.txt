@@ -2,7 +2,6 @@
 FABRIC LOADER IS NOW 0.14.23
 
 Mods:
-- Added Legendary Origins
 - Added Dark Waters
 - Added Dungeons and Taverns
 - Added Modpack Update Checker
