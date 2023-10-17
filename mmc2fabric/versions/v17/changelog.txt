@@ -1,1 +1,59 @@
+[Content Update]
+FABRIC LOADER IS NOW 0.14.23
 
+Mods:
+- Added Legendary Origins
+- Added Dark Waters
+- Added Dungeons and Taverns
+- Added Modpack Update Checker
+- Added Wandering Collector
+- Added Sparse Structures
+- Added Insanity Shaders
+
+Configs:
+- Updated Resource Packs Overrides
+- Updated Options.txt
+
+Updates:
+- Added Rascal (Friends&Foes)
+- Added some more compat for wood types (Moonlight Lib)
+- Added Skill Chronicle item (used to store build templates)
+- Added Junction nodes to the base skill tree (Simply Skills)
+- Added Ranger passive 'Elemental Artillery' (Simply Skills)
+- Added Wizard passive 'Lightning Ball' (Simply Skills)
+- Added Wizard passive 'Lightning Orb' (Simply Skills)
+- Added passive 'Twinstrike' (Simply Skills)
+- Added passive 'Swordfall' (Simply Skills)
+- Added new projectile models & textures for most spells (Simply Skills)
+- Changed Overload AOE damage source from Physical to Magic (Simply Skills)
+
+Fixes:
+- Possible crash relating to SpellProjectile (Simply Skills)
+- Several damage calculation things for Magus, particularly regarding Healing Damage and Smite (Spellbladeds and Such)
+- Nighttime music (Biome Music)
+- Server side packet issue (Moonlight Lib)
+- Worldgen issues with unclosed Minecraft instances (Promenade)
+- Blocks being destroyed when they shouldn't (Vein Mining)
+- Configuration files being reset while loaded into a world (Vein Mining)
+- Mixed reality mirror (Vivecraft)
+- GPU error screen message (Vivecraft)
+- Fly freemove being ignored (Vivecraft)
+- Server keeping player vr state when they leave (Vivecraft)
+- Drink me easter egg (Vivecraft)
+- Server log spam when player are climbing (Vivecraft)
+- Butt particles (Vivecraft)
+- Headshot multiplier being too much, even on 1x (Vivecraft)
+- Players being kicked when using an outdated vivecraft (Vivecraft)
+- Radial menu and keyboard when the mirror window is not 16:9 (Vivecraft)
+- Forge constantly thinking there is a new update (Vivecraft)
+- Server combat settings notifying all players (Vivecraft)
+- Camera widget lighting (Vivecraft)
+- Spyglass enchantment glint in hand (Vivecraft)
+- Post effects (Vivecraft)
+- Culling issue with sodium 0.5+c (Vivecraft)
+- 3rd person hands with sodium 0.4.9+ (Vivecraft)
+- Server log spam when player are climbing (Vivecraft)
+- Issues with resolution control compatibility, add support for its dynamic resolution (Vivecraft)
+- Fixed many bugs (Nature's Spirit)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
