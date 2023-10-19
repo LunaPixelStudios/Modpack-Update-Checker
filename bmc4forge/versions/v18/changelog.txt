@@ -1,7 +1,6 @@
 [Small Update]
 
 Mods:
-- Added Neko's Enchanted Books
 - Added PingWheelReforged
 - Added Modpack Update Checker
 - Added Radium Reforged
