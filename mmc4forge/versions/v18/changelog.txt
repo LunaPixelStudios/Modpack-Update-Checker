@@ -1,1 +1,45 @@
-d
+[Small Update]
+
+Mods:
+- Added Neko's Enchanted Books
+- Added PingWheelReforged
+- Added Modpack Update Checker
+- Added Radium Reforged
+- Added DespawnTweaker
+- Removed Canary (Replaced)
+- Removed Let Me Despawn (Replaced)
+
+Configs:
+- Updated Resource Packs Overrides
+
+Updates:
+- Added Rascal (Friend&Foes)
+- Added 3 New Structures (Philip's Ruins)
+- The lost soul city lowered in its spawn weight (Philip's Ruins)
+- You can now manage and use multiplayer-like maps in singleplayer, not just the one based on the world save (Xaero's World Map)
+- Added a new predicate "my-ground" for entity radar hard include and include lists which matches entities who match your cave mode status (Xaero's Minimap)
+- The shared waypoint message will now try to guess the sender player's name if it is sent as a server message (Xaero's Minimap)
+
+Fixes:
+- Formations causing lag when placing other mods' structures (Formations)
+- Unnecessary nbt copying when applying structure processors (Formations)
+- Goblin traders despawning immediately when using a spawn egg (Goblin Traders)
+- Guards attacking mobs on the same team (Guard Villagers)
+- Server side packet issue (Moonlight Lib)
+- Issue with treasure maps (Supplementaries)
+- The uncrafting table not respecting recipes being marked as special(The Twilight Forest)
+- Hollow cherry logs not having a recipe(The Twilight Forest)
+- TF armor items not rendering armor trims(The Twilight Forest)
+- Performance issue when checking for the JAPPA resource pack(The Twilight Forest)
+- Boss loot tables not being properly seeded, meaning the loot was always the same when killing them(The Twilight Forest)
+- Certain damage sources not having a source entity(The Twilight Forest)
+- CTM breaking certain block models(The Twilight Forest)
+- Crash when mods that change the Wolf model are installed (What Are You Voting For? 2023)
+- Error where the Penguin could play its looking animation while underwater (What Are You Voting For? 2023)
+- Error where Penguins going fast enough could go through blocks and suffocate (What Are You Voting For? 2023)
+- Missing loot tables in the Infested Temple and Bandit Towers (When Dungeons Arise - Forge!)
+- Rearranged major and minor structures to avoid certain clashes (When Dungeons Arise - Forge!)
+- Crash that can be caused by corrupt biome data in map cache (Xaero's World Map)
+- The default waypoint creation position being the player instead of the camera entity (Xaero's Minimap)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
