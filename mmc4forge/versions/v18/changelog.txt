@@ -1,10 +1,9 @@
-[Big Update]
+[Content Update]
 
 Handcrafted Big Update (You may lose furniture!)
 
 Mods:
 - Added Epic Empires
-- Added Eidolon : Repraised
 - Added Sons Of Sins
 - Added Apotheotic Additions
 - Added Modpack Update Checker
