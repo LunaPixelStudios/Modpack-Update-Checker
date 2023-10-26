@@ -1,0 +1,82 @@
+[Archeology Update]
+FABRIC LOADER IS NOW 0.14.24
+
+Mods:
+- Added Better Archeology
+- Added Another Furniture
+- Added YUNG's Better Jungle Temples (Fabric)
+
+Configs:
+- Made Mythic Mobs bronze usable in other recipes
+- Modded item recipe compat for Mythic Metals Decorations, Tom's Storage & Traveler's Backpack
+
+Updates:
+- Improve compatibility (AllTheTrims)
+- Added support for REI (AllTheTrims)
+- Add bonus combat roll for archer unique necklace (Jewelry)
+Minecraft Dungeons (MC Dungeons Weapons)
+- Added Accelerate I to Purple Storm
+- Added Freezing I to the Snow Bow and Winter's touch
+- Added Fuse Shot I to Firebolt Thrower, Imploding Crossbow
+- Added Gravity I to the Anchor, Wind Bow, Echo of the Valley and Burst Gale Bow
+- Added Knockback I to Boneclub, Bone Cudgel, Claymore, Broadsword, Frost Slayer, Great Axeblade and 
+Heartstealer (MC Dungeons Weapons)
+- Added Multishot II to Harp Crossbow
+- Added Power I to Power Bow, Master's Bow, Sabrewing, Red Snake, Slayer Crossbow and Doom Crossbow
+- Added Power II to Elite Power Bow and Guardian Bow
+- Added Punch I to Heavy Crossbow, Harpoon Crossbow and Nautical Crossbow
+- Added Ricochet I to Trick Bow and Green Menace
+- Added Rushdown I to Chill Gale Knife and Tempest Knife
+- Added Thundering I to Lightning Harp Crossbow (originates from crossbow, not arrow. This is intended)
+- Added Wild Rage I to Love Spell Bow
+- Removed Bonus Shot I from Auto Crossbow
+- Removed Radiance I from Love Spell Bow
+- Added the Cleric Specialisation (Simply Skills)
+- Added Rogue passive 'Bladestorm' (Simply Skills)
+- Added new effect 'Vitality Bond' (Simply Skills)
+- Added new effect 'Undying' (Simply Skills)
+- Added new effect 'Anointed' (Simply Skills)
+- Friendly fire logic now takes into consideration player teams (Simply Skills)
+- Crusader's 'Aegis' passive reworked slightly (Simply Skills)
+- Particle effects removed from all custom status effects (Simply Skills)
+- Custom render effects added for several status effects, for better visibility (Simply Skills)
+- Friendly fire logic now respects teams (Simply Swords)
+- Many forms of magic damage now have a source entity (Simply Swords)
+- Adding missing advancement for Runic Halberd (Simply Swords)
+- Earning a player badge will now be broadcast in chat, like how advancements do it (Better Statistics Screen)
+- Increased chance for the stalker to spawn from vases (Deeper and Darker)
+- Slightly improve memory usage for blocks with only one state (FerriteCore)
+- Significantly decreased valuables found in ore shards structures (Formations Nether)
+- Slightly decreased the spawning of ore shard structures (Formations Nether)
+- Reworked Tuff Golem sleep cycle (Friends&Foes)
+- Reworked Tuff Golem animations (Friends&Foes)
+- Reworked Rascal animations (Friends&Foes)
+- Stop Honey Cave Room structure spawning too out in the open at times (The Bumblezone)
+- Made first Queen Desire advancement now mention that Royal Jelly Bottles are the rewards (The Bumblezone)
+- Made Cosmic Crystal's spinning tracking attack easier to avoid (The Bumblezone)
+- Added internal expiry time for Cosmic Crystal, Electric Ring, and Purple Spike to rid themselves if they somehow persist past the end of the event timer (The Bumblezone)
+
+Fixes:
+- Trim generation on modded armour that is not trimmable by default (AllTheTrims)
+- Incorrect colouring on dyeable armour when used with built-in trim material (AllTheTrims)
+- Built-in / added trim materials from being replaced with dynamic ones (AllTheTrims)
+- `GuardingStrikeEnchantment` applying to everything (MC Dungeons Weapons)
+- Attempted to fix Repair Cost Exploit with Broken and Mechanized Sawblades (MC Dungeons Weapons)
+- `RefreshmentEnchantment` description accurately reflects that it works with melee and ranged weapons (MC Dungeons Weapons)
+- `Broken Sawblade` can no longer be enchanted with `Unbreaking` (MC Dungeons Weapons)
+- `Items can no longer be infinitely enchanted  (MC Dungeons Weapons)
+- `Non-innately enchanted weapons from MCDW no longer crash when using an enchanting table (MC Dungeons Weapons)
+- Bug that allowed The Watcher & Watching Warglaives to kill beyond the specified health percent (Simply Swords)
+- Magus phase damage calculations modified again to no longer bug out easily (Spellblades and Such)
+- Crash when a stats tab is hidden but selected (Better Statistics Screen)
+- Echo signs from crashing the game (Deeper and Darker)
+- Server & client-side sync for shriek worms and the stalker (Deeper and Darker)
+- Performance issue in quad deduplication in some corner cases (FerriteCore)
+- Formations causing lag when placing other mods' structures (Formations)
+- Fixed all reported issues (Friends&Foes)
+- Goblin traders despawning immediately when using a spawn egg (Goblin Traders)
+- Bug with treasure maps (Supplementaries)
+- Fixed Issues (Dramatic Doors)
+- Many Fixes (The Bumblezone)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
