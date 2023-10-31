@@ -1,0 +1,97 @@
+[Big Update]
+FORGE IS NOW 47.2.1
+
+Mods:
+- Added Alex Caves
+- Added Eidolon : Repraised
+- Added End: Reborn
+- Added YUNG's Better Jungle Temples (Forge)
+- Added Cherished Worlds (Fabric/Forge/Quilt)
+- Removed Starlight (Crashes)
+
+Configs:
+- Disabled Witch Tower from Formations
+- Fixed unused Apotheosis adventure entries causing console spam
+- Rework Royalty Gem to no longer cause bugged damage increases
+- Fixed mob difficulty in some dimensions being astronomically high
+
+Updates:
+- Slightly improve memory usage for blocks with only one state (FerriteCore)
+- Significantly decreased valuables found in ore shards structures (Formations Nether)
+- Slightly decreased the spawning of ore shard structures (Formations Nether)
+- Reworked Tuff Golem sleep cycle (Friends&Foes)
+- Reworked Tuff Golem animations (Friends&Foes)
+- Reworked Rascal animations (Friends&Foes)
+- Ambrosium no longer can enchant all blocks (The Aether)
+- Aether flower bounding boxes now offset properly (The Aether)
+- Aechor Plants no longer disappear when hit with a Gravitite Sword (The Aether)
+- Cockatrices no longer target the player in creative mode (The Aether)
+- Moved glove positioning down very slightly (The Aether)
+- Added Crystal Hollows Biome (Ancient Aether)
+- Added Mythical Forest Biome (Ancient Aether)
+- Added Mythical Clearing Biome (Ancient Aether)
+- Added Cold Skyroot Forest Biome (Ancient Aether)
+- Added the Ancient Core, the Ancient Guardians second phase though this one doesn't have AI yet like the Ancient Guardian (Ancient Aether)
+- Completely rewrote the Worldgen System (Ancient Aether)
+- Added Artifact tier (Apotheotic Additions)
+- Added New Enchantment Runes you can use to increase the power of your enchanting setup (Apotheotic Additions)
+- Added Some Advancements (Apotheotic Additions)
+- Added New Affixes (Apotheotic Additions)
+- Added Gem of Uranium Fever [Alex's Caves] (Apotheotic Additions)
+- Added Gem of the Enchanter [Passive Skill Tree] (Apotheotic Additions)
+- Added Gem of the Master Crafter [Passive Skill Tree] (Apotheotic Additions)
+- Added various Rogue Spawners (Apotheotic Additions)
+- Added a Farseer Miniboss (Apotheotic Additions)
+- Adjusted Alex's Caves Loot drops (Apotheotic Additions)
+- Adjusted Ancient Loot Rate (Apotheotic Additions)
+- Alex's Cave Boss Gear only spawns on Alex's Cave's mobs and one Zombie Variant (Apotheotic Additions)
+- Removed Mutant Skeleton Boss (Apotheotic Additions)
+- Added Ars Nouveau, Forbbiden & Arcanus, Eidolon loot dropping in the Twilight Forest (Apotheotic Additions)
+- Added the Amethyst Resonance Charm, a craftable necklace that gives +15% mana regeneration (Iron's Spells 'n Spellbooks)
+- Buff Magic Arrow's base damage by 5 (Iron's Spells 'n Spellbooks)
+- Add CastSource to SpellCastEvent for developers (Iron's Spells 'n Spellbooks)
+- Rework Priest Armor Texture, courtesy of Crydigo (Iron's Spells 'n Spellbooks)
+- Any armor can now be upgraded instead of only mage armor (Iron's Spells 'n Spellbooks)
+- Spectral Hammer debris reduced (Iron's Spells 'n Spellbooks)
+- Reworked Tome of blood. It now lets you cast without mana limits. It uses mana first and then LP (Tome of Blood: Rebirth)
+- Living Mage Armor is now called Heretic's Armor (Tome of Blood: Rebirth)
+- Heretic's Armor now gains experience slower than its normal blood magic counterpart (Tome of Blood: Rebirth)
+- Mana Attunement trait has been rebalanced (Tome of Blood: Rebirth)
+- Removed the experience reduction of Heretic's Armor which caused upgrade tomes to be buggy (Tome of Blood: Rebirth)
+- Changed Mana Attunement discount calculation to fix 0 spell cost due to integer conversion (Tome of Blood: Rebirth)
+- Big Update (The Aether: Redux)
+
+Fixes:
+- Blue Skies loot entries not spawning in (Apotheotic Additions)
+- Gem of the Blue Skies having substantially low pickaxe damage (Apotheotic Additions)
+- Black Flame Affix using Black Flame instead of Black Burning (Apotheotic Additions)
+- Flight ritual dropping on reapplication (Ars Nouveau)
+- Ritual of summon animals consuming any item (Ars Nouveau)
+- Imbuement chambers causing lag spikes on recipe lookup (Ars Nouveau)
+- Hand swap deleting offhand item, when holding two handed items (Better Combat)
+- Loot tables of the farmer delight's farm (ChoiceTheorem's Overhauled Village)
+- Rice paddies from farmer delight's (ChoiceTheorem's Overhauled Village)
+- Inconsistent Magic Arrow block penetration (Iron's Spells 'n Spellbooks)
+- The two-handed sword models when using left hand mode (Iron's Spells 'n Spellbooks)
+- Mobs can no longer detect your armor when affected by True Invisibility (Iron's Spells 'n Spellbooks)
+- Geckolib armor anchor points causing misaligned armor models when the player is animating (Iron's Spells 'n Spellbooks)
+- JEI recipe autocomplete exploit (Iron's Spells 'n Spellbooks)
+- Raise Dead spell not being able to find suitable ground locations at y < 0 (Iron's Spells 'n Spellbooks)
+- Another rare case where empowered shot would break (Medieval Origins Revival)
+- Bug that allowed The Watcher & Watching Warglaives to kill beyond the specified health percent (Simply Swords)
+- Ability slider appearing over tool slots (Traveler's Backpack)
+- Echo signs from crashing the game (Deeper and Darker)
+- Server & client-side sync for shriek worms and the stalker (Deeper and Darker)
+- Performance issue in quad deduplication in some corner cases (FerriteCore)
+- Formations causing lag when placing other mods' structures (Formations)
+- Fixed all reported issues (Friends&Foes)
+- Crash when trying to open mod screen in forge mod menu (Neruina)
+- Issues where terrain adaption for various RS structures was not properly working (Repurposed Structures)
+- Bug with treasure maps (Supplementaries)
+- Deeper and Darker compat fix (Epic Samurai's)
+- Crashes (StarbuncleMania)
+- Many Fixes (Wizard's Reborn)
+- Many Fixes (Dramatic Doors)
+- Many Fixes (ModernFix)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
