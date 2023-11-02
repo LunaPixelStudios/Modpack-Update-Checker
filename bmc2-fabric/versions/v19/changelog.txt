@@ -1,0 +1,47 @@
+[Naturalist Update]
+
+Mods:
+- Added Naturalist
+- Added Hearth & Home
+- Added Configured Defaults [Forge & Fabric]
+- Added Cherished Worlds (Fabric/Forge/Quilt)
+
+Configs:
+- Disabled Witch Tower from Formations
+- Updated Resource Pack Overrides
+
+Updates:
+- Improve performances (FallingTree)
+- Add hammer clarification tooltip to counters (Handcrafted)
+- Add Sandstone trims (Handcrafted)
+- Add cushion and sheet dye conversion recipes (Handcrafted)
+- Add bamboo and spruce pillar trim variants (Handcrafted)
+- Small optimization to fancy painting rendering (Handcrafted)
+- Tables now connect to other tables, desks and nightstands (Handcrafted)
+- When placing a cushion/sheet on furniture, you can now replace the existing cushion/sheet without having to take off the old one first (Handcrafted) 
+- End Ancient Cities a bit more common (Repurposed Structures)
+- End Strongholds slightly more common (Repurposed Structures)
+- Adjusted Crystalline Flower to force all enchantments to be level 1 when at the first available enchanting tier (The Bumblezone)
+- Made Sentry Watcher not charge at Vexes (The Bumblezone)
+- Bee Queen will now ask to do special hidden trades on certain days of the year! (The Bumblezone)
+
+Fixes:
+- Crashes (GeckoLib)
+- Compat issues with shaders (GeckoLib)
+- Portal spawning in the void (Deeper and Darker)
+- Benches being present in sheets tag (Handcrafted)
+- Incorrect light blue and light gray sheet and cushion recipes (Handcrafted)
+- Dark oak palette to match vanilla (Handcrafted)
+- Corner trim having one side less thick (Handcrafted)
+- Fancy beds not working (Handcrafted)
+- Issues with items not stacking after drop on mob kill (Let Me Despawn)
+- Issues where terrain adaption for various RS structures was not properly working (Repurposed Structures)
+- Typo in banner pattern item descriptions for EMI/JEI/REI (The Bumblezone)
+- Pollen Puff unable to grow stack of Pile of Pollen if Windy Air or Heady Air is above it (The Bumblezone)
+- Hidden effect lingering randomly after being in Pile of Pollen (The Bumblezone)
+- Possible rare crash with Purple Sempiternal Sanctum event (The Bumblezone)
+- Client crash when spawning certain entities from Sempiternal Sanctum events (The Bumblezone)
+- Missing loot tables in the Infested Temple and Bandit Towers (When Dungeons Arise)
+- Rearranged major and minor structures to avoid certain clashes (When Dungeons Arise)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
