@@ -1,41 +1,93 @@
-[Naturalist Update]
+[Zenith Update]
 
 Mods:
+- Added Zenith
+- Added Zephyr
+- Added Zenith Attributes
+- Added Eldritch End
 - Added Naturalist
-- Added Hearth & Home
+- Added Fright's Delight [Fabric]
 - Added Configured Defaults [Forge & Fabric]
-- Added Cherished Worlds (Fabric/Forge/Quilt)
+- Added Eclectic Trove (Legendary Tooltips)
+- Added Embellished Stone (Advancement Plaques)
+- Removed TieredZ (Replaced)
 
 Configs:
+- Disabled Dungeon Difficulty reward scaling
+- Item progression and reforging is now handled by the Zenith Adventure module
+- Heavily tweaked Adventure module affixes, gems, and rarities
+- Adjusted max enchantment levels for Zenith enchanting
+- Greatly lowered the strength of all MCDW damage and healing enchantments
+- Lowered the per-level values of spell critical chance/damage robe enchantments
+- Nerfed innate spell haste on wands 25% -> 10%
+- Slightly lowered the bonus-with-luck find rate of RPG Series items
+- Reset the strength of Soulslike Weaponry weapons to their original values
+- Disabled the Soul Siphon enchantment
+- Lowered max growth height for bamboo/reeds/cactus
+- Disabled Spawner module
+- Lowered potency of Knowledge potion effect
+- Buffed bosses from Aquamirae
+- Added Aquamirae and Spellblades enemies to quests
+- Updated Magic quests with clearer information
+- Updated Tutorial quest on reforging for the Zenith Adventure Module
 - Disabled Witch Tower from Formations
 - Updated Resource Pack Overrides
 
 Updates:
-- Improve performances (FallingTree)
-- Add hammer clarification tooltip to counters (Handcrafted)
-- Add Sandstone trims (Handcrafted)
-- Add cushion and sheet dye conversion recipes (Handcrafted)
-- Add bamboo and spruce pillar trim variants (Handcrafted)
-- Small optimization to fancy painting rendering (Handcrafted)
-- Tables now connect to other tables, desks and nightstands (Handcrafted)
-- When placing a cushion/sheet on furniture, you can now replace the existing cushion/sheet without having to take off the old one first (Handcrafted) 
-- End Ancient Cities a bit more common (Repurposed Structures)
-- End Strongholds slightly more common (Repurposed Structures)
+- Added soft compatibility with Spell Engine, disable idle animation while casting spells (Better Combat)
+- Reduced rolling distance in liquids (Combat Roll)
+- Added a team property to control whether PvP is permitted in a team's claims (FTB Chunks)
+- Limit Gazebos to 1 per village (Gazebos)
+- Magic Missile's targeting is no longer sticky (Invocations)
+- Limit Jewelry Shops spawned in villages to 1 per village (Jewelry)
+- Added Zenith compat for Wood Elf's Empowered shot (Medieval Origins Revival)
+- Limit Sanctuary spawns to 1 per village (Paladins & Priests)
+- Tweaked villager trade offers (Paladins & Priests)
+- Experience required to level up has been significantly increased (Simply Skills)
+- Specialisation path tooltips now contain additional information on the specialisation (Simply Skills)
+- General tooltip readability improvements (Simply Skills)
+- Improved path bonuses for Wayfarer & Warrior (Simply Skills)
+- Meteor & Ice Comet spells have been reworked (Simply Skills)
+- Sound effects changed for several abilities (Simply Skills)
+- Wizard's Greater Arcane Bolt now pierces enemies (Simply Skills)
+- Small nerfs to Spellblade's Weapon Expert passive (Simply Skills)
+- Limit Wizard Tower spawns to 1 per village (Wizards)
+- Tweak villager trade offers (Wizards)
 - Adjusted Crystalline Flower to force all enchantments to be level 1 when at the first available enchanting tier (The Bumblezone)
 - Made Sentry Watcher not charge at Vexes (The Bumblezone)
 - Bee Queen will now ask to do special hidden trades on certain days of the year! (The Bumblezone)
+- Heavenly Riders, Conquerors and Challengers now spawn lower on the End dimension (When Dungeons Arise)
+- Added a new massive dungeon, the Mechanical Nest! (When Dungeons Arise)
+- Sleeping bag can be used without the backpack (Traveler's Backpack)
+- Pillar of the Monkey King now has a special Whirlwind that ignores damage loss due to number of enemies hit (Spellblades and Such)
+- Orbs now have a tooltip reflecting their special ability (Spellblades and Such)
+- Spells that deal hybrid damage now show their physical damage dealt before attack speed or crit scaling (Spellblades and Such)
+Weapon nerfs: (Spellblades and Such)
+- T1 Spellblades: 3 Magic Attribute -> 2
+- T2 Spellblades: 5 Magic Attribute -> 3
+- Claymores remain the same
+- rbs remain the same
+- Starforge: 6 All Attributes -> 4
+Spell changes: (Spellblades and Such)
+- Massacre no longer scales with attack speed, and its total damage is lowered from 2.5 to 2.0
+- Elemental Whirlwind elemental scaling is reduced from 1.5 to 1.0. Physical scaling remains the same
+- Flickering Flame's fire scaling is reduced from 1.2 to 1.0. Physical scaling remains the same
+- Divine Smite's healing scaling is increased from 2 to 3, but its damage against undead is reduced from 2x to 1.5x
 
 Fixes:
+- Held item desync when an item or block right-click is prevented in a claimed area (FTB Chunks)
+- Loot tables of the farmer delight's farm (CTOV)
+- Fixed Gorgon poison not working properly (Medieval Origins Revival)
+- Some default loot table configurations (Paladins & Priests)
+- Some player skin cases clipping through armor (Paladins & Priests)
+- Held item scale wrongly scaling items worn on the head (Pehkui)
+- Compatibility with various mods (Pehkui)
+- When typing entity selectors (Pehkui)
+- Bug that caused Cleric's Mutual Mending ability to interupt Holy Light casts (Simply Skills)
 - Crashes (GeckoLib)
 - Compat issues with shaders (GeckoLib)
 - Portal spawning in the void (Deeper and Darker)
-- Benches being present in sheets tag (Handcrafted)
-- Incorrect light blue and light gray sheet and cushion recipes (Handcrafted)
-- Dark oak palette to match vanilla (Handcrafted)
-- Corner trim having one side less thick (Handcrafted)
-- Fancy beds not working (Handcrafted)
 - Issues with items not stacking after drop on mob kill (Let Me Despawn)
-- Issues where terrain adaption for various RS structures was not properly working (Repurposed Structures)
 - Typo in banner pattern item descriptions for EMI/JEI/REI (The Bumblezone)
 - Pollen Puff unable to grow stack of Pile of Pollen if Windy Air or Heady Air is above it (The Bumblezone)
 - Hidden effect lingering randomly after being in Pile of Pollen (The Bumblezone)
@@ -43,5 +95,25 @@ Fixes:
 - Client crash when spawning certain entities from Sempiternal Sanctum events (The Bumblezone)
 - Missing loot tables in the Infested Temple and Bandit Towers (When Dungeons Arise)
 - Rearranged major and minor structures to avoid certain clashes (When Dungeons Arise)
+- Minor structural issues with taiga and plains Wizard Towers (Wizards)
+- Some default loot table configurations (Wizards)
+- Some player skin cases clipping through armor (Wizards)
+- Elytra crash (DungeonZ)
+- Crash with slowness effect (Traveler's Backpack)
+- Roomscale walk up blocks (Vivecraft)
+- Mirror change text in the menuworld (Vivecraft)
+- Log spam/crash when minimizing the window (Vivecraft)
+- Spyglass and 1st person mirror screen block triggering too late (Vivecraft)
+- Crash when enabling VR while holding a spyglass (Vivecraft)
+- Missing translations in Steam VR with non english Steam (Vivecraft)
+- Issue where some mods disable the depth clear for the left eye (Vivecraft)
+- Issue with owo lib teleporting the player when it renders the player in a gui (Vivecraft)
+- Scrolling not working with some mods (Vivecraft)
+- Overlap of commands and modmenu button (Vivecraft)
+- Mods using the window size to draw stuff (Vivecraft)
+- Resolution control again, this time for real (Vivecraft)
+- Controllable moving the use key to the mod section in steamvr (Vivecraft)
+- Crash when connecting to as server with a missing mod (Vivecraft)
+- Menu panorama removal with some mods (Vivecraft)
 
 AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
