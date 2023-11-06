@@ -1,0 +1,50 @@
+[Endorium Update]
+FORGE IS NOW 47.2.4
+
+Mods:
+- Added Endorium (Forge) (by Immodernist)
+- Added Hearth & Home (by Starfish_Studios)
+- Added Configured Defaults [Forge & Fabric] (by Fuzs)
+
+Updates:
+- Performance Improvements (Modpack)
+- Added support for extra modded villager entities (Collective)
+- Updated Textures (Deep Aether)
+- Added many things (Deep Aether)
+- Adjusted aerlavender hitbox to be larger (Deep Aether)
+- Tweaked yagroot swamp rarity and size (Deep Aether)
+- Increased stratus armor defence to match gravitite (Deep Aether)
+- Added integration with the Server Browser mod (Server Country Flags)
+- Protection enchantments can now be upgraded in the imbuing table (Illager Invasion)
+
+
+Fixes:
+- Textrues (Entity Texture Features)
+- Entities (Entity Model Features)
+- Some broken tags (Deep Aether)
+- Console spam (Deep Aether)
+- Server hanging when using camouflaged elevators (OpenBlocks Elevator)
+- Prevent potential UI crash (Recipe Essentials)
+- Missing Prismatic Petals models on 1.19.2 (The Aether: Redux)
+- Log error with Sprouting Lightroot loot table (The Aether: Redux)
+- Cockatrice Rib arrow recipe overwriting the vanilla one (The Aether: Redux)
+- Resources reloading every game restart (The Aether: Redux)
+- Crash with Moa renderer (The Aether: Redux)
+- Issue where some mods disable the depth clear for the left eye (Vivecraft)
+- Roomscale walk up blocks (Vivecraft)
+- Mirror change text in the menuworld (Vivecraft)
+- Log spam/crash when minimizing the window (Vivecraft)
+- Spyglass and 1st person mirror screen block triggering too late (Vivecraft)
+- Crash when enabling VR while holding a spyglass (Vivecraft)
+- Missing translations in Steam VR with non english Steam (Vivecraft)
+- Issue with owo lib teleporting the player when it renders the player in a gui (Vivecraft)
+- Scrolling not working with some mods (Vivecraft)
+- Overlap of commands and modmenu button (Vivecraft)
+- Mods using the window size to draw stuff (Vivecraft)
+- Resolution control again, this time for real (Vivecraft)
+- Controllable moving the use key to the mod section in steamvr (Vivecraft)
+- Crash when connecting to as server with a missing mod (Vivecraft)
+- Menu panorama removal with some mods (Vivecraft)
+- Labyrinth hallways occasionally being flooded (Illager Invasion)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
