@@ -1,0 +1,95 @@
+[Tetra, Knights'n'Mages Update]
+FORGE IS NOW 47.2.4
+
+Mods:
+- Added Epic Knights'n'Mages
+- Added Tetra
+- Added Tetra Extras
+- Added Tetracelium
+- Added Mobs of Sins: Alex's Mobs Integration [Forge]
+- Added Fast IP Ping
+- Added Too Fast
+- Added Packet Fixer
+- Added Configured Defaults [Forge & Fabric]
+
+Configs:
+- Disabled Nukes
+- Fixed Royal Family gem not loading at all
+- Blacklisted the Glass Sword from being made unbreakable
+- Re-add spawner limitations added in v17
+- Add default levels for Cataclysm bosses (large buff)
+- Add default levels for the Wither and Warden
+- Add leveling settings for twilight forest, undergarden, blood magic, deeper and darker.
+- Slightly lower some mob dimension levels
+
+Updates:
+- Performance Improvements (Modpack)
+- Added a new Trading System (Apotheotic Additions)
+- Added more than 100 Wandering Trader trades, crossing multiple mods (Apotheotic Additions)
+- Added new Minibosses for the Twilight Forest, Blue Skies, and Undergarden (Apotheotic Additions)
+- Added new Bosses for Blue Skies and Undergarden (Apotheotic Additions)
+- Added Gateways Compatibility for Apotheotic Additions Bosses (Apotheotic Additions)
+- New generation for tungsten, farstone, moss, which are only included now (Endorium)
+- Adds new Animations to the Gulbèr (Sons Of Sins)
+- Adds new Animations to the Walking Bed (Sons Of Sins)
+- Adds new Animations to the Prowler (Sons Of Sins)
+- Adds new advancements (Sons Of Sins)
+- Reduced density of generated pebbles and shimmerweeds (The Undergarden)
+- Sleeping bag can be used without the backpack (Traveler's Backpack)
+- Added recipes to change sleeping bag color (Traveler's Backpack)
+- Tools will not go to tool slots if they are not visible in backpack (Traveler's Backpack)
+- Added Earth spells can damage armor (Wizard's Reborn)
+- Added new abilities for ray spells (Wizard's Reborn)
+- Added wisestone (Wizard's Reborn)
+- Increased chance of dust dropping out of arcanum ore (Wizard's Reborn)
+- Added support for extra modded villager entities (Collective)
+- Updated Textures (Deep Aether)
+- Added many things (Deep Aether)
+- Adjusted aerlavender hitbox to be larger (Deep Aether)
+- Tweaked yagroot swamp rarity and size (Deep Aether)
+- Increased stratus armor defence to match gravitite (Deep Aether)
+- Added integration with the Server Browser mod (Server Country Flags)
+- Protection enchantments can now be upgraded in the imbuing table (Illager Invasion)
+- Lowered the priority of world generation events of Citadel (Citadel)
+
+Fixes:
+- Dupe bug (Wizard's Reborn)
+- Crashes (Dramatic Doors)
+- Ancient and above tier bosses no longer deal a minimum of 40 hearts of damage per hit (Apotheotic Additions)
+- Buffed the Grand Mutant spawn rate, and HP (Apotheotic Additions)
+- Made all bosses from other mods that spawn in another mods dimension have correct coding (Apotheotic Additions)
+- Some rarities on items (Apotheotic Additions)
+- Fullscreen map issues on Mac Retina displays (JourneyMap)
+- Server disconnect when packet is sent too early (JourneyMap)
+- Disabling Day/Night cycle prevents radar updates (JourneyMap)
+- Stoneborn not spawning as much as they should (The Undergarden)
+- Blisterbomb entities not destroying blocks (The Undergarden)
+- Crash with slowness effect (Traveler's Backpack)
+- Visual bug with Iron's Spells 'n Spellbooks (Wizard's Reborn)
+- That harvesting mods were breaking the scythe (Wizard's Reborn)
+- Incorrect number of items in custom recipes (Wizard's Reborn)
+- Textrues (Entity Texture Features)
+- Entities (Entity Model Features)
+- Some broken tags (Deep Aether)
+- Console spam (Deep Aether)
+- Prevent potential UI crash (Recipe Essentials)
+- Issue where some mods disable the depth clear for the left eye (Vivecraft)
+- Roomscale walk up blocks (Vivecraft)
+- Mirror change text in the menuworld (Vivecraft)
+- Log spam/crash when minimizing the window (Vivecraft)
+- Spyglass and 1st person mirror screen block triggering too late (Vivecraft)
+- Crash when enabling VR while holding a spyglass (Vivecraft)
+- Missing translations in Steam VR with non english Steam (Vivecraft)
+- Issue with owo lib teleporting the player when it renders the player in a gui (Vivecraft)
+- Scrolling not working with some mods (Vivecraft)
+- Overlap of commands and modmenu button (Vivecraft)
+- Mods using the window size to draw stuff (Vivecraft)
+- Resolution control again, this time for real (Vivecraft)
+- Controllable moving the use key to the mod section in steamvr (Vivecraft)
+- Crash when connecting to as server with a missing mod (Vivecraft)
+- Menu panorama removal with some mods (Vivecraft)
+- Labyrinth hallways occasionally being flooded (Illager Invasion)
+- Incorrect block shade brightness (Passable Foliage)
+- Accurate the slowness collision (Passable Foliage)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
