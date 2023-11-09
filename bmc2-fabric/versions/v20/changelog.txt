@@ -1,0 +1,48 @@
+[Mythic Charms Update]
+ 
+Mods:
+- Added Mythic Charms
+- Added Packet Fixer
+- Removed Natures' Spirit (Mode got removed from CF)
+ 
+Updates:
+- Protection enchantments can now be upgraded in the imbuing table (Illager Invasion)
+- Caterpillars now need to be caught with Bug Nets (Naturalist)
+- Added integration with the Server Browser mod (Server Country Flags)
+- Made Bumblezone now Piglin safe so they and Hoglins do not transform in the dimension (The Bumblezone)
+- Buzzing Briefcase now has a half-second cooldown when left clicking item to release bees (The Bumblezone)
+- Bees released from Buzzing Briefcase by left clicking blocks will be less likely stuck in the blocks (The Bumblezone)
+- Consuming Essence of the Bees will remove all negative status effects now (The Bumblezone)
+- Adjusted costs for Neurotoxin to prevent some mods from allowing Neurotoxin levels above 3 from being obtainable (The Bumblezone)
+- Increased time between biome music playing to around 6 minutes (The Bumblezone)
+
+Fixes:
+- Otherside portal being generated over the bedrock roof (Deeper and Darker)
+- Labyrinth hallways occasionally being flooded (Illager Invasion)
+- Lizard models not having the proper texture (Naturalist)
+- Deer and Lizard head wobbling (Naturalist)
+- Lions having adult mane textures when babies + a few other Lion texture issues that were introduced when random mane spawning was added (Naturalist)
+- Workaround for screens crashing the game when opened with Controlify installed (Puzzles Lib)
+- Potential UI crash (Recipe Essentials)
+- Initial Bumblezone welcome message spam if another mod completely disables advancements for Bumblezone (The Bumblezone)
+- Buzzing Briefcase not releasing bees on block left click (The Bumblezone)
+- Beating the Radiance event incrementing the Raging event's stat count (The Bumblezone)
+- Cases where Sempiternal Sanctums events do not end properly if all players leave arena (The Bumblezone)
+- Potential case where touching Essence Block does not start arena event and added some more logging to help figure out issues with it (The Bumblezone)
+- Roomscale walk up blocks (Vivecraft)
+- Mirror change text in the menuworld (Vivecraft)
+- Log spam/crash when minimizing the window (Vivecraft)
+- Spyglass and 1st person mirror screen block triggering too late (Vivecraft)
+- Crash when enabling VR while holding a spyglass (Vivecraft)
+- Missing translations in Steam VR with non english Steam (Vivecraft)
+- Issue where some mods disable the depth clear for the left eye (Vivecraft)
+- Issue with owo lib teleporting the player when it renders the player in a gui (Vivecraft)
+- Scrolling not working with some mods (Vivecraft)
+- Overlap of commands and modmenu button (Vivecraft)
+- Mods using the window size to draw stuff (Vivecraft)
+- Resolution control again, this time for real (Vivecraft)
+- Controllable moving the use key to the mod section in steamvr (Vivecraft)
+- Crash when connecting to as server with a missing mod (Vivecraft)
+- Menu panorama removal with some mods (Vivecraft)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
