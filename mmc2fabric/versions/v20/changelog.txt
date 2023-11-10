@@ -1,0 +1,64 @@
+[Archers Update]
+
+MASSIVE INVOCATIONS REWORK
+
+Mods:
+- Added Archers (RPG Series)
+- Added Beneath the Wetlands
+- Added Packet Fixer
+- Added Sky Villages - Farmer's Delight Compat
+- Added Sky Villages - Supplementaries Compat
+- Added Sky Villages - The Graveyard Compat
+- Added Sky Villages - Waystones Compat
+- Removed Natures' Spirit (Mode got removed from CF)
+
+Configs:
+- Updated Resource Pack Overrides
+ 
+Updates:
+- Invocations no longer bind spells to your weapon! There is now one multi-elemental invocations book called Runic Invocations, which comes with the Runic Invocation spell, and three elemental invocations (Invocations)
+- All invoked spells now have a cooldown of 6 seconds, and remove your spell power effect of their primary magic school (Invocations)
+- Magic Missile is no longer infinitely casted, and is much more in line with a low tier spell (Invocations)
+- All spells now have a maximum cast time of one second, and had their damage and projectile counts tuned to reflect it (Invocations)
+- Existing items with invoked spells on them will continue to have the invoked spell (Invocations)
+- Slightly lowered Empowered shot/Zenith arrow velocity (Medieval Origins Revival)
+- Signature ability HUD element added (Simply Skills)
+- Overload now grants 45% spell crit damage, instead of 75% (Simply Skills)
+- Overload self damage source changed to magic (Simply Skills)
+- Overload deals slightly increased self damage (Simply Skills)
+- Rogue's Shadowstrike reworked (Simply Skills)
+- Stealth no longer breaks when damage is received while under the effects of Barrier (Simply Skills)
+- Barrier particles reduced (Simply Skills)
+- Barrier particles no longer visible when stealthed or when entity height is less than 1 (Simply Skills)
+- Disable hotbar directly for spell books (Spell Engine)
+- Disable MultiShot arrows being able to bypass iframes (Spell Engine)
+- Protection enchantments can now be upgraded in the imbuing table (Illager Invasion)
+- Caterpillars now need to be caught with Bug Nets (Naturalist)
+- Added integration with the Server Browser mod (Server Country Flags)
+- Made Bumblezone now Piglin safe so they and Hoglins do not transform in the dimension (The Bumblezone)
+- Buzzing Briefcase now has a half-second cooldown when left clicking item to release bees (The Bumblezone)
+- Bees released from Buzzing Briefcase by left clicking blocks will be less likely stuck in the blocks (The Bumblezone)
+- Consuming Essence of the Bees will remove all negative status effects now (The Bumblezone)
+- Adjusted costs for Neurotoxin to prevent some mods from allowing Neurotoxin levels above 3 from being obtainable (The Bumblezone)
+- Increased time between biome music playing to around 6 minutes (The Bumblezone)
+
+Fixes:
+- Fullscreen map issues on Mac Retina displays (JourneyMap)
+- Server disconnect when packet is sent too early (JourneyMap)
+- Disabling Day/Night cycle prevents radar updates (JourneyMap)
+- Otherside portal being generated over the bedrock roof (Deeper and Darker)
+- Labyrinth hallways occasionally being flooded (Illager Invasion)
+- Lizard models not having the proper texture (Naturalist)
+- Deer and Lizard head wobbling (Naturalist)
+- Lions having adult mane textures when babies + a few other Lion texture issues that were introduced when random mane spawning was added (Naturalist)
+- Workaround for screens crashing the game when opened with Controlify installed (Puzzles Lib)
+- Potential UI crash (Recipe Essentials)
+- Initial Bumblezone welcome message spam if another mod completely disables advancements for Bumblezone (The Bumblezone)
+- Buzzing Briefcase not releasing bees on block left click (The Bumblezone)
+- Beating the Radiance event incrementing the Raging event's stat count (The Bumblezone)
+- Cases where Sempiternal Sanctums events do not end properly if all players leave arena (The Bumblezone)
+- Potential case where touching Essence Block does not start arena event and added some more logging to help figure out issues with it (The Bumblezone)
+- Crash when hovering an unknown flag (Server Country Flags)
+- Desync of absorption due to Reactive Ward (Spellblades and Such)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
