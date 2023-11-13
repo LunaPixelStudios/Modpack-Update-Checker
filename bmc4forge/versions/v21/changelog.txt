@@ -1,0 +1,30 @@
+[Small Update]
+FORGE IS NOW 43.3.5
+
+Mods:
+- Added Extra Compat
+- Added Ping Wheel
+- Added Packet Fixer
+
+Changes:
+- Performance Improvements (ImmediatelyFast)
+- Improve menuworld load times (Vivecraft)
+- During menuworld loading the game will not freeze anymore and show the fallback menu (Vivecraft)
+
+Fixes:
+- Items not being colored correctly (Embeddium)
+- Custom color resolvers on vanilla blocks not being used (Embeddium)
+- Rare bug where placing blocks did not update the chunk visually (Embeddium)
+- Rare startup crash with Oculus (Embeddium)
+- Fieldsprout Tree crash (The Aether: Redux)
+- Bowls not being returned to the player when foods are eaten (Crabber's Delight)
+- Critical crash where the game would crash if the Halloween content wasn't loaded (Deep Aether)
+- Large modpacks crashing Steam VR (Vivecraft)
+- Rare crash with menuworld loading on abort (Vivecraft)
+- Crash because of heap memory corruption when menuworlds are loaded with modernfix installed (Vivecraft)
+- Run in place movement mode moving in the wrong directions (Vivecraft)s
+- Menuworld loading with serene seasons, alex's mobs, and L_Ender's Cataclysm installed (Vivecraft)
+- Leash position in seated mode (Vivecraft)
+- Server crash (Supplementaries)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
