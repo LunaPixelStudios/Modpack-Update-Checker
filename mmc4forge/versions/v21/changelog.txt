@@ -1,0 +1,91 @@
+[Merchants Guild Update]
+FORGE IS NOW 43.3.5
+
+Mods:
+- Added The Merchants Guild (New Traders & NPCs)
+- Added TACT - Tiny Alex's Caves Tweaks
+- Added Extra Compat
+- Added Ping Wheel
+- Added Eclectic Trove (Legendary Tooltips)
+- Added Embellished Stone (Advancement Plaques)
+
+Configs:
+- Disabled Temperature
+- Disabled Well Being
+- Disabled Hygiene
+- Disabled the Uncrafting Table
+- Disabled the Phantom Origin
+- Made seasons longer (Every 1 IRL day)
+
+Changes:
+- Performance Improvements (ImmediatelyFast)
+- Non-hostile creatures can now have levels (Auto Leveling)
+- Added apotheosis compat for wand affixes (Eidolon : Repraised)
+- Converted boost to magic damage from hat to attribute (Eidolon : Repraised)
+- Added more illwood/polished wood furniture (Eidolon : Repraised)
+- Improve menuworld load times (Vivecraft)
+- During menuworld loading the game will not freeze anymore and show the fallback menu (Vivecraft)
+- Integration to Alex's Caves (Just Enough Breeding)
+- Added compatibility with some various mod tag (Twilight Forest)
+- TF bows now respect FOV settings (Twilight Forest)
+- Carminite Reactors and Ghast Traps will no longer tick in debug worlds which will fix the sound and explosion spam they were doing (Twilight Forest)
+- Lower goblin knights now play their muffled sounds when wearing armor instead of when ridden (Twilight Forest)
+- Lower goblin knights will no longer swing their arms when wearing armor or when ridden by an upper goblin knight (Twilight Forest)
+
+Fixes:
+- Cave biomes generating too small (Alex's Caves)
+- Deep ones being hostile by default (Alex's Caves)
+- Radgill making too much noise in acid (Alex's Caves)
+- Magnetic particles messing up screen with oculus installed (Alex's Caves)
+- Server packet crash with cave biome maps (Alex's Caves)
+- Crash with armor models and geckolib (Alex's Caves)
+- MCreator mods stopping cave biomes from generating (Alex's Caves)
+- Missing tags on items and blocks (Alex's Caves)
+- Full dinosaur chop being waterlogged (Alex's Caves)
+- Acid buckets not working in dispensers (Alex's Caves)
+- Uranium rods not being waterlogged (Alex's Caves)
+- Magnetic quarry not dropping when broken (Alex's Caves)
+- Thornwood and pewen blocks missing noteblock sounds (Alex's Caves)
+- Infinite cloak of darkness flight (Alex's Caves)
+- Entering submarine with diving suit on not refilling air (Alex's Caves)
+- Underzealots targetting players during rituals (Alex's Caves)
+- Nucleeper being too weak (Alex's Caves)
+- Cave tablets only showing as magnetic with JEI installed (Alex's Caves)
+- Galena gauntlet being able to use multiple tools at once (Alex's Caves)
+- Underzealots having a massive detection range (Alex's Caves)
+- Cave biome ambience still playing after death and respawn (Alex's Caves)
+- Darkness incarnate effect not being removed with /effect clear (Alex's Caves)
+- Braniacs having too short of an attack range (Alex's Caves)
+- Neodymium advancement only working with scarlet neodymium (Alex's Caves)
+- Dropped exp override (Auto Leveling)
+- Duelist, Rookie, Thief, Lucky and Adventurer Skeletons texture issue when near some blocks like snow (Realm RPG)
+- Swimmer Skeleton has become much faster to destroy so that it doesn't take forever when breaking it underwater (Realm RPG)
+- Swimmer Skeleton generated outside water in rare cases (Realm RPG)
+- Placed holosphere missing block name for mods that display that (Tetra)
+- Items not being colored correctly (Embeddium)
+- Custom color resolvers on vanilla blocks not being used (Embeddium)
+- Rare bug where placing blocks did not update the chunk visually (Embeddium)
+- Rare startup crash with Oculus (Embeddium)
+- Fieldsprout Tree crash (The Aether: Redux)
+- Bowls not being returned to the player when foods are eaten (Crabber's Delight)
+- Critical crash where the game would crash if the Halloween content wasn't loaded (Deep Aether)
+- Large modpacks crashing Steam VR (Vivecraft)
+- Rare crash with menuworld loading on abort (Vivecraft)
+- Crash because of heap memory corruption when menuworlds are loaded with modernfix installed (Vivecraft)
+- Run in place movement mode moving in the wrong directions (Vivecraft)
+- Menuworld loading with serene seasons, alex's mobs, and L_Ender's Cataclysm installed (Vivecraft)
+- Leash position in seated mode (Vivecraft)
+- Stone hand duplication glitch (Eidolon : Repraised)
+- Bunch of missing texture warnings in the logs (Twilight Forest)
+- Uncrafting table dupe (Twilight Forest)
+- Strange crash that rarely happens when generating structures (Twilight Forest)
+- Fortification shields breaking in creative and spectator mode (Twilight Forest)
+- Unstable ice core crash (Twilight Forest)
+- Structure mob spawns causing a lot of TPS lag in big modpacks that add lots of structures (Twilight Forest)
+- Client lag issue regarding skull candles (Twilight Forest)
+- Name tags not working on multipart entities (Twilight Forest)
+- Mobs not dropping XP when killed by various TF projectiles (Twilight Forest)
+- JEI showing shapeless uncrafting recipes even if they're disabled (Twilight Forest)
+- Server crash (Supplementaries)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
