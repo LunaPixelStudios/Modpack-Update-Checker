@@ -1,0 +1,31 @@
+[Spawn. Update]
+
+Mods:
+Spawn.
+Diagonal Fences [Forge & Fabric]
+
+Changes:
+- Performance Improvements (ImmediatelyFast)
+- Added Waystones to CTOV and Towns & Towers villages (Fabric Waystones)
+- Echoing wrath now knockbacks entities away (Mythic Charms)
+- Decreased Safe territory radius 4 -> 3 (Mythic Charms) 
+- Echoing wrath and Arrow dance, the wearer now receives additional damage (Mythic Charms)
+- Weightless flow and Drowned freedom now add additional exhaustion (Mythic Charms)
+- Fleeting strides and High bounds now add more exhaustion (Mythic Charms)
+- Additional distance fell with slow falling from Feathered grace and High bounds now adds additional exhaustion (Mythic Charms)
+- Experience nugget now has a quick use to gain experience (Mythic Charms)
+- Experience nugget now won't appear if there are more than 10 mobs around  (Mythic Charms)
+- Improved tooltips (Mythic Charms)
+- Improve menuworld load times (Vivecraft)
+- During menuworld loading the game will not freeze anymore and show the fallback menu (Vivecraft)
+
+Fixes:
+- Large modpacks crashing Steam VR (Vivecraft)
+- Rare crash with menuworld loading on abort (Vivecraft)
+- Crash because of heap memory corruption when menuworlds are loaded with modernfix installed (Vivecraft)
+- Run in place movement mode moving in the wrong directions (Vivecraft)s
+- Menuworld loading with serene seasons, alex's mobs, and L_Ender's Cataclysm installed (Vivecraft)
+- Leash position in seated mode (Vivecraft)
+- SnowBlockCoveredEntity causes lag when saving state/NBT during chunk unloading (Snow! Real Magic!)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
