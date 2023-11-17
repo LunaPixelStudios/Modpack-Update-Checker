@@ -1,0 +1,66 @@
+[Spawn. Update]
+
+Mods:
+- Added Spawn.
+- Added Soaring Structures 2 - Forge / Fabric
+
+Changes:
+- Huge Update (Marium's Soulslike Weaponry)
+- Performance Improvements (ImmediatelyFast)
+- Added basic, craftable, two-handed spears, so Archers can defend themselves in melee (Archers)
+- Reduce damage done by Barrage skill (Archers)
+- Slightly increase damage done by Barrage skill (Archers)
+- Disable Spell Power related enchantments for archer equipment (Archers)
+- Removed false range tooltips from skills (Archers)
+- Added water bowl (Dehydration)
+- Added legendary tooltips compatibility (Eldritch End)
+- The Necronomicon is now an eldritch artifact (Eldritch End)
+- Added Waystones to CTOV and Towns & Towers villages (Fabric Waystones)
+- Improve menuworld load times (Vivecraft)
+- During menuworld loading the game will not freeze anymore and show the fallback menu (Vivecraft)
+- Added new passive 'Quickdraw' (Simply Skills)
+- Added Marksmanship effect (Simply Skills)
+- Added Ruby Junction nodes to the base skill tree (Simply Skills)
+- Added Agile effect (Simply Skills)
+- Many passives that trigger off of spell casts now support spell casting from Amethyst Imbuement (Simply Skills)
+- The following spells no longer require a target to cast: Ice Comet, Lightning Ball, Arcane Bolt, Frost Volley, Arcane Volley, Heavensmith's Call, Marksman - - Arrow, Elemental Arrows (Simply Skills)
+- Increased the cast speed and stacks of Frost & Arcane Volley (Simply Skills)
+- Marksman Arrow now scales with ranged damage (Simply Skills)
+- Unseen passive reworked (Simply Skills)
+- Reflexive passive reworked (Simply Skills)
+- Slender & Frail passives reworked (Simply Skills)
+- Disengage [Marksman] reworked (Simply Skills)
+- Arcane Volley [Lesser] reworked (Simply Skills)
+- Rogue's Evasion Mastery slight rework (Simply Skills)
+- Updated the Overload passive tooltip to correctly reflect the reduced values (Simply Skills)
+- Loading a crossbow no longer breaks stealth when canceling the load early (Simply Skills)
+- Empowered now has proper support fro all spells of the relevant school (Simply Skills)
+- All Ranger abilities will now work correctly with shortbows from Archers & MCDW (Simply Skills)
+- Increased the visual size of path nodes in the skill tree (Simply Skills)
+- Improved readability of some passive tooltips (Simply Skills)
+- A localised chat message is now displayed when a player unlocks a specialisation (Simply Skills)
+- Update Spell Binding Table arrow button appearance (Spell Engine)
+- Added partial mutex for spell enchantments and ranged weapon enchantments (Spell Power Attributes)
+- Improved render order of pings to reflect their distance (Ping Wheel)
+
+Fixes:
+- Huge Update (Marium's Soulslike Weaponry)
+- Z fighting on Archery Artisan Table block model (Archers)
+- Ranger Armor model clipping into some player skins (Archers)
+- Two-handed ranged weapons ignoring projectile held in the offhand slot (Better Combat)
+- Patchouli compat (Dehydration)
+- Fixed Primordial Abyss default temperature (Eldritch End)
+- Some food crashing game on consumption (Fright's Delight)
+- Screen Layering breaking fabric onclose event (JourneyMap)
+- Sending packets while client is not ready (JourneyMap)
+- Issue with player dmg particles (Target Dummy)
+- Cooldown error messages when spell gets into cooldown (Spell Engine)
+- Large modpacks crashing Steam VR (Vivecraft)
+- Rare crash with menuworld loading on abort (Vivecraft)
+- Crash because of heap memory corruption when menuworlds are loaded with modernfix installed (Vivecraft)
+- Run in place movement mode moving in the wrong directions (Vivecraft)s
+- Menuworld loading with serene seasons, alex's mobs, and L_Ender's Cataclysm installed (Vivecraft)
+- Leash position in seated mode (Vivecraft)
+- SnowBlockCoveredEntity causes lag when saving state/NBT during chunk unloading (Snow! Real Magic!)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
