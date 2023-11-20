@@ -1,0 +1,32 @@
+[Huge Update]
+FABRIC LOADER IS NOW 0.14.24
+
+Mods:
+- Added Luna
+- Added Advanced Netherite (Fabric)
+- Added YUNG's Better End Island (Fabric)
+- Added YUNG's Better Jungle Temples (Fabric)
+- Added Towns and Towers
+- Added Decorative Blocks (Fork)
+- Added Villager Names
+- Added Fast Paintings
+- Added Sparse Strucutres
+- Added Server Country Flags
+- Added Recipe Essentials[Forge/Fabric]
+- Added Better chunk loading[Forge/Fabric]
+- Added Biome Music[Forge/Fabric]
+- Added Falling Leaves
+- Added Euphoria Patches
+- Added Redirector [Modern]
+- Added Configured Defaults
+- Added Load My F***ing Tags
+- Added Client Crafting
+- Added FTB XMod Compat
+- Added Neruina
+- Added Complementary Shaders - Reimagined
+- Added Icon Xaero's
+- Removed Villager Names (Causes Crash)
+- Updated Configs
+- Many Changes and Fixes that wont be listed due to so many updated mods
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
