@@ -1,0 +1,34 @@
+[Huge Update]
+FORGE IS NOW 43.3.5
+ 
+- Added The Aether (by TheAetherTeam)
+- Added The Aether: Redux (by Zepalesque)
+- Added Eidolon : Repraised (by Alexth99)
+- Added Apotheotic Additions (by Bryce792)
+- Added YUNG's Better End Island (Forge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (Forge) (by YUNGNICKYOUNG)
+- Added Lunar (by Mrbysco)
+- Added Sparse Structures Reforged (by pOtAto__bOy)
+- Added Rubidium Extra (by dimadencep)
+- Added Configured Defaults [Forge & Fabric] (by Fuzs)
+- Added Server Country Flags (by khajiitos)
+- Added Ender Sins (by Sweetygamer)
+- Added Ars Armiger (by VykladeLapiet)
+- Added Another Furniture (by Starfish_Studios)
+- Added Better chunk loading[Forge/Fabric] (by someaddon)
+- Added TexTrue's Embeddium Options (by TexTrue)
+- Added FTB XMod Compat (by FTB)
+- Added Village Spawn Point (by Serilum)
+- Added Recipe Essentials[Forge/Fabric] (by someaddon)
+- Added RyoamicLights (by TexTrue)
+- Added Tetra Extras (by Vinnaxy)
+- Added Cherished Worlds (Fabric/Forge/Quilt) (by TheIllusiveC4)
+- Added DespawnTweaker (by pOtAto__bOy)
+- Added Tough as Tweaked (by Favouriteless)
+- Added Euphoria Patches (by SpacEagle17)
+- Added Complementary Shaders - Unbound (by EminGTR)
+- Removed Epic Paladins (Discontinued)
+- Removed ServerCore (Causes Issues)
+- Many Changes and Fixes that wont be listed due to so many updated mods
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
