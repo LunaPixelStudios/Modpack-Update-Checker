@@ -1,0 +1,59 @@
+[Geophilic Update]
+FORGE IS NOW 47.2.6
+ 
+Mods:
+- Added Geophilic Reforged – Biome Additions (by bebebea_loste)
+- Added Stony Cliffs Are Cool (by bebebea_loste)
+- Added Eldritch End (by ElocinDev)
+- Added Connector Extras (by Su5eD)
+- Added Sinytra Connector (by Su5eD)
+- Added FTB XMod Compat (by FTB)
+- Added Inventory Management (by Roundaround)
+- Added Ocean's Delight (by scouter567)
+- Removed Inventory Sorter (Duping)
+- Removed Vivecraft (VR still works just not supported)
+ 
+Configs:
+- Updated & Added Quests
+- Updated Datapacks
+- Made Seasons Longer
+ 
+Changes:
+- Nether Delight Compat (Cuisine Delight)
+- Ocean Delight Compat (Cuisine Delight)
+- Ogana Burdock as a plant for getting the fruit (Endorium)
+- More Compat (Extra Compat)
+- Implemented Cherrier Groves (Geophilic – Vanilla Biome Overhauls)
+- Improved the kick message to clarify why the player was kicked (Neruina)
+- 1 new structure (Phillips Ruins)
+- Added direction indicator to show off-screen pings (Ping Wheel)
+- Improved render order of pings to reflect their distance (Ping Wheel)
+- Added compatibility with some various mod tags (Twilight Forest)
+- TF bows now respect FOV settings (Twilight Forest)
+- Carminite Reactors and Ghast Traps will no longer tick in debug worlds which will fix the sound and explosion spam they were doing (Twilight Forest)
+- Lower goblin knights now play their muffled sounds when wearing armor instead of when ridden (Twilight Forest)
+- Lower goblin knights will no longer swing their arms when wearing armor or when ridden by an upper goblin knight (Twilight Forest)
+- Upgraded Endorium tools are now stronger than that of Netherite, but require Dragon Breath (Endorium)
+- Ender Boots upon teleporting will keep the look direction on the target (Endorium)
+ 
+Fixes:
+- Memory Leak (Carry On)
+- Placement Issues (Carry On)
+- Bowls and nautilus shells not returning when eaten (Crabber's Delight)
+- Vegetable pasta recipe (Cuisine Delight)
+- Tool material stats (Endorium)
+- Magnum torches occasionally missing out on spawns at their range's edge (Magnum Torch)
+- A bunch of missing texture warnings in the logs (Twilight Forest)
+- Uncrafting table dupe (Twilight Forest)
+- Strange crash that rarely happens when generating structures (Twilight Forest)
+- Fortification shields breaking in creative and spectator mode (Twilight Forest)
+- Unstable ice core crash (Twilight Forest)
+- Structure mob spawns causing a lot of TPS lag in big modpacks that add lots of structures (Twilight Forest)
+- Client lag issue regarding skull candles (Twilight Forest)
+- Name tags not working on multipart entities (Twilight Forest)
+- Mobs not dropping XP when killed by various TF projectiles (Twilight Forest)
+- JEI showing shapeless uncrafting recipes even if they're disabled (Twilight Forest)
+- Block placements not updating the chunk visually (Embeddium)
+- Transmitter durability (Endorium)
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
