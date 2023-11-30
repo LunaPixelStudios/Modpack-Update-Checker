@@ -1,0 +1,42 @@
+[Fixes Update]
+FABRIC IS NOW 0.14.25
+ 
+HotFix:
+- Reverted Supplementaries (Crashing Server Side)
+- Updated Xaero's Mods
+ 
+Mods:
+- Added FTB XMod Compat (by FTB)
+- Added Inventory Management
+- Added Ocean's Delight (by scouter567)
+- Added Icon Xaero's (by godkyo98)
+- Removed Inventory Sorting (Replaced)
+- Removed Vivecraft (VR still works just not supported)
+ 
+Changes:
+- Implemented Cherrier Groves (Geophilic)
+- Resonance ring is now unstackable (Mythic Charms)
+- Equipping and unequipping charms now deals damage, 1 heart for a fragile charm and half a heart for an unbreakable one (Mythic Charms)
+- Charms can now be equipped quickly, with right-click (Mythic Charms)
+- Added sounds for equipping and unequipping charms (Mythic Charms)
+- Added sound that plays if the combination is equipped (Mythic Charms)
+- Added the ability to switch dimensions viewed on the map without physically switching dimensions. You can do it from the map switching menu, with a quick toggle button on the map screen or with a key binding (Xaero's World Map)
+- Added the ability to teleport between dimensions by right clicking a map of another dimension (Xaero's World Map)
+- You can now connect waypoint sub-worlds that are from the same dimension (Xaero's Minimap)
+- Optimisation of tracked player dimension filtering when rendering them (Xaero's Minimap & World Map)
+- Some general waypoint-related optimisations (Xaero's Minimap & World Map)
+- Slightly optimised region unloading (Xaero's World Map)
+- FTB Teams support (Xaero's Minimap)
+ 
+Fixes:
+- Memory Leak (Carry On)
+- Golems pattern spawns with dispenser (Friends&Foes)
+- Golems and Wildfire immunity to fall damage (Friends&Foes)
+- Magnum torches occasionally missing out on spawns at their range's edge (Magnum Torch)
+- Waypoint dimension scaling not working quite right for modded dimensions. Requires visitting the dimensions once after updating (Xaero's Minimap)
+- Incorrect waypoint order when rendering them with dimension scaling (Xaero's Minimap)
+- "Load New Chunks" and "Update Chunks" options not working for non-world-save maps in singleplayer (Xaero's World Map)
+- Some regions refusing to load under some conditions that could be caused by quickly switching between dimensions (Xaero's World Map)
+- Fixed Issues (Bumblezone)
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
