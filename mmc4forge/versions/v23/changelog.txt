@@ -1,0 +1,94 @@
+[Bosses of Mass Destruction Update]
+FORGE IS NOW 47.2.16
+ 
+HotFix:
+- Removed Visual Wokrbench
+ 
+Mods:
+- Added Bosses of Mass Destruction [FORGE] (by CerbonXD)
+- Added Advanced Netherite (Forge) (by AutovwDev)
+- Added ChristmasColonies (by Raycoms)
+- Added What Are They Up To (Watut) (by Corosus)
+- Added RyoamicLights (by TexTrue)
+- Added CullLessLeaves Reforged (Unofficial) (by ccr4ft3r)
+- Added Relics: Alex's Mobs Compat (by SSKirillSS)
+- Added Delightful (by brnbrd)
+- Added Drink Beer Refill (by DragonsPlus)
+- Added Hunter'sReturn (by bagu_chan500)
+- Added JadeColonies (by uecasm)
+- Reverted Structurize (Fixes Crash)
+- Removed Cull Leaves (Replaced)
+ 
+Resource Packs:
+- Added Aether: Regenerated
+ 
+Configs:
+- Blacklisted Relics Table from CarryOn
+ 
+Changes:
+- Increases frequency of wilden dens (Ars Nouveau)
+- Adds quartz block to quartz crush recipe (Ars Nouveau)
+- Adds cactus, sugarcane, and chorus fruit to Whirlisprig like list (Ars Nouveau)
+- Added Items (Wizard's Reborn)
+- Added music disc, "Arcanum Swinging", composed by Onjerlay (Wizard's Reborn)
+- Added music disc, "Mor Marsh", composed by Onjerlay (Wizard's Reborn)
+- Added ambient track "Mor Marsh" for swamp biomes (Wizard's Reborn)
+- Curios inventory keybinding now also closes the current container to mimic the behavior of the vanilla inventory keybinding (Curios)
+- Added Dendler (Eldritch End)
+- More Mod Support (Extra Compat)
+- Reworked Copper Golem AI to use brain/tasks instead of goals (Friends&Foes)
+- Reworked Copper Golem animations to use keyframe animations (Friends&Foes)
+- Improved Copper Golem oxidized statue state (Friends&Foes)
+- Improved compatibility with other mods tweaking lightning rod (Friends&Foes)
+- Boosted Mauler scaling allowing significant growth when fed with enchanted items (Friends&Foes)
+- Changed Wildfire Crown Fragments to be immune to fire/lava (Friends&Foes)
+- Infrastructure changes across all versions allowing faster development flow/ports (Friends&Foes)
+- Wolves equipped with Wolf Armour will now drop the Wolf Armour on death (What Are You Voting For? 2023)
+- Baby winged animals inherit their wing color from their parents (Aether: Lost Content Addon)
+- Phoenix tools are properly considered as Aether tools (Aether: Lost Content Addon)
+- Changed Pink Aercloud texture (The Aether)
+- Made the top of the Holystone texture no longer rotate (The Aether)
+- Added missing things to the creative menu (The Aether)
+- Ambrosium no longer can enchant all blocks (The Aether)
+- Aether flower bounding boxes now offset properly (The Aether)
+- Aechor Plants no longer disappear when hit with a Gravitite Sword (The Aether)
+- Cockatrices no longer target the player in creative mode (The Aether)
+- Moved glove positioning down very slightly (The Aether)
+- New Structures (Towns and Towers)
+ 
+Fixes:
+- Slots failing to sync after world load (Curios)
+- Slots desyncing after dying or dimension changing (Curios)
+- All Affix Loot Entries files to re-add them to the loot table, as well as fixing 100's of errors in logs (Apotheotic Additions)
+- Broken files with latest version of patchouli (Ars Nouveau)
+- Crash with summoned horse (Ars Nouveau)
+- Delay + linger, burst, and wall breaking targeting (Ars Nouveau)
+- Crash on dedicated server with particles (Ars Nouveau)
+- Sanctuary ritual using too much source (Ars Nouveau)
+- Source cost too low on several enchantment recipes (Ars Nouveau)
+- Missing particles (Ars Nouveau)
+- Item cooldown rendering using incorrect coordinates (Iron's Spells 'n Spellbooks)
+- Compatibility with mods trying to access spell names from the server (Iron's Spells 'n Spellbooks)
+- Ice Skates "Ram" ability quality calculation (Relics)
+- Displaying multi-line leveling description in the table UI (Relics)
+- Jellyfish Necklace "Shock" ability in the spectator mode (Relics)
+- Ice Breaker "Impact" ability fall resistance issues (Relics)
+- Missing canEquipFromUse override for some items (Relics)
+- Visual error with ModernFix FasterItemRendering (Wizard's Reborn)
+- Save wissen in item from blocks (Wizard's Reborn)
+- Slabs top models (Wizard's Reborn)
+- Fixed tags (problem with Minecolonies)
+- Wisestone recipes (Wizard's Reborn)
+- Ray spells on negative coordinates (Wizard's Reborn)
+- Golems pattern spawns with dispenser (Friends&Foes)
+- Golems and Wildfire immunity to fall damage (Friends&Foes)
+- Compatibility problems leading to client/server crashes related to Illusioner and Blaze interactions (Friends&Foes)
+- Mauler collider box scaling issues (Friends&Foes)
+- Crash related to blaze (Friends&Foes)
+- Mauler being immortal (Friends&Foes)
+- Error that would cause naturally spawning Penguins to freeze the game (What Are You Voting For? 2023)
+- Fixed incorrect use of accessory tags. Should work with the normal curios slots now (Aether: Lost Content Addon)
+- Many bugfixes (Eidolon : Repraised)
+- Fixes (Supplementaries)
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
