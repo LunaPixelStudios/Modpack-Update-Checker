@@ -1,0 +1,44 @@
+[Stoneborn Update]
+ 
+v23.5:
+- Reverted FWaystones (Causes Crash)
+
+Mods:
+- Added Merchant Markers [Fabric] (by Grend_G)
+- Added Overflowing Bars [Forge & Fabric] (by Fuzs)
+- Added Krypton (by tuxed)
+- Added Fast IP Ping (by Fallen_Breath)
+ 
+Resource Packs:
+- Added STONEBORN - Dwarven-Fantasy Inspired UI Overhaul (by Sindavar33)
+ 
+Changes:
+- The indicator for invocations has changed. No longer does it send a message to you: instead, the icon for Runic Invocation changes to match whatever invocation you are casting. DPS warriors rejoice! (Invocations)
+- Default spell for Runic Invocation is now nothing, rather than defaulting to Sonic Boom (Invocations)
+- Particles for Agonizing Blast reduced (Invocations)
+- Added several villages (Towns and Towers)
+- Boosted Mauler scaling allowing significant growth when fed with enchanted items (Friends&Foes)
+- Changed Wildfire Crown Fragments to be immune to fire/lava (Friends&Foes)
+- Replaced Chorus Fruit in Subway's one End-themed piece with another Ender Pearl. Better progression balance with vanilla (The Bumblezone)
+- Replaced Shulker Shell in Subway's one End-themed piece with another End Crystal. Better progression balance with vanilla (The Bumblezone)
+ 
+Fixes:
+- Compatibility issues with enchantment mods with Zenith (Marium's Soulslike Weaponry)
+- Skofnung Stone compatibility issues, will properly remove all harmful effects, even from other mods (Marium's Soulslike Weaponry)
+- Hexblade Magister crash (Spellblades and Such)
+- Crash when adventure module is enabled (Zenith)
+- Salvaging non single stacks of items not giving the proper amount of items in return (Zenith)
+- Compatibility problems leading to client/server crashes related to Illusioner and Blaze interactions (Friends&Foes)
+- Mauler collider box scaling issues (Friends&Foes)
+- Crash related to blaze (Friends&Foes)
+- Mauler being immortal (Friends&Foes)
+- Occasional client-side crash related to the Observation task (FTB Quests)
+- Flawed implementation of the Task Screen item/fluid/energy handlers on Fabric (FTB Quests)
+- Floral Meadow missing flowers (The Bumblezone)
+- Possible crash with immutable lists (The Bumblezone)
+- Crash with Sticky Honey Redstone (The Bumblezone)
+- Incompat with Sounds Physics Remastered mod where it caused players to get launched away from Essence Block despite not near it (The Bumblezone)
+- Crash related to warden armor (Deeper and Darker)
+- Fixed (Supplementaries/Moonlight/ModernFix)
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
