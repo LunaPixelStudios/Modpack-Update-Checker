@@ -1,0 +1,39 @@
+[Spawners+ Update]
+
+v23.5:
+- Reverted FWaystones (Causes Crash)
+- Reverted Nether Chested (Causes Crash)
+ 
+Mods:
+- Added Spawners+ (by NathanTheCraziest)
+- Added DragonLoot (by pois1xlive)
+- Added Too Fast (by Noobanidus)
+- Added Fast IP Ping (by Fallen_Breath)
+ 
+Resource Packs:
+- Added Custom Resource Pack
+- Added Icon Xaero's
+ 
+Changes:
+- Added several villages (Towns and Towers)
+- Boosted Mauler scaling allowing significant growth when fed with enchanted items (Friends&Foes)
+- Changed Wildfire Crown Fragments to be immune to fire/lava (Friends&Foes)
+- Replaced Chorus Fruit in Subway's one End-themed piece with another Ender Pearl. Better progression balance with vanilla (The Bumblezone)
+- Replaced Shulker Shell in Subway's one End-themed piece with another End Crystal. Better progression balance with vanilla (The Bumblezone)
+ 
+Fixes:
+- Compatibility problems leading to client/server crashes related to Illusioner and Blaze interactions (Friends&Foes)
+- Mauler collider box scaling issues (Friends&Foes)
+- Crash related to blaze (Friends&Foes)
+- Mauler being immortal (Friends&Foes)
+- Occasional client-side crash related to the Observation task (FTB Quests)
+- Flawed implementation of the Task Screen item/fluid/energy handlers on Fabric (FTB Quests)
+- Floral Meadow missing flowers (The Bumblezone)
+- Possible crash with immutable lists (The Bumblezone)
+- Crash with Sticky Honey Redstone (The Bumblezone)
+- Incompat with Sounds Physics Remastered mod where it caused players to get launched away from Essence Block despite not near it (The Bumblezone)
+- Support for some modded dimensions (Xaero's Minimap & World Map)
+- Crash related to warden armor (Deeper and Darker)
+- Fixed (Supplementaries/Moonlight/ModernFix)
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
