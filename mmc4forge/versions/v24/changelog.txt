@@ -1,0 +1,39 @@
+[STONEBORN Update]
+FORGE IS NOW 47.2.17
+ 
+Mods:
+- Added JourneyMap Teams (by Mysticdrew)
+- Added Tetranomicon (by syrikalis)
+ 
+Resource Pack:
+- Added STONEBORN - Dwarven-Fantasy Inspired UI Overhaul (by Sindavar33)
+ 
+Configs:
+- Fixed Resource Pack order and Keybinds resetting
+ 
+Changes:
+- Relic abilities will no longer target or damage pets or players on your team (Relics)
+- Removed friendly-fire for relic's active abilities (Relics: Alex's Mobs Compat)
+- Nerfed wildfire crown (Friends&Foes)
+- Baby winged animals inherit their wing color from their parents (Aether: Lost Content Addon)
+- Phoenix tools are properly considered as Aether tools (Aether: Lost Content Addon)
+- Aechor Plants no longer disappear when hit with a Gravitite Sword (The Aether)
+- Aether flower bounding boxes now offset properly (The Aether)
+- Ambrosium no longer can enchant all blocks (The Aether)
+- Added Waystones to Cherry and Bamboo Repurposed Structures villages (Waystones)
+- Inject waystone pieces into Repurposed Structures zombie village variants (Waystones)
+ 
+Fixes:
+- Crash with some modded advancements (Advancement Plaques)
+- Incorrect use of accessory tags. Should work with the normal curios slots now (Aether: Lost Content Addon)
+- Dendler not spawning properly in the hasturian wastes (Eldritch End)
+- Animated texture optimizations causing animated textures to be out of sync (Embeddium)
+- "Loading terrain" screen not going away for a long time when facing certain directions in the world (Embeddium)
+- Another edge case where chunk regions are ordered incorrectly, causing water to disappear behind stained glass (Embeddium)
+- Crash related to blaze/wildfire/illusioner (Friends&Foes)
+- Portals still being linked to return portal positions even after those portals are broken (NetherPortalFix)
+- Buckets not having any effect on waterlogged waystones (Waystones)
+- Warp stone cooldown getting corrupted into millions of seconds (Waystones)
+- Issues with What Are They Up To Mod
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
