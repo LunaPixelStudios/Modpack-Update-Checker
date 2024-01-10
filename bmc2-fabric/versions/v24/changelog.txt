@@ -1,0 +1,40 @@
+[Stability Update]
+
+Mods:
++ Added What Are They Up To (Watut) (by Corosus)
++ Added Iris/Oculus & GeckoLib Compat (by ElocinDev)
++ Added Backpacked Recipe Fix (by chorb)
++ Added Cull Less Leaves (by XanderIsDev)
++ Added Fast Async World Save[Forge/Fabric] (by someaddon)
++ Added BadOptimizations (by imthosea)
++ Added Dimensional Sync Fixes (by pOtAto__bOy)
+- Removed Fix Experience Bug (Replaced)
+- Removed Entity Culling (unnecessary, unstable)
+- Removed MoreCulling (incompatible with dynamic resources)
+ 
+Configs:
+- Enabled ModernFix Faster Item Rendering for upwards of 3x higher FPS when opening the inventory
+- Greatly reduced the amount of lag that Frostiful frozen wind will cause by making them no longer spawn as entities
+ 
+Updates:
+- Added cutting recipes for cherry wood and logs (Farmers Delight)
+- Added tooltips to horse armor (Tool Stats)
+- The Keep Kayra structure has been redesigned and now only spawns in Swamps and Mangroves. Spawners are now randomized, and difficulty has increased (When Dungeons Arise)
+- Pitcher pods can now be planted on rich farmland (Farmers Delight)
+- Improved copper golems sections in ancient city center pieces (Friends & Foes)
+- Further improved performance when generating chunks (Better Chunk Loading)
+- Campfire cooking time now shows in the overlay (Jade)
+- Dig speed statistic in tool tips now accounts for the Efficiency enchantment (Tool Stats)
+- Many performance and stability improvements (ModernFix)
+
+Fixes:
+- Client disconnects after a chat message verification failure (Connectivity)
+- Crops not breaking on non watered farmland (Farmers Delight)
+- Global waystones showing as unbreakable (Jade)
+- Waterlogged blocks not being treated as trasparent (Jade)
+- Overlay flickering while shooting projectiles (Jade)
+- Moobloom variants not working properly with dedicated servers (Friends & Foes)
+- Server crash with Void Lily (Bosses of Mass Destruction)
+ 
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
