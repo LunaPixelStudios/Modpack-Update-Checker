@@ -1,0 +1,19 @@
+[Better End & Quark]
+
+- Added Better End
+- Added Quark
+- Added Sawmill
+- Added Quark Delight
+- Added Aether Delight
+- Added Blossom Blade
+- Added Cut Through
+- Added Iris/Oculus & GeckoLib Compat
+- Added Fast Async World Save[Forge/Fabric]
+- Added Dimensional Sync Fixes
+- Added BadOptimizations
+- Added Biomes o' Plenty x Farmer's Delight Bark Cutting Compat
+- Added Quark x Farmer's Delight Bark Cutting Compat
+- Removed Corial Woodcutter (Replaced)
+- Removed Endorium (Replaced)
+- Lots of bug fixes and changes
+- Updated all mods
