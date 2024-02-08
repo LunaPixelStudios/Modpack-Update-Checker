@@ -112,7 +112,7 @@
     },
     {
       "id": "v24",
-      "releasedAt": 1704853751000
+      "releasedAt": 1704853751000,
       "updateType": "minor_breaking"
     }
   ]
