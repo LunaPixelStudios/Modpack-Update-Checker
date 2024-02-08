@@ -32,7 +32,7 @@
     },
     {
       "id": "v25",
-      "releasedAt": 1707349210000
+      "releasedAt": 1707349210000,
       "updateType": "minor_breaking"
     }
   ]
