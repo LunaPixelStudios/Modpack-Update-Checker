@@ -1,0 +1,30 @@
+v25.5:
+- Added Xenon
+- Added Lazurite
+- Added Continuity
+- Fixed JEI Recipes having issues with older version worlds
+- Fixed crash when using transfer button on a server
+- Fixed BCLib Log Spam
+- Removed Embeddium w/ Addons (Replaced)
+ 
+v25:
+[BetterEnd & Quark]
+ 
+- HotFix: Fixed Enabling Shaders Crashing
+- Added BetterEnd (by Quiqueck)
+- Added Quark (by Vazkii)
+- Added Sawmill (by MehVahdJukaar)
+- Added Quark Delight (by nocubeyt)
+- Added Aether Delight (A Farmer's Delight Add-on) (by nocubeyt)
+- Added Blossom Blade (by joshieman)
+- Added Cut Through (by Fuzs)
+- Added Iris/Oculus & GeckoLib Compat (by ElocinDev)
+- Added Fast Async World Save[Forge/Fabric] (by someaddon)
+- Added Dimensional Sync Fixes (by pOtAto__bOy)
+- Added BadOptimizations (by thosea)
+- Added Biomes o' Plenty x Farmer's Delight Bark Cutting Compat (by DJBaphomet)
+- Added Quark x Farmer's Delight Bark Cutting Compat (by DJBaphomet)
+- Removed Corial Woodcutter (Replaced)
+- Removed Endorium (Replaced)
+- Lots of bug fixes and changes
+- Updated all the Mods
