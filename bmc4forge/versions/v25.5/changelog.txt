@@ -9,7 +9,6 @@ v25.5:
  
 v25:
 [BetterEnd & Quark]
- 
 - HotFix: Fixed Enabling Shaders Crashing
 - Added BetterEnd (by Quiqueck)
 - Added Quark (by Vazkii)
