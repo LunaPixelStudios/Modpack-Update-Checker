@@ -1,0 +1,68 @@
+MMC4 v25
+[Ice and Fire, Quark, and Better End]
+- Added Ice and Fire: Dragons
+- Added Quark
+- Added Better End
+- Added When Dungeons Arise: Seven Seas
+- Added Apothic Curios
+- Added Quark Delight
+- Added Aether Delight
+- Added Combat Roll
+- Added Sawmill 
+- Added Dimensional Ascension - Blue Skies Tetra Compatibility
+- Added Aetheric Tetranomicon
+- Added Visual Workbench
+- Added Iris/Oculus & GeckoLib Compat
+- Added Dimensional Sync Fixes
+- Added Fast Async World Save[Forge/Fabric]
+- Added BadOptimizations
+- Added SuperBetterGrass
+- Added Continuity
+- Added Lazurite
+- Added FabricSkyBoxes
+- Added Xenon
+- Removed Endorium (Replaced)
+- Removed Aethersteel (Worldgen issues, balance issues)
+- Removed Textrue's Embeddium Options (Replaced)
+- Removed Embeddium (Replaced)
+- Removed Embeddium Extras (Replaced)
+- Removed Fix Experience Bug (Replaced)
+- Removed Model Gap Fix (Lag with animated items)
+- Removed RyoamicLights (Ars has dynamic lighting)
+- Removed ObsidianUI 
+- Removed EntityCulling
+- Removed RightClickHarvest (Replaced)
+- Removed Double Doors (Replaced)
+- Removed Corail Woodcutter (Replaced)
+- Removed Additional Structures (Worldgen issues)
+- Removed Dynamic Trim (Temporarily, texture issues)
+- Removed The Merchant's Guild
+
+Modpack Changes: 
+- Many new textures including Ice and Fire, Quark, Simply Swords, and more (Thanks GrandPappyJay, lowpassfilter, wmblr, Brass, anivay, Eleazzaar, kevinl2000, TC, stradat, pablito, and any others!)
+- Disabled random Cpt. Cornelia spawns (and similar bosses)
+- Improved default levels and difficulty for many mobs, bosses, and dimensions
+- Many small gem/affix balancing changes
+- Amnesia Scrolls are now craftable
+- Fixed a few texture bugs
+- Made some minor improvements to quests
+- Disabled Chorts (bypassing spawn restrictions, rip chort...)
+- Fixed hoppers only drawing from one side of double chests
+- Disabled recursive trapdoor opening
+- Disabled some broken blocks in Every Compat
+- Performance Guide button now links to the Prominence Wiki
+- Made structures slightly more common
+
+Mod Changes:
+- Fixed GUI (Passive Skill Tree)
+- Re-added Enchanter tree compat with Apotheosis (Passive Skill Tree)
+- Fixed gem socketing not working (Passive Skill Tree)
+- Reworked Pixie, Banshee, and Necromancer, added many new icons and sounds (Medieval Origins Revival)
+- Added High Elf (Medieval Origins Revival)
+- Fixed Orb of Origin not showing up (Origins)
+- Fixed powers sometimes not appearing (Origins)
+- Added new treasure-enchantment related shelves, adjusted enchanting XP cost formula (Apotheosis)
+- Rebalanced gems, added new heirloom tier, many new affixes, bosses, and minibosses (Apotheotic Additions)
+- All other mods updated
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
