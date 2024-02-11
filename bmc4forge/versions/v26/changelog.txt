@@ -1,0 +1,20 @@
+Better MC [FORGE] 1.20.1 v26
+
+**Mods:**
+- Removed Continuity (Caused crash with Chipped)
+
+**Configs:**
+- Moved and resized some menu elements for better symmetry (Thanks Tlp!)
+
+**Updates:**
+- Made foods display the effect tooltips for what they do (Crabbers Delight)
+- Crab Cakes are now crafted using Wheat Dough in place of Bread (Crabbers Delight)
+- Delayed recipe lookup by one tick to avoid unnecessary lag when other mods make lookups slow (Client Crafting)
+- More new FarmersDelight cutting recipes (ExtraCompat)
+- Enabled arm swinging animation while riding (Not Enough Animations)
+- Changed the smoothing speed from 0.5 to 0.1 so it doesn't feel so sluggish when hitting (Not Enough Animations)
+- Enabled arm swinging while riding a boat (Not Enough Animations)
+
+**Fixes:**
+- Head being weirdly stuck while climbing a ladder (Not Enough Animations)
+- Wall enderman head not giving changing power signal (Supplementaries)
