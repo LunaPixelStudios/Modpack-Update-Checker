@@ -1,0 +1,72 @@
+Medieval MC 1.20.1 [FORGE] v26
+[Worldgen and Balance Update]
+BACK UP YOUR WORLD BEFORE UPDATING
+- Added [Celestisynth](https://www.curseforge.com/minecraft/mc-mods/celestisynth)
+- Added [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul)
+- Added [Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
+- Added [Ice and Fire: Spellbooks](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-spellbooks)
+- Added [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- Added [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
+- Added [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)
+- Added [Not Enough Recipe Book (NERB)](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
+- Added [Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator)
+- Added [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+- Added [Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures)
+- Added [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures)
+- Removed Farlanders (Replaced)
+- Removed Simple Storage Network (Issues with Apotheosis, replaced)
+- Removed Macaw's Bridges (Long load times)
+- Removed Dungeons and Taverns (Worldgen issues)
+- Removed Explorify - Dungeons and Structures (Balance issues)
+- Removed CTOV compat datapacks (No longer needed)
+- Removed Better Chunk Loading (Temporary - rare chunk rendering issues)
+- Removed Continuity (Issues with shaders)
+- Removed SuperBetterGrass
+- Removed Lazurite
+- Removed Geophilic (Duplicate)
+- Removed CullLessLeaves (Replaced)
+
+Fixes:
+- Fixed some armors and weapons not receiving crafting skill tree bonuses
+- Fixed compatibility between Origins and Survive
+- Fixed some areas of chunk rendering freezing completely
+- Fixed end cites being extremely rare
+- Hopefully fixed crashes caused by resource reload failure (**If you still see a resource reload failure message, restart your game**).
+- Fixed a few more texture inconsistencies
+- Hid a few irrelevant console spam messages
+- Fixed loot tables being filled with junk by various mods
+- Enabled Lithium AI optimizations
+- Enabled ModernFix location deduplication to slightly reduce memory usage
+- Fixed Quark variant animals texture issues
+- Disabled ImmediatelyFast HUD Batching
+- Adjusted attack animations for Ice and Fire weapons
+- Disabled crimson moons and big moons
+
+Balance:
+- Slightly lowered mob damage overall
+- Lowered the level random variance of dragons
+- Lowered average mob level in the Nether
+- Capped Protection obtainable from the enchanting table at 5
+- Spawners can no longer be collected with Silk Touch
+- Spells now deal magic or elemental damage to help with scaling
+- Made affixed items much more common, but lower quality on average
+- Affix and gem quality will increase more based on luck stat
+- Made dragon nests less common
+- Made luck slightly harder to obtain
+- Made nether chests cheaper to craft
+- Nerfed dragonsteel weapons
+- Added a crafting recipes for a few previously non-renewable Iron's Spellbooks materials
+- Lowered the rate of rarer ingots from treasure bags
+
+Important Mod Updates:
+- Fixed crafted item bonuses with Visual Workbench (Passive Skill Tree)
+- Added volcanos, several new mobs, items, blocks, and enchantments (Alex's Caves)
+- Curio Casting Rework - Spells now require a staff or other casting implement to cast (Iron's Spellbooks)
+- Added a new origin, the Alfiq - a species of catlike hunters (Medieval Origins Revival)
+- Heavy Weapons no longer have an attack speed debuff (Apotheosis)
+- Fixed slow chunk loading caused by surface rules (Citadel)
+- Added new Enchantment tooltip rendering (Apotheosis)
+- Fixed some gems being upgradeable to invalid rarities (Apotheosis)
+- Fixed JEI/Creative only showing vanilla maximum enchantment levels (Apotheosis)
+
+BACK UP YOUR WORLD BEFORE UPDATING
