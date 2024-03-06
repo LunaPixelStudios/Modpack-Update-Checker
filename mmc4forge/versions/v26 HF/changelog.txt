@@ -1,5 +1,6 @@
-Medieval MC 1.20.1 [FORGE] v26 HF
-[Hotfix Update]
+## Medieval MC 1.20.1 [FORGE] v26 HF
+### [Hotfix Update]
+
 - Fixed Revenant having issues with interacting with the world (Medieval Origins Revival)
 - Fixed golden helmets not preventing blindness for Dwarves (Medieval Origins Revival)
 - Added more missing GUI Textures (Mei's Stoneborn - Thanks Mei!)
