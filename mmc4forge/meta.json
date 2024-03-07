@@ -40,7 +40,8 @@
     },
     {
       "id": "v26 HF",
-      "releasedAt": 1709768363000
+      "releasedAt": 1709768363000,
+      "updateType": "minor_breaking"
     }
   ]
 }
