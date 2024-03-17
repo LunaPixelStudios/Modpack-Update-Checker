@@ -1,0 +1,19 @@
+### Medieval MC 1.20.1 [FORGE] v26.5
+[Stability Update]
+**As always, make a backup of your world before updating**
+*Due to a minor bug, you may have to launch the modpack twice the first time you play*
+- Added Apothic Combat
+- Removed EndlessBiomes (Causing issues with villagers)
+
+- Major performance and consistency improvements from Origins Forge (Thanks Pug!)
+- All Two Handed weapons will now be considered Heavy Weapons for Apotheosis
+- Fixed Twilight Forest textures
+- Capped Aether Sliders at level 1
+- Lowered Monster Explosion Damage bonus per Level (Fixes the Nether Gauntlet)
+- Simply Swords Uniques now have a chance to drop from most bosses
+- Supplementaries Quivers can now be equipped in the quiver slot
+- Fixed Iron's Spellbooks gems
+- Disabled WAYFV's Penguins (caused a crash)
+- Added bosses to the Ars Nouveau Drygmy blacklist (Thanks Xltimus!)
+- Fixed moving items with the scroll wheel moving 2 items at a time
++ Most other mods updated
