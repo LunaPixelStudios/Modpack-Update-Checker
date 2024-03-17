@@ -1,4 +1,4 @@
-Medieval MC 1.20.1 [FORGE] v26
+### Medieval MC 1.20.1 [FORGE] v26
 [Worldgen and Balance Update]
 BACK UP YOUR WORLD BEFORE UPDATING
 - Added [Celestisynth](https://www.curseforge.com/minecraft/mc-mods/celestisynth)
