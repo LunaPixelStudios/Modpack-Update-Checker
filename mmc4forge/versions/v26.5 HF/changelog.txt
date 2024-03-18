@@ -1,0 +1,4 @@
+### HOTFIX v26.5HF:
+
+- Fixed a crash with socketing a gem into Curios
+- Updated Iron's Spells n' Spellbooks
