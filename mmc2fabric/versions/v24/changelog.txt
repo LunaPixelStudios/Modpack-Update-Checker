@@ -1,30 +1,30 @@
 ## MMC2 Fabric v24
 [Major Update]
 ### Mods:
-+ Added Druids of Storm and Spirit (by cleannrooster)
-+ Added Epic Knights n' Mages [Fabric] (by VeroxUniverse)
-+ Added RPGMana (Mana for Spell Engine) (by cleanroosterr)
-+ Added ATi structures (by ATi)
-+ Added When Dungeons Arise - Seven Seas (by Aureljz)
-+ Added You're In Grave Danger (by b1n_ry)
-+ Added Charm Forked (by MuonR)
-+ Added Frostiful (by TheDeathlyCow)
-+ Added Scorchful (by TheDeathlyCow)
-+ Added Farmer's Delight Refabricated (by MerchantPug)
-+ Added What Are They Up To (by Corosus)
-+ Added Iris/Oculus & GeckoLib Compat (by ElocinDev)
-+ Added Fast Async World Save (by someaddon)
-+ Added BadOptimizations (by imthosea)
-+ Added Dimensional Sync Fixes (by potatoboy)
-+ Added Amendments (by MehVahdJukaar)
-+ Added Better Trims (by Bawnorton)
-+ Added Particle Core (by fzzyhamsters)
-+ Added Almost Unified (by AlmostReliable)
-+ Added Let's Do! Blooming Nature (by satisfy)
-+ Added Transmog (by Hidoni)
-+ Added Nether's Delight Refabricated (by RaymondBlaze)
-+ Added Log Begone (by AzureDoomC)
-+ Added Traveler's Titles (by YUNGNICKYOUNG)
+- Added Druids of Storm and Spirit (by cleannrooster)
+- Added Epic Knights n' Mages [Fabric] (by VeroxUniverse)
+- Added RPGMana (Mana for Spell Engine) (by cleanroosterr)
+- Added ATi structures (by ATi)
+- Added When Dungeons Arise - Seven Seas (by Aureljz)
+- Added You're In Grave Danger (by b1n_ry)
+- Added Charm Forked (by MuonR)
+- Added Frostiful (by TheDeathlyCow)
+- Added Scorchful (by TheDeathlyCow)
+- Added Farmer's Delight Refabricated (by MerchantPug)
+- Added What Are They Up To (by Corosus)
+- Added Iris/Oculus & GeckoLib Compat (by ElocinDev)
+- Added Fast Async World Save (by someaddon)
+- Added BadOptimizations (by imthosea)
+- Added Dimensional Sync Fixes (by potatoboy)
+- Added Amendments (by MehVahdJukaar)
+- Added Better Trims (by Bawnorton)
+- Added Particle Core (by fzzyhamsters)
+- Added Almost Unified (by AlmostReliable)
+- Added Let's Do! Blooming Nature (by satisfy)
+- Added Transmog (by Hidoni)
+- Added Nether's Delight Refabricated (by RaymondBlaze)
+- Added Log Begone (by AzureDoomC)
+- Added Traveler's Titles (by YUNGNICKYOUNG)
 - Removed Universal Graves (replaced)
 - Removed TravelerZ (replaced)
 - Removed Show Me Your Skin! (issues with custom armors, replaced)
@@ -49,40 +49,40 @@
 - Removed AutoSlabs
 
 ### Resource and Data Packs:
-+ Added Enhanced Boss Bars
-+ Added Clarent (by GrandPappyJay)
-+ Added Visual Traveler's Titles (by unroman)
-+ Added Enhanced Boss Bars (by Naku)
-+ Added HTP Packs (by ElocinDev)
-+ Added Better End Cities with Better End Blocks (by TheArchitects777)
+- Added Enhanced Boss Bars
+- Added Clarent (by GrandPappyJay)
+- Added Visual Traveler's Titles (by unroman)
+- Added Enhanced Boss Bars (by Naku)
+- Added HTP Packs (by ElocinDev)
+- Added Better End Cities with Better End Blocks (by TheArchitects777)
 
 ### Notable updates from Mods:
-+ 13 new ranged weapons, 6 new custom shields, and a new crafting station (Mine Cells)
-+ Visual rework, many new specializations, and a new late-game Ascendancy Tree (Simply Skills)
-+ Added a 4th spell for each magic school (Wizards/Paladins)
-+ Added 2 new origins, reworks to a few other origins (Medieval Origins Revival)
-+ Major changes from Spellblades and Invocations
-+ Improved performance and thread safety (Sound Physics Remasdtered)
-+ New sprites, Aquarium rework, many balance changes (Mythic Metals)
-+ Added new shelves and mechanics from Apotheosis 7.3.0+ (Zenith)
-+ Added Dehydration Support (Traveler's Backpack)
+- 13 new ranged weapons, 6 new custom shields, and a new crafting station (Mine Cells)
+- Visual rework, many new specializations, and a new late-game Ascendancy Tree (Simply Skills)
+- Added a 4th spell for each magic school (Wizards/Paladins)
+- Added 2 new origins, reworks to a few other origins (Medieval Origins Revival)
+- ajor changes from Spellblades and Invocations
+- Improved performance and thread safety (Sound Physics Remasdtered)
+- New sprites, Aquarium rework, many balance changes (Mythic Metals)
+- Added new shelves and mechanics from Apotheosis 7.3.0+ (Zenith)
+- Added Dehydration Support (Traveler's Backpack)
 
 ### Configs:
-+ Enabled ModernFix Faster Item Rendering
-+ Major rebalancing of all gear, recipes, and progression
-+ Made armor more effective; now has diminishing returns
-+ Made protection enchants less effective 
-+ Disabled the Terrible Sword from Aquamirae
-+ Fixed MCDW bows and crossbows all dealing the same damage, many rare bows and crossbows are now much stronger
-+ Nerfed Zenith Current Health Damage affix+gems (~50% maximum obtainable -> ~15% maximum obtainable)
-+ Crashed End Ships will now spawn with loot (but not elytra)
-+ Buffed a few bosses from BOMD and The Graveyard
-+ Added crafting recipe for Orb of Origin
-+ Bewitchment Poppets and Gilded Glory armor can no longer be made unbreakable with hardening catalyst
-+ Moved Armor Toughness bar left, fixing HUD overlap with Origins
-+ Halved Simply Swords unique drop rate
-+ Blacklisted Jewelry from Things' Agglomeration (temporary, pending a bugfix)
-+ Lowered spawn rate of Orcs, increased spawn rate of Necromancer, Blaze Guardians, Desert Rhinos
-+ Added missing weapon animations for Aquamirae and Bewitchment
-+ Unified Bronze, Silver, and Salt 
-+ Many other small changes
+- Enabled ModernFix Faster Item Rendering
+- Major rebalancing of all gear, recipes, and progression
+- Made armor more effective; now has diminishing returns
+- Made protection enchants less effective
+- Disabled the Terrible Sword from Aquamirae
+- Fixed MCDW bows and crossbows all dealing the same damage, many rare bows and crossbows are now much stronger
+- Nerfed Zenith Current Health Damage affix+gems (~50% maximum obtainable -> ~15% maximum obtainable)
+- Crashed End Ships will now spawn with loot (but not elytra)
+- Buffed a few bosses from BOMD and The Graveyard
+- Added crafting recipe for Orb of Origin
+- Bewitchment Poppets and Gilded Glory armor can no longer be made unbreakable with hardening catalyst
+- Moved Armor Toughness bar left, fixing HUD overlap with Origins
+- Halved Simply Swords unique drop rate
+- Blacklisted Jewelry from Things' Agglomeration (temporary, pending a bugfix)
+- Lowered spawn rate of Orcs, increased spawn rate of Necromancer, Blaze Guardians, Desert Rhinos
+- Added missing weapon animations for Aquamirae and Bewitchment
+- Unified Bronze, Silver, and Salt
+- Many other small changes
