@@ -1,0 +1,9 @@
+## MMC2 Fabric v24 HF
+[Hotfix for v24]
+- (Servers and clients should be cross-compatible between this and v24, but servers will need to update for any of these changes to apply in multiplayer)
+- Fixed broken furnace recipe
+- Made Dehydration thirst much less aggressive
+- Disabled Frostiful wind
+- Fixed servers occasionally taking much longer to startup
+- Fixed log spam when Pixies jump during rain
+- Blacklisted graves from being picked up with CarryOn

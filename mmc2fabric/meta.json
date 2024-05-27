@@ -38,6 +38,11 @@
       "id": "v24",
       "releasedAt": 1716755226000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v24 HF",
+      "releasedAt": 1716755227000,
+      "updateType": "minor"
     }
   ]
 }
