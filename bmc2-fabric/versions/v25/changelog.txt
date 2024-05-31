@@ -1,0 +1,79 @@
+[Content Update]
+FABRIC MODLOADER IS NOW 0.15.11
+
+Mods:
++ Added Charm Forked (by MuonR)
++ Added Eden Ring Reforked (by ErzeKawek)
++ Added AdoraBuild: Structures (by AdoraBuild)
++ Added Blossom Blade (by joshieman)
++ Added Sawmill (by MehVahdJukaar)
++ Added Autochef's Delight (by Snownee)
++ Added Decorative Blocks (by stohun)
++ Added Farmer's Delight Refabricated (by MerchantPug)
++ Added Nether's Delight Refabricated (by RaymondBlaze)
++ Added ucrashedlol (by skycatminepokie)
++ Added Better End Crashed Ships Tweaks (by MuonR)
++ Added Thermoo Patches (by TheDeathlyCow)
++ Added Fabric Seasons Recipe Fix (by booleven)
++ Added Faster Random (by AnOpenSauceDev)
++ Added Bygone Nether: Soul Stone Recipe (by ElocinDev)
++ Added Cubes Without Borders (by Kir_Antipov)
++ Added Amendments (by plantspookable)
++ Added Autoslabs Compat (by ProvidenceDaemon)
++ Added Cut Through (by Fuzs)
++ Added Particle Core (by fzzyhmstrs)
++ Added Log Begone (by AzureDoomC)
++ Added IJM's Tweaks (by ItsJustMiaouss)
+- Removed Explorify (Extremely overpowered)
+- Removed Chef's Delight (Unmaintained)
+- Removed the old Farmers Delight port (Replaced by a better port of the mod)
+- Removed Server Country Flags (Many users incorrectly assumed that it gave away their precise location)
+- Removed Nethers Delight (Replaced)
+- Removed Model Gap Fix (Causes lag)
+- Removed Decorative Blocks Fork (Replaced)
+- Removed Double Doors (Replaced)
+- Removed Yeetus Experimentus (Replaced)
+- Removed Too Fast (Replaced)
+
+Configs:
+- Increased structure spawn rate by 50%
+- Added many new quests and fixed all broken/incomplete quests
+- Set the default vertical render distance to 400%
+- Respawned ender dragons now drop an dragon egg
+- Flipped order in ResourcepackOverrides as it was previously the wrong way around
+- Removed the Seasonal quests
+ 
+
+Updates:
+- Added 25 new structures (Philip's Ruins)
+- Added animations to 14 more vanilla GUIs and typing animations for signs and books (WATUT)
+- Added 9 new claws, and raw/cooked item variants of lobster, shrimp and crayfish (Hybrid Aquatic)
+- Added 8 new crabs, alongside a giant isopod, a lobster, a shrimp, an umbrella octopus, and a crayfish (Hybrid Aquatic)
+- Added back soul elytra boost with better controls (Deeper and Darker)
+- Added buoys, thermal vents, sea sponge, and giant clam blocks (Hybrid Aquatic)
+- Added a new miniboss, Karkinos, summoned using the Ominous Hook (Hybrid Aquatic)
+- Added sponge chunk, used to craft sponge blocks (Hybrid Aquatic)
+- Added bleeding effect, inflicted by shark attacks, reduces your health to half its maximum (Hybrid Aquatic)
+- Added rate limit to prevent ping spam (Ping Wheel)
+- Added underwater fog that gets stronger as you go deeper (Hybrid Aquatic)
+- Updated some item and entity textures (Hybrid Aquatic)
+- Redesigned the shaders screen (Iris)
+- Sculk snappers can now sit (Deeper Darker)
+- Sharks now only drop teeth when their attacks are blocked with a shield (Hybrid Aquatic)
+- Reworked the Workbench GUI. Multiple blocks can be crafted at the same time by pressing the craft button in the new GUI while holding shift (Chipped)
+- Improved video setting descriptions (Sodium)
+- Leather Horse Armor prevents horses from sinking in Powder Snow (Frostiful)
+- Ocelots and Wolves can now also be brushed (Frostiful)
+- Decreased Arrow Dance damage multiplier 0.5 -> 0.25 (Mythic Charms)
+
+Fixes:
+- Additional ore drops not checking for silk touch (Advanced Netherite)
+- XP level color changing when a screen is open (Mindful Darkness)
+- Warden helmet immunity not working (Deeper and Darker)
+- Fallen leaves physics in flowing water (Falling Leaves)
+- Crash on Skull Bolt impact (Illager Invasion)
+- Alchemists poisoning themselves (Illager Invasion)
+- Firecaller setting themselves on fire and not fleeing from iron golems (Illager Invasion)
+- Workbenches not breaking faster with an axe (Chipped)
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
