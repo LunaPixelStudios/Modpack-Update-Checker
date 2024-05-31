@@ -1,119 +1,124 @@
 {
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-    {
-      "id": "v2",
-      "releasedAt": 1687251559000
-    },
-    {
-      "id": "v3",
-      "releasedAt": 1687761453000
-    },
-    {
-      "id": "v4",
-      "releasedAt": 1688578356000
-    },
-    {
-      "id": "v5 HF",
-      "releasedAt": 1689206193000
-    },
-    {
-      "id": "v6 HF",
-      "releasedAt": 1689816165000
-    },
-    {
-      "id": "v7",
-      "releasedAt": 1690282314000
-    },
-    {
-      "id": "v7.5",
-      "releasedAt": 1690610620000
-    },
-    {
-      "id": "v8",
-      "releasedAt": 1691512714000
-    },
-    {
-      "id": "v9",
-      "releasedAt": 1692277291000
-    },
-    {
-      "id": "v9.5",
-      "releasedAt": 1692342165000
-    },
-    {
-      "id": "v10",
-      "releasedAt": 1692935524000
-    },
-    {
-      "id": "v11",
-      "releasedAt": 1693805615000
-    },
-    {
-      "id": "v12",
-      "releasedAt": 1694437576000
-    },
-    {
-      "id": "v13",
-      "releasedAt": 1695014156000
-    },
-    {
-      "id": "v14",
-      "releasedAt": 1695635632000
-    },
-    {
-      "id": "v15",
-      "releasedAt": 1696233780000
-    },
-    {
-      "id": "v15 HF",
-      "releasedAt": 1696264337000
-    },
-    {
-      "id": "v16",
-      "releasedAt": 1696934254999
-    },
-    {
-      "id": "v16 HF",
-      "releasedAt": 1696934255000
-    },
-    {
-      "id": "v17",
-      "releasedAt": 1697418000000
-    },
-    {
-      "id": "v18",
-      "releasedAt": 1698213600000
-    },
-    {
-      "id": "v19",
-      "releasedAt": 1698892200000
-    },
-    {
-      "id": "v20",
-      "releasedAt": 1699467300000
-    },
-    {
-      "id": "v21",
-      "releasedAt": 1700130600000
-    },
-    {
-      "id": "v22",
-      "releasedAt": 1701354600000
-    },
-    {
-      "id": "v23",
-      "releasedAt": 1702116900000
-    },
-    {
-      "id": "v23.5",
-      "releasedAt": 1702215000000
-    },
-    {
-      "id": "v24",
-      "releasedAt": 1704853751000,
-      "updateType": "minor_breaking"
-    }
-  ]
-}
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+      {
+        "id": "v2",
+        "releasedAt": 1687251559000
+      },
+      {
+        "id": "v3",
+        "releasedAt": 1687761453000
+      },
+      {
+        "id": "v4",
+        "releasedAt": 1688578356000
+      },
+      {
+        "id": "v5 HF",
+        "releasedAt": 1689206193000
+      },
+      {
+        "id": "v6 HF",
+        "releasedAt": 1689816165000
+      },
+      {
+        "id": "v7",
+        "releasedAt": 1690282314000
+      },
+      {
+        "id": "v7.5",
+        "releasedAt": 1690610620000
+      },
+      {
+        "id": "v8",
+        "releasedAt": 1691512714000
+      },
+      {
+        "id": "v9",
+        "releasedAt": 1692277291000
+      },
+      {
+        "id": "v9.5",
+        "releasedAt": 1692342165000
+      },
+      {
+        "id": "v10",
+        "releasedAt": 1692935524000
+      },
+      {
+        "id": "v11",
+        "releasedAt": 1693805615000
+      },
+      {
+        "id": "v12",
+        "releasedAt": 1694437576000
+      },
+      {
+        "id": "v13",
+        "releasedAt": 1695014156000
+      },
+      {
+        "id": "v14",
+        "releasedAt": 1695635632000
+      },
+      {
+        "id": "v15",
+        "releasedAt": 1696233780000
+      },
+      {
+        "id": "v15 HF",
+        "releasedAt": 1696264337000
+      },
+      {
+        "id": "v16",
+        "releasedAt": 1696934254999
+      },
+      {
+        "id": "v16 HF",
+        "releasedAt": 1696934255000
+      },
+      {
+        "id": "v17",
+        "releasedAt": 1697418000000
+      },
+      {
+        "id": "v18",
+        "releasedAt": 1698213600000
+      },
+      {
+        "id": "v19",
+        "releasedAt": 1698892200000
+      },
+      {
+        "id": "v20",
+        "releasedAt": 1699467300000
+      },
+      {
+        "id": "v21",
+        "releasedAt": 1700130600000
+      },
+      {
+        "id": "v22",
+        "releasedAt": 1701354600000
+      },
+      {
+        "id": "v23",
+        "releasedAt": 1702116900000
+      },
+      {
+        "id": "v23.5",
+        "releasedAt": 1702215000000
+      },
+      {
+        "id": "v24",
+        "releasedAt": 1704853751000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v25",
+        "releasedAt": 1717149780000,
+        "updateType": "minor_breaking"
+      }
+    ]
+  }
