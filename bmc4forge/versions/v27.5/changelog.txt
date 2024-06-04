@@ -1,1 +1,75 @@
+v27.5 Hotfix
+- Downgraded JEI version to fix tooltip issue
 
+- RightClickHarvest now works without a hoe, and can be done by hand
+
+- Removed RyoamicLights from the serverpack files
+
+ 
+
+v27
+
+[Content Update]
+
+BEFORE UPDATING:
+Make sure to remove any Aether accessories/trinkets you have equipped before updating. If they are not removed from these slots, then they will get deleted permanently. They are safe to re-equip afterwards. Diagonal fences from the Diagonal Fences mod will also become unconnected from eachother after the update, but these blocks can simply be broken & replaced after updating to fix this.
+ 
+Mods:
++ Added Mowzie's Mobs (by bobmowzie)
++ Added AdoraBuild: Structures (by AdoraBuild)
++ Added Autochef's Delight (by Snownee)
++ Added Decorative Blocks (by stohun)
++ Added Backpacked Recipe Fix (by chorb)
++ Added ucrashedlol (by skycatminepokie)
++ Added Better End Crashed Ships Tweaks (by MuonR)
++ Added Crawl on Demand (by Talilon)
++ Added Ascended Quark (by TeamRazor)
++ Added Aether Addon: Protect Your Moa (by TheAetherTeam)
++ Added Bygone Nether: Soul Stone Recipe | Datapack (by ElocinDev)
+- Removed Explorify (Extremely overpowered)
+- Removed Too Fast (Replaced)
+- Removed Cull Less Leaves (Made redundant by newest Xenon update)
+- Removed Entity Culling (Causes issues)
+- Removed Server Country Flags (Caused confusion as users incorrectly assumed the mod gave exact location)
+ 
+Configs:
+- Increased structure spawn rates by 50%
+- Dragon Mounts Legacy dragon eggs can now be found in chests
+- Disabled Quark's Elytra Indicator, which fixes GUI's shifting to the left after equipping an elytra
+- Dragons no longer change types depending on their environment
+- Set "Render Distance y-stretch" in Video Settings to 400%
+- When Dungeons Arise foundries will no longer spawn
+- The Aether no longer has its own accessory screen, and it instead uses the same system as other accessory mods
+- Many previously hidden resourcepacks are now visible in the Resourcepacks screen again
+- Added many new things to the LogBegone config to mitigate log spam
+- Updated the performance guide button to the new website
+- Fixed resourcepack order issues
+- Fixed the Harbringer quest having the wrong task
+- Fixed the Vein Mining activation key being unbound
+- Changed the wording of many quests for clarity
+- Unbound Rotation Lock, Camera Mode, and all Jade keybinds as many players pressed the keybind by accident
+- Disabled BCLib patches, which should decrease server startup times dramatically
+- Disabled Quark's Simple Harvest as it conflicted with the RightClickHarvest mod
+ 
+Updates:
+- Added 4 new foods (Twilight Delight)
+- Added support for typing animations when using signs, hanging signs, books, command blocks, and many more (WATUT)
+- Added support for mobs from Aether, Deep Aether, and Aether Redux (Just Enough Breeding)
+- Perfectly cooked food now has nutrition bonuses (Cuisine Delight)
+- Significant GUI overhaul and cleanup in several places (FTB Teams and FTB Quests)
+- Changed mushgloom sauce stack to 64 (Twilight Delight)
+- More thrown items and projectiles are no longer deleted in the Aether void and will fall to the Overworld (Aether)
+- Moas are now controlled by shift right-clicking with a Nature Staff instead of by empty hand (Aether)
+- Disabled fire tick within the Aether dimension (Aether)
+ 
+Fixes:
+- Major performance improvements and fixed potential crashes and when reloading textures or loading the game (Diagonal Fences)
+- Overlay flickering when shooting projectiles (Jade)
+- Incorrect display of Zombie Villager conversion time (Jade)
+- Fiery Knife and Teardrop Sword not dropping cooked meat when killing animals in water (Twilight Delight)
+- Aerbunny boosts sometimes not resetting from jumping on Blue Aerclouds (Aether)
+- Speed effects not working on Swets and Moas (Aether)
+- Wings of Phygs, Flying Cows, and Valkyries not flashing red when hit (Aether)
+ 
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
