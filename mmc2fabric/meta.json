@@ -48,6 +48,11 @@
       "id": "v24.5",
       "releasedAt": 1717551837000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v24.5 HF",
+      "releasedAt": 1717551837001,
+      "updateType": "minor"
     }
   ]
 }
