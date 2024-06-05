@@ -1,0 +1,23 @@
+## MMC2 Fabric v24.5
+**As always, back up your world before updating!**
+
+- Added Animation Overhaul (by ElocinDev)
+- Added Hybrid Aquatic (by HybridLabs)
+- Removed DungeonZ (Temporarily incompatible with FancyMenu)
+
+- Made Scorchful overheating much less aggressive
+- Crimson moons will no longer spawn ghasts in the Overworld
+- Added a couple temporary patches for texture issues with Waystones and Traveler's Backpack
+- Made Epic KnightnMages ores much less common
+- Properly disabled the Tiny Moon
+- Pregenerated Sawmill recipes to decrease load time
+- Added some more information to the tutorial quests
+
+- Fixed wands and staves not being reforgeable
+- Fixed Blazeborn no longer being immune to thirst
+- Fixed vegetarians/carnivores not being able to eat some mixed foods
+- Fixed Pixies not being able to use Quartz Elevators
+- Fixed Epic KnightsnMages swords not being craftable
+- Fixed a few inconsistencies in quests
+
+- Updated most mods
