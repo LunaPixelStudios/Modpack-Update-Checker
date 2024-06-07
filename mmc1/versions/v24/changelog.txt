@@ -1,0 +1,22 @@
+[Big Update]
+FABRIC LOADER IS NOW 0.14.24
+ 
+- Added The Guild (by fulmineo64)
+- Added Advanced Netherite (Fabric) (by AutovwDev)
+- Added YUNG's Better End Island (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (Fabric) (by YUNGNICKYOUNG)
+- Added Luna (by LunaPixelStudios)
+- Added Lunar (by Mrbysco)
+- Added Villager Names (by Serilum)
+- Added Server Country Flags (by khajiitos)
+- Added Recipe Essentials[Forge/Fabric] (by someaddon)
+- Added Falling Leaves (Fabric) (by RandomMcSomethin)
+- Added Euphoria Patches (by SpacEagle17)
+- Added Configured Defaults [Forge & Fabric] (by Fuzs)
+- Added Complementary Shaders - Unbound (by EminGTR)
+- Removed Villager Names (Causes Crash)
+- Removed TieredZ (Replaced/Causes Issues)
+- Updated Configs
+- Many Changes and Fixes that wont be listed due to so many updated mods
+ 
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
