@@ -1,0 +1,51 @@
+[Visuals Update]
+FORGE MODLOADER IS NOW 47.3.1
+
+Mods:
++ Added Yung Structures Addon for Loot Integration (by someaddon)
+- Removed Endless Biomes (Caused many crashes and massive lag)
+
+Configs:
+- Added a quest for the Season Calendar
+- Set the default render distance y-stretch to 400%. Feel free to lower this value in Video Settings for better performance.
+- Heavily customized the default enabled config for the Euphoria Patches shaderpack so it works with the new colored lighting, alongside some other tweaks for a better experience.
+- Increased the spawn rate of end cities by 150%. Keep in mind that end cities are unable to spawn on many modded blocks and are more common in vanilla biomes.
+- VanilAA shaders are no longer enabled by default, as it caused issues for people on lower end GPUs. If you have a decent GPU then these shaders should still be fully compatible, and you will see much better graphics quality with it enabled and may even gain FPS.
+
+Updates:
+- Added 6 new structures (Philip's Ruins)
+- Added a cooldown to Umvuthi's hurt animation to prevent him from getting stuck (Mowzies Mobs)
+- Zooming now works when in third-person and will overall be a lot smoother (Just Zoom)
+- Added Advanced Colored Lighting and Colored Light Fog, which allows for beautiful colored lighting to be created by light sources (Complementary Shaders)
+- Added Carved Bases, which are a decorative block for the bottom of the walls in the bronze dungeon (Aether Redux)
+- Added a new light block, the Runelight, which can be turned on/off with a right-click (Aether Redux)
+- Added unique sky colors to some biomes (Aether Redux)
+- Decreased the spawn rate of nagas (Mowzies Mobs)
+- Entities hit by a torch or flint and steel will be set on fire (Amendments)
+
+The following updates are specifically for when the Euphoria Patches shaderpack is enabled in Video Settings:
+- Added custom properties to many modded blocks. The End and Nether dimensions are especially affected by this.
+- Added a glitter rain shader option
+- Added separate Border Fog settings (Distance and Density) for all dimensions
+- Added a very beautiful End Crystal Vortex Option, alongside an ender dragon death animation
+- Added a cloud render distance slider to control how far or near clouds will appear
+- Added a new end portal effect
+- Added a long exposure mode
+- Added a tilt-shift option
+- Added a waving sugar cane option
+- End sky colors also change color in modded biomes now, amount can be changed with a slider
+- Lava lakes in caves under y -55 in the Overworld will now also look like the nether lava lakes
+Special thanks to SpacEagle17 and EminGT for these amazing advancements in shaderpacking! You can support SpacEagle17's work [here](https://www.patreon.com/SpacEagle17) and EminGT [here](https://www.patreon.com/emingt).
+
+Fixes:
+- Many mobs not having animations (Mowzies Mobs)
+- Occasional startup crashes (ServerBrowser)
+- Nagas getting stuck in water (Mowzies Mobs)
+- Umvuthi losing his target when losing line of sight (Mowzies Mobs)
+- Suns Blessing duration resetting on ability use (Mowzies Mobs)
+- Jukeboxes having broken disc textures (Amendments)
+- Candle holder flame position (Amendments)
+- wooden blocks not working as furnace fuel (Mowzies Mobs)
+- Magic effects can now hit nonliving entities like End Crystals (Mowzies Mobs)
+- clawed logs not being smeltable into charcoal (Mowzies Mobs)
+- Shelves not placing against the clicked face (Backpacked)
