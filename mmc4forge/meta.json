@@ -56,7 +56,7 @@
     {
       "id": "v27",
       "releasedAt": 1710735624000,
-      "updateType": "incompatible"
+      "updateType": "major_breaking"
     }
   ]
 }
