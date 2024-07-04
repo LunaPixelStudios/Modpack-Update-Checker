@@ -2,11 +2,11 @@ Medieval MC [Forge] 1.20.1 v27
 
 [Performance + Mobs Update]
 
-#### Forge is now 47.3.3
+- Forge is now 47.3.3
 
-#### Existing worlds will NOT be compatible without some small tweaks, due to necessary worldgen changes
+- Existing worlds will NOT be compatible without some small tweaks, due to necessary worldgen changes
 
-#### Though starting a new world is recommended to easily find any newly added content, you can find an upgrade guide at https://github.com/muon-rw/mmc-upgrade-guide
+- Though starting a new world is recommended to easily find any newly added content, you can find an upgrade guide at https://github.com/muon-rw/mmc-upgrade-guide
 
 - Added EEEAB's Mobs (by EEEAB)
 - Added Mowzie's Mobs (by bobmowzie)
