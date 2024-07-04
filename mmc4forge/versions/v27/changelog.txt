@@ -6,7 +6,7 @@ Forge is now 47.3.3
 
 Existing worlds will NOT be compatible without some small tweaks, due to necessary worldgen changes
 
-Though starting a new world is recommended to easily find any newly added content, you can find an upgrade guide at https://github.com/muon-rw/mmc-upgrade-guide
+#### Though starting a new world is recommended to easily find any newly added content, you can find an upgrade guide at https://github.com/muon-rw/mmc-upgrade-guide
 
 - Added EEEAB's Mobs (by EEEAB)
 - Added Mowzie's Mobs (by bobmowzie)
@@ -24,13 +24,13 @@ Though starting a new world is recommended to easily find any newly added conten
 - Removed Decorative Blocks Fork (replaced)
 - Extra Compat/Temporal API (redundant)
 
-The following mods were removed to help address pack performance:
+#### The following mods were removed to help address pack performance:
 - Outer End/Blueprint (Worldgen incompatibilities that caused corruption)
 - Every Compat (Memory Usage)
 - AmbientSounds (Memory Usage)
 - Entity Culling (Stability issues)
 
-Configs:
+#### Configs:
 - Pregenerated Sawmill Recipes (startup times should be noticeably quicker!)
 - Disabled Survive's Energy/Stamina module
 - Disabled Shield Overhaul parrying (currently bugged)
@@ -51,7 +51,7 @@ Configs:
 - Fixed a few texture issues
 - Blacklisted Ancient Knights and a few more bosses from Capturing (dropping spawner eggs)
 
-Quests:
+#### Quests:
 - Added new Bosses quests category
 - Revamped tutorial quests with more modpack-specific guidance
 - Stylized (most) quest pages - more to come!
@@ -59,17 +59,17 @@ Quests:
 - Added quests for Mowzie's and EEEAB's mobs
 - Updated a few outdated dimension-specific quests
 
-Resources:
+#### Resources:
 + Added Aether Excalibur Support (by tc_hi)
 + Added Clarent (by GrandPappyJay)
 + Added L_Ender's Cataclysm Old Music (by mcl_ender)
 - Updated Excalibur
 - Fixed a few mismatched GUI textures
 
-Updated (almost) all mods, fixing quite a few bugs! A couple notable changes:
+#### Updated (almost) all mods, fixing quite a few bugs! A couple notable changes:
 - Performance/thread safety improvements (Sound Physics Remastered)
 - Fixed Origins not appearing when first joining a world (Origins)
-Origins-specific:
+#### Origins-specific:
 - Added a new Icarus-based origin, the Valkyrie
 - Reworked pixie flight to be easier to use, but now operates based on a resource
 - Fixed Siren origin causing lag on servers/making neutral mobs hostile
