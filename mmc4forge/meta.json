@@ -56,7 +56,7 @@
     {
       "id": "v27",
       "releasedAt": 1720055270000,
-      "updateType": "major_breaking"
+      "updateType": "minor_breaking"
     }
   ]
 }
