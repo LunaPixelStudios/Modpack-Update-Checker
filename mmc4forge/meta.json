@@ -52,6 +52,11 @@
       "id": "v26.5 HF",
       "releasedAt": 1710724624000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v27",
+      "releasedAt": 1720053732000,
+      "updateType": "incompatible"
     }
   ]
 }

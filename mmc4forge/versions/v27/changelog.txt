@@ -1,0 +1,82 @@
+### Medieval MC [Forge] 1.20.1 v27
+[Performance + Mobs Update]
+*Forge is now 47.3.3*
+**Existing worlds will NOT be compatible without some small tweaks, due to necessary worldgen changes**
+*Though starting a new world is recommended to easily find any newly added content, you can find an upgrade guide at https://github.com/muon-rw/mmc-upgrade-guide
+
++ Added EEEAB's Mobs (by EEEAB)
++ Added Mowzie's Mobs (by bobmowzie)
++ Added Cataclysmic Illagers (by min01)
++ Added Icarus (by CammiePone)
++ Added Crawl (Fabric) (by fewizz_)
++ Added My Nether's Delight (by soytutta)
++ Added Nether Villager Trader (by Leonxkingx)
++ Added Tetratic Combat Expanded (by Kiran)
++ Added Decorative Blocks (by stohun)
++ Added Almost Unified (by AlmostReliable)
++ Added Sparse Structures Reforged (by pOtAto__bOy)
++ Added Wither Spawn Fix [Fabric] (by Joespeph)
+- Removed Nether's Delight (replaced)
+- Removed Decorative Blocks Fork (replaced)
+- Extra Compat/Temporal API (redundant)
+
+The following mods were removed to help address pack performance:
+- Outer End/Blueprint (Worldgen incompatibilities that caused corruption)
+- Every Compat (Memory Usage)
+- AmbientSounds (Memory Usage)
+- Entity Culling (Stability issues)
+
+Configs:
+- Pregenerated Sawmill Recipes (startup times should be noticeably quicker!)
+- Disabled Survive's Energy/Stamina module
+- Disabled Shield Overhaul parrying (currently bugged)
+- Enabled Celestisynth's Rainfall Serenity
+- Fixed combat rolls not working while sprinting
+- Fixed BetterEnd's biomes generating in odd square shapes
+- Disabled Fantasy's Furniture block placement previews (caused a crash with shaders)
+- Enabled Inventory hoppers from Tom's Storage (still not recommended for large servers)
+- Fixed a bug where disabled gems from Passive Skill Tree could still appear
+- Greatly lowered average mob level in the Undergarden
+- Fixed knives from Delight addons not being able to harvest Straw
+- Added default levels for the new bosses
+- Made structures a bit more spread out (about 40%)
+- Lowered the max level for the Looting enchant
+- Unified Silver ingots
+- Disabled any now unusable Survive enchants
+- Added chorb's Euphoria Patches presets
+- Fixed a few texture issues
+- Blacklisted Ancient Knights and a few more bosses from Capturing (dropping spawner eggs)
+
+Quests:
+- Added new Bosses quests category
+- Revamped tutorial quests with more modpack-specific guidance
+- Stylized (most) quest pages - more to come!
+- Updated many out-of-date quests
+- Added quests for Mowzie's and EEEAB's mobs
+- Updated a few outdated dimension-specific quests
+
+Resources:
++ Added Aether Excalibur Support (by tc_hi)
++ Added Clarent (by GrandPappyJay)
++ Added L_Ender's Cataclysm Old Music (by mcl_ender)
+- Updated Excalibur
+- Fixed a few mismatched GUI textures
+
+Updated (almost) all mods, fixing quite a few bugs! A couple notable changes:
+- Performance/thread safety improvements (Sound Physics Remastered)
+- Fixed Origins not appearing when first joining a world (Origins)
+Origins-specific:
+- Added a new Icarus-based origin, the Valkyrie
+- Reworked pixie flight to be easier to use, but now operates based on a resource
+- Fixed Siren origin causing lag on servers/making neutral mobs hostile
+- Fixed a few watchdog crashes related to entity interaction powers
+- Alfiq can now leap more often and charge their jump more quickly
+- Added 2 new powers to Banshee, Cursed Sigil and Cursed Ward
+- Most origin abilities now scale with (Iron's) spell power
+- Improved Simply Swords compatibility with Moon Elf's Moonlight Rogue power
+- Rewrote Siren bonuses to not affect status effects (thanks lukaskek)
+- Lowered Fae attraction range from 2048 blocks to 64 (woops)
+- Fixed Fae's Magical Suppression only checking for Iron and not Silver
+- Heavy armor now slows elves/alfiq/arachnae down instead of being unequippable
+
+(Skill Tree/Dynamic leveling/loot changes are still being worked on! Still planned for a future update)
