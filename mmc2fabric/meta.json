@@ -53,6 +53,11 @@
       "id": "v24.5 HF",
       "releasedAt": 1717551837001,
       "updateType": "minor"
+    },
+    {
+      "id": "v25",
+      "releasedAt": 1720571012000,
+      "updateType": "minor"
     }
   ]
 }

@@ -1,0 +1,26 @@
+### MMC2 Fabric v25
+[Ice and Fire Update]
+#### Mods
+- Added Rogues and Warriors (by Daedelus)
+- Added IceAndFire Fabric (by IAFEnvoy)
+- Added Medieval Buildings (by Lupin)
+- Added Medieval Buildings (End Edition) (by Lupin)
+- Added Arch-RPGMana (by cleanroosterr)
+- Removed All the Trims (temporary, mysterious incompatibility)
+- Removed RPGMana (replaced)
+
+#### Configs
+- Lowered the amount enemies get scaled per point in Simply Skills
+- Enemy's level will now properly raise when scaled by Simply Skills
+- Enabled Nameplate health bars
+- Small improvements to tutorial quests
+- Added quests for Ice and Fire dragons
+- Updated Excalibur + Clarent resource packs
+- Added Excalibur textures for Ice and Fire
+
+- Notable mod updates:
+- Reworked Magus Fight with new moves and animations (Spellblades and Such)
+- Added the Augmenting Table, which can upgrade and reroll individual affixes in exchange for Sigils of Enhancement. (Zenith)
+- The GUIs for Salvaging, Reforging, Gem Cutting, and the Enchanting Library have all been updated. (Zenith)
+- Made villages larger on average (CTOV)
+- Waystones, Gazebos, and similar compat structures will spawn only once per village (CTOV)
