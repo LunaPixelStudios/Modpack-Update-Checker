@@ -4,7 +4,7 @@
     "versions": [
       {
         "id": "v1",
-        "releasedAt": 1721018384000
+        "releasedAt": 1721018384000,
         "updateType": "minor"
       }
     ]
