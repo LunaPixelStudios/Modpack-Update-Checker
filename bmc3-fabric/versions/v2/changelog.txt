@@ -1,0 +1,21 @@
+[Minor Update]
+
+Mods:
++ Added CarryOn (by Tschipp)
++ Added Comforts (by TheIllusiveC4)
++ Added Reacharound (by spAnser)
++ Added a custom resourcepack for purple buttons and other GUI changes
+
+Configs:
+- Fixed background panorama appearing when browsing options menus ingame
+- Fixed workbenches and enchantment tables showing up as stone blocks by temporarily disabling Dynamic Resources
+- Fixed the "Game Menu" text in the escape menu moving when the window resizes
+- Fixed the "Player Reporting" button's position in multiplayer blocking other buttons
+
+Updates:
+- Added Polymorph support (Toms Simple Storage)
+- Pointed Dripstone under sugar water now will fill cauldrons with water (The Bumblezone)
+
+Fixes:
+- Filing Cabinet now drops it's content when broken (Toms Simple Storage)
+- Pigs spawning in the iceologer cabin structure (Friends & Foes)
