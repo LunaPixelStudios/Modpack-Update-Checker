@@ -13,7 +13,7 @@
 - Increased the base level of Village Guards
 - Lowered mob levels in a few overworld dungeons
 - Fixed recipe for the Smaragdant Frost Staff
-- Fixed a few texture inconsistencies with Zenith and REI
+- Fixed a few texture inconsistencies with Zenith and Stoneborn
 
 #### Mod Updates:
 
