@@ -1,0 +1,23 @@
+### Medieval MC [Fabric] 1.20.1 v26
+#### [Exploration Update]
+
+#### Mods
+
+- Added Nature's Spirit (by Team_Hibiscus)
+- Added Biome Makeover (by Lemonszz)
+- Added Moog's Soaring Structures (by finndog_123)
+- Removed Soaring Structures 2
+
+#### Modpack changes:
+
+- Increased the base level of Village Guards
+- Lowered mob levels in a few overworld dungeons
+- Fixed recipe for the Smaragdant Frost Staff
+- Fixed a few texture inconsistencies with Zenith and REI
+
+#### Mod Updates:
+
+- Added Dark Tower, Fortified Temple, Gnome Hut, Jungle Settlement, Marble Chateau, Rotting Temple, Underground Ruined Castle, Sculk Deposit, Small Keep, Tavern, Underground Monument, Villager Inn, Woodland Keep (ATi Structures)
+- Added new Iron, Gold, Diamond, Netherite, Aeternium Kite Shields (Paladins & Priests)
+- Reworked spell system and changed most spells to use spell power (Archon)
+- Fixed a crash with the Salvaging and Gem Cutter tables (Zenith)
