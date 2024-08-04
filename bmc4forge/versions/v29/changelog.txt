@@ -60,6 +60,7 @@ Updates:
 - Bogged now spawn in the Swamp biome (Geophilic)
 - Improved quail animations (Deep Aether)
 - Improved magnet auto detection of magnetic blocks (Quark)
+
 Fixes:
 - Lag and crashes caused by penguins (What Are You Voting For)
 - Improved the speed of the F3 + T loading screen (ModernFix)
