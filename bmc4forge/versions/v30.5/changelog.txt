@@ -1,0 +1,5 @@
+[Minor Update]
+FORGE IS NOW 47.3.5
+ 
+- Removed Better Chunk Loading (Causes Massive Lag)
+- Disabled ModernFix Dynamic Resources (Hopefully Fixes Texture Issues)
