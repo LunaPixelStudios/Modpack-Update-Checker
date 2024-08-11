@@ -1,0 +1,20 @@
+[Content Update]
+Make sure to claim any items you have in graves before updating!
+
+Mods:
++ Added When Dungeons Arise (by Aureljz)
++ Added What Are They Up To (by Corosus)
++ Added FTB Quests (by FTB)
++ Added FTB Chunks (by FTB)
++ Added FTB XMod Compat (by FTB)
++ Added Mediumcore Gamemode (by Txni)
++ Added You're in Grave Danger (by b1n_ry)
++ Added Sawmill (by MehVahdJukaar)
++ Added CrashExploitFixer (by drexhd)
+- Removed Universal Graves (Replaced)
+
+Configs:
+- Added many quests to guide players through the modpack
+
+Updates:
+- Adjusted terrain noise to make chunk generation faster in Bumblezone (The Bumblezone)
