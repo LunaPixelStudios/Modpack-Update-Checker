@@ -1,0 +1,41 @@
+### Medieval MC [Fabric] 1.21 v2
+### [Adventure Update]
+
+*Claim any graves before updating, or they will be deleted*
+
+- Added When Dungeons Arise - Fabric! (by Aureljz)
+- Added Dungeons and Taverns (by Nova_Wostra)
+- Added AdventureZ (by Globox_Z)
+- Added VoidZ (by Globox_Z)
+- Added ChoiceTheorem's Overhauled Village (by ChoiceTheorem)
+- Added Wraith Waystones (by LordDeatHunter)
+- Added Mobs of Mythology (by Kyber_6)
+- Added DnT Swamp Hut Overhaul (by Nova_Wostra)
+- Added DnT Ancient City Overhaul (by Nova_Wostra)
+- Added DnT Pillager Outpost Overhaul (by Nova_Wostra)
+- Added Medieval Buildings (by Lupin)
+- Added Medieval Buildings End Edition (by Lupin)
+- Added Frostiful (by TheDeathlyCow)
+- Added Scorchful (by TheDeathlyCow)
+- Added Thermoo (by TheDeathlyCow)
+- Added Thermoo Patches (by TheDeathlyCow)
+- Added Mythic Upgrades (by TriQue)
+- Added JourneyMap Integration (by frankV)
+- Added Sawmill (by MehVahdJukaar)
+- Added Blended Compat (by kanadeyoru)
+- Added You're in Grave Danger (by b1n_ry)
+- Added Faster Random (by AnOpenSauceDev)
+- Added CrashExploitFixer (by drexhd)
+- Added Mediumcore Gamemode (by Txni)
+- Added What Are They Up To (Watut) (by Corosus)
+- Added Luna
+- Added Medieval
+- Removed Universal Graves (replaced)
+
+**Modpack Changes:**
+
+- Added new quests for Scorchful and Frostiful
+- Updated quests for The End
+- Fixed all broken quest rewards
+- Cleaned up layout for the Main Menu
+- Added Stoneborn textures for EMI, Accessories, and Traveler's Backpack
