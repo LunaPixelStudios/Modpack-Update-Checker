@@ -1,0 +1,10 @@
+[Minor Update]
+
+Configs:
+- Fixed the JustZoom button moving when the window resizes
+- Fixed bizarre issue that caused the game to crash when pressing K on the main menu
+- Fixed menu elements overlapping for some people due to launchers not updating certain files correctly
+- Removed mentions of the dragon control menu in the questbook, as the key is now unbound 
+
+Fixes:
+- Animations still showing when a player is invisible (WATUT)

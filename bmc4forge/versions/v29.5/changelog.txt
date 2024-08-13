@@ -1,0 +1,72 @@
+v29.5:
+Fixed servers not working in some cases
+
+v29:
+[Stability Update]
+FORGE MODLOADER IS NOW 47.3.3
+
+Mods:
++ Added Mediumcore Mode (by sbom_xela)
++ Added Aether Villages (by Aureljz)
++ Added Serene Seasons Fix (by Or_OS)
++ Added Boatload (by TeamAbnormals)
++ Added Faster Random (by AnOpenSauceDev)
++ Added Pet Cemetery (by TeamAbnormals)
++ Added Vertical Slabs Compat (by MehVahdJukaar)
++ Added "Better End Cities" for Better End (by TheArchitects777)
++ Added Incubation (by TeamAbnormals)
++ Added (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility (by Gammael)
++ Added Wither Spawn Fix [Fabric/Forge/Neoforge] (by Joespeph)
++ Added Noisium (by Steveplays28)
+- Removed RightClickHarvest (Replaced)
+- Removed Aether Delight (Closed source, unmaintained)
+- Removed Quark Delight (Closed source, unmaintained)
+- Removed Controllable (Causes startup crashes for some users, among other issues)
+- Removed WDA Spacing Tweaks (Structures are already spaced out sufficiently)
+- Removed Better End Cities (Replaced)
+ 
+Configs:
+- Added tons of new quests and a new quest chapter
+- Redesigned the main menu and loading screens to be much more clean and intuitive
+- Dragons from Dragon Mounts Legacy can now change types based off their habitat again. This was initially disabled for balance, but user input has shown this caused a lot of confusion and made some dragons much harder to obtain.
+- Fixed end generation being very square and end cities being hard to find due to BetterEnd glitch (Thanks liangmoe!)
+- Improved completion detection of all Twilight Forest quests. This should prevent some quests not completing properly.
+- Decreased Mowzies Mobs Naga spawn rates by 50%
+- Bound Crawl to Left Alt, so typing Z in chat will not cause the player to crawl
+- Disabled BCLib's custom fog rendering. This should fix the nether having very low visibility.
+- Disabled Quark's Greener Grass feature. This means that, as seasons change ingame, you will now see the grass color change as well. (Thanks stubkan!)
+- Enabled smallerRecipePacket in the Recipe Essentials config. This will reduce errors and make servers smoother for people on slow connections.
+- Re-enabled Quark simple harvest, which fixes some plants not harvesting correctly
+- Moved the JustZoom configuration button to the top right of the escape menu
+- Added to the Trading Post quest description the crucial information that villagers follow you when you hold an emerald in hand
+- Many small quest changes for clarity and balance
+- Bound the OPAC keybind to P
+- Bound Ping to R
+- Fixed the Game Menu text and the Player Reporting button moving when the window resizes
+- Set the max Farsight render distance to 32
+- Readded the custom Better MC window icon
+- Hid the No Chat Reports encryption button in chat
+- Disabled update checkers from several mods, which should decrease loading times and bandwith usage.
+
+Updates:
+- Added 12 new structures (Philip's Ruins)
+- Added 10 new structures (Adorabuild Structures)
+- Added Creeper and Slime souls (Spawners+)
+- Added Twilight Wood Cabinets (Twilight Delight)
+- Added Crab Claws, a rare drop from crabs that extends reach by 3 blocks (Crabbers Delight)
+- Added Cactus Chili and Cactus Soup (Delightful)
+- Added Refined Sentrite, a new metal that can be used for decoration blocks (Aether Redux)
+- Added Illager Invasion dusts as Supplementaries hourglass dusts (Extra Compat)
+- Added huge lightcap mushroom trees (Deep Aether)
+- Magnets now emit some light when on (Quark)
+- Increased soul drop rates for average mobs (Spawners+)
+- Wolves now spawn in the Savanna Plateau biome (Geophilic)
+- Bogged now spawn in the Swamp biome (Geophilic)
+- Improved quail animations (Deep Aether)
+- Improved magnet auto detection of magnetic blocks (Quark)
+ 
+Fixes:
+- Lag and crashes caused by penguins (What Are You Voting For)
+- Improved the speed of the F3 + T loading screen (ModernFix)
+- Yagroot vine related crash when placed on half blocks (Deep Aether)
+- Light/sky colors not reacting to time properly (BadOptimizations)

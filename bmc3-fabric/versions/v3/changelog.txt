@@ -1,0 +1,50 @@
+BMC3 Fabric
+[Content Update]
+
+Mods:
++ Added Regions Unexplored (by UHQ_GAMES)
++ Added FTB Quests (by FTB)
++ Added FTB Teams (by FTB)
++ Added AdventureZ (By Globox_Z)
++ Added VoidZ (By Globox_Z)
++ Added Mandala's GUI Dark Mode Compatibility (by Gammael)
++ Added Open Parties and Claims (by xaero96)
++ Added BetterEnd End Cities (by TheArchitects777)
++ Added Formations Overworld (by SuperMartijn642)
++ Added Formations Nether (by SuperMartijn642)
++ Added Luna (by LunaPixelStudios)
++ Added Blended Compat (by kanadeyoru)
++ Added XP Storage (by sfinc)
++ Added XP Storage Trinkets (by sfinc)
++ Added Elytra Slot (by TheIllusiveC4)
++ Added Item Highlighter (by Grend_G)
++ Added Charm of Undying (by TheIllusiveC4)
++ Added Yungs Menu Tweaks (by YUNGNICKYOUNG)
++ Added Chunk Sending (by someaddon)
++ Added Let Me Despawn (by frikinjay)
++ Added Recipe Essentials (by someaddon)
++ Added Client Crafting (by someaddon)
++ Added Faster Random (by AnOpenSauceDev)
++ Added Fast Async World Save (by someaddon)
++ Added FTB XMod Compat (by FTB)
++ Added Paxi (by YUNGNICKYOUNG)
++ Added Trinkets Compat Layer for Accessories (by Blodhgarm)
+
+Configs:
+- Added 50~ quests to guide you through the modpack
+- Added a new pre-main menu loading screen with a fancy animation alongside a new main menu design
+- Fixed the InventoryHUD inventory preview being on by default due to a faulty config
+- Bound Crawl to Left Alt
+
+Updates:
+- Added improved default biome features to the Snowy Plains, River, and Wooded Badlands biomes (Geophilic)
+- Adjusted feature distribution in the Savanna and its sub-biomes (Geophilic)
+- Adjusted biome colours of the Savanna, its sub-biomes, and Taiga biome (Geophilic)
+- When taking a screenshot, you will now get an "Open Screenshots Folder" prompt in chat (IJM's Tweaks)
+
+Fixes:
+- Vanilla issue where Minecraft would once again mess up the display resolution on startup (Cubes Without Borders)
+- Issues with exponentially increased fortune and looting amounts due when having accessories equipped (Accessories)
+- Dragon tool durability (DragonLoot)
+- Trident crash (DragonLoot)
+- Dragon items enchanting (DragonLoot)

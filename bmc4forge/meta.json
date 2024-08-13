@@ -59,6 +59,26 @@
       "id": "v28",
       "releasedAt": 1718116786000,
       "updateType": "minor"
+    },
+    {
+      "id": "v29",
+      "releasedAt": 1722754508000,
+      "updateType": "minor_breaking"
+    },
+    {
+      "id": "v29.5",
+      "releasedAt": 1722758698000,
+      "updateType": "minor"
+    },
+    {
+      "id": "v30",
+      "releasedAt": 1722837131000,
+      "updateType": "minor"
+    },
+    {
+      "id": "v30.5",
+      "releasedAt": 1722913200000,
+      "updateType": "minor"
     }
   ]
 }

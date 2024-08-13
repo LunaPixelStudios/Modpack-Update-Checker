@@ -1,0 +1,6 @@
+Hotfix:
+- Fixed invalid item in tutorial quest reward
+
+- Fixed many tools and items not working properly in some cases due to the Recipe Essentials mod, by temporarily removing it
+
+- Minor FancyMenu changes
