@@ -1,0 +1,29 @@
+[Quality of Life Update]
+MAKE SURE TO REMOVE ANY ITEMS FROM CORPSES BEFORE UPDATING
+
+Mods:
++ Added Sodium (by JellySquid)
++ Added Iris Shaders (by coderbot)
++ Added Deeper and Darker (by KyaniteMods)
++ Added Not Enough Animations (by tr7zw)
++ Added Aurelj's Paintings (by Aureljz)
++ Added You're in Grave Danger (by b1n_ry)
++ Added BetterGrassify (by UltimatChamp)
++ Added Sodium Extra (by FlashyReeze)
++ Added Reese's Sodium Options (by FlashyReese)
++ Added Complementary Shaders Reimagined (by EminGT)
++ Added Bisect Hosting Server Integration Menu (by BisectHosting)
+- Removed Embeddium (Replaced)
+- Removed Embeddium Extra (Replaced)
+- Removed Farsight (Crashes)
+- Removed Corpse (Replaced)
+
+Configs:
+- Added a quest category for the Deeper and Darker dimension
+- Structures now spawn 40% more frequently
+
+Updates:
+- Farmers Delight GUIs now have modded compatibility (Mandalas GUI Dark Mode Compatibility)
+
+Fixes:
+- Terminal search not keeping contents when closing menu (Toms Simple Storage)
