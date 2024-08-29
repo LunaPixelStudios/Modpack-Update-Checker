@@ -1,0 +1,26 @@
+[Dimension Update]
+FABRIC MODLOADER IS NOW 0.16.3
+
+Mods:
++ Added Deeper and Darker (by KyaniteMods)
++ Added Farmers Delight Refabricated (by MerchantPug)
++ Added Farmers Structures (by BlackAuresArt)
++ Added Smarter Farmers (by MehVahdJukaar)
++ Added Aurelj's Paintings (by Aureljz)
+- Removed Indium (Redundant due to Sodium update)
+
+Configs:
+- Added a quest category for the Deeper and Darker dimension
+- Structures now spawn 40% more frequently
+
+Updates:
+- Completely fixed the issue of translucency culling, where different types of stained glass and other translucent blocks being infront of eachother would look off or otherwise cause visual issues (Sodium)
+- The quality of terrain rendering has been greatly improved (Sodium)
+- The graphical fidelity and performance of cloud rendering has been improved significantly (Sodium)
+- Added new performance improvements which can speed up redstone performance by up to 35% (Alternate Current)
+- Farmers Delight GUIs now have modded compatibility (Mandalas GUI Dark Mode Compatibility)
+
+Fixes:
+- Terminal search not keeping contents when closing menu (Toms Simple Storage)
+- Terminal search keep not working (Toms Simple Storage)
+- Bug that would cause z-fighting between fluids and some special blocks (Sodium)           
