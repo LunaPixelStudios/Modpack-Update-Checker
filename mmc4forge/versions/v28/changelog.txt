@@ -1,0 +1,55 @@
+Medieval MC [Forge] 1.20.1 v28
+
+[QoL Update]
+
+- Forge is now 47.3.7
+
+#### Mods
+
+- Added Aether Villages (by Aureljz)
+- Added Loot Beams: Relooted! (by shiroroku)
+- Added Faster Random (by AnOpenSauceDev)
+- Added YDM's MobHealthBar (by YourDailyModderx)
+- Added Mana Unification (by Nyfaria)
+- Added Nyf's Compat (by Nyfaria)
+- Added CrashExploitFixer (by DrexHD)
+- Added Hysteria Shaders (by ElocinDev)
+- Removed Insanity Shaders (replaced)
+
+#### Modpack Content:
+
+- Added **Town Portal Scrolls**
+- Added **Challenge Orbs** - Used to respawn a nearby structure or boss arena. Crafted with end-game materials.
+
+**Challenge Orbs are currently only enabled for:** (Configurable)
+
+*L_Ender's Cataclysm*
+
+*EEEAB's Mobs*
+
+*Mowzie's Mobs*
+
+*Iron's Spellbooks' Dead King structure*
+
+*When Dungeons Arise*
+
+- **Challenge Orbs do not work if the structure contains claimed chunks, even your own**
+
+#### Changes/Fixes:
+
+- Enabled Passive Skill Tree gems
+- Further nerfed Current HP Damage affixes
+- Further lowered the rate of rare ingots from smelter bags
+- Fixed Skill tree crafting bonuses not applying in Storage Terminals, Backpacks, or for Celestisynth
+- Treasure Goblins can no longer be spawned by hitting a target dummy
+- Fixed the Survive Stamina bar displaying even though it was disabled
+- Newly spawned mobs can have higher levels, based on the average of nearby players' Passive Skill Tree points. (Configurable)
+- High level mobs will now have additional chances to drop high rarity Apotheosis gear
+- Fixed overlap with Inventory HUD and Overflowing Bars
+- Fixed some incorrect information about EEEAB's Mobs in quests (thanks Kayn!)
+- Passive mobs (cows, chickens, etc.) will no longer be leveled up
+- Disabled Ice and Fire dragon griefing
+- Disabled Enderman Overhaul's End Enderman
+- Fixed items in the hotbar sometimes turning invisible
+- Cleaned up many GUI textures
+- Temporarily removed bugged Excalibur's Twilight Forest entity textures
