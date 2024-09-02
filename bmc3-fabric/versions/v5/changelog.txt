@@ -1,0 +1,24 @@
+[Quality of Life Update]
+FABRIC MODLOADER IS NOW 0.16.2
+
+Mods:
++ Added Magnum Torch (by Fuzs)
++ Added Bartering Station (by Fuzs)
++ Added Nether Chested (by Fuzs)
++ Added Diagonal Fences (by Fuzs)
++ Added Diagonal Windows (by Fuzs)
++ Added Better End Crashed Ship Tweaks (by MuonR)
+- Removed FTB Chunks (Mistakenly included, use Open Parties and Claims instead)
+
+Configs:
+- Added quests for the Magnum Torch, Bartering Station, and Nether Chest
+- Modified the Liberty's Villagers mod config to bring villager behavior closer to vanilla. Villagers will no longer avoid water, trapdoors, rails, glass panes, and can now climb again. Golems will no longer avoid water, rails, trapdoors, will attack the player when attacked, and can climb again. Cats now have a spawn limit of 10, but will never despawn when untamed.
+- Re-enabled Dynamic Resources, as the issues it caused are now resolved
+
+Updates:
+- Added dark mode compatibility with Farmers Delight GUIs (Mandalas GUI Dark Mode Compatibility)
+- Added Empyreal Woods variants (Biomes o' Plenty)
+
+Fixes:
+- Anvils not breaking faster with the correct tool (Easy Anvils)
+- Crafting tables ignoring tools when breaking in multiplayer (Visual Workbench)

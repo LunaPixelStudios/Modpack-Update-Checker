@@ -1,0 +1,33 @@
+[Content Update]
+NEOFORGE MODLOADER IS NOW 21.0.167
+
+Mods:
++ Added When Dungeons Arise (by Aureljz)
++ Added You're In Grave Danger (by b1n_ry)
++ Added Magnum Torch (by Fuzs)
++ Added Diagonal Windows (by Fuzs)
++ Added Diagonal Fences (by Fuzs)
++ Added Oceans Delight (by scouter567)
++ Added Enders Delight (by Furti_Two)
++ Added What Are They Up To (by Corosus)
++ Added Sawmill (by MehVahdJukaar)
++ Added CrashExploitFixer (by drexhd)
+- Removed Corpse (Replaced)
+- Removed Yeetus Experimentus (Replaced)
+- Removed Piglin Proliferation (Temporary, due to mysterious world creation crash)
+- Removed Visual Workbench (Causes world disconnect)
+
+Configs:
+- Added quests for the Magnum Torch and Sawmill
+- Re-enabled the recipe book, due to user confusion caused by having it disabled
+- Waystones will now transport leashed pets
+- Fixed FTBQuests quest title not being present
+- Fixed FancyMenu window icon not working
+
+Updates:
+- Added 10 new structures (Adorabuild Structures)
+
+Fixes:
+- Leashed tamed pets desyncing when being teleported (Waystones)
+- Warp scrolls not being consumed (Waystones)
+- Anvils not breaking with the correct tool (Easy Anvils)
