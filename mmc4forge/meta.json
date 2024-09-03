@@ -56,11 +56,11 @@
     {
       "id": "v27",
       "releasedAt": 1720055270000,
-      "updateType": "incompatible"
+      "updateType": "major"
     },
     {
       "id": "v28",
-      "releasedAt": 1725236288,
+      "releasedAt": 1725236288000,
       "updateType": "minor_breaking"
     }
   ]
