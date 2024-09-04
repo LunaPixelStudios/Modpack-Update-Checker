@@ -1,0 +1,45 @@
+[Stability Update]
+FORGE MODLOADER IS NOW 47.3.7
+
+Mods:
++ Added BetterNether (by Quiqueck)
++ Added Farmers Structures (by BlackAuresArt)
++ Added Continuity (by Pepper_Bell)
++ Added Sodium Dynamic Lights (by Txni)
++ Added Entity Culling (by tr7zw)
++ Added Feature Recycler (by Corgi_Taco)
++ Added Mandala's GUI Vanilla Crosshair (by booleven)
++ Added CrashExploitFixer (by drexhd)
++ Added Blueprint Texture Issue Fix (by Txni)
+- Removed RyoamicLights (Replaced)
+- Removed Yeetus Experimentus (Replaced)
+- Removed Gardens of the Dead (Broken due to BCLib)
+
+Configs:
+- Fixed end cities having empty chests
+- Increased spawn rate of all structures by 40%!
+- The vanilla crosshair is now used instead of the custom one from Mandala's GUI. The custom crosshair can be restored by disabling the Mandala's GUI Vanilla Crosshair resourcepack in the Resourcepacks tab ingame.
+- Modified the Liberty's Villagers mod config to bring villager behavior closer to vanilla. Villagers will no longer avoid water, trapdoors, rails, glass panes, and can now climb again. Golems will no longer avoid water, rails, trapdoors, will attack the player when attacked, and can climb again. Cats now have a spawn limit of 10, but will never despawn when untamed.
+- Re-enabled the recipe book, due to user confusion caused by having it disabled. This comes at the cost of performance, so feel free to disable it again in the recipeessentials mod config.
+- Added information in the Dragon Eggs quest about what special abilities each dragon type has.
+- Improved detection of the Ignis, Void Worm, Netherite Monstrosity, Warden, Ender Guardian, Ender Golem and Ignited Revenant kill quests
+- Improved compatibility with the custom GUI texture used and modded blocks
+- Added a description to the Shattered quest in the Deeper & Darker questline
+- Paintings can no longer be picked up via CarryOn, as it'd softlock your game
+
+Updates:
+- Added 6 new structures (Philip's Ruins)
+- Added the Blooming Caverns biome, which contains Bloom-related wood and blocks along with a new fish, the Angler Fish (Deeper and Darker)
+- Crystallized Ambers can now generate with loot inside them (Deeper and Darker)
+- Bells when rung by a player with hero of the village will make guards in a 30 block radius follow that player or stop following (Guard Villagers)
+- Aether villages will now spawn in modded biomes (Aether Villages)
+- Soul Elytras can boost again (Deeper and Darker)
+- Sculk Snappers can now sit (Deeper and Darker)
+
+Fixes:
+- After several months, the issue with blocks randomly having missing textures is now fixed! (Moonlight Lib)
+- Many issues related to villagers not working as intended and having bad pathfinding (Smarter Farmers)
+- Notice board and pulley GUI not opening (Supplementaries)
+- Ice generated due to seasons not melting (Snow Real Magic)
+- Snow melting too slowly (Snow Real Magic)
+- Many issues related to Sculk Transmitters (Deeper and Darker)
