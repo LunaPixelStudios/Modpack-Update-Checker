@@ -1,0 +1,4 @@
++ Re-added Gardens of the Dead as removing it caused existing worlds to have overworld mobs spawn in the Nether
+- Fixed issue from v29 that caused end ships to not have loot or elytras
+- Fixed XaerosPlus startup crash config corruption issue
+- Fixed some vertical slabs having missing textures
