@@ -1,0 +1,20 @@
+[Structures Update]
+
+Mods:
++ Added Farmers Structures (by BlackAuresArt)
++ Added Fast Paintings (by MehVahdJukaar)
++ Added Farsight [Forge/Neo] (by someaddon)
++ Added Pastel Shaders (by ElocinDev)
++ Added Structure Layout Optimizer (by telepathicgrunt)
++ Added Alternate Current (by SpaceWalkerRS)
++ Added Global Packs (by JTK222)
+- Removed Paxi (Broke textures)
+
+Configs:
+- Fixed birch leaves textures being grey
+- Blacklisted paintings from being carried via CarryOn as it'd soft lock your game
+
+Fixes:
+- Having any kind of amor equipped not actually giving any defense (Deeper and Darker)
+- Hoppers not being craftable (Sawmill)
+- Shields not blocking projectiles or damage (Deeper and Darker)
