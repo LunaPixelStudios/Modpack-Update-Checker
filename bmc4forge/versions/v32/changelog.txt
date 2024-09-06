@@ -1,0 +1,10 @@
+[Minor Update]
+ 
+Mods:
++ Added Dragon Mounts Patches
+ 
+Configs:
+- Changed Dragon Command keybind and updated dragon eggs quest
+ 
+Fixes:
+- Game crashing when interacting with lanterns and hanging signs (Amendments)
