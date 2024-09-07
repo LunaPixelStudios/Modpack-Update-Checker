@@ -1,0 +1,2 @@
+- Fixed many Alex Mobs Crashes & Bugs (Alex Mobs)
+- Fixed Server Crash when wearing non-vanilla armor and taking damage (Deeper & Darker)
