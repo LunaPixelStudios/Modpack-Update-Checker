@@ -1,0 +1,22 @@
+[Quality of Life Update]
+
+Mods:
++ Added Luki's Crazy Chambers (by lukidon)
++ Added Amendments (by MehVahdJukaar)
++ Added Target Dummy (by MehVahdJukaar)
++ Added Better FPS Render Distance (by someaddon)
++ Added Entity Culling (by tr7zw)
++ Added Sodium Dynamic Lights (by Txni)
+
+Configs:
+- Fixed Discord rich presence
+- Fixed Deeper & Darker quests having incorrect rewards
+- Disabled villagers teleporting through walls
+
+Updates:
+- Adjust nether chest recipe to no longer require a nether star, but netherite scrap instead (Nether Chested)
+
+Fixes:
+- Foods without a container being unable to be removed from the cooking pot (Farmers Delight)
+- Farmer's Delight content not being compostable (Farmers Delight)
+- Crash when placing Mangrove Cabinet (Farmers Delight)
