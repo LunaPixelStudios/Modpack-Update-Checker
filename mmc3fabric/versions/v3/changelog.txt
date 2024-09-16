@@ -1,0 +1,57 @@
+Medieval MC [FABRIC] 1.21 v3:
+
+**[Major Update]**
+
+*Minecraft is now 1.21.1*
+
+*Fabric is now 0.16.5*
+
+- Added Eternal Starlight (by leo4096)
+- Added Better Combat (by daedelus_dev)
+- Added Combat Roll (by daedelus_dev)
+- Added Mythic Metals Decorations (by Noaaan)
+- Added Illager Invasion (by Fuzs)
+- Added Deeper and Darker (by KyaniteMods)
+- Added Farmer's Delight Refabricated (by MerchantPug)
+- Added Amendments (by plantspookable)
+- Added Wizards (RPG Series) (by daedelus_dev)
+- Added Paladins & Priests (RPG Series) by daedelus_dev)
+- Added Archers (RPG Series) (by daedelus_dev)
+- Added Jewelry (RPG Series) (by daedelus_dev)
+- Added Gazebos (RPG Series) (by daedelus_dev)
+- Added Rogues & Warriors (RPG Series) (by daedelus_dev)
+- Added Spellblades and Such (by cleannrooster)
+- Added Extra RPG Attributes (by cleannrooster)
+- Added Forcemaster (More RPG Classes) (by Fichteee)
+- Added Witcher (More RPG Classes) (by Fichteee)
+- Added More RPG Library (by Fichteee)
+- Added Smarter Farmers (by MehVahdJukaar)
+- Added Sky Villages (by Aurelj)
+- Added Magnum Torch (by Fuzs)
+- Added Farmers Structures (by BlackAuresArt)
+- Added TieredZ (by Globox_Z)
+- Added When Dungeons Arise - Seven Seas (by AurelJ)
+- Added AurelJ's Paintings (by AurelJ)
+- Added MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
+- Added Things (by gliscowo)
+- Added Farmers Structures (by BlackAuresArt)
+- Added EMI Enchanting (by fzzyhmstrs)
+- Added Entity Culling Fabric/Forge (by tr7zw)
+- Added Fast Paintings (by MehVahdJukaar)
+- Added Sodium Dynamic Lights (by Txni)
+- Added Eldritch Mobs (by CyborgPigeon)
+- Added Icarus (by Cammie)
+- Added Excalibur | Farmer's Delight Support (by TC_)
+- Added many other library mods, not listed
+- Removed Cut Through (replaced)
+- Removed Indium (replaced)
+- Removed RyoamicLights (replaced)
+- Removed Nameplate (temporarily)
+- Removed Mythic Upgrades 
+- Removed Pufferfish's Skills 
+- Removed Pufferfish's Attributes
+
+Modpack Changes:
+
+- Updated all other mods
+- Added many new quests to the questbook. More to come!
