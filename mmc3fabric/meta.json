@@ -4,19 +4,23 @@
   "versions": [
     {
       "id": "v1",
-      "releasedAt": 1721695439
+      "releasedAt": 1721695439,
+      "updateType": "minor_breaking"
     },
     {
       "id": "v1.5",
-      "releasedAt": 1721695440
+      "releasedAt": 1721695440,
+      "updateType": "minor_breaking"
     },
     {
       "id": "v2",
-      "releasedAt": 1723592957
+      "releasedAt": 1723592957,
+      "updateType": "minor_breaking"
     },
     {
       "id": "v3",
-      "releasedAt": 1726459726
+      "releasedAt": 1726459726,
+      "updateType": "minor_breaking"
     }
   ]
 }
