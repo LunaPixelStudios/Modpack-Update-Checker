@@ -4,22 +4,22 @@
   "versions": [
     {
       "id": "v1",
-      "releasedAt": 1721695439,
+      "releasedAt": 1721695439000,
       "updateType": "minor"
     },
     {
       "id": "v1.5",
-      "releasedAt": 1721695440,
+      "releasedAt": 1721695440000,
       "updateType": "minor"
     },
     {
       "id": "v2",
-      "releasedAt": 1723592957,
+      "releasedAt": 1723592957000,
       "updateType": "minor"
     },
     {
       "id": "v3",
-      "releasedAt": 1726459726,
+      "releasedAt": 1726459726000,
       "updateType": "minor"
     }
   ]
