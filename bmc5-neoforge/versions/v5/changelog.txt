@@ -1,0 +1,36 @@
+[Huge Content Update]
+Minecraft Version is now 1.21.1!
+ 
+Mods:
++ Added Oh The Biomes We've Gone (by AOCAWOL)
++ Added Luki's Crazy Chambers (by lukidon)
++ Added DnT Woodland Mansion Replacement (by Nova_Wostra)
++ Added Illager Invasion [Forge & Fabric] (by Fuzs)
++ Added Twilight's Flavors & Delight (by lcy0x1)
++ Added Amendments (by plantspookable)
++ Added Smarter Farmers (farmers replant) (by MehVahdJukaar)
++ Added MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
++ Added Radium Reforged (by Asek3)
++ Added Sodium/Embeddium Dynamic Lights (by Txni)
++ Added mSodium/Embeddium Extras (by Txni)
++ Added Sodium Leaf Culling (by Txni)
++ Added Mandala's GUI Vanilla Crosshair (by booleven)
++ Added Mandala's GUI - Add-Ons (by cesar_zorak)
++ Added mFresh Waystones Texture (by zozozrob_zadrot)
++ Added Re-Imagine-Tom-Simple-Storage (by Luna)
++ Added Farmer's Cutting: Oh The Biomes We've Gone (by Joshcraft2002)
++ Added FTB Filter System (by FTB)
+- Removed CrashExploitFixer (no longer needed)
+- Removed Diagonal Walls (Temporary fix to startup crash)
+- Removed Sodium Extra (Crashes on startup)
+- Removed Sawmill (Use Chipped Carpenter Table)
+ 
+Configs:
+- Reduced default render distance settings
+- Fixed main menu having the Accessibility button hidden, resulting in uneven button layout
+ 
+Updates:
+- Improved performance on integrated Intel GPUs by up to 10-15% with additional terrain rendering optimizations (Sodium)
+- Significantly improved spawn of underground desert structure (AdoraBuild)
+- Cherry houses and mushroom houses have higher priority to be spawned (AdoraBuild)
+- Large oak house will be spawned much less frequently (AdoraBuild)
