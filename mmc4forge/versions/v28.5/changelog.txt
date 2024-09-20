@@ -1,0 +1,16 @@
+Medieval MC [Forge] 1.20.1 v28.5
+
+[Bugfix Update]
+
+#### Changes/Fixes:
+
+- Fixed some kinds of mana bonuses not working (Mana Unification)
+- Added the Augmenting Table, overhauled sigils and removed vials, reworked most GUIs (Apotheosis)
+- High level mobs will now also have an extra chance to drop high rarity gems
+- Properly unified Silver (thanks Linguardium!)
+- Disabled Forbidden and Arcanus' Quantum Catcher (pending an entity blacklist)
+- Disabled Traveler's Backpacks from rolling Apotheosis affixes due to an exploit
+- Fixed the combat roll indicator moving inconsistently depending on window size
+- Fixed an item stack duplication bug/server crash (Nether Chested)
+- Fixed incorrect power calculations from most skill bonuses (Passive Skill Tree)
+- Health Bars will now only display if looking at a mob or in combat with it
