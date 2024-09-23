@@ -1,0 +1,51 @@
+[Huge Content Update]
+Minecraft Version is now 1.21.1!
+
+Mods:
++ Added Charm Forked (by MuonR)
++ Added Inmis (by Draylar1)
++ Added Wraith Waystones (by LordDeatHunter)
++ Added Illager Invasion [Forge & Fabric] (by Fuzs)
++ Added DnT Swamp Hut Overhaul (by Nova_Wostra)
++ Added DnT Ancient City Overhaul (by Nova_Wostra) 
++ Added DnT Woodland Mansion Replacement (by Nova_Wostra)
++ Added Diagonal Walls (by Fuzs
++ Added Diagonal Windows (by Fuzs)
++ Added Sodium/Embeddium Extras (by Txni)
++ Added Sodium Leaf Culling (by Txni)
++ Added Reimagine Tom Simple Storage (by Luna)
++ Added Configured Defaults (by Fuzs)
++ Added Mandala's GUI Vanilla Crosshair (by booleven)
++ Added Mandala's GUI - Add-Ons (by cesar_zorak)
++ Added Charm - BetterEnd Compat Datapack (by SplendidAlakey)
++ Added Charm - BetterNether Compat Datapack (by SplendidAlakey)
++ Added Autochefs Delight (by Snownee)
++ Added FTB Filter System (by FTB)
++ Added Global Packs (by JTK222)
+- Removed CrashExploitFixer (no longer needed)
+- Removed Sodium Extra (Crashes on startup)
+- Removed Sawmill (Use Chipped Carpenter Table instead)
+- Removed Paxi (Causes broken leaves textures)
+
+Configs:
+- Added several new quests, and fixed some missing rewards
+- Temporarily changed position of the Jade HUD element as the FPS counter can not be hidden due to a glitch
+
+Updates:
+- Added the Gazebuzz Cluster, the Phantasm Aviary, the Mite Fortress, and the Goliath Honey Fountain structures (The Bumblezone)
+- Added a horizontal scaling option to video settings (Better FPS - Render Distance)
+- Improved performance on integrated Intel GPUs by up to 10-15% with additional terrain rendering optimizations (Sodium)
+- Significantly improved spawn of underground desert structure (AdoraBuild)
+- Cherry houses and mushroom houses have higher priority to be spawned (AdoraBuild)
+- Large oak house will be spawned much less frequently (AdoraBuild)
+- Structures now spawn more consistently throughout the world (Repurposed Structures)
+- Made End Dungeons spawn only farther than 1000 blocks of world center and slightly less frequently (Repurposed Structures)
+- The Comb Cutter enchant can now go up to level 2 (The Bumblezone)
+
+Fixes:
+- Trident crash (DragonLoot)
+- Echo saplings not being plantable and echo trees not spawning (Deeper and Darker)
+- Gloomy cactus smelting into itself (Deeper and Darker)
+- Beetroot Soup, Mushroom Stew and Rabbit Stew not stacking to 16 (Farmers Delight)
+- Oak Village's Church being chopped off at top (Repurposed Structures)
+- Cosmic Crystal Entity breaking non-arena blocks when arena is despawned (The Bumblezone)
