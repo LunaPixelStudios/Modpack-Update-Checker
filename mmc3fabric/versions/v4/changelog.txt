@@ -1,0 +1,35 @@
+Medieval MC [FABRIC] 1.21 v4:
+
+**[Quests Update]**
+
+- Added Spellblades and Such: Hexblade (by cleannrooster)
+- Added Elemental Wizards (by Fichteee)
+- Added Luki's Grand Capitals (by lukidon)
+- Added Additional RPG Jewelry (by Fichteee)
+- Added EMI Loot (by fzzyhmstrs)
+- Added Easy Anvils (by Fuzs)
+- Added Tiny Skeletons (by Fuzs)
+- Added Mutant Monsters (by Fuzs)
+- Added Better Trims (by bawnorton)
+- Added All The Trims (by bawnorton)
+- Added Sodium/Embeddium Options API (by Txni)
+- Added Sodium/Embeddium Extras (by Txni)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added Sodium Leaf Culling (by Txni)
+- Added Almost Unified (by AlmostReliable)
+- Added Medieval
+- Updated all other mods
+
+**Modpack Changes:**
+
+- Added **Challenge Orbs** and **Town Portal Scrolls**
+- Challenge Orbs are a one time use item that can be used to respawn major dungeons. They don't work in claimed chunks!
+- Added a tutorial quest group, moved Realism quest chapter, added a magic tutorial chapter
+- Added a quest chapter for Hexblade
+- Updated other dimensional quest lines
+- Fixed old worlds incorrectly being marked incompatible
+- Fixed the changelog button in the main menu
+- The world spawn point now has a chance to be in a grand capital
+- Added Excalibur texture support for Witcher and some of the RPG series, WIP
+- Unified silver
+- Fruits from Eternal Starlight/Deeper Darker now restore thirst
