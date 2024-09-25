@@ -1,0 +1,20 @@
+[QoL Update]
+NEOFORGE IS NOW 21.1.61
+ 
+- Added Explorations (by Buecher_wurm)
+- Added Sinytra Connector (by Su5eD)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added Pro Placer (by Fuzs)
+- Added Configured Defaults [Forge & Fabric] (by Fuzs)
+- Added Bartering Station [Forge & Fabric] (by Fuzs)
+- Added Leave My Bars Alone (by Fuzs)
+- Removed Cuisine Delight (Does not fit the Modpack)
+- Configured Shaders to have better Performance
+- Graves can now generate below y=0
+- When selecting graves in the GUI, it will no longer tell you that you have your xp point total number of levels
+- Graves will no longer delete modded inventory contents from graves when restarting the instance.
+- Game no longer has a chance to crash when loading in with accessories mod
+- Fixed BWG Chest Boats not Saving Data
+- Fixed Video Settings resetting
+- Fixed Quests
+- JEI Fixes
