@@ -1,0 +1,7 @@
+[Biomes & Structures Update]
+ 
+- Added Nature's Spirit (by Team_Hibiscus)
+- Added Adventure Dungeons (by AlexMega)
+- Added Overflowing Bars [Forge & Fabric] (by Fuzs)
+- Added Enchantment Descriptions (by DarkhaxDev)
+- Blacklisted Spawners from CarryOn
