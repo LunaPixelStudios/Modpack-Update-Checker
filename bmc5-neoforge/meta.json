@@ -42,5 +42,10 @@
         "releasedAt": 1728053160000,
         "updateType": "minor_breaking"
       }
+      {
+        "id": "v7.5",
+        "releasedAt": 1728664800000,
+        "updateType": "minor_breaking"
+      }
     ]
   }

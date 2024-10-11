@@ -1,0 +1,10 @@
+[Small Update]
+NEOFORGE IS NOW 21.1.66
+ 
+- Memory Leak Fixes
+- Integrated lootables not working as intended
+- BWG Hanging Signs Crashing When placed
+- Rare Crash with buckler bashing on some devices
+- Cashes in some cases of malformed received waypoints
+- Waypoints not working correctly
+- Updated Mods
