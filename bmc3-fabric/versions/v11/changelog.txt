@@ -1,0 +1,35 @@
+[Seasons & Structures Update]
+FABRIC IS NOW 0.16.7
+
+- Added Explorify
+- Added Variant & Ventures
+- Added Fabric Seasons
+- Added Fabric Seasons: Delight Compat
+- Added Fabric Seasons: Extras
+- Added Items Displayed
+- Added Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]
+- Added MixinTrace
+- Added Indium
+- Removed Serene Seasons (Replaced with Better Co)
+- Removed WDA Flying Structures
+- Made Structres more Common
+- Balanced WDA Structure Loot
+- Decreased shrine generation rate
+- Improved loottable for shrine
+- Scarecrow now spawns less often
+- Decreased spawnrate of underground temples
+- New statues that generate in villages
+- New structure campsite
+- New cherry/bamboo scarecrows
+- Fixed Wypoints not working correctly
+- Fixed Crashes in some cases of malformed received waypoints
+- Fixed Integrated lootables not working as intended
+- Fixed Issues with checking unused accessories slots was imperfect leading to some slots being ignored
+- Fixed Issues with drop rule override not being properly handled with accessories
+- Fixed Issues related to quick equipment being allowed for all accessories even if such is disabled
+- Fixed Issues related to accessories slot attribute methods not returning holder
+- Fixed crashing due to providing a server side villager to a render function
+- Fixed Conflicting Keybinds
+- Other Bug Fixes
+- Updated Options.txt
+- Updated Mods
