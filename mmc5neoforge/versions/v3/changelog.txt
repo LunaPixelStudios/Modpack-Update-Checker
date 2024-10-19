@@ -1,0 +1,64 @@
+[Content Update]
+NEOFORGE IS NOW 21.1.72
+ 
+Changes:
+- Added YUNG's Better End Island (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Strongholds (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Nether Fortresses (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Dungeons (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Ocean Monuments (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Desert Temples (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Mineshafts (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Witch Huts (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Bridges (NeoForge) (by YUNGNICKYOUNG)
+- Added Yung Structures Addon for Loot Integrations (by someaddon)
+- Added Dungeons Enhanced Lootintegrations Addon (by someaddon)
+- Added Traveler's Titles (NeoForge) (by YUNGNICKYOUNG)
+- Added Subtle Effects (by MincraftEinstein)
+- Added Ender's Delight (by Furti_Two)
+- Added Horse Expert (by Fuzs)
+- Allow for the closing of the accessories screen using open accessories keybind when within the screen
+- Allow for crafting grid to be located in the sidebar area if group filters are not present
+- Attempt temp fix to constant entity clipping into GUI elements
+- Adjusted tooltip rendering to prevent such from covering the player at all costs
+- Prevent invalid containers from being gotten leading to possible crashes due to missing slot type
+- Disabled equipping from use when using Accessories/Curios integration to prevent duplication bug
+- Tweaked backpack position in the inventory to align properly with slots
+- Decreased shrine generation rate
+- Improved loottable for shrine
+- Scarecrow now spawns less often
+- Decreased spawnrate of underground temples
+- Added statues that generate in villages
+- Added new structure campsite
+- Added cherry/bamboo scarecrows
+- Decrease Pumpkin Warden Shadow Radius
+- New Relic - Phantom Boot
+- Farsight Maxed at 32
+- Show more JEI items
+- Updated Mods
+ 
+Fixes:
+- Memory Leak Fixes
+- Friends&Foes Crash
+- Possible crash for Sodium
+- Crash with Accessories
+- Dyed backpack rendering bug
+- Issue where curios event for attributes was unused
+- Issue where the backpack in the Accessories cosmetic slot was not being rendered
+- Disappearing backpack when the allowOnlyEquippedBackpack option is set to true and Curios/Accessories is installed
+- Issues with drop rule override not being properly handled
+- Issues related to slot attribute methods not returning holder
+- Issues with checking unused slots was imperfect leading to some slots being ignored
+- Issues related to quick equipment being allowed for all accessories even if such is disabled
+- Issues with Scrollable Widget leading to issues with slots only being cosmetic variants when switching
+- Crashing due to providing a server side villager to a render function
+- Graves will no longer overwrite other graves when dying in exact same places outside the world
+- Biome color lookup. This significantly improves automapping
+- Some resource pack issues for mob icons
+- Potentially fixed Holy Locket allies targeting
+- Midnight Robe and Magic Mirror inverted stats
+- Missing Mossy Red Rock and Mossy Stone Recipes
+- Missing Foragers Table Recipe
+- Missing talisman slot modifier
+- Quests
