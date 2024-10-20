@@ -1,0 +1,30 @@
+[Content Update]
+
+Changes:
+- Added YUNG's Better End Island (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Nether Fortresses (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Witch Huts (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Bridges (Fabric) (by YUNGNICKYOUNG)
+- Added Yung Structures Addon for Loot Integrations (by someaddon)
+- Allow for crafting grid to be located in the sidebar area if group filters are not present
+- Adjusted tooltip rendering to prevent such from covering the player at all costs
+- Updated Mods
+
+Fixes:
+- A possible deadlock issue with structure checking in Bumblezone
+- Bug that caused biome borders to be blocky/jarring rather than a more wavy smooth border in Bumblezone
+- Prevent invalid containers from being gotten leading to possible crashes due to missing slot type
+- Issues with Scrollable Widget leading to issues with slots only being cosmetic variants when switching
+- Issues with serialization and prevent crashing when trying to set out-of-bounds indexes
+- Issues with being able to equip cosmetic armor quickly
+- Attempt temp fix to constant entity clipping into GUI elements
+- Trinkets getting unequipped at relog or death
+- Mods screen being slow to open the first time
+- Gauntlet laser damage in some cases
+- Bug crafting with Chipped
+- Server crash
