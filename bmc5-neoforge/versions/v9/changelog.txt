@@ -1,0 +1,19 @@
+[Dragons Update]
+NEOFORGE IS NOW 21.1.72
+
+- Added Dragon Mounts Remastered (by Horeaki)
+- Added Paxi (NeoForge) (by YUNGNICKYOUNG)
+- Removed Global Packs (Repalced)
+- Prevent invalid containers from being gotten leading to possible crashes due to missing slot type
+- Allow for the closing of the accessories screen using open accessories keybind when within the screen
+- Adjust tooltip rendering to prevent such from covering the player at all costs
+- Allow for crafting grid to be located in the sidebar area if group filters are not present
+- Attempt temp fix to constant entity clipping into GUI elements
+- Issues with crashing for wolfs and such
+- Replaced 2 desert structures with new structures
+- Reworked 2 existing desert structures
+- Significantly improved spawn of underground desert structure
+- Cherry houses and mushroom houses have higher priority to be spawned
+- Large oak house will be spawned much less frequently
+- Curios Items moved to Accessories
+- Updated Mods
