@@ -1,0 +1,14 @@
+[Paradise Lost Update]
+
+Fixed typo in Modpack Version causing older worlds not to be Compatible
+
+- Added Paradise Lost (by ImmortalDevs)
+- Big XP Storage Update
+- Replaced 2 desert structures with new structures
+- Reworked 2 existing desert structures
+- Significantly improved spawn of underground desert structure
+- Cherry houses and mushroom houses have higher priority to be spawned
+- Large oak house will be spawned much less frequently
+- Issues with crashing for wolfs and such
+- Curios Items moved to Accessories
+- Updated Mods
