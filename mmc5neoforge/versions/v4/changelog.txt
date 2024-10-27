@@ -1,0 +1,35 @@
+[Content Update]
+ 
+Changes:
+- Added Champions Unofficial (by CrychicTeam)
+- Added Explorify – Dungeons & Structures (by bebebea_loste)
+- Added Formations Nether (by SuperMartijn642)
+- Added Formations Overworld (by SuperMartijn642)
+- Added Gardens of the Dead (by ochotonida)
+- Added Trading Post [Forge & Fabric] (by Fuzs)
+- Added Bartering Station [Forge & Fabric] (by Fuzs)
+- Added Charm of Undying (Fabric/Forge/Quilt) (by TheIllusiveC4)
+- Added Paxi (NeoForge) (by YUNGNICKYOUNG)
+- Removed Global Packs (Replaced)
+- Ray and Missile now support turrets
+- Lots of modded hoe support
+- Curios Items moved to Accessories
+- Updated Mods
+ 
+Fixes:
+- Issues related to clearing accessories inventory not clearing until restart of server/client
+- Trail resolving on blocks it conjured, causing it to not use pierces as intended
+- Infuse always granting the potion to the caster instead of the target
+- Imbuement chamber recipes not appearing in the book (Enchantment entries are still missing)
+- Inconsistencies with various summons losing their name or color when turning into a shard
+- Rare case where projectiles are not removed when exiting the chunk boundary
+- Item scrolls not updating correctly, preventing them from being updated or moved in storage
+- Crash when using Wixie, Drygmy, and Whirlisprig charms
+- Drygmy and thread bonus looting has been reenabled
+- Alakarkinos conjuring up more hats than he needs
+- Issues with crashing for wolfs and such
+- Toggle status of locked abilities
+- Tooltip background color modifier
+- Phantom Boot model centering
+- Wololo destroying candles
+- Almost Unified Issues
