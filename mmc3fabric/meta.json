@@ -39,12 +39,12 @@
     },
     {
       "id": "v6",
-      "releasedAt": 1730091300000,
+      "releasedAt": 1730091060000,
       "updateType": "minor_breaking"
     },
     {
       "id": "v6.5",
-      "releasedAt": 1730091300000,
+      "releasedAt": 1730091060000,
       "updateType": "minor_breaking"
     }
   ]
