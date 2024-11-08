@@ -1,0 +1,32 @@
+[Backpacked Update]
+FABRIC IS NOW 0.16.9
+
+Changes:
+- Added Backpacked (by MrCrayfish)
+- Added MoreCulling (by FX_PR0CESS)
+- Added Too Fast (by Noobanidus)
+- Removed Liberty's Villagers (Causes Lag)
+- Lots of modded hoe support
+- Added Paradise Lost Quests
+- Lowered Structure Spacing
+- Performance Improvements
+- Updated Options.txt
+- Updated Shaders
+- Updated Mods
+
+Fixes:
+- Quests
+- Server Pack
+- Sodium Issues
+- Moonlight Lib Issues
+- Other Crashing Issues
+- Resource Pack Overrides
+- Better Advancements Issues
+- ConcurrentModificationException crash
+- Issue where Warped Outpost would not spawn at all
+- Rare issue with compostables not working with some other mod
+- DFU acting up when upgrading a world with a Rotten Tomato in it
+- Excessive client-side logging for waystone discovery and updating
+- Farmer poi sensor affecting villagers fromother mods which had a secondary job site
+- Highlighted in-world element (e.g. waypoint) quickly toggling between two with the same distance from the crosshair
+- Issues related to clearing accessories inventory not clearing until restart of server/client
