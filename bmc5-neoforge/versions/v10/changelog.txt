@@ -1,0 +1,36 @@
+[Backpacked Update]
+NEOFFORGE IS NOW 21.1.76
+ 
+Changes:
+- Added Backpacked (by MrCrayfish)
+- Added Visuality: Reforged (by DragonsPlus)
+- Added MoreCulling (by FX_PR0CESS)
+- Prevent Enderman from Angering when player is wearing Pale Carved Pumpkin
+- Allow Vanishing Enchantment on Pale Carved Pumpkin
+- Optimize Crag Garden and Basalt Barrera Generation
+- More blocks and items for Oh The Biomes We've Gone
+- Increase Pumpkin Generation in Pumpkin Valley Biome
+- Added Pixie Club Music Disc Temple Chest Pools
+- Rename Baobab tree files to match the tree name
+- Lots of modded hoe support
+- Lowered Structure Spacing
+- Performance Improvements
+- Updated Options.txt
+- Updated Shaders
+- Updated Mods
+ 
+Fixes:
+- Sodium Issues
+- Shadow Issues
+- Moonlight Lib Issues
+- Other Crashing Issues
+- Farmer's Delight Issues
+- Snow Under Trees Issues
+- Better Advancements Issues
+- Issue where Warped Outpost would not spawn at all
+- Soul Torch Recipe with Soul Fruit overwriting Vanilla Recipe
+- Excessive client-side logging for waystone discovery and updating
+- Farmer poi sensor affecting villagers fromother mods which had a secondary job site
+- Highlighted in-world element (e.g. waypoint) quickly toggling between two with the same distance from the crosshair
+- Fruit Block/Leaves Crash
+- Quests
