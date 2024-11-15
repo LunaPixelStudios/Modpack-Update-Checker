@@ -9,6 +9,7 @@ Changes:
 - Stopped Creaking from Overspawning
 - Removed Extra Calender Quest
 - Removed DTK Update (Accidently left this Pale Garden mod in the Modpack after testing, Biomes will revert to other Pale Garden Mod that is present)
+- Lots of Fixes from Mod Updates
 
 Updated:
 - [ETF] Entity Texture Features
