@@ -1,0 +1,38 @@
+Medieval MC [Forge] 1.20.1 v29
+
+[Maledictus Update]
+
+*Forge is now 47.3.12*
+
+**Mods:**
+
+- Added Toni's Immersive Lanterns (by Txni)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added AllTheLeaks (Memory Leak Fix)
+- Added Long NBT Killer (by Dovecot_Official)
+- Added Structure Layout Optimizer (by telepathicgrunt)
+- Added Quests Freeze Fix (by Txni)
+- Removed Cataclysmic Illagers (incompatible with latest Cataclysm)
+- Removed Nyf's Compat (incompatible with latest Serene Seasons)
+
+**Configs:**
+
+- Added Boss Quest for Maledictus
+- Added Better Combat animations for Cataclysm weapons
+- Updated Sawmill datapack
+- Fixed and Enabled Town Portal Scrolls
+- Fixed Eidolon Silver Armor not being able to be picked up (still not craftable)
+- Fixed other players always displaying as Level 1
+
+**Changes:**
+
+- Added a new boss, Maledictus (L_Ender's Cataclysm)
+- Added Candy Cavity biome, a new cave biome full of sweet treats and sugary creatures (Alex's Caves)
+- Added new weapon, The Keres (Celestisynth)
+- Weapon tooltip overhaul(Celestisynth)
+- Overhauled Crescentia, Solaris, Rainfall Serenity, and more (Celestisynth)
+- Compatibility with Iron's Spellbooks, Apotheosis, and Passive Skill Tree (Celestisynth)
+- Fixed crash MacOS (AAA Particles)
+- Added cannons, cannonballs, throwable slimeballs, awnings, many new blocks, and more (Supplementaries)
+- Hundreds of other improvements or bug fixes from Supplementaries
+- Big Worldgen and Memory Usage improvements thanks to new mods!
