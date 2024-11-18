@@ -1,0 +1,2 @@
+- Removed BetterGrassify (Crashes)
+- Fixed Crash when pressing next to the join server icon

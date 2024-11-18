@@ -1,0 +1,43 @@
+[Content Update]
+NEOFORGE IS NOW 21.1.71
+ 
+Changes:
+- Added YUNG's Better End Island (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Strongholds (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Nether Fortresses (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Dungeons (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Ocean Monuments (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Mineshafts (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Better Witch Huts (NeoForge) (by YUNGNICKYOUNG)
+- Added YUNG's Bridges (NeoForge) (by YUNGNICKYOUNG)
+- Added Yung Structures Addon for Loot Integrations (by someaddon)
+- Added Sawmill (by MehVahdJukaar)
+- Added Quests
+- Decreased shrine generation rate
+- Improved loottable for shrine
+- Scarecrow now spawns less often
+- Decreased spawnrate of underground temples
+- Added statues that generate in villages
+- Added new structure campsite
+- Added cherry/bamboo scarecrows
+- Decrease Pumpkin Warden Shadow Radius
+- Farsight Maxed at 32
+- Show more JEI items
+- Updated Logo
+- Updated Mods
+ 
+Fixes:
+- Memory Leak Fixes
+- Friends&Foes Crash
+- Bug crafting with Chipped
+- Possible crash for Sodium
+- Issues with drop rule override not being properly handled
+- Issues related to slot attribute methods not returning holder
+- Issues with checking unused slots was imperfect leading to some slots being ignored
+- Issues related to quick equipment being allowed for all accessories even if such is disabled
+- Issues with Scrollable Widget leading to issues with slots only being cosmetic variants when switching
+- Crashing due to providing a server side villager to a render function
+- Graves will no longer overwrite other graves when dying in exact same places outside the world
+- Missing Mossy Red Rock and Mossy Stone Recipes
+- Missing Foragers Table Recipe

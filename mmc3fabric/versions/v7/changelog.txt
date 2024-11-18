@@ -1,0 +1,59 @@
+[Paradise Lost Update]
+FABRIC IS NOW 0.16.9
+
+Changes:
+- Added Paradise Lost (by ImmortalDevs)
+- Added Better End Cities Better End (by TheArchitects777)
+- Added JourneyMap Web Map (by Mysticdrew)
+- Added Charm of Undying (Fabric/Forge/Quilt) (by TheIllusiveC4)
+- Added Bartering Station [Forge & Fabric] (by Fuzs)
+- Added ScalableLux (by ishlandmc)
+- Added Noisium (by Steveplays28)
+- Added Paxi (Fabric) (by YUNGNICKYOUNG)
+- Removed Liberty's Villagers (Causes Lag)
+- Added more advancements for Eternal Starlight
+- Added descriptions for enchantments for Eternal Starlight
+- Fur padding now requires 9 ocelot fur tufts instead of 8
+- Glacial Hearts can now be stacked to 64
+- Made beaches only hot in summer
+- Scythes can no longer till blocks
+- Deathchill now stacks, but has a 2 second cooldown.
+- Lots of modded hoe support
+- More Subtle Effects
+- Nerfed Dehydration
+- Added Paradise Lost Quests
+- Lowered Structure Spacing
+- Performance Improvements
+- Fixed all Dimensions Health Difficulty
+- Updated Options.txt
+- Updated Shaders
+- Updated Mods
+
+Fixes:
+- EMI Issues
+- Sodium Issues
+- Moonlight Lib Issues
+- Snow Under Trees Issues
+- Other Crashing Issues
+- Better Advancements Issues
+- ConcurrentModificationException crash
+- Geyser Smoking recipes
+- Fur boots recipe conflict with fur padding
+- Rare issue with compostables not working with some other mod
+- Error occurring when leaving the server causing the client crashing the game
+- Excessive client-side logging for waystone discovery and updating
+- Biome particles not refreshing properly under certain conditions
+- Issue where Warped Outpost would not spawn at all
+- Some things breaking when changing dimensions
+- Using an anvil causing disconnection
+- Farmer poi sensor affecting villagers from other mods which had a secondary job site
+- Critical compatibility issue which prevented structure generation in the non vanilla biomes
+- Having 4 or more buffs make the interface unable to display items data when opening inventory
+- Profiles not choosing the best enchanted items
+- Profiles not comparing components properly
+- Sort putting stuff in bundles
+- Enchanted Books loot table error
+- Crash with auto remove death points enabled
+- Crash when using bonemeal underwater
+- Crash with N=1 mod 10 hearts
+- Quests

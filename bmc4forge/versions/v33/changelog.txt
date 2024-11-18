@@ -1,0 +1,24 @@
+[Big Update]
+FORGE IS NOW 47.3.11
+ 
+- Added YUNG's Cave Biomes (Forge) (by YUNGNICKYOUNG)
+- Added Jaden's Nether Expansion (by ThatJadenXgamer)
+- Added It Takes a Pillage (by izofar)
+- Added Galosphere (by orcinus73)
+- Added The Outer End (by BlueDuck)
+- Added MVS - Moog's Voyager Structures (by finndog_123)
+- Added MES - Moog's End Structures (by finndog_123)
+- Added MNS - Moog's Nether Structures (by finndog_123)
+- Added Neko's Enchanted Books (by Nekomaster1000)
+- Added ServerCore (by Wesley8081)
+- Added Too Fast (by Noobanidus)
+- Removed Cuisine Delight
+- Removed Sawmill (Use Chipped)
+- Performance Improvements
+- Disabled Nagas
+- New Boss from Cataclysm
+- Fixed Crash when pressing next to the join server icon
+- Fixed Log Spam
+- Updated Loading Screen and Logo
+- Updated Options.txt
+- Updated Mods

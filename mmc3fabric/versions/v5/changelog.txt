@@ -1,0 +1,64 @@
+[Big Update]
+FABRIC IS NOW 0.16.7
+
+- Added Dungeon Difficulty
+- Added Adventure Dungeon
+- Added Mob Plaques
+- Added Advancement Plaques
+- Added Explorations
+- Added MoreCulling
+- Added Subtle Effects
+- Added Elytra Slot
+- Added Fabric Seasons
+- Added Fabric Seasons: Delight Compat
+- Added Fabric Seasons: Extras
+- Added Recipe Essentials
+- Added Overflowing Bars
+- Added Configured Defaults
+- Added Leave my Bards alone
+- Added Enchantment Descriptions
+- Added ServerCore
+- Added I'm Fast
+- Removed Serene Seasons (Replaced)
+- Balanced WDA Structure Loot
+- Rebalanced of Weapons & Armor, to match the new RPG Series balancing
+- Decreased shrine generation rate
+- Improved loottable for shrine
+- Scarecrow now spawns less often
+- Decreased spawnrate of underground temples
+- New statues that generate in villages
+- New structure campsite
+- Updated Options.txt
+- Updated Logo
+- Updated Mods
+
+Fixes:
+- Issues with Better Trim Mod
+- Nether Keep Vaults not working
+- Desert oasis village vault crashing bug
+- Infinity applicable to any enchantable item
+- Integrated lootables not working as intended
+- Crash if for some reason a waypoint does not have a group
+- If dying for the first time in a world with an empty inventory, players will no longer be disconnected
+- Outreach and Ghasted not being aplied to enchanted books in their dedicated structures
+- Outreach not being aplied on enchanted books from archeology loot and pot
+- A bug where firing a Star Platinum Arrow from a crossbow could crash on saving
+- The Gatekeeper always trying to teleport back after the structure is destroyed
+- Rare case where offhand item use was incorrectly shown on Spell Hotbar
+- Crashing due to providing a server side villager to a render function
+- Nerfed Dripstone Circles Damage Multiplier and impact time
+- Dedicated servers being unable to shut down completely
+- Bug where bonemeal didn't grow dandelions and poppies
+- Uncraftable Thermal Springstone building blocks
+- Mana crystals ingredients conflict
+- The missing Wind Spell Book Advancement
+- Renderer crash with Cyclone entities
+- Uncraftable Nature's Compass recipe
+- Soul of Vengeance passive
+- Video Settings Resetting
+- Conflicting Keybinds
+- A collection crash
+- Server Crash
+- Almost Unified Fixes
+- EMI/EMI Loot Fixes
+- Other Bug Fixes

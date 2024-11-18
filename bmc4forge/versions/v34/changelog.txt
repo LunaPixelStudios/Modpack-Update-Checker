@@ -1,0 +1,36 @@
+[Pale Garden and Creaking Update]
+ 
+Changes:
+- Added Pale Garden and Creaking (by MinoBanana)
+- Added Quests Freeze Fix (by Txni)
+- Added Long NBT Killer (by Dovecot_Official)
+- Removed Outer End (Causes Large NBT Tags and Creating Large File Sizes, Reset the End Dimension if you want a clean look)
+- Big Jaden's Nether Expansion Update
+- Updated Options.txt
+- Updated the Mods
+ 
+Fixes:
+- Crashes with other OS
+- Remnant avoid water
+- Polished sandstone
+- Block particle crash
+- Structure missing bug
+- Frosted Prison's Door of seal
+- Leviathan's Portal abyss blast dmg
+- Crash related to creative mode tabs
+- Item tooltips not rendering in Storage Remote
+- Cosmetic toggles not updating positions properly
+- Falling snow not immediately converting to ice in water
+- Crash when trying to render tooltips outside of the inventory
+- An issue that prevented entity data from syncing to clients
+- Missing suggestions for unlock backpack command when on server
+- Player model in customise menu causing issues with other mods
+- Backpack positioned incorrectly on player when sneaking
+- Backpack model invisible on players back and shelf
+- Shelf overriding stack in back slot
+- Marksman enchantment not working
+- Mismatch of Chum Bucket textures
+- Bug crafting with Chipped
+- Moonlight Lib
+- Serene Season
+- Server Crash

@@ -1,0 +1,45 @@
+[Content Update]
+
+Changes:
+- Added YUNG's Better End Island (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Nether Fortresses (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Jungle Temples (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Desert Temples (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)
+- Added YUNG's Bridges (Fabric) (by YUNGNICKYOUNG)
+- Added Yung Structures Addon for Loot Integrations (by someaddon)
+- Added Traveler's Titles (Fabric) (by YUNGNICKYOUNG)
+- Added Horse Expert (by Fuzs)
+- Added a giant new island with lots of traps, mobs and ofc loot!
+- Challenge should now draw aggro from enemies with brains (Warden, Piglins, etc.)
+- Move death drop to be more compatible with grave mod
+- Allow for the closing of the accessories screen using open accessories keybind when within the screen
+- Adjust tooltip rendering to prevent such from covering the player at all costs
+- Moved Trinkets items to Accessories Slots
+- Nerfed Mobs Health
+- Updated Mods
+
+Fixes:
+- Possible crash for Sodium 6.0
+- Some resource pack issues for mob icons
+- Setting max render distance on the server
+- Biome color lookup. This significantly improves automapping
+- Issues with checking unused slots was imperfect leading to some slots being ignored
+- Issues with drop rule override not being properly handled
+- Issues related to quick equipment being allowed for all accessories even if such is disabled
+- Issues related to slot attribute methods not returning holder
+- Issues with Scrollable Widget leading to issues with slots only being cosmetic variants when switching
+- Issues with being able to equip cosmetic armor quickly
+- Invalid containers from being gotten leading to possible crashes due to missing slot type
+- Attempt fix to constant entity clipping into GUI elements
+- Bug that caused biome borders to be blocky/jarring rather than a more wavy smooth border in Bumblezone
+- A possible deadlock issue with structure checking in Bumblezone
+- Disappearing backpack when the allowOnlyEquippedBackpack option is set to true and Trinkets/Accessories is installed
+- Issue where the backpack in the Accessories cosmetic slot was not being rendered
+- Dyed backpack rendering bug
+- Crash with Accessories
+- Almost Unified Issues
+- Quests

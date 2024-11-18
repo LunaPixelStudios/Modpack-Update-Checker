@@ -1,0 +1,66 @@
+[Big Update]
+NEOFORGE IS NOW 21.1.68
+
+- Added Luki's Crazy Chambers (by lukidon)
+- Added The Twilight Forest (by Benimatic)
+- Added Adventure Dungeons (by AlexMega)
+- Added Twilight's Flavors & Delight (by lcy0x1)
+- Added Mutant Monsters [Forge & Fabric] (by Fuzs)
+- Added Nether Chested [Forge & Fabric] (by Fuzs)
+- Added Treasure Bags (by SilentChaos512)
+- Added Explorations (by Buecher_wurm)
+- Added Mob Plaques (by Fuzs)
+- Added Configured Defaults [Forge & Fabric] (by Fuzs)
+- Added Overflowing Bars [Forge & Fabric] (by Fuzs)
+- Added Leave My Bars Alone (by Fuzs)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added Enchantment Descriptions (by DarkhaxDev)
+- Added I'm Fast (by Bielhiss)
+- Added ServerCore (by Wesley8081)
+- Added Medieval (by MuonR)
+- Added Quests for Twilight Forest & The Undegarden
+- Custom entity for backpack item to improve void protection and backpack invulnerability
+- Performance improvement by optimizing backpack rendering
+- Backpack visibility toggle button
+- Graves can now generate below y=0
+- Updated Options.txt
+- Updated Mods
+
+Fixes:
+- Game no longer has a chance to crash when loading in with traveler's backpack and accessories
+- Graves will no longer delete modded inventory contents from graves when restarting the instance
+- If dying for the first time in a world with an empty inventory, players will no longer be disconnected.
+- Meal duplication when using containers against a Cooking Pot block, then closing and reloading the world
+- Crash when placing Mangrove Cabinet, Canvas Signs or Hanging Canvas Signs;
+- Outreach and Ghasted not being aplied to enchanted books in their dedicated structures.
+- Outreach not being aplied on enchanted books from archeology loot and pots
+- Some enchantment keeping the server level loaded in memory when in the main screen
+- Blood cauldron block crashbug due to missing default interaction
+- Crash if for some reason a waypoint does not have a group
+- Fixed Crash when pressing next to the join server icon
+- Bug where bonemeal didn't grow dandelions and poppies
+- Underbeans, Blisterberries, and Ditchbulbs not growing
+- Integrated lootables not working as intended
+- Items duplication in the vanilla search tab
+- Alchemist Cauldron and hopper interaction
+- Desert oasis village vault crashing bug
+- Loot validation performance issues
+- Accessories integration dupe bug
+- Nether Keep Vaults not working
+- Advancements not being visible
+- Poison cancelling long casts
+- Vanishing effect on servers
+- Video Settings Resetting
+- A Collection Crash
+- Sporadic CME Crash
+- Fancy Menu Crash
+- Sodium Crash
+- Main Menu
+- Rare issue with missing reroll button texture
+- Textures for Apothic Enchanting/Attributes
+- Textures for Guard Villagers
+- Textures for EMI
+- Lots of EMI/EMI Loot Fixes
+- Lots of Minecolonies Fixes
+- Lots of BWG Fixes
+- Other Bug Fixes

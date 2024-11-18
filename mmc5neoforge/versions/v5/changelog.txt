@@ -1,0 +1,54 @@
+[Eternal Starlight Update]
+NEOFFORGE IS NOW 21.1.76
+
+Changes:
+- Added Eternal Starlight (by leo4096)
+- Added MoreCulling (by FX_PR0CESS)
+- Added Eternal Starlight Quests
+- Spellbooks and other books can now be placed in chiselled bookshelves
+- Prevent Enderman from Angering when player is wearing Pale Carved Pumpkin
+- Allow Vanishing Enchantment on Pale Carved Pumpkin
+- Optimize Crag Garden and Basalt Barrera Generation
+- More blocks and items for Oh The Biomes We've Gone
+- Increase Pumpkin Generation in Pumpkin Valley Biome
+- Added Pixie Club Music Disc Temple Chest Pools
+- Rename Baobab tree files to match the tree name
+- Lots of modded hoe support
+- Lowered Structure Spacing
+- Performance Improvements
+- Updated Options.txt
+- Updated Shaders
+- Updated Mods
+
+Fixes:
+- EMI Issues
+- Sodium Issues
+- Shadow Issues
+- JourneyMap Config
+- Ars Nouveau Issues
+- Moonlight Lib Issues
+- Other Crashing Issues
+- Farmer's Delight Issues
+- Better Advancements Issues
+- Champions Unofficial Issues
+- Issue where Warped Outpost would not spawn at all
+- Soul Torch Recipe with Soul Fruit overwriting Vanilla Recipe
+- Excessive client-side logging for waystone discovery and updating
+- Farmer poi sensor affecting villagers fromother mods which had a secondary job site
+- Snoozebuncle registration which was preventing paintings from being placed
+- Bulk scribing recipe to work with blank parchments
+- Multiple issues with the Handy Haversack
+- When Living conversion posted, new champion's goal affix not working
+- Biome particles not refreshing properly under certain conditions
+- Some things breaking when changing dimensions
+- Using an anvil causing disconnection
+- Profiles not choosing the best enchanted items
+- Profiles not comparing components properly
+- Sort putting stuff in bundles
+- Critical compatibility issue which prevented structure generation in the non vanilla biomes
+- Crash with auto remove deathpoints enabled
+- Crash when using bonemeal underwater
+- Crash with N=1 mod 10 hearts
+- Fruit Block/Leaves Crash
+- Minecolonies Issues
+- Quests

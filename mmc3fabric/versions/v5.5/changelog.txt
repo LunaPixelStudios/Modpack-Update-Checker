@@ -1,0 +1,1 @@
+- Fixed Mobs & Monsters Health (Wrong Difficulty Scaling Value)

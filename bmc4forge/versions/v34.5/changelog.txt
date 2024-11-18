@@ -1,0 +1,45 @@
+[Fix Update]
+FORGE IS NOW 43.3.12
+
+Changes:
+- Added AllTheLeaks (Memory Leak Fix) (by Uncandango)
+- Added BMC Pale Garden "Datafixer" (by MuonR)
+- Added More Information to Cataclysm Boss Quests
+- Changed Dragon Egg Quest
+- Stopped Creaking from Overspawning
+- Removed Extra Calender Quest
+- Removed DTK Update (Accidently left this Pale Garden mod in the Modpack after testing, Biomes will revert to other Pale Garden Mod that is present)
+- Lots of Fixes from Mod Updates
+
+Updated:
+- [ETF] Entity Texture Features
+- AAA Particles
+- Ascended Quark
+- Cristel Lib
+- Enchantment Descriptions
+- Entity Culling Fabric/Forge
+- Euphoria Patches
+- Every Compat (Wood Good)
+- Farmer's Delight
+- Friends & Foes
+- FTB Library
+- ImmediatelyFast
+- L_Ender 's Cataclysm
+- ModernFix
+- Moonlight Lib
+- Not Enough Animations
+- Pale Garden and Creaking
+- Ping Wheel
+- Puzzles Lib
+- Skin Layers 3D
+- Snow Under Trees
+- Sodium/Embeddium Options API
+- Supplementaries
+- Supplementaries Squared
+- The Aether
+- The Aether: Redux
+- Xaero's Minimap
+- XaeroPlus
+- Complementary Shaders - Reimagined
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING

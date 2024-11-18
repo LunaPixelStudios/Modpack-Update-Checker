@@ -1,0 +1,18 @@
+[Structures Update]
+NEOFORGE IS NOW 21.1.65
+ 
+- Added Explorify – Dungeons & Structures (by bebebea_loste)
+- Added Adventure Dungeons (by AlexMega)
+- Added Variants & Ventures (by Faboslav)
+- Added Overflowing Bars [Forge & Fabric] (by Fuzs)
+- Added Enchantment Descriptions (by DarkhaxDev)
+- Added Icon Xaero's (by godkyo98)
+- Made WDA Structures more Rare
+- Fixed Crash when placing Mangrove Cabinet, Canvas Signs or Hanging Canvas Signs;
+- Fixed Meal Duplication when using containers against a Cooking Pot block
+- Fixed dedicated servers being unable to shut down completely
+- Fixed wildfire crown enchantability on newer minecraft versions
+- Fixed damage source of ice chunk
+- Fixed Compostables not working
+- Updated Options.txt
+- Updated Mods

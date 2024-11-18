@@ -1,0 +1,3 @@
+- Disabled Dynamic Resources (Causes Backpacked Invalid Texture)
+- Reverted Farmer's Delight Update (Causes Crash Stripping Logs)
+- Updated No Chat Reports

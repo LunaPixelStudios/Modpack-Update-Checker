@@ -46,6 +46,41 @@
         "id": "v8",
         "releasedAt": 1727046271000,
         "updateType": "minor_breaking"
+      },
+      {
+        "id": "v9",
+        "releasedAt": 1727754593000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v10",
+        "releasedAt": 1728175500000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v11",
+        "releasedAt": 1728786840000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "12",
+        "releasedAt": 1729432080000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v13",
+        "releasedAt": 1729946880000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v14",
+        "releasedAt": 1731080460000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v14.5",
+        "releasedAt": 1731116100000,
+        "updateType": "minor_breaking"
       }
     ]
   }
