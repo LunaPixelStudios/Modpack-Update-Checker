@@ -1,0 +1,58 @@
+[Content Update]
+ 
+Changes:
+- Added Luki's Crazy Chambers (by lukidon)
+- Added Formations Nether (by SuperMartijn642)
+- Added Formations Overworld (by SuperMartijn642)
+- Added Supplementaries (by MehVahdJukaar)
+- Added Repurposed Structures (Fabric/Quilt) (by telepathicgrunt)
+- Added Toni's Immersive Lanterns (by Txni)
+- Added Item Highlighter [Fabric] (by Grend_G)
+- Added Presence Footsteps (by S0llace)
+- Added Client Crafting (by someaddon)
+- Added Feature Recycler (by Corgi_Taco)
+- Added CIT Resewn (by SHsuperCM)
+- Added Biome Music[Forge/Fabric] (by someaddon)
+- Added Structure Layout Optimizer (by telepathicgrunt) 
+- Added Loot Integrations: Dungeons and Taverns (by someaddon)
+- Added the Bouldershroom
+- Added the Hanging Fantagrass, which generates on Starlight Mangrove trees
+- Added spawn cost for the Lonestar Skeleton and the Nightfall Spider
+- Replaced Swamp Silver Ingot from boss structure chests with Swamp Silver Nugget, Removed Aethersent Ingot from boss structure chests
+- Magus now tracks the position his enemy was 0.5 seconds ago rather than their current position, making it harder for him to hit his enemies
+- Magus now readies his sword for half a second before attacking
+- Shattered Blades will no longer play the Trident's return sound
+- The Cursed Garden now has a new look
+- Shaders now have better mod support and slightly better performance, with improved visuals
+- New Subtle Effects
+- Updated Options
+ 
+Fixes:
+- Lots of Fixes and Changes to Sodium
+- Issue where feature mixins could cause worldgen deadlocks
+- Modded structures occurring inside the Eternal Starlight
+- Gatekeeper's dash attack hurting the player through the shield
+- Mushrooms cannot be planted on Nightfall Podzol
+- Petal particles on non-blooming Shadegrieve blocks
+- The Gatekeeper ignoring the mobGriefing gamerule
+- Eased lag near the Cursed Garden
+- Treasure enchants on non-treasure loot
+- Bug with network protocol error occuring when joining some servers
+- Floating in Windy Air causing client disconnect from servers where server has flying disabled
+- Flying with Bumblebee Chestplate causing client disconnect from servers where server has flying disabled
+- Bug where preventing features from spawning in certain RS structures was not fully working
+- Zombie Crimson and Zombie Warped Villages's not having the bottom piece of their wells
+- Possible bug where the no basalt delta feature mixin could deadlock on edge of super massive structures
+- Bee-laxing with the Hom-bees Music Disc missing Bandcamp link in tooltip
+- Carpenter Bee Boots not gripping comb/wood/leaves walls properly
+- Beena Box Music Disc not having translated description
+- Auto refill not working with gear slots except helmet
+- Strong potion of reaching duration
+- Carpet profiler incompatibility
+- Aether dungeons incompatibility
+- Buttercup not being compostable
+- Iceologer model
+- Paradise Lost Quest
+- FTB Mods Issues
+- Moonlight Lib Issues
+- Default Keybinds
