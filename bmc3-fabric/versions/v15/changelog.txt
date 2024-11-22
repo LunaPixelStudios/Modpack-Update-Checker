@@ -1,0 +1,33 @@
+[Supplementaries Update]
+ 
+Changes:
+- Added Supplementaries (by MehVahdJukaar)
+- Added Another Furniture (by Starfish_Studios)
+- Added Villages & Pillages (by Faboslav)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Added Structure Layout Optimizer (by telepathicgrunt)
+- Removed Zoomify (Replaced)
+- Shaders now have better mod support and slightly better performance, with improved visuals
+- Updated Options
+ 
+Fixes:
+- Lots of Fixes and Changes to Sodium
+- Issue where feature mixins could cause worldgen deadlocks
+- Floating in Windy Air causing client disconnect from servers where server has flying disabled
+- Flying with Bumblebee Chestplate causing client disconnect from servers where server has flying disabled
+- Bug where preventing features from spawning in certain RS structures was not fully working
+- Zombie Crimson and Zombie Warped Villages's not having the bottom piece of their wells
+- Possible bug where the no basalt delta feature mixin could deadlock on edge of super massive structures
+- Bee-laxing with the Hom-bees Music Disc missing Bandcamp link in tooltip
+- Carpenter Bee Boots not gripping comb/wood/leaves walls properly
+- Beena Box Music Disc not having translated description
+- Bug with network protocol error occuring when joining some servers
+- Additional pickaxe drops not working
+- Strong potion of reaching duration
+- Carpet profiler incompatibility
+- Aether dungeons incompatibility
+- Buttercup not being compostable
+- Lithium Fixes and Improved Mod Compatibility
+- Iceologer model
+- Moonlight Lib Issues
+- Default Keybinds
