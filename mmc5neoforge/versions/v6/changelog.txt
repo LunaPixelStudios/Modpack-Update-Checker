@@ -1,0 +1,61 @@
+[Aether Update]
+NEOFORGE IS NOW 21.1.79
+ 
+Changes:
+- Added The Aether (by TheAetherTeam)
+- Added Aether Villages (by Aureljz)
+- Added Supplementaries (by MehVahdJukaar)
+- Added Passable Foliage 🌳 (NeoForge) (by Snownee)
+- Added Toni's Immersive Lanterns (by Txni)
+- Added MapFrontiers (by meme_sapiens)
+- Added Ars Nouveau's Flavors & Delight (by lcy0x1)
+- Added Structure Layout Optimizer (by telepathicgrunt)
+- Added Feature Recycler (by Corgi_Taco)
+- Removed EMI (Incompatible)
+- Added Aether Quests
+- Added Loot Integrations: Dungeons and Taverns
+- Added Apple Fruit Decorator to Orchard Trees
+- Added glyph icons to more caster item tooltips
+- Added spell school icons to glyphs
+- Grates can now insert liquids into cauldrons
+- Turrets and Runes now use the players UUID from last interaction
+- Rebalances mycelial sourcelink, giving more weight to saturation and slightly less to magical foods
+- The Sonorous Staff can now be repaired and enchanted
+- Sludges and Phantoms are now considered Sculk mobs
+- Shaders now have better mod support and slightly better performance, with improved visuals
+- New Subtle Effects
+- Updated Options
+ 
+Fixes:
+- Lots of Fixes and Changes to Sodium
+- Lots of Fixes and Changes to Twilight Forest
+- Lots of Fixes and Changes to Eternal Starlight
+- Lots of Fixes and Changes to Oh The Biomes We've Gone
+- Issue where feature mixins could cause worldgen deadlocks
+- Bug with network protocol error occuring when joining some servers
+- Cross-mod compat issue causing crashes under some situations when players join
+- Bug where preventing features from spawning in certain RS structures was not fully working
+- Zombie Crimson and Zombie Warped Villages's not having the bottom piece of their wells
+- Possible bug where the no basalt delta feature mixin could deadlock on edge of super massive structures
+- Grates deleting waterlogged blocks below when a block is waterlogged above
+- Auto refill not working with gear slots except helmet
+- Otherside dimension effects overlapping with the Nether's
+- Otherside portal duplication- Otherside portal duplication
+- Reactive not allowable on all items
+- Summoning sickness being dispellable
+- Alakarkinos charms not consuming on use
+- Music discs not playing in mono
+- Clipping with whirlisprig blossom
+- Wilden and awakening rituals not starting
+- Place block deleting caster tool
+- Book elements disappearing when resizing game window
+- Fruit Blocks not Generating on Fruit Leaves
+- Treasure enchants on non-treasure loot
+- Strong potion of reaching duration
+- Carpet profiler incompatibility
+- Aether dungeons incompatibility
+- Buttercup not being compostable
+- Iceologer model
+- MineColonies Issues
+- Moonlight Lib Issues
+- Default Keybinds
