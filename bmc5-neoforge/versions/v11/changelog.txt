@@ -1,0 +1,40 @@
+[Aether Update]
+NEOFORGE IS NOW 21.1.79
+ 
+Changes:
+- Added The Aether (by TheAetherTeam)
+- Added Aether Villages (by Aureljz)
+- Added Supplementaries (by MehVahdJukaar)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Added Aether Quests
+- Added visual effect of egg hatching & tooltip of how to hatch
+- Remove Bonemeal interactions between Fruit Leaves and Fruit Block
+- Make Fruit Leaves only valid bonemeal targets when there is air below the block
+- Make it so Flowering Leaves can't be bonemealed if placed by player
+- The Sonorous Staff can now be repaired and enchanted
+- Sludges and Phantoms are now considered Sculk mobs
+- Shaders now have better mod support and slightly better performance, with improved visuals
+- Updated Options
+ 
+Fixes:
+- Lots of Fixes and Changes to Sodium
+- Lots of Fixes and Changes to Twilight Forest
+- Lots of Fixes and Changes to Oh The Biomes We've Gone
+- Issue where feature mixins could cause worldgen deadlocks
+- Bug with network protocol error occuring when joining some servers
+- Bug where preventing features from spawning in certain RS structures was not fully working
+- Zombie Crimson and Zombie Warped Villages's not having the bottom piece of their wells
+- Possible bug where the no basalt delta feature mixin could deadlock on edge of super massive structures
+- Otherside dimension effects overlapping with the Nether's
+- Otherside portal duplication
+- Missing block break particles for some eggs
+- Additional pickaxe drops not working
+- Possible fix for server-side crashes
+- Fruit Blocks not Generating on Fruit Leaves
+- Strong potion of reaching duration
+- Carpet profiler incompatibility
+- Aether dungeons incompatibility
+- Buttercup not being compostable
+- Iceologer model
+- Moonlight Lib Issues
+- Default Keybinds
