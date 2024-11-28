@@ -1,0 +1,39 @@
+[Big Update]
+FABRIC IS NOW 0.16.9
+ 
+- Added Oh The Biomes We've Gone (by AOCAWOL)
+- Added Paradise Lost (by ImmortalDevs)
+- Added Luki's Grand Capitals (by lukidon)
+- Added Ender's Delight (by Furti_Two)
+- Added Explorify – Dungeons & Structures (by bebebea_loste)
+- Added Formations Nether (by SuperMartijn642)
+- Added Formations Overworld (by SuperMartijn642)
+- Added The Guild (by fulmineo64)
+- Added Chef's Delight [Fabric] (by redstone3game)
+- Added Public Gui Announcement (by AbsolemJackdaw)
+- Added Stony Cliffs Are Cool (by bebebea_loste)
+- Added Hearths (by bebebea_loste)
+- Added Faster Random (by AnOpenSauceDev)
+- Added Noisium (by Steveplays28)
+- Added ImmediatelyFast (by RaphiMC)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added Sodium/Embeddium Extras (by Txni)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added Quests Freeze Fix (by Txni)
+- Added Feature Recycler (by Corgi_Taco)
+- Added Structure Layout Optimizer (by telepathicgrunt)
+- Added Autochef's Delight (by Snownee)
+- Added YUNG's Better Desert Temples (Fabric) (by YUNGNICKYOUNG)
+- Added Sparse Structures (by Maxence)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Removed Zoomify (Replaced)
+- Removed LambDynamicLights (Replaced)
+- Removed [Deprecated] Farmer's Delight (Replaced)
+- Removed Unnecessary Resource Packs
+- Greatly Improved Performance Client and Server
+- Fixed JourneyMap Config
+- Fixed Broken custom Dispenser behaviors
+- Lots of Updates, Changes & Fixes that I wont be lisiting since there is way too much
+- Updated Menu's & Loading Screen
+- Updated Over 100 Mods
+- Updated Options
