@@ -1,0 +1,42 @@
+[Big Update]
+FABRIC IS NOW 0.16.9
+ 
+- Added Oh The Biomes We've Gone (by AOCAWOL)
+- Added Paradise Lost (by ImmortalDevs)
+- Added Ender's Delight (by Furti_Two)
+- Added Explorify – Dungeons & Structures (by bebebea_loste)
+- Added MVS - Moog's Voyager Structures (by finndog_123)
+- Added MNS - Moog's Nether Structures (by finndog_123)
+- Added MES - Moog's End Structures (by finndog_123)
+- Added Chef's Delight [Fabric] (by redstone3game)
+- Added Public Gui Announcement (by AbsolemJackdaw)
+- Added Stony Cliffs Are Cool (by bebebea_loste)
+- Added Faster Random (by AnOpenSauceDev)
+- Added Noisium (by Steveplays28)
+- Added Sodium/Embeddium Dynamic Lights (by Txni)
+- Added Sodium/Embeddium Extras (by Txni)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added Quests Freeze Fix (by Txni)
+- Added Feature Recycler (by Corgi_Taco)
+- Added Structure Layout Optimizer (by telepathicgrunt)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Added (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility (by Gammael)
+- Added Mandala's GUI - Add-Ons (by cesar_zorak)
+- Removed Zoomify (Replaced)
+- Removed What Are They Up To (Replaced)
+- Removed LambDynamicLights (Replaced)
+- Removed [Deprecated] Farmer's Delight (Replaced)
+- Removed Unnecessary Resource Packs
+- Greatly Improved Performance Client and Server
+- Fixed Spawner Silencer on servers
+- Fixed Broken custom Dispenser behaviors
+- Fixed frostwalk protection race condition crash in singleplayer
+- Fixed race condition crash when fixing inconsistencies in party data
+- Fixed many real and potential issues in singleplayer by adding a lot of ServerLevel null checks
+- Improved how server thread is ensured in singleplayer, fixing many real and potential issues
+- Lots of Updates, Changes & Fixes that I wont be listing since there is way too much
+- Updated Menu's & Loading Screen
+- Updated Over 100 Mods
+- Updated Options
+ 
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
