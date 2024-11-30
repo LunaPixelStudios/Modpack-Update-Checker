@@ -1,0 +1,19 @@
+[Big Update]
+ 
+- Added Ice And Fire Patcher (by IAFEnvoy)
+- Added Dungeons Enhanced (by Valarauko9)
+- Added Explorify – Dungeons & Structures (by bebebea_loste)
+- Added Noisium (by Steveplays28)
+- Added Hearths (by bebebea_loste)
+- Added Entity Culling Fabric/Forge (by tr7zw)
+- Added Presence Footsteps [Forge] (by Paint_Ninja)
+- Added Feature Recycler (by Corgi_Taco)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Added You Shall Not Spawn! [Forge/Fabric] (by ElocinDev)
+- Fixed JourneyMap Config
+- Lots of Updates, Changes & Fixes that I wont be listing since there is way too much
+- Updated Menu's & Loading Screen
+- Updated 40+ Mods
+- Updated Options
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
