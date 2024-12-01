@@ -1,0 +1,31 @@
+[Big Update]
+
+- Added Mowzie's Cataclysm (by Cyber_Rat)
+- Added Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+- Removed Just Zoom (Replaced)
+- Added New Fusion Weapons
+- Changed the way creakings spawn
+- Creaking hearts now randomly tick like plants, and test to see the number of players and creaking near it
+- Creaking hearts now spawn one creaking per player near it, and significantly less often
+- No more than one creaking per player will spawn, and only in the pale garden biome
+- Now Leviathan is no longer affected by Bubble Column
+- Nerfed Guantlet of maelstorm's cooldown and duration
+- Blazing grips and sticky gloves now have visible first-person models
+- Lots of Changes and Fixes for Jaden's Nether Expansion
+- Crash when attempting to read our item names on the server side
+- Items are no longer voided when an item is on your cursor and the bounty board gui is closed
+- Fixed frostwalk protection race condition crash in singleplayer
+- Fixed race condition crash when fixing inconsistencies in party data
+- Fixed many real and potential issues in singleplayer by adding a lot of ServerLevel null checks
+- Fixed Gauntlet of maelstorm's void vortex pull the caster
+- Fixed the position of the Wide player model for blazing grips and sticky gloves
+- Fixed improper Otherside dimension effects registration
+- Fixed possible deadlocks on worldgen
+- Fixed Spawner Silencer on servers
+- Fixed Creaking Overspawning
+- Supplementaries Issues
+- Moonlight Lib Issues
+- Delightfull Issues
+- Updated Mods
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
