@@ -1,0 +1,53 @@
+[Skills Update]
+ 
+Changes:
+- Added Default Skill Trees (by Pufferfish)
+- Added More Villagers : Re-employed (by frikinjay)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added BadOptimizations (by thosea)
+- Added Icy Vaults
+- Added Icy Trial Spawners
+- Added a meteorite like geode
+- Added netherrack dark iron ore
+- Added visibility options for map types
+- Added option to change the number of vertices of a new frontier
+- Added frontier visibility override options, which allow you to have different options just for you from those set on the frontier
+- Removed broken custom dispenser behaviors
+- Improved skillet flipping sounds
+- Skillet wont play the item equip animation no more while cooking
+- Skillet itself will also animate when flipping stuff
+- Water now flows when door is opened, just like trapdoors
+- Frosted Effect cant be applied if the entity has the Frozen Solid Effect
+- Freeze Immune Entites are not affected by Frosted & Frozen Solid Effect
+- Frozen Solid Effect Visual Model now scales with target
+- Adrenaline effect amplifier now gets decreased on receiving damage
+- Improved the driver workarounds for NVIDIA GPUs on Windows, potentially improving performance on laptops with hybrid graphics
+- Improved the occlusion culling code so that it can be skipped when chunk updates do not modify the connected-ness of chunk sections, improving performance slightly in some scenarios
+- Updated Spyglass and Vein Mining Keybind
+- Updated Mods
+ 
+Fixes:
+- Lots of Changes and Fixes to Nature's Spirit
+- Players sometimes getting stuck online
+- Fruitful Fun's Sliding Redlove Doors.
+- Issue where doors and fence gates wouldn't flood out
+- Issue where buckets of water wouldn't work on space inside Fence Gates if the Fence Gate is waterloggable
+- Skillet flipping interpolation being broken
+- Chillager Captains not dropping Ominous Bottles on death
+- Bug where Power Snow walkable items could work when equipped in any armor slot (They must now be equipped in either the feet or body slots)
+- Fullscreen waypoint teleporting when waypoint is below blocks
+- Waypoint teleporting nether calculations when JM is not on the server
+- Automapping does not apply biome colors
+- Weird biome color blending on chunks borders
+- Better cleaning up of region images once expired
+- HUD not showing the frontier you are on when logging in
+- Snap option not having effect
+- Bee Queen trades not giving correct amount of rewards
+- Rare crashes when structures intersect due to processors applying mismatched nbt
+- Bug where clouds would render incorrectly when Fabulous! mode is used
+- Bug with color blending that would cause some animated textures to flicker or render incorrectly, especially with shader packs.
+- Some issues with translucent block rendering that could occur due to draw calls not being correctly sorted
+- Bug where very large block entities in nearby chunk sections would be incorrectly culled
+- Performance issue with map rendering
+ 
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
