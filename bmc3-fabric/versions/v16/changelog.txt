@@ -1,0 +1,41 @@
+[Aether Update]
+
+Changes:
+- Added The Aether (by TheAetherTeam)
+- Added Aether Villages (by Aureljz)
+- Added Frostiful (by TheDeathlyCow)
+- Added More Villagers : Re-employed (by frikinjay)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added Tips (by DarkhaxDev)
+- Added Icy Vaults
+- Added Icy Trial Spawners
+- Removed broken custom dispenser behaviors
+- Improved skillet flipping sounds
+- Skillet wont play the item equip animation no more while cooking
+- Skillet itself will also animate when flipping stuff
+- Improved the driver workarounds for NVIDIA GPUs on Windows, potentially improving performance on laptops with hybrid graphics
+- Improved the occlusion culling code so that it can be skipped when chunk updates do not modify the connected-ness of chunk sections, improving performance slightly in some scenarios
+- Improved how server thread is ensured in singleplayer, fixing many real and potential issues
+- Updated Spyglass and Vein Mining Keybind
+- Updated Mods
+
+Fixes:
+- Lots of Changes and Fixes to Nature's Spirit
+- Players sometimes getting stuck online
+- Skillet flipping interpolation being broken
+- Chillager Captains not dropping Ominous Bottles on death
+- Bug where Power Snow walkable items could work when equipped in any armor slot
+- Bug where clouds would render incorrectly when Fabulous! mode is used
+- Bug with color blending that would cause some animated textures to flicker or render incorrectly, especially with shader packs.
+- Some issues with translucent block rendering that could occur due to draw calls not being correctly sorted
+- Bug where very large block entities in nearby chunk sections would be incorrectly culled
+- Frostwalk protection race condition crash in singleplayer
+- Race condition crash when fixing inconsistencies in party data
+- Many real and potential issues in singleplayer by adding a lot of ServerLevel null checks
+- Rare crashes when structures intersect due to processors applying mismatched nbt
+- Bee Queen trades not giving correct amount of rewards
+- HUD not showing the frontier you are on when logging in
+- Snap option not having effect
+- Possible deadlocks on worldgen
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
