@@ -1,0 +1,5 @@
+- Fixed Crash riding some horses/other animals
+- Updated Charm Forked
+- Updated Entity Culling Fabric/Forge
+- Updated Farmer's Delight Refabricated
+- Updated Thermoo
