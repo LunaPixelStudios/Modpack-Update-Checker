@@ -1,0 +1,58 @@
+[Skills Update]
+NEOFORGE IS NOW 21.1.84
+
+Changes:
+- Added Default Skill Trees (by Pufferfish)
+- Added Iron's Gems 'n Jewelry (by Iron431)
+- Added More Villagers : Re-employed (by frikinjay)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added Leaf particles too decaying leaves blocks
+- Added Goats to Howling Peaks
+- Added Armadillos to Araucaria, Baobab Savannas, Ironwood Gour and Red Rock Valley
+- Shrinked bubble hitbox
+- Casting Bubble on an entity will try to capture it directly
+- Bubbles now include the casters Spell Damage
+- Enchanters swords now have +4 spell damage instead of giving an Amplify at the end of the spell
+- Entities that dismount bubbles will not be captured by the same bubble again
+- Farmer's Delight crops will now generate in village farms
+- Improved the driver workarounds for NVIDIA GPUs on Windows, potentially improving performance on laptops with hybrid graphics
+- Improved the occlusion culling code so that it can be skipped when chunk updates do not modify the connected-ness of chunk sections, improving performance slightly in some scenarios
+- Updated Spyglass and Vein Mining Keybind
+- Updated Mods
+
+Fixes:
+- Lots of Changes and Fixes to The Aether
+- Bug where clouds would render incorrectly when Fabulous! mode is used
+- Bug with color blending that would cause some animated textures to flicker or render incorrectly, especially with shader packs.
+- Some issues with translucent block rendering that could occur due to draw calls not being correctly sorted
+- Bug where very large block entities in nearby chunk sections would be incorrectly culled
+- Players sometimes getting stuck online
+- Crash with invalid potion types in the melder
+- Duplicate starbuncle shard clearing recipes
+- Source jar tooltip desyncing
+- Stable warp scroll not blinking or creating portals cross dimesionally
+- Augment descriptions using the wrong lang key
+- Crash with empty spell
+- Bubbles capturing spell projectiles and other entities that are already riding a bubble
+- Issue where doors and fence gates wouldn't flood out
+- Issue where buckets of water wouldn't work on space inside Fence Gates if the Fence Gate is waterloggable
+- Fruitful Fun's Sliding Redlove Doors
+- Leaf rendering when picking up any block
+- Gui fade option transparency not always working
+- Contextual spell bar setting hiding spell bar while using scroll modifier keybind
+- Angel Wings implementation to be more compatible with various mods
+- Fullscreen waypoint teleporting when waypoint is below blocks
+- Waypoint teleporting nether calculations when JM is not on the server
+- Automapping does not apply biome colors
+- Weird biome color blending on chunks borders
+- Better cleaning up of region images once expired
+- Performance issue with map rendering
+- Animals not spawning in BWG Biomes due to missing block tags
+- Crash with spores from Spore Sack
+- Stars hitbox in the researching UI
+- Springy Boot leveling
+- Possible deadlocks on worldgen
+- Mincolonies Issues
+- FTB Chunks Issues
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
