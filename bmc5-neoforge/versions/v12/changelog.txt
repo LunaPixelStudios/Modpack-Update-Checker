@@ -1,0 +1,25 @@
+[Villagers Update]
+NEOFORGE IS NOW 21.1.84
+
+Changes:
+- Added More Villagers : Re-employed (by frikinjay)
+- Added Sodium/Embeddium Options Mod Compat (by Txni)
+- Added Leaf particles too decaying leaves blocks
+- Farmer's Delight crops will now generate in village farms
+- Improved the driver workarounds for NVIDIA GPUs on Windows, potentially improving performance on laptops with hybrid graphics
+- Improved the occlusion culling code so that it can be skipped when chunk updates do not modify the connected-ness of chunk sections, improving performance slightly in some scenarios
+- Improved how server thread is ensured in singleplayer, fixing many real and potential issues
+- Updated Spyglass and Vein Mining Keybind
+- Updated Mods
+
+Fixes:
+- Lots of Changes and Fixes to The Aether
+- Bug where very large block entities in nearby chunk sections would be incorrectly culled
+- Frostwalk protection race condition crash in singleplayer
+- Race condition crash when fixing inconsistencies in party data
+- Many real and potential issues in singleplayer by adding a lot of ServerLevel null checks
+- Players sometimes getting stuck online
+- Possible deadlocks on worldgen
+- ModernFix Issues
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
