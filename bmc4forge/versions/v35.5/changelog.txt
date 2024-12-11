@@ -1,0 +1,31 @@
+[Fixes Update]
+
+Changes:
+- Added My Nether's Delight (by soytutta)
+- Replaced Nether's Delight (No Updates since 2023)
+- Reverted Jaden's Nether Expansion (Causes the Chunk Loading Issue)
+- Fixed Chunk Loading Freeze Issue
+- Updated Spyglass and Vein Mining Keybind
+
+Updated & Fixes:
+- Ascended Quark
+- BadOptimizations
+- Cherished Worlds
+- Continuity
+- Corpse
+- Crabber's Delight
+- Entity Culling Fabric/Forge
+- Every Compat
+- Extra Compat
+- Farmer's Delight
+- ImmediatelyFast
+- Lithostitched
+- Loot Integrations
+- ModernFix
+- Moonlight Lib
+- Not Enough Animations
+- Sawmill
+- Skin Layers 3D
+- XaeroPlus
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
