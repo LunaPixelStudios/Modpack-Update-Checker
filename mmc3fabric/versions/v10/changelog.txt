@@ -1,0 +1,40 @@
+[Aether Update]
+
+Changes:
+- Added The Aether (by TheAetherTeam)
+- Added Aether Villages (by Aureljz)
+- Added Aether Quests
+- Exclude map items from additional loot to avoid lag from their structure search
+- Moved Aether Trinkets to Accessories Slots
+- Updated Mods
+
+Fixes:
+- Issue where TNT might not form chain reactions
+- Looking at a Zombie Villager throws Exception
+- Chest display name
+- Some tag errors with the aken armor
+- Error with aken armor set recipes
+- Client-side issues with piston checking when connected to dedicated server
+- Log spam caused by biome color blending
+- Selected palette items appearing black
+- Bugs with fluid rendering that were causing faces to be hidden incorrectly against some modded blocks
+- Shader issue with desaturte shader from zombie mob head
+- Lectern crash when removing a book
+- Issues with sounds being played far away
+- Lag when being far away from 0, 0
+- Moonlight Lib Issues
+- ModernFix Issues
+
+Eternal Starlight:
+- Added the Creteor, a star-shaped creeper that falls from the sky during the meteor shower
+- Added the Golem Steel Crate, a container that keeps its content when destroyed
+- Added the Crystalfleur, a plant that grows in the Crystallized Desert
+- Added the Haze Ice to replace Voidstone in the Starlight Permafrost Forest and added ores for Eternal Ice and Haze Ice
+- Increased the amount of Golem Steel Ingots and Tenacious Petals dropped by the bosses
+- Slightly tweaked the Crescent Spear's particle effect
+- 4 Lunar Saplings now grow into a huge lunar tree
+- Lunar Berries now only generates in Starlight Forest and Starlight Dense Forest
+- Decreased the size of Glacite spikes
+- Fixed Lunar Mosaic building blocks not dropping anything when mined
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
