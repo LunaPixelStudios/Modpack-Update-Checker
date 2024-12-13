@@ -1,0 +1,22 @@
+[Fixes Update]
+
+- Moved Aether Trinkets to Accessories Slots
+- Exclude map items from additional loot to avoid lag from their structure search
+- Fixed crash when the world save folder doesn't exist when initializing the world's map id used for the server map selection mode.
+- Fixed potential issues with forceloading caused by dimensions being removed in the middle of a server run
+- Fixed Issue where TNT might not form chain reactions
+- Fixed Looking at a Zombie Villager throws Exception
+- Fixed Chest display name
+- Fixed Log spam caused by biome color blending
+- Fixed Selected palette items appearing black
+- Fixed Bugs with fluid rendering that were causing faces to be hidden incorrectly against some modded blocks
+- Fixed Shader issue with desaturte shader from zombie mob head
+- Fixed Lectern crash when removing a book
+- Fixed Trinkets slots tags being broken
+- Fixed Issues with sounds being played far away
+- Fixed Lag when being far away from 0, 0
+- Fixed Moonlight Lib Issues
+- Fixed ModernFix Issues
+- Updated Mods
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
