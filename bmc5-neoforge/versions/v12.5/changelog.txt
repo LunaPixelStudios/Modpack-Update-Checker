@@ -1,0 +1,36 @@
+[Fixes Update]
+NEOFORGE IS NOW 21.1.90
+
+- Added Luna (by LunaPixelStudios)
+
+Fixes:
+- Exclude map items from additional loot to avoid lag from their structure search
+- Potential issues with forceloading caused by dimensions being removed in the middle of a server run
+- Crash when the world save folder doesn't exist when initializing the world's map id used for the server map selection mode
+- Looking at a Zombie Villager throws Exception
+- Chest display name
+- Log spam caused by biome color blending
+- Lectern crash when removing a book
+- Trinkets slots tags being broken
+- Issues with sounds being played far away
+- Lag when being far away from 0, 0
+- Dragon Mounts Remastered Issues
+- Moonlight Lib Issues
+- ModernFix Issues
+- Updated Mods
+
+Twilight Forest:
+- Changed Death Tome hitboxes to be bigger and properly encompass the area you'd expect it to be
+- Lowered the Scepter of Twilight/Lifedraining repair recipes to restore 9 durability per item
+- Fixed custom structure terraforming failing if YungsAPI is installed
+- Fixed Jar lid reverting to the default lid when using a Mason Jar on a Firefly/Cicada to jar it
+- Fixed Jar lid reverting to the default lid when un-jarring a bug
+- Fixed the client de-syncing when trying to jar an item while in Creative mode
+- Fixed a bug where Moss Patches check wrongly checked the block below them for placing
+- Fixed Moss Patches not rendering a texture on the bottom part
+- Fixed Emperor's Cloth not working properly in newer versions of NeoForge
+- Fixed Arctic Armor being the wrong default color
+- Fixed the portal overlay appearing when standing on a locked portal
+- Fixed Baby Loyal Zombies not getting a baby speed boost
+
+AS ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
