@@ -1,0 +1,65 @@
+**[Lore Update]**
+
+**Mods**:
+
+- Added [Affinity](https://www.curseforge.com/minecraft/mc-mods/affinity)
+- Added [Alchimiae Magicae](https://www.curseforge.com/minecraft/mc-mods/alchimiae-magicae)
+- Added [The Athenaeum](https://www.curseforge.com/minecraft/mc-mods/the-athenaeum)
+- Added [Invocations](https://www.curseforge.com/minecraft/mc-mods/invocations-spell-engine)
+- Added [It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation)
+- Added [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks)
+- Added [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace)
+
+**Configs**:
+
+- Added more varied item loot into all modded structures
+- Added higher rarity items into Aviaries, the Shiraz Palace, and Heavenly Conquerors
+- Written books from The Athenaeum are now spread throughout the world
+- Fixed missing rewards for Dungeons and Taverns quests
+
+**Updates**:
+
+- Added Brittle Ice - a new block that cracks and breaks when stepped on, found in Frozen Oceans (Frostiful)
+- Added new Iceman villager trading cold biome items (More Villagers)
+- Added new structures and improved existing ones (MNS - Moog's Nether Structures)
+- Added the Shadow Snail (Eternal Starlight
+- Added the Tower Squid (Eternal Starlight)
+- Added more music discs. "Brisk" can be dropped by Tower Squids when they die on land (Eternal Starlight)
+- Added burning/lava animations and improved arm movement
+- Added higher tier loot to end-game Dungeons Arise structures
+- Reworked Power Shot into an active skill
+- Add some Arrow Velocity bonus for Longbows and Heavy Crossbows
+
+- *(RPG Series + Addons) Added New weapons, obtainable only as loot from Aether dungeons*:
+- Valkyrie Shiv
+- Heavenly Harvester
+- Holy Double Axe
+- Gilded Battle Glaive
+- Holy Spear
+- Silver Bow of the Acropolis
+- Sky Crossbow
+- Valkyrie Ballista
+- Valkyrie Elementalist Staff
+- Valkyrie Magister Staff
+- Holy Knuckle
+- Heavenly Witcher Sword
+- Holy Claymore
+- Valkyrie Great Hammer
+- Silver Staff of the Valkyrie
+- Valkyrie Bulwark
+- Sun's Mace
+
+**Fixes:**
+
+- Fixed a crash caused by placing your mouse over a potion with no PotionData
+- Fixed players not getting quest credit when contributing to a boss kill
+- Fixed crash with mount health temperature bar (Thermoo)
+- Fixed critical crashes with block and item rendering (Sodium)
+- Fixed sounds being played far away (Sound Physics)
+- Fixed lag when far from world origin (Sound Physics)
+- Fixed issues with advancements, loot tables, and recipes (More Villagers)
+- Fixed icons not rendering correctly in quests (FTB Library)
+- Fix Skyroot Swords and Pig Slayers not applying their custom mob drop modification abilities (Aether)
+- Fix Sun Spirit and Fire Minion audio not playing (Aether)
+- Fix the Aether Portal trigger sound not playing (Aether)
+- Fix Aerwhales getting stuck on overhangs (Aether)
