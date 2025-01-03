@@ -14,7 +14,6 @@ Mods:
 Configs:
 - Added the modpack version to the main menu
 - Changed the Inventory tutorial quest to give a Lantern instead of a Charm of Life, to show players the new Immersive Lanterns mod
-- Bound Vein Mining to ~
  
 Updates:
 - Added Black Ice Glaciers, a new soul sand valley sub-biome (Jaden's Nether Expansion)
