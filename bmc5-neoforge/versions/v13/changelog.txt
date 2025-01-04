@@ -1,0 +1,51 @@
+[Content Update]
+NEOFORGE MODLOADER VERSION IS NOW 21.1.93
+
+
+Mods:
++ Added Deep Aether (by TeamRazor)
++ Added My Nether's Delight (by soytutta)
++ Added Stoneworks [Forge & Fabric] (by Fuzs)
++ Added Ping Wheel (by LukenSkyne)
++ Added Just Zoom (by Keksuccino)
++ Added Aether Addon: Protect Your Moa (by TheAetherTeam)
++ Added Aether Addon: Enhanced Extinguishing (by TheAetherTeam)
++ Added Continuity (by Pepper_Bell)
++ Added Toni's Immersive Lanterns (by Txni)
++ Added Distraction Free Recipes (EMI / REI / JEI) (by Txni)
++ Added Quests Kill Task Tweaks (by MuonR)
++ Added TerrablenderFix (by racoonman2)
++ Added Pack Analytics (by Txni)
++ Added Loot Integrations: When Dungeons Arise & Co (by someaddon)
++ Added Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures (by someaddon)
++ Added Loot Integrations: Formations Overworld & Nether (by someaddon)
++ Added No Chat Reports (by Aizistral)
++ Added Too Fast (by Noobanidus)
+- Removed Spyglass Improvements (Players did not properly understand the spyglass requirement to zoom)
+
+
+Configs:
+- Added the modpack version to the main menu
+- Changed the Inventory tutorial quest to give a Lantern instead of a Charm of Life, to show players the new Immersive Lanterns mod
+
+
+Updates:
+- Added the new Iceman villager, who sells and buys items related to cold biomes (More Villagers)
+- Added a new Pale Bog biome with an accompanying Trial Chamber (Oh The Biomes We've Gone)
+- Added many new blocks, such as the Spirit wood set, Fluorescent Cattails and Pale Mud Bricks (Oh The Biomes We've Gone)
+- Added new items to wandering traders (Oh The Biomes We've Gone)
+- Added a custom animation for when the player is on fire (Not Enough Animations)
+- Added Goat spawning to Howling Peaks and Armadillo spawning to several Savanna biomes (Oh The Biomes We've Gone)
+- Increased pumpkin generation in Pumpkin Valley biome (Oh The Biomes We've Gone)
+- Improved pathfinding, breeding, and sitting mechanics (Dragon Mounts Remastered)
+
+
+Fixes:
+- Many common dragon-related crashes and instances of dragons disappearing and going missing (Dragon Mounts Remastered)
+- Cattail Sprout not being consumed when placed on a campfire (Oh The Biomes We've Gone)
+- Animals not spawning in some biomes (Oh The Biomes We've Gone)
+- Villager trades not working properly (Oh The Biomes We've Gone)
+- Mount mid-air jumps being triggered when jumping from the ground
+- Sun Spirit and Fire Minion audio not playing (The Aether)
+- Aether Portal trigger sound not playing (The Aether)
+- Aerwhales getting stuck on overhangs (The Aether)
