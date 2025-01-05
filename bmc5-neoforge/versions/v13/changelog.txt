@@ -10,7 +10,6 @@ Mods:
 + Added Just Zoom (by Keksuccino)
 + Added Aether Addon: Protect Your Moa (by TheAetherTeam)
 + Added Aether Addon: Enhanced Extinguishing (by TheAetherTeam)
-+ Added Continuity (by Pepper_Bell)
 + Added Toni's Immersive Lanterns (by Txni)
 + Added Distraction Free Recipes (EMI / REI / JEI) (by Txni)
 + Added Quests Kill Task Tweaks (by MuonR)
