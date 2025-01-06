@@ -1,0 +1,32 @@
+[Quality of Life Update]
+ 
+Mods:
++ Added Just Zoom (by Keksuccino)
++ Added Toni's Immersive Lanterns (by Txni)
++ Added Distraction Free Recipes (EMI / REI / JEI) (by Txni)
++ Added Quests Kill Task Tweaks (by MuonR)
++ Added Sodium/Embeddium Options Mod Compat (by Txni)
++ Added Structure Layout Optimizer (by telepathicgrunt)
++ Added TerrablenderFix (by racoonman2)
++ Added Pack Analytics (by Txni)
+- Removed Spyglass Improvements (Players did not properly understand the spyglass requirement to zoom)
+ 
+Configs:
+- Added the modpack version to the main menu
+- Changed the Inventory tutorial quest to give a Lantern instead of a Charm of Life, to show players the new Immersive Lanterns mod
+ 
+Updates:
+- Added Black Ice Glaciers, a new soul sand valley sub-biome (Jaden's Nether Expansion)
+- Added Black Icicles, acts like dripstone but more fragile breaking with most projectiles, freezes upon being impaled. Can be loaded into crossbows. (Jaden's Nether Expansion)
+- Added Black Strays, a variant of the strays found only in the nether (Jaden's Nether Expansion)
+- Added new track "Sublimate" plays in Black Ice Glaciers and composed by Shroomaniac (Jaden's Nether Expansion)
+- Added a custom animation for when the player is on fire (Not Enough Animations)
+- Soul Sand Valleys now generate mound formations to break-up the repetitive terrain (Jaden's Nether Expansion)
+- Netherite Grates now let light through (Jaden's Nether Expansion)
+ 
+Fixes:
+- Gamebreaking world corruption when using Ambrosium Torch Arrows (Ascended Quark)
+- Gamebreaking lag when near the world border (Sound Physics Remastered)
+- Guards not being able to be created with crossbows in 1.20.1 (Guard Villagers)
+- Guards not staying on patrol point (Guard Villagers)
+- Witches attacking baby villagers (Guard Villagers)
