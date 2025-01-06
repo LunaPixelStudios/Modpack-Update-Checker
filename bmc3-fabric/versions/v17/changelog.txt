@@ -1,0 +1,42 @@
+[Content Update]
+If you have any backpacks from the Backpacked mod, EMPTY THEIR CONTENTS BEFORE UPDATING. Items inside of these backpacks will be gone permanently if not removed first.
+
+Mods:
++ Added It Takes a Pillage Continuation (by Faboslav)
++ Added My Nether's Delight: Refabricated (by MerchantPug)
++ Added Stoneworks (by Fuzs)
++ Added Accessorify (by pajic)
++ Added Just Zoom (by Keksuccino)
++ Added Toni's Immersive Lanterns (by Txni)
++ Added Distraction Free Recipes (by Txni)
++ Added Quests Kill Task Tweaks (by MuonR)
++ Added Pack Analytics (by Txni)
++ Added Loot Integrations: When Dungeons Arise (by someaddon)
++ Added Loot Integrations: Moog's Voyager Structures (by someaddon) 
++ Added Loot Integrations: Formations (by someaddon)
++ Added Crash Assistant (by KostromDan)
+- Removed Spyglass Improvements (Players did not properly understand the spyglass requirement to zoom)
+- Removed Configured Defaults (Temporary, due to an issue with keybinds resetting)
+- Removed Backpacked (Replaced)
+- Removed Elytra Slot (Replaced)
+- Removed Charm of Undying (Replaced)
+
+Configs:
+- Fixed Inmis backpacks not being craftable with some types of chests
+- Fixed the JEI tutorial having inaccurate information
+- Many small keybind fixes and changes. 
+- Screenshots will now be taken at a higher quality by default
+
+Updates:
+- Added many new structures (Moog's Nether Structures)
+- Added the new Iceman villager, who sells and buys items related to cold biomes (More Villagers)
+- Added craftable Brittle Ice blocks that will crack and break after being stepped on. Found in Frozen Oceans (Frostiful)
+- Added a custom animation for when the player is on fire (Not Enough Animations)
+- Tweaked textures for the Echo Door, Echo Trapdoor, Sculk Bone, and Sonorous Staff (Deeper and Darker)
+- Sonorous Staff can now be enchanted with Mending and Unbreaking
+- Made Heart of the Deep beat faster when looking in the direction of the closest Ancient Temple
+
+Fixes:
+- Sun Spirit and Fire Minion audio not playing (The Aether)
+- Aether Portal trigger sound not playing (The Aether)
+- Aerwhales getting stuck on overhangs (The Aether)
