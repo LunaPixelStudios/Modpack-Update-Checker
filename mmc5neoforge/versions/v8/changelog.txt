@@ -1,0 +1,60 @@
+### MMC5 v8
+
+**[Major Update]**
+
+*Neoforge is now 21.1.93*
+
+**Mods:**
+
+- Added [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- Added [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge)
+- Added [It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation)
+- Added [Alshanex's Familiars](https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars)
+- Added [Accessorify](https://www.curseforge.com/minecraft/mc-mods/accessorify)
+- Added [Loot Beams: Refork](https://www.curseforge.com/minecraft/mc-mods/loot-beams-refork)
+- Added [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks)
+- Added [PIng Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel)
+- Removed Charm of Undying (replaced)
+- Removed Spyglass Improvements (replaced)
+- Removed Champions Unofficial (replaced)
+
+**Changes:**
+
+- Added new animated resource bars that match Stoneborn: Health, Mana, and Stamina!
+- Merged Iron's Mana + Mana Regen into Ars Nouveau
+- Merged Ars Nouveau Spell Power into Iron's Spellbooks (10% effectiveness)
+- Allowed Town Portal Scrolls to be used in any dimension
+- Added more varied loot into all modded structures
+- Updated Overworld quest chapter
+- Added Bosses of Mass Destruction quests
+- Added info for Accessorify into the tutorial quests
+- Cleaned up some log spam
+- Added modpack version to the main menu
+- All players who contribute to a boss kill will now get quest credit
+
+
+**Updates:**
+
+- Added the World Tiers system, which gates content based on unlockable difficulty levels, instead of specific dimensions.
+- As you progress through the world, you will unlock more difficult world tiers, which will give you access to better loot (and stronger enemies!)
+- World Tiers are unlocked by completing certain advancements, and activated in the World Tier Select menu (opened with CTRL + Y)
+- Added Purities, a fixed set of gem tiers. Gems are no longer bound to the same rarity system as items and other content.
+- Added many new Affixes for all loot categories, as well as adding endgame-exclusive affixes.
+- Skeletons (and skeleton-like enemies) can wield and shoot crossbows.
+- Bosses have been renamed to Apothic Invaders, and Minibosses have been renamed to Apothic Elites.
+- Added the Shadow Snail (Eternal Starlight)
+- Added the Tower Squid (Eternal Starlight)
+- The Gatekeeper no longer has infinite Orb of Prophecy and Starlight Story supply (Eternal Starlight)
+- Handful of retextures (Eternal Starlight)
+- Added a bunch of new structures plus improved generation of a few old ones (Moog's Nether Structures)
+- Reworked the Infested Temple, introducing trial spawners, vaults and more. You can find it on cherry groves, snowy plains, hills and floral forests.
+- Added the **Purification** enchantment, available only as a reward in Infested Temple treasure vaults. *Purification grants a chance to negate all incoming poisonous and withering effects, releasing a burst of energy that damages nearby enemies.*
+- Added a burning/in lava animation, which won't play if you have fire resistance
+
+**Fixes:**
+
+- Fixed a crash with carpeted slab blocks and falling entities
+- Fixed many loot table issues
+- Fix binder and threads not showing in the worn notebook
+- Fixed tameables not being able to be attacked by guards
+- Fixed Guard Villagers never attacking players if they were on a team
