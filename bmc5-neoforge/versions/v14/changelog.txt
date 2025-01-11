@@ -1,0 +1,19 @@
+[Quality of Life Update]
+
+Mods:
++ Added It Takes a Pillage Continuation (by Faboslav)
++ Added Accessorify (by pajic)
++ Added Oh The Biomes We've Gone Delight (by Project_Count)
++ Added BetterGrassify (by UltimatChamp)
++ Added Immersive Tips (by Txni)
++ Added Crash Assistant (by KostromDan)
+- Removed Elytra Slot (Replaced)
+- Removed Charm of Undying (Replaced)
+
+Configs:
+- Added a quest category for the Tom's Simple Storage mod
+- Added quests for the Accessorify mod
+
+Updates:
+- Added new mobs to trial chambers (Variants&Ventures)
+- Made graves indestructible to a lot of ways they could be destroyed by previously (You're In Grave Danger)
