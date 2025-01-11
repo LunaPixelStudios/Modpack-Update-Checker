@@ -1,0 +1,53 @@
+### MMC3 Fabric v12
+
+**[Quality of Life Update]**
+
+**Mods:**
+
+- Added [Accessorify](https://www.curseforge.com/minecraft/mc-mods/accessorify)
+- Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+- Added [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips)
+- Removed Charm of Undying (replaced)
+- Removed Spyglass Improvements (replaced)
+
+**Changes:**
+
+- Added custom animated hotbars, integrated with Scorchful and Frostiful
+- Allowed Town Portal scrolls to be used in any dimension
+- Updated the Main Menu
+- Add Spell Scrolls, automatically generated for all spells, found in loot chests, can be added to matching spell books
+- Changed Backpack inventory sizes (Netherite tier backpack inventory size capped at 99)
+- Updated RPG Series loot for Aether Villages, BOMD: Obsidilith, DNT: End Castle, Dungeons Arise: Shiraz Palace, Aviary
+- Spell Books and Spell Scrolls are now placeable into Chiseled Bookshelfs
+- Rebalanced Quick Charge enchantment for crossbows
+- Added Blooming armor trim and Twining armor trim as the loot of the Lunar Monstrosity. The former can be crafted with the latter and a pair of shears  
+- Greatly improved worldgen performance (thanks to ishland)  
+- Atalphaite Block can now absorb lava and be converted into Blazing Atalphaite Block, which can be carved into Atalphaite Light with a pickaxe    
+- Magisters will now invade with twice as many people upon invading, and the first one to go through the portal will always be the leader, carrying a Hexblade on them. If you kill half of them without killing the leader first, he will open a portal nearby and attempt to escape with the remaining crew. The leader will wait patiently for all of his crew to escape before escaping himself. If you kill the leader, he will drop his hexblade and the remaining Magisters will no longer be able to escape, fighting to the death.
+- When wandering around, they will always stay close to their leader, preferring to stay within 8 blocks of their leader.
+- Massively overhauled the Frostologer Castle, integrating it better with terrain and better utilizing Icy Trial Spawners and Icy Vaults.
+- Added new Frozen Rod item, used to craft the Frost Wand instead of breeze rods. 
+- Rebalanced the Frostologer fight
+- Brushing an animal for fur now plays an animation
+- Update unique archer ring attributes
+- Stunning targets with spells while stone hand is active is now possible
+- Added 6 new upgrades that can be applied in backpack's inventory: Tanks, Crafting, Magnet, Pickup, Feeding, Jukebox, Void (Each upgrade can be easily disabled with config)  
+- Added Warden Backpack (Cool Warden horns render on the backpack) (Special Ability: +4 Max Health)  
+- Changed Backpack recipe to use string instead of golden ingot and backpack tanks are optional (If crafted with backpack tanks, Tanks upgrade is applied) 
+- Changed Blank upgrade recipe to 1 Leather in center and 4 strings on each side  
+- Hose do not require 'attaching' to backpack anymore  
+- Converting custom backpacks to standard is done with in-world interaction now - use shears on placed custom backpack   
+- Made graves indestructible to a lot of ways they could be destroyed by previously
+- Graves being moved (like with carry-on mod) will now be detected when they reappear
+
+**Fixes:**
+
+- Aerogel Walls culling adjacent block faces that they shouldn't.
+- Double drops related NPE crash.
+- Spider backpack ability particles not appearing  
+- Issue that caused backpack to not open in specific conditions  
+- Bundle/shulkerbox saving issue inside backpack container
+- Hiding gui not hiding backpack overlay  
+- Dragon backpack regeneration effect not working properly  
+- Creeper backpack frozen ability cooldown  
+- Magisters spawning too many portals
