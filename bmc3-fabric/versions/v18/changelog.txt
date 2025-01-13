@@ -1,0 +1,28 @@
+[Minor Update]
+FABRIC LOADER IS NOW 0.16.10
+
+Mods:
++ Added BetterGrassify (by UltimatChamp)
++ Added Farmer's Cutting: Biomes o' Plenty (by Joshcraft2002)
++ Added Configured Defaults (by Fuzs)
+
+Configs:
+- Added quests for the Accessorify mod
+- Disabled Frostiful wind spawning due to user confusion
+- The overlays added by Accessorify will no longer overlap with Jade
+- Fixed typo in Tom's Simple Storage quests
+
+Updates:
+- Added two new structures, the Red Tower and the Ocean Tower (Moog's Voyager Structures)
+- Added the Desert Ruin structure, with 3 types and 7 variants (Unnamed Desert)
+- Added support for the Soul Elytra from Deeper and Darker to be equipped in the Cape slot (Accessorify)
+-  Added support for totems from Friends and Foes (Accessorify)
+- Added new mobs to trial chambers (Variants&Ventures)
+- Added many new armor trim and banner patterns (Frostiful)
+- Added Icy Trial Spawners throughout Frostologer Castles (Frostiful)
+- Made graves indestructible to a lot of ways they could be destroyed by previously (You're in Grave Danger)
+- Reworked the Frostologer boss to be a lot more balanced and interesting (Frostiful)
+- Chillagers no longer constantly spawn in Frostologer Castles (Frostiful)
+
+Fixes:
+- The Aether's time not being set properly in various situations (The Aether)
