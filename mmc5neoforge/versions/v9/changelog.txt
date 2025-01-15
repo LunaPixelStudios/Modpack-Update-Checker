@@ -1,0 +1,53 @@
+### MMC5 v9
+
+*Neoforge is now 21.1.95*
+
+**Mods:**
+
+- Added [Realm RPG: Fallen Adventurers](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers)
+- Added [RPG Companions: Tiny Dragons](https://www.curseforge.com/minecraft/mc-mods/rpg-companions-tiny-dragons)
+- Added [Iron's Spells 'n Spellbooks  Armors Overhaul](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-armors-overhaul)
+- Added [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- Added [Better Combat x Apotheosis Compat](https://www.curseforge.com/minecraft/mc-mods/apothic-combat)
+- Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+- Added [TerraBlenderFix](https://www.curseforge.com/minecraft/mc-mods/terrablenderfix)
+- Re-added [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
+- Removed Elytra Slot (replaced)
+- Removed Radium Reforged (replaced)
+- Removed Falling Leaves (causing a crash)
+
+**Changes:**
+
+- The mana bar will now hide itself when not in use
+- Added Hardcore overlay for health bar
+- Many other health/stamina bar improvements
+- Fixed some quests having missing descriptions
+- Reworked the **Infested Temple**, introducing trial spawners, vaults and more. This dungeon won't spawn in high mountains anymore, but now fits the terrain in a much better way. You can find it on cherry groves, snowy plains, hills and floral forests.
+- Added the **Kisegi Sanctuary**, a massive new structure. Kisegi is a bigger and more lethal version of the Infested Temple, featuring trial spawners and vaults.
+- Added 5 new enchantments, Purification, Ensnaring, Curse of Lolth, Voltaic Shot, and Discharge. Find them in the Infested Temple, Kisegi Sanctuary, and Mechanical Nest
+- Changed Backpack inventory sizes (Netherite tier backpack inventory size capped at 99)
+- Added 6 new upgrades that can be applied in backpack's inventory: Tanks, Crafting, Magnet, Pickup, Feeding, Jukebox, Void (Each upgrade can be easily disabled with config)
+- Added Warden Backpack (Cool Warden horns render on the backpack) (Special Ability: +4 Max Health)
+- Changed Backpack recipe to use string instead of golden ingot and backpack tanks are optional (If crafted with backpack tanks, Tanks upgrade is applied)
+- Changed Blank upgrade recipe to 1 Leather in center and 4 strings on each side
+- Made graves indestructible to a lot of ways they could be destroyed by previously
+- Updated Pegasus to be tamable, ridable, and flyable!
+- Added Pegasus to Mountain peaks for spawn location
+- Relic loot system has been completely overhauled. Instead of being strictly tied to structures, the generation now focuses primarily on biomes, making relic discovery slightly more intuitive.
+- Shadow Glaive has been reworked. It is now an equippable item and provides a greater impact in combat.
+- Re-added Twilight Forest compatibility.
+- Twilight Forest items will now generate in all dimensions, with different items showing up based on the current World Tier.
+- Invaders will now spawn in the Twilight Forest.
+- A new bonus has been added to the Gem of the Frozen Queen.
+- Added the Stoneforming and Sandforming ability-type affixes for Mining Tools.
+- The strength and weight of the Giant Slaying affix has been reduced.
+- Augmenting now costs significantly more experience.
+
+**Fixes:**
+
+- Casting an Iron's spell draining all of a player's mana
+- Healthbar still rendering in creative mode
+- Lifesteal not working as intended
+- Mythic rarity not removing the durability bonus component when it applied Unbreaking
+- Purity Upgrade recipes not showing correctly in JEI.
+- Errors with some structure nbt's (Moogs Soaring Structures)
