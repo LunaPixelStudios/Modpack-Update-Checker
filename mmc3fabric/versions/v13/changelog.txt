@@ -1,0 +1,34 @@
+## MMC3 Fabric v13
+
+**[Compatibility Update]**
+
+*Fabric Loader is now 0.16.10*
+
+**Mods:**
+
+- Added [Nature's Delight](https://www.curseforge.com/minecraft/mc-mods/natures-delight)
+- Added [Loot Beams: Refork](https://www.curseforge.com/minecraft/mc-mods/loot-beams-refork)
+- Removed Elytra Slot (replaced)
+
+**Modpack Changes:**
+
+- Added support for FTB Teams to Spell Engine
+- Added wetness overlay for Scorchful to health bar
+- Moved Accessorify text to prevent overlap with Jade
+- Updated Magic tutorial quest with information on Spell Scrolls
+
+**Mod Changes:**
+
+- Increase attack range (slightly) on all built-in weapon attribute presets (Better Combat)
+- Improved compatibility with Entity Interaction Range attribute (Better Combat)
+- Knockback reduction for fast attacks is now stronger (Better Combat)
+- Touched up the Dark Forest biome. The trees were changed up, and the dark oak now has a new variant, with more interesting crowns, similar to what you can find in the pale garden! The biome is now also a bit darker and eerier. This also means mobs may spawn more often. (Geophilic)
+- Added block hit sound upon swinging at blocks (Better Combat)
+- Fix Combat Roll not cancelling attack properly (Better Combat)
+- Made spell animations more varied (Invocations)
+- Spellblades animations updated - new animation for Sonic Strike (Spellblades)
+- Fixed Flickering Flame not attacking from all angles (Spellblades)
+- Flickering flame will no longer fail to perform its impacts if it fails to teleport (Spellblades)
+- Updated Pegasus to be tamable, ridable, and flyable! (Mobs of Mythology)
+- Added Pegasus to Mountain peaks for spawn location (Mobs of Mythology)
+- Updated Kobold warrior loot tables to prevent errors (Mobs of Mythology)
