@@ -1,0 +1,27 @@
+[Structure Update]
+NEOFORGE MODLOADER VERSION IS NOW 21.1.95
+
+Mods:
++ Added Lithium (by JellySquid)
+- Removed Radium Reforged (Replaced)
+- Removed Falling Leaves (Causes crashes)
+
+Configs:
+- Updated the CrashAssistant screen for better clarity
+
+Updates:
+- Added the massive Kisegi Sanctuary dungeon with trial spawners and vaults, alongside two enchantments only available in the dungeon (When Dungeons Arise)
+- Added the Purification enchantment, available only in Infested Temple treasure vaults. Grants a chance to negate all incoming poisonous and withering effects, releasing a burst of energy that damages nearby enemies (When Dungeons Arise)
+- Added the Ensnaring enchantment, available only in Kisegi Sanctuary vaults. Confers a chance to inflict greater slowness when damaging enemies, and summons fangs that attack all monsters around them  (When Dungeons Arise)
+- Added the Curse of Lolth, available in Kisegi Sanctuary chests. Bestows a chance to regenerate health when attacking enemies, but also generates spiders. Damaging an arthropod will reflect damage to the wielder (When Dungeons Arise)
+- Added the Voltaic Shot enchantment, available in treasure and equipment chests in the Mechanical Nest. Charges arrows with electrical energy, allowing them to fly in a straight line and deliver an explosion (When Dungeons Arise)
+- Added the Discharge enchantment, available in treasure and equipment chests in the Mechanical Nest. Attacking enemies builds up speed, however, high levels of speed are discharged in a violent explosion, damaging both victim and attacker (When Dungeons Arise)
+- Added the Red Tower and Ocean Tower structures (Moog's Voyager Structures) 
+- Added support for many modded slabs (KleeSlabs)
+- Reworked the Infested Temple, introducing trial spawners, vaults and more (When Dungeons Arise)
+- Adjusted the amount of vegetation in Pale Gardens (Geophilic)
+- Made Pale Gardens darker and more atmospheric (Geophilic)
+
+Fixes:
+- Hatch and growth times on Sculk, Amethyst and Lush dragons (Dragon Mounts Remastered)
+- Broken loot pools in some chests that would cause invalid items (When Dungeons Arise)
