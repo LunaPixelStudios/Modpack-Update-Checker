@@ -1,0 +1,35 @@
+## MMC5 v10
+**[Magic Update]**
+
+**Mods:**
+
+- Added [GTBC's Spellbooks - Iron's Spells Addon (by GameTechBC)](https://www.curseforge.com/minecraft/mc-mods/gtbcs-spellbooks)
+- Added [Discerning The Eldritch (by Ace_The_Eldritch_King)](https://www.curseforge.com/minecraft/mc-mods/discerning-the-eldritch)
+
+**Changes:**
+
+- Fixed Iron's spells being far weaker than intended
+- Updated the Crash Assistant screen for better clarity
+- Improved compatibility with Entity Interaction Range attribute (Better Combat)
+- Touched up the Dark Forest biome with new Dark Oak variants, reduced giant mushrooms, and darker atmosphere (Geophilic)
+- Added Hunter Familiar ability to track item-dropping entities (Alshanex Familiars)
+- Added Mage Familiar ability to grant charged effect periodically (Alshanex Familiars)
+- Added Archmage Familiar ability to transform spell scrolls (Alshanex Familiars)
+- Added Druid Familiar ability to bonemeal nearby crops (Alshanex Familiars)
+- Added Necromancer Familiar ability to make nearby undead fight each other (Alshanex Familiars)
+- Added Summoner Familiar ability to deactivate nearby sculk shriekers (Alshanex Familiars)
+- Added Exalted Aurum armor (Armor of the Ages)
+- Reworked Spore Sack abilities (Relics)
+- Slightly reworked relic generation in chests (Relics)
+- Slightly adjusted the balance of Shadow Glaive (Relics)
+
+**Fixes:**
+
+- Water generating on top of trees in Stony Shores (Geophilic)
+- Iron's spells being far weaker than intended
+- Hunter familiar AI attacking animals (Alshanex Familiars)
+- Shadow Glaive targeting dead mobs (Relics)
+- Safe recipe (Supplementaries)
+- Backpack not retaining its name when placed on the ground (Traveler's Backpack)
+- Backpack being equipped in the wrong slot on entities (Traveler's Backpack)
+- Bug that caused items/upgrades to disappear if inventory didn't initialize properly (Traveler's Backpack)
