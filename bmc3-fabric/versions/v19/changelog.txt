@@ -1,0 +1,18 @@
+[Minor Update]
+
+Mods:
++ Added Immersive Tips (by Txni)
+- Removed Falling Leaves (Causes crashes)
+- Removed Tips (Replaced) 
+
+Configs:
+- Updated the CrashAssistant screen for better clarity
+
+Updates:
+- Improved performance and game stability (Lithium) 
+- Adjusted the amount of vegetation in Pale Gardens (Geophilic)
+- Made Pale Gardens darker and more atmospheric (Geophilic)
+
+Fixes:
+- Bamboo rafts not having the paddle animation (Not Enough Animations)
+- Some Crystalline Flower items not giving correct XP (The Bumblezone)
