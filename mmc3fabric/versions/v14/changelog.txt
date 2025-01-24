@@ -1,0 +1,42 @@
+### MMC3 Fabric v14
+**[Quality of Life Update]**
+
+*Warning! Items equipped in the spell book accessories slot will be lost, remove them before updating!*
+
+**Mods**:
+
+- Added [Tide](https://www.curseforge.com/minecraft/mc-mods/tide)
+- Added [Distraction Free Recipes (EMI / REI / JEI)](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
+- Added [Archers Expansion (More RPG Classes)](https://www.curseforge.com/minecraft/mc-mods/archers-expansion)
+- Added [Village Taverns (RPG Series)](https://www.curseforge.com/minecraft/mc-mods/village-taverns)
+
+**Configs:**
+
+- Updated Crash Assistant config
+- Fixed issues with iron/thalassium/cincinnasite ingots
+- Unified silver ingots
+- Allowed rolling while jumping, jumping while rolling, and rolling between attacks
+
+**Changes:**
+
+- Water Spells now always crit against Fire themed Mobs
+- Water Spells deal 30% less damage against Underwater themed Mobs
+- Frost spells deal +30% damage against freeze  vulnerable entities
+- Frost spells deal -30% damage against freeze immune entities
+- Fire spells get +30% critical strike chance against freeze immune entities
+- Healing spells no longer work on mechanical creatures (Iron Golem)
+- Holy spells now always deal critical strikes against undead creatures
+- Judgement spell now deals +50% damage against undead creatures
+- Fixed Totems equipped in the accessories slot not doing anything when applying
+- Improve Arcane Beam particles
+- Reworked Arcane Missile spell, continuously fires missiles for 4 seconds
+- Smite cast time increased to 1.25 seconds, range increased to 5, animation updated
+- Added powerful aura (visual effect) to Magus and Magus robes
+- Added an intro the Magus fight
+- Fixed Starforge spells not working
+- Starforge no longer has Maelstrom
+- Starforge no longer performs novas while casting spells
+- Added much more expansive and well decorated **Vault** structures in Paradise Lost
+- Added Totems of Levitation to save you from falls and the void
+- Added **Levita Minecart Rails** to levitate across gaps for convenient travel in Paradise
+- Fix empty spell scrolls generated in loot chests
