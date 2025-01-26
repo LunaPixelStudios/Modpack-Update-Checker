@@ -1,0 +1,23 @@
+[Content Update]
+MODLOADER VERSION IS NOW 21.1.112
+
+Mods:
++ Added L_Ender's Cataclysm (by mcl_ender)
+
+Configs:
+- Added quests for the Cataclysm mod
+- Updated the Crash Assistant screen for a better user experience
+
+Updates:
+- Added more variety to structures spawning in modded biomes (Structure Essentials)
+- Added an easily accessible button in the inventory to show JEI at all times (Distraction Free Recipes)
+- Improved performance and game stability (Lithium)
+- Removed Milk from Allium Oddion Soup recipe, and changed nutrition value from 9 to 8 (Oh The Biomes We've Gone)
+
+Fixes:
+- Dragons despawning randomly (Dragon Mounts Remastered)
+- KeepInventory not working leading to ignored accessories on respawn (Accessories)
+- Totem of Undying triggering from the accessory slot at the wrong time and not doing anything (Accessorify)
+- Hatch and growth times on Sculk, Amethyst and Lush dragons (Dragon Mounts Remastered)
+- Crash when fighting the Sun Spirit (The Aether)
+- Bamboo rafts not having the paddle animation (Not Enough Animations)
