@@ -1,0 +1,27 @@
+### MMC5 Neoforge v14
+
+**[Major Update]**
+
+*Neoforge is now 21.1.112*
+
+**Mods:**
+
+- Added [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
+- Added [Hackers 'n Slashers](https://www.curseforge.com/minecraft/mc-mods/hackers-n-slashers)
+- Added [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips)
+- Added [Distraction Free Recipes (EMI / REI / JEI)](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
+- Added [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
+- Added [Moderately Enough Effect Descriptions (MEED)](https://www.curseforge.com/minecraft/mc-mods/moderately-enough-effect-descriptions-meed)
+- Added [TwilightForest Thread Safety Addon](https://www.curseforge.com/minecraft/mc-mods/tfthreadsafetyaddon)
+- Added [L_Ender's Cataclysm Old Music](https://www.curseforge.com/minecraft/resource-packs/l_enders-cataclysm-old-music)
+
+**Configs:**
+
+- Enabled Modernfix Dynamic Resources (should lower memory usage significantly!)
+- Added new quests for L_Ender's Cataclysm, and made a few other changes to the questbook
+- Added Chinese translation for quests (Thanks USS-Corvan!)
+- A few minor tweaks to the main menu and crash assistant
+- Fixed the health bar rendering in spectator mode
+- Allowed rolling while jumping, jumping while rolling, and rolling between attacks
+
+**Updated all mods**
