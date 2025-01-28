@@ -1,0 +1,21 @@
+[Stability Update]
+
+Mods:
++ Added KleeSlabs (by BlayTheNinth)
++ Added Thermoo Patches (by TheDeathlyCow)
+
+Configs:
+- Updated the Crash Assistant screen for a better user experience
+- The ingame changelog screen will no longer have improper spacing between lines
+- Reduced spam of errors in the log file
+
+Updates:
+- Added an easily accessible button in the inventory to show JEI at all times (Distraction Free Recipes)
+- Added more variety to structures spawning in modded biomes (Structure Essentials)
+- Replaced the framed inventory cable connector item model  (Toms Simple Storage)
+
+Fixes:
+- Inventory proxy causing crashes in some cases (Toms Simple Storage)
+- Crafting terminal losing items (Toms Simple Storage)
+- KeepInventory not working leading to ignored accessories on respawn (Accessories)
+- Totem of Undying triggering from the accessory slot at the wrong time and not doing anything (Accessorify)
