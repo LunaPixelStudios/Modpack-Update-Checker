@@ -1,0 +1,45 @@
+### MMC3 Fabric v15
+
+**[Origins Update]**
+
+**Mods**
+
+- Added [Origins (Fabric)](https://www.curseforge.com/minecraft/mc-mods/origins)
+- Added [Medieval Origins Revival](https://www.curseforge.com/minecraft/mc-mods/medieval-origins-revival)
+- Added [Origins Expanded Foods](https://www.curseforge.com/minecraft/texture-packs/origins-expanded-foods)
+- Removed Dehydration (too many issues)
+
+**Modpack Changes:**
+
+- Enabled Modernfix Dynamic Resources, reducing memory usage significantly
+- Fixed worldgen conflict with Charm and Affinity (only in newly generated chunks)
+- Updated a few default keybinds, and tutorial quest section on keybinds
+- Improved Spell Engine compat for FTB Teams
+- Stamina will now render as red when too low to sprint
+- Disabled Charm animal variants
+- Removed the Tide book on first join
+- Updated Crash Assistant message to be much more user-friendly
+
+**Mod Changes:**
+
+- A ton of improvements for Medieval Origins since 1.20.1. You can read all of them [here](https://github.com/muon-rw/Medieval-Origins-New/blob/main/1.21%20Changelog.md)!
+- New Textures for a ton of tools, blocks, ores, and other items (Mythic Metals)
+- Added the Aquarium Resonator, a new experimental block which builds on Conduits. This works like a small Beacon as long as it is within the range of an active Conduit. It grants you Beacon Power II, which works like Haste II plus Water Breathing. (Mythic Metals)
+- Rebalanced some alloy costs (Mythic Metals)
+- Suppressing should now work on all types of magic (Extra RPG Attributes)
+- Improved the look of Colored Light Fog in situations that have bright light sources close to the camera (Complementary)
+- Improved the behaviour of Light Shafts near large glass structures (Complementary)
+- Added shader support to more modded blocks (Euphoria Patches)
+- Added Backpack inventory folding if the GUI is too big for the screen (Traveler's Backpack)
+- Tweaked tiered tooltip (TieredZ)
+- Villagers can now place melons and pumpkins (Smarter Farmers)
+- Villagers will no longer trample farmland (Smarter Farmers)
+- Changes to Tier 4 Armor textures (Spellblades and Such)
+- Changed Feather Lash to Phoenix Down (Spellblades and Such)
+- Fixed bug doubling armor damage and making niche tick based damage deal insane amounts of armor damage (Extra RPG Attributes)
+- Fixed Filter Slots duplication glitch (Traveler's Backpack)
+- Fixed multi attribute bonuses, max health attribute, multiple "when worn" tooltips (TieredZ)
+- Fixed item dupes and log spam (Tom's Simple Storage Mod)
+- Fixed a game crashing issue regarding some AMD graphics cards (Complementary)
+- Fixed the sky brightness and color changing too quickly around early sunrise and late sunset (Complementary)
+- Fixed some modded items having insanely bright handheld lighting (Complementary)
