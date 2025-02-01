@@ -90,7 +90,7 @@
       {
         "id": "v14",
         "releasedAt": 1736606540000,
-        "updateType": "minor_breaking"
+        "updateType": "minor_brdeaking"
       },
       {
         "id": "v15",
@@ -100,6 +100,11 @@
       {
         "id": "v16",
         "releasedAt": 1737860263000,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v17",
+        "releasedAt": 1738391129000,
         "updateType": "minor_breaking"
       }
     ]
