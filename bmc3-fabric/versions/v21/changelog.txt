@@ -1,0 +1,22 @@
+[Performance Update]
+
+Mods:
++ Added Redirected (by Txni)
++ Added Despawn Tweaks (by Txni)
++ Added Open Parties and Claims PvP Support (by ElocinDev)
+- Removed Let Me Despawn (Replaced)
+- Removed Better FPS - Render Dist (Caused user confusion)
+
+Configs:
+- Re-enabled ModernFix Dynamic Resources for a major performance boost 
+- Improved clarity of Crash Assistant popup screen
+- Reduced log spam for "Failed to load palette"
+- Fixed the ingame changelog menu having bad formatting
+- Fixed some kill quests not completing  
+
+Updates:
+- Villagers can now place melons and pumpkins (Smarter Farmers)
+
+Fixes:
+- Crystalline Flower items not giving correct XP (The Bumblezone)
+- Server crash related to entity spawns (Variants&Ventures)
