@@ -1,0 +1,37 @@
+### MMC5 Neoforge v12
+
+*Neoforge is now 21.1.115*
+
+**Mods:**
+
+- Added [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) (by Bandit_Bytes)
+- Added [Apothic Compats](https://www.curseforge.com/minecraft/mc-mods/apothic-compats) (by ianm1647)
+- Added [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected) (by Txni)
+- Added [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks) (by Txni)
+- Removed Let Me Despawn (replaced)
+- Removed Better Fps - Render Distance (unintuitive)
+
+**Configs:**
+
+- Added tutorial quests for Apotheosis, including how to progress through World Tiers
+- Updated the keybinds quest
+- Changed villager names (on newly spawned villagers) to be more fantasy-like
+- Disabled Big Moons completely due to a bug
+- Updated the Crash Assistant error message for user clarity
+
+**Changes:**
+
+- Re-added custom Stoneborn textures for Traveler's backpack
+- Added new fantasy villager variants; elves, hobbits, dwarves, and orcs! (Thanks GrandPappyJay!)
+- Fixed parrying conflicting with tool usage (Hackers n' Slashers)
+- Added new Cloud biome and Brass Dungeon (Deep Aether)
+- New Boss: the Eye Of The Storm (Deep Aether)
+- Added 12 new Curios: Magic Leaf, Chain of the Hunter, Insignia of the Lich, Forgotten Crown, Shiny Crown, Emblem of Electricity, Ring of Familiar Revival, Blessed Calyx, Statue of Willpower, Invisibility Robes, Heart of Ender (Alshanex's Familiars)
+- Added the Familiar Tome of Alignment Spellbook, which connects you with your tamed familiars, allowing you to share magic attributes with them (Alshanex's Familiars)
+- New Tracks and Music Discs from Aethuys and Quizzly_ (Deep Aether)
+- Lots of new Dungeon loot to obtain (Deep Aether)
+- Venomites now drop a Bio Crystal, used to craft the Antidote to help with Inebriation (Deep Aether)
+- Added the Combiner, a new block to craft the new items (Deep Aether)
+- Villagers can now place melons and pumpkins (Smarter Farmers)
+- Fixed certain entity inventories being duplicated when using Loot Pinata (Apotheosis)
+- Many small fixes from Complementary Shaders/Euphoria Patches
