@@ -1,0 +1,27 @@
+### MMC3 Fabric v16
+
+**[Ambience Update]**
+
+**Mods:**
+
+- Added [Reactive Music](https://www.curseforge.com/minecraft/mc-mods/reactive-music)
+- Added [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- Added [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected)
+- Added [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks)
+- Removed Let Me Despawn (replaced)
+- Removed Better Fps - Render Distance (for gameplay clarity)
+
+**Changes:**
+
+- Added Excalibur textures for Handcrafted (thanks anivay!)
+- Added many new songs, by Alexander Nakarada, Vindsvept, and Adrian von Ziegler (Licensed CC-BY-4.0)
+- Music will now play quieter while in menus (except the main menu), and transition less often/more cleanly
+- Game startup should be significantly faster, due to changing how most music is loaded
+- Fixed a bug where Origin attributes/sizes would reset upon death (Medieval Origins Revival)
+- Added dog panting, wolves and dogs will now cool themselves to 25% by panting, and will emit more frequent panting sounds the hotter they are (Scorchful)
+- Added spyglass zoom scrolling feature: Scrolling while using the spyglass now changes the zoom level (Accessorify)
+- Added Recovery Compass accessory: When equipped, shows last death coordinates in the info overlay (Accessorify)
+- Reworked Oath of the Bulwark (Now Oath of Glory). Existing Oaths of the Bulwark will be destroyed (Spellblades)
+- Snow now accumulates on entities outside in the snow, and will melt when they go inside or enter a warm area and soak them (Frostiful)
+- Mountain peaks (except for Stony Peaks) are now freezing. Stony Peaks are freezing in Winter if a seasons mod is installed (Frostiful)
+- Mountain slopes are now cold. Mountain slopes are freezing in Winter (Frostiful)
