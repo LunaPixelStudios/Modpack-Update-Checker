@@ -1,0 +1,70 @@
+### MMC4 v31
+
+**[Major Update]**
+
+*Forge is now 47.3.29*
+
+**Mods:**
+
+- Added [Dungeons And Combat](https://www.curseforge.com/minecraft/mc-mods/dungeons-and-combat) (dungeons, mobs, and gear only)
+- Added [Alshanex's Familiars](https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars)
+- Added [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)
+- Added [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows)
+- Added [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
+- Added [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures)
+- Added [MSS - Moog's Soaring Structures](https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures)
+- Added [Ancient Reforging](https://www.curseforge.com/minecraft/mc-mods/ancient-reforging)
+- Added [Esoteric Reforging](https://www.curseforge.com/minecraft/mc-mods/esoteric-reforging-forge)
+- Added [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures)
+- Added [Shield Overhaul](https://www.curseforge.com/minecraft/mc-mods/shield-overhaul)
+- Added [Armor Damage Limit](https://www.curseforge.com/minecraft/mc-mods/armor-damage-limit)
+- Added [Mowzie's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/mowzies-cataclysm)
+- Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+- Added [Corpse x Curios API Compat](https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat)
+- Added [NaNny](https://www.curseforge.com/minecraft/mc-mods/nanny)
+- Added [Distraction Free Recipes](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
+- Added [No Report Button](https://www.curseforge.com/minecraft/mc-mods/no-report-button)
+- Added [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips)
+- Added [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
+- Removed Serene Seasons Fix (no longer needed)
+- Removed Redirector (replaced)
+- Removed Drink Beer Refill (replaced)
+- Removed Epic Empires
+- Removed ShadowizardLib
+- Removed Better Fps - Render Distance
+- Updated most mods
+
+**Resource Packs**:
+
+- Added [Iron's Spells 'n Spellbooks  Armors Overhaul](https://www.curseforge.com/minecraft/resource-packs/irons-spells-n-spellbooks-armors-overhaul)
+- Added [Iron's Spells 'n Spellbooks 3D weapons Resource Pack](https://www.curseforge.com/minecraft/resource-packs/irons-spell-book-3d-weapons-resource-pack)
+
+**Changes:**
+
+- Added a new magic section to the skill tree for Iron's/Ars, replacing all previous gem-related perks
+- Rebalanced many other parts of the skill tree, including evasion and starting XP costs
+- The Mirroring Enchantment now works on Gorgons from Ice and Fire
+- Siren origins will no longer be affected by Sirens from Ice and Fire
+- Pixie origins will no longer be targeted by Pixies from Ice and Fire
+- Nerfed the Echoing Strikes spell
+- Disabled the Keres
+- Significantly reduced the CPU impact of Apoli on servers
+- Significantly reduced the CPU impact of Survive on servers
+- Capped the number of itemstacks that can be dropped per entity
+- Pixie no longer have any armor restriction
+- Changed recipes for backpacks, modified inventory size (netherite tier has 99 slots!), added 4 new backpack types (Traveler's backpack)
+- Added the Black Citadel (Dungeons Enhanced)
+- Farmer's Delight crops will now generate in village farms (Farmer's Delight)
+
+**Fixes:**
+
+- Frostward ring playing glass-breaking sounds constantly
+- A few texture issues
+- No sawmill recipes loading
+- Guards sometimes not attacking players when they should (Guard Villagers)
+- Guzzler weapon eating (Sons of Sins)
+- Arachnae not actually being a carnivore
+- Valkyrie's Dive sometimes not ending when the player lands
+- Crash if a Pixie equipped Icarus wings
+- Banshee regeneration in modded dimensions
+- Some spears/greataxes/etc. not being detected properly for Origins
