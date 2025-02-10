@@ -1,0 +1,32 @@
+[Quality of Life Update]
+
+Mods:
++ Added Diagonal Walls (by Fuzs)
++ Added Improved Villager Placement (by Apollo)
++ Added Open Parties and Claims PvP Support (by ElocinDev)
++ Added Does It Tick (by Txni)
++ Added Long NBT Killer (by Dovecot_Official)
++ Added DespawnTweaker (by Txni)
++ Added Redirected (by Txni)
++ Added MixinTrace Resmithed (by Txni)
+- Removed MoreCulling (Incompatible with latest Sodium update)
+- Removed Better FPS - Render Dist (Caused user confusion)
+
+Configs:
+- Added a Decoration quest category
+- Added many new quests to the Curiosities category
+- Added a quest in the Storage category for the Nether Chest
+- Fixed false notification that an update to v21 is available, despite there being no v21 for the modpack
+- Fixed "Couldn't find template pool reference" being spammed in logs
+
+Updates:
+- Added the new Cloud biome and the Brass Dungeon (Deep Aether)
+- Added a new boss, the Eye Of The Storm (Deep Aether)
+- Added Moa Fodder, a new way to temporarily boost your Moa's maximum jump amount, jump height or fire resistance (Deep Aether)
+- Knives are now effective at mining cactus and can insta-mine bamboo (Farmers Delight)
+- Cataclysm bosses are now immune to the poison effect (L_Ender's Cataclysm)
+- Aerglow Fish now spawn naturally (Deep Aether)
+
+Fixes:
+- Snow rarely not melting under trees (Snow Real Magic)
+- Potential crash when opening waystone menus (Waystones)
