@@ -1,6 +1,6 @@
 ### HOTFIX:
 
-- Removed Corpse x Curios API Compat (deleted items)
+- Fixed an issue where player items could be deleted on death
 - Fixed some resource packs not applying if updating from a previous version
 - Fixed positioning of the Disconnect button in multiplayer
 - Updated Structurize and Minecolonies
