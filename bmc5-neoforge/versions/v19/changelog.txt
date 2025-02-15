@@ -1,0 +1,12 @@
+[Exploration Update]
+
+Mods:
++ Added Deeper Additional Structures (by Veydiz)
++ Added NaNny (by qther)
+
+Configs:
+- The Invoker now spawns in high-level village raids
+
+Updates:
+- Allowed some axe weapon enchantments on hatchets (Illager Invasion)
+- Marauders now have a melee attack when their target comes too close (Illager Invasion)
