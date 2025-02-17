@@ -1,0 +1,25 @@
+[Stability Update]
+
+Mods:
++ Added Clear Glass with Connected Textures (by Dnator)
++ Added Improved Villager Placement (by Apollo)
++ Added Does It Tick (by Txni)
++ Added BetterEnd Elytra Fix (by Txni)
+- Removed Paradise Lost (Causes crashes, not necessary as the pack already has The Aether)
+- Removed MoreCulling (Unnecessary)
+
+Configs:
+- The Invoker now spawns in high-level village raids
+- Bound Crawl to Left Alt
+- Disabled BetterEnd sulfur water color to prevent crashes
+- Fixed the Accessorify overlays overlapping with Jade
+- Removed the duplicate quests for the Sleeping Bag and Hammock
+
+Updates:
+- Added sizzle sound whilst using the skillet (Farmers Delight)
+- More music can now play on the main menu (Biome Music)
+- Allowed some axe weapon enchantments on hatchets (Illager Invasion)
+- Marauders now have a melee attack when their target comes too close (Illager Invasion)
+- The left-hand chapter panel now slides smoothly in and out (FTBQuests)
+- The calendar item can now be equipped in your Accessories to see the current season at all times (Accessorify)
+- Holding a redstone torch now has an animation (Amendments)
