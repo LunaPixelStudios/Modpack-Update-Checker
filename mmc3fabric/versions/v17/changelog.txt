@@ -1,0 +1,32 @@
+### MMC3 Fabric v17
+
+[Witchcraft Update]
+
+**Mods:**
+
+- Added [Just Another Witchery Remake](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake)
+- Added [Mystical Oak Tree](https://www.curseforge.com/minecraft/mc-mods/mystical-oak-tree)
+- Added [My Nether's Delight Refabricated](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight-refabricated)
+- Added [Tiny Skeletons [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
+- Added [Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects)
+- Added [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
+- Added [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
+- Added [No Report Button](https://www.curseforge.com/minecraft/mc-mods/no-report-button)
+- Added [BetterEnd Elytra Fix](https://www.curseforge.com/minecraft/mc-mods/betterend-elytra-fix)
+- Removed Paradise Lost
+
+**Configs:**
+
+- Allowed invokers to spawn in high tier raids
+- Revamped the Backpacks and Storage quests
+- Disabled BetterEnd sulfur water color to prevent crashes
+- Disabled tools automatically swapping when at low durability
+- Added Dramatic Doors texture support for Excalibur woods and iron (thanks Dr1mg!)
+- Updated Stoneborn textures for Traveler's Backpack
+
+**Updates:**
+
+- Added the Lush Shallow Sea Biome (Eternal Starlight)
+- Major rebalancing of all backpack abilities (Traveler's Backpack)
+- The calendar item can now be equipped in your Accessories to see the current season at all times (Accessorify)
+- Fix crash caused by Revenant using Hellraiser (Medieval Origins Revival)
