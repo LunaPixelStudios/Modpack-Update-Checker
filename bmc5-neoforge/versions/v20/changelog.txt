@@ -1,0 +1,18 @@
+[Stability Update]
+
+Mods:
++ Added Clear Glass with Connected Textures (by Dnator)
++ Added Client Sort (by NotRyken)
++ Added No Report Button (by pices1237532)
+- Removed Structures Tweaker (Temporary, has bug that made it so chests and shulkers can not be picked up off the floor)
+- Removed Deeper Additional Structures (Temporary, required Structure Tweaker)
+- Removed Polymorph (Caused crashes)
+
+Configs:
+- Added the Middle Click to Sort keybind to the Controls quest
+
+Updates:
+- Redstone torches now have a holding animation (Amendments)
+
+Fixes:
+- The Slider ignoring players that aren't in line of sight (The Aether)
