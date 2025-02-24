@@ -1,0 +1,18 @@
+[Quality of Life Update]
+
+Mods:
++ Added KleeSlabs (by BlayTheNinth)
++ Added Client Sort (by NotRyken)
++ Added Particle Effects (by LopyTwich)
++ Added Particle Core (by fzzyhmstrs)
+- Removed Paradise Lost (Was not properly removed last update)
+- Removed Double Doors (Replaced)
+
+Configs:
+- Fixed InventoryHUD not showing ingame
+- Fixed backpacks being uncraftable with some chests
+
+Fixes:
+- Accessories not being unequippable from armor stands (The Aether)
+- The Slider ignoring players that aren't in line of sight (The Aether)
+- Totems triggering only from the first Charm slot (Accessorify)
