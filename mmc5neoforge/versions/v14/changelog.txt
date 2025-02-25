@@ -1,0 +1,25 @@
+### MMC5 Neoforge v14
+
+**[Quality of Life Update]**
+
+*Neoforge is now 21.1.122*
+
+**Mods:**
+
+- Added [Reliquified Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/reliquified-twilight-forest)
+- Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort)
+- Added [Reliquified Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/reliquified-ars-nouveau)
+- Added [TooManyRecipeViewers (TMRV)](https://www.curseforge.com/minecraft/mc-mods/tmrv)
+- Removed JEI (Replaced by TMRV)
+- Removed Polymorph (Crashing)
+
+**Changes:**
+
+- Invokers can now spawn in high-level raids, fixing the quest is being impossible
+- Improved some descriptions in the quest book
+- Added Excalibur textures for Dramatic Doors (thanks Dr1mg!)
+- Updated Chinese translations (Thanks USS-Corvan!)
+- Added a new spell school **Sound**, currently with 8 spells: Chord Blast, Crescendo, Grand Finale, Celestial Chant, Rhapsody, Clef, Sonata, Serenade (Alshanex's Familiars)
+- Improved biome compatibility with Serene Seasons (Oh the Biomes We've Gone)
+- Added Golden Dragon (RPG Companions: Tiny Dragons)
+- Several bugfixes and introduction of the dynamic target selector (Hackers n' Slashers)
