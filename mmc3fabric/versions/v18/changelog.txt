@@ -1,0 +1,57 @@
+### MMC3 Fabric v18
+
+**[Adventure Update]**
+
+*If you have a shulker box equipped in your accessories, remove it before updating!*
+
+**Mods:**
+
+- Added [Relics (RPG Series)](https://www.curseforge.com/minecraft/mc-mods/relics-rpg)
+- Added [Oathsworn Paladins](https://www.curseforge.com/minecraft/mc-mods/oathsworn-paladins)
+- Added [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)
+- Added [RPG Minibosses - Forsaken Adventurers](https://www.curseforge.com/minecraft/mc-mods/rpg-minibosses-forsaken-adventurers)
+- Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort)
+- Added [Armor Damage Limit](https://www.curseforge.com/minecraft/mc-mods/armor-damage-limit)
+- Added [DungeonZ](https://www.curseforge.com/minecraft/mc-mods/dungeonz)
+- Added [Random Enchant Fix](https://www.curseforge.com/minecraft/mc-mods/random-enchant-fix)
+- Added [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
+- Added [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+- Removed JEI (not needed, causes issues)
+- Removed NetherPortalFix (Outdated Versions) (replaced)
+- Removed KleeSlabs (Outdated Versions) (replaced)
+- Removed Invocations (temporarily incompatible)
+- Removed MoreVillagers (temporarily incompatible)
+- Removed Alchimiae Magicae
+
+**Resource Packs:**
+
+- Added [Excalibur | Traveler's Backpack Support](https://www.curseforge.com/minecraft/mc-mods/excalibur-travelers-backpack-support)
+- Added Inhabitants (by GrandPappyJay)
+- Added Stoneborn GUI support for Affinity
+- Cleaned up some Accessories Stoneborn GUI support
+
+**Configs:**
+
+- Added 9 new lore books spread across libraries throughout the world
+- Added the new **Ancient Trial Dungeon** and a quest for it (thanks Forg!)
+- Fixed errored enchantment books appearing in many structure loot chests
+- Buffed the amount of iframes provided by combat rolls
+- **Disabled accessorify shulker slots** - *If you have a shulker box equipped in your accessories, remove it before updating!*
+- Fixed the accessorify text overlapping with Jade (again)
+- Increased the number of slots in traveler's backpacks
+- Mob health will now only render on mobs you're looking at
+- Temporarily disabled Pixie (bugged with Witchery)
+- Disabled apples being equippable in the face slot (bugged)
+- Disabled Supplementaries Quivers (not compatible with Archers quivers)
+
+**Changes:**
+
+- Fixed incompatibility between Affinity and Visual Workbench
+- Added Rune Pouch (4x64 runes), Phantom Rune Pouch (8x64 runes), Mystic Rune Pouch (12x64 runes)
+- Added Quiver (4x64 arrows), Hunting Quiver (8x64 arrows), Battle Quiver (12x64 arrows)
+- Reworked most spells - Most spells have changed and will need to be readded to spell books! (Spellblades and Such)
+- Renamed and completely changed tomes. Wintertide, Phoenix Rites -> Phoenixfire, Echoes Unleashed -> Echoing Tome (Spellblades and Such)
+- Retextured all items (Elemental Wizards)
+- Added Dark Forest Witcher Grave structure, added Witcher-related spell scrolls to loot
+- Spellblades now apply magic damage on hit
+- Rebalanced Knuckles: added armor, more attack damage, less arcane spell power
