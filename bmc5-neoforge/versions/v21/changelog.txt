@@ -1,0 +1,26 @@
+## Mod Changes
+ - 🟢 Added [Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy) (by Juniii)
+ - 🟢 Added [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core) (by fzzyhmstrs)
+ - 🟢 Added [Random Enchant Fix](https://www.curseforge.com/minecraft/mc-mods/random-enchant-fix) (by Txni)
+ - 🟢 Added [Boat Item View ](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge) (by 50ap5ud5)
+ - 🔴 Removed [Diagonal Windows [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows) (Doesn't work properly with resourcepacks)
+ - 🔴 Removed [CERBON's API [Forge | Fabric | NeoForge]](https://www.curseforge.com/minecraft/mc-mods/cerbons-api) (Not needed)
+ - 🔴 Removed [Oh The Biomes We've Gone Delight](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone-delight) (Poorly maintained)
+ - 🔵 Updated 27 mods
+
+
+### Config Changes
+ - Added a quest for the Blemish mob in the new Wetlands Whimsy mod
+ - You can now hold a map while in a boat
+ - Reduced spam in logs and server consoles
+
+
+### Updates
+ - Renaming a dummy with a number will set its max health to that number ([Target Dummy](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm))
+ - Sorting will now work faster on servers ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort))
+
+
+### Fixes
+ - Moving boats without a passenger becoming invisible ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Rotten Roseroot Log not being correctly waterloggable ([RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest))
+ - Tall Flowers only making 1 dye instead of 2 ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
