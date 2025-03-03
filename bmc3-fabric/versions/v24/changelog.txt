@@ -1,0 +1,22 @@
+[Stability Update]
+
+Mod Changes
+
+🟢 Added Aether Addon Protect Your Moa (by TheAetherTeam)
+🟢 Added Aether Addon Enhanced Extinguishing (by TheAetherTeam)
+🟢 Added No Report Button (by pices1237532)
+🟢 Added Falling Leaves  (by RandomMcSomethin)
+🟢 Added Simple Snowy Fix  (by KostromDan)
+🟢 Added Fast Item Frames (by Fuzs)
+🟢 Added TerraBlenderFix (by racoonman2)
+🟢 Added Random Enchant Fix (by Txni)
+🟢 Added YetAnotherConfigLib (by isXander)
+🔴 Removed Diagonal Windows [Forge & Fabric] (Did not work properly)
+🔴 Removed KleeSlabs  (Outdated)
+🔵 Updated 19 mods
+
+
+Fixes
+
+ - Moving boats without a passenger becoming invisible (Entity Culling)
+ - Ravager Horns not adding the Bad Omen status effect (It Takes a Pillage Continuation)
