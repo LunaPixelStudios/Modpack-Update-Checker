@@ -1,0 +1,14 @@
+[Minor Update]
+  
+Mod Changes
+ - Added [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) (by MrCrayfish)
+ - Updated 14 mods
+
+Config Changes
+ - Leaves now spawn on all leaves on a tree
+
+Updates
+ - Snow-covered blocks now use snow sounds ([Snow! Real Magic!](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-fabric))
+
+Fixes
+ - Server thread hanging when loading new chunks containing structures with vanilla item frame entities ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
