@@ -1,0 +1,25 @@
+[Content Update]
+NEOFORGE MODLOADER IS NOW 21.1.133
+Mod Changes
+ - Added [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) (by MrCrayfish)
+ - Added [Snow! Real Magic! ⛄ ](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic) (by Snownee)
+ - Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) (by KostromDan)
+ - Added [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) (by Cheaterpaul)
+ - Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) (by Fuzs)
+ - Added [Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api) (by Su5eD)
+ - Updated 38 mods
+
+
+ Config Changes
+ - Leaves now spawn on all leaves on a tree
+
+
+ Updates
+ - Added The Crane, a friendly mob in the Marsh that can be tamed with Cordgrass ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+ - Aria mushrooms are now bouncy ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+
+
+Fixes
+ - Crash related to Bad Omen ([It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation))
+ - Iceologer crash related to casting spells ([Friends&Foes ](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Ravager Horn not adding Bad Omen ([It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation))
