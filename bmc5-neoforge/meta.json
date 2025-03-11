@@ -126,6 +126,11 @@
         "id": "v21",
         "releasedAt": 1740839723000,
         "updateType": "minor_breaking"
+      },
+      {
+        "id": "v22",
+        "releasedAt": 1741707304000,
+        "updateType": "minor_breaking"
       }
     ]
   }
