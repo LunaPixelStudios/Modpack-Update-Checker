@@ -1,0 +1,20 @@
+[Quest Update]
+
+Mod Changes
+ - Added [Golem Spawn Fix](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix) (by bo_bo0)
+ - Updated 16 mods
+
+
+Config Changes
+ - Overhauled many quests for better descriptions, icons, and rewards
+ - Added many new quests across The Aether, Deeper and Darker, and more
+ - Improved JEI tutorial quest to teach users how to do tag search
+ - Bound the Soul Elytra boost to Caps Lock
+
+
+Updates
+ - Reduced lag when the world saves ([Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save))
+
+
+Fixes
+ - Trees growing through solid blocks and not adapting to surrounding environment ([Oh The Trees You'll Grow](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow))
