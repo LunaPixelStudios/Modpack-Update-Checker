@@ -1,0 +1,56 @@
+**[Major Update]**
+FORGE MODLOADER IS NOW 47.4.0
+  
+  Mod Changes
+ - Added [Enchantment Transfer ](https://www.curseforge.com/minecraft/mc-mods/enchantment-transfer) (by treekicker4)
+ - Added [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery) (by TeamAbnormals)
+ - Added [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls) (by Fuzs)
+ - Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) (by NotRyken)
+ - Added [Reintegrated Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped) (by Apollo)
+ - Added [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement) (by Apollo)
+ - Added [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips) (by Txni)
+ - Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) (by Fuzs)
+ - Added [Open Parties and Claims PvP Support](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims-pvp-support) (by ElocinDev)
+ - Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) (by KostromDan)
+ - Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) (by KostromDan)
+ - Added [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) (by settingdust)
+ - Added [NaNny ](https://www.curseforge.com/minecraft/mc-mods/nanny) (by qther)
+ - Added [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks) (by Txni)
+ - Added [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected) (by Txni)
+ - Added [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core) (by fzzyhmstrs)
+ - Added [Does It Tick?](https://www.curseforge.com/minecraft/mc-mods/does-it-tick) (by Txni)
+ - Added [Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects) (by LopyTwich)
+ - Added [MixinTrace Resmithed](https://www.curseforge.com/minecraft/mc-mods/mixintrace-resmithed) (by Txni)
+ - Removed Better Fps - Render Distance[Forge] (Caused user confusion)
+ - Removed Serene Seasons Fix (No longer needed)
+ - Removed DespawnTweaker (Replaced)
+ - Removed Redirector [Modern] (Replaced)
+ - Removed Memory Leak Fix (Replaced)
+ - Removed Paintings ++ (Replaced)
+ - Updated 90 mods
+
+
+Config Changes
+ - Added a brand new "Dragons" quest category with a more indepth guide on how dragons work
+ - Adjusted MANY quests to give better rewards and have improved descriptions and titles
+ - Quests that relied on killing a mob to complete will now properly complete, even if you didnt get the last hit
+ - Reworked The Aether quests to have better icons, rewards, and added new quests for the Brass Dungeon
+ - Added a quest for the Enchantment Transfer mod
+ - Invokers now participate in high-level villager raids, instead of spawning in structures
+ - Dragons now descend by holding Left Ctrl
+ - Fixed Simple Storage Networks not interacting properly with furnaces
+ - Fixed only being able to craft one arrow at a time
+ - Fixed the ingame changelog having bad formatting
+ - Disabled BetterEnd's Sulfur Water Color to prevent crashes
+
+Updates
+ - Added Farmers Delight cooking pot recipes for Alexs Caves soups and stews (Extra Compat)
+ - Knives are now effective at mining Cactus and Bamboo (Farmers Delight)
+ - Snow-covered blocks now use snow sounds (Snow! Real Magic!)
+ - Eating a Baklava Slice now gives 30 seconds of Haste (Delightful)
+
+
+Fixes
+ - Boats sometimes becoming invisible (Entity Culling)
+ - Snow sometimes not melting under trees (Snow Under Trees)
+ - Iceologer crash related to casting spells (Friends&Foes)
