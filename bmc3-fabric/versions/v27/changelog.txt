@@ -1,0 +1,18 @@
+[Minor Update]
+Mod Changes
+ - Added [Patchouli ](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric) (by Vazkii)
+ - Updated 20 mods
+
+
+Config Changes
+ - Vein Mining now works with all blocks
+ - Changed leaf culling to Solid instead of Solid Aggressive, improving the visuals of leaf blocks
+ - Fixed the AdventureZ book not being openable
+
+Updates
+ - Mob variants will now spawn with armor/items ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
+
+Fixes
+ - Oven crash ([Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted))
+ - Cherry leaves having the wrong color ([Bedrockoid](https://www.curseforge.com/minecraft/mc-mods/bedrockoid))
+ - Item duplication bug with Crystalline Flowers ([The Bumblezone ](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
