@@ -1,0 +1,21 @@
+# **[Stability Update]**
+Mod Changes
+ - Added [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud) (by Txni)
+ - Removed [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) (Caused all skins to use the wide Steve model, breaking Slim model skins)
+ - Removed [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) (Replaced)
+ - Updated 17 mods
+
+
+Config Changes
+ - Disabled the Oculus update checker
+ - Updated the Crash Assistant screen to clarify the support channel
+
+
+Updates
+ - The Seed Pouch now recognizes modded seeds (Quark)
+
+
+Fixes
+ - Mob farms, especially endermen farms, having invisible mobs when on a server (Does it Tick)
+ - Mob spawn rates being lower than usual (Does it Tick)
+ - Linux servers mysteriously crashing on startup (Friends&Foes)
