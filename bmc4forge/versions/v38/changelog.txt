@@ -1,4 +1,4 @@
-# **[Stability Update]**
+**[Stability Update]**
 Mod Changes
  - Added [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud) (by Txni)
  - Removed [lazyyyyy](https://www.curseforge.com/minecraft/mc-mods/lazyyyyy) (Caused all skins to use the wide Steve model, breaking Slim model skins)
