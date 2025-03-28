@@ -1,0 +1,39 @@
+### MMC3 Fabric v19
+
+**[Adventure Update]**
+
+ **Mods:**
+
+- Added [IceAndFire Community Edition](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce)
+- Added [Simply Swords [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/simply-swords)
+- Added [Rapscallions and Rockhoppers (Penguins)](https://www.curseforge.com/minecraft/mc-mods/rapscallions-and-rockhoppers)
+- Added [Simple Snowy Fix (Forge / Fabric)](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric)
+
+**Textures:**
+
+- Added [Excalibur | End Remastered Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-end-remastered-support)
+- Added [Excalibur | Deeper and Darker Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-deeper-and-darker-support)
+- Added [Excalibur | Aether Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support)
+- Added Ice and Fire/Excalibur texture support (Thanks LowPassFilter!)
+- Added Illager Invasion/Excalibur texture support (Thanks Ruseki!)
+- Updated Tom's Storage/Excalibur texture support (Thanks Ruseki!)
+- Updated Handcrafted/Excalibur texture support (Thanks Ruseki!)
+
+**Changes:**
+
+- Added Forsaken Magus, obtain a Lavos' Horn from the other minibosses to summon (RPG Minibosses)
+- Added audio cues to many abilities performed by the minibosses and rebalanced most of the fights (RPG Minibosses)
+- Added the Templar: This deceptively fast holy warrior moves with purpose, and wields a mighty warstaff coursing with divine energies. (RPG Minibosses)
+- Greatly lowered miniboss spawn rate (RPG Minibosses)
+- Added a Palladium Minecart: This cool ride made out of five Palladium Ingots will keep you fireproof while riding in it (Mythic Metals)
+- Added Palladium Rails: These are Fireproof Rails which are crafted from Palladium, and work as Powered Rails when lavalogged (Mythic Metals)
+- New textures for several tools, raw ores, and arrows (Mythic Metals)
+- Mythril Drill upgrades are now applied in a Smithing Table (Mythic Metals)
+- Fixed Tidesingers Water Speed bonus applying on all armor (Mythic Metals)
+- Fixed Midas Gold Swords and the Orichalcum Hammer having the wrong attack speed (Mythic Metals)
+- Added a rare Bumbling Beepartments biome filled with Bumbling Beepartments structure (The Bumblezone)
+- Added bush patches (Geophilic)
+- Added firefly bush patches to the Swamp, River and the Wooded Badlands (Geophilic)
+- Added leaf litter to the Forest, Dark Forest and Wooded Badlands (Geophilic)
+- Added patches of wildflowers to the Birch Forest, Old Growth Birch Forest and Meadow (Geophilic)
+- Added patches of dry grass to the Desert and Wooded Badlands biomes (Geophilic)
