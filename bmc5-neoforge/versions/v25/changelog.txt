@@ -1,0 +1,8 @@
+[Minor Update]
+  Mod Changes
+ - Added [Bedrockoid](https://www.curseforge.com/minecraft/mc-mods/bedrockoid) (by sashakyotoz)
+ - Updated 25 mods
+
+
+Fixes
+ - Potential issues with mobs not being invisible, especially in mob farms ([Does It Tick?](https://www.curseforge.com/minecraft/mc-mods/does-it-tick))
