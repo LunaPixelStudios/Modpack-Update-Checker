@@ -1,0 +1,16 @@
+**[Minor Update]**
+This update fixes the issue with hostile mobs not spawning naturally. This was due to the Spawners+ mod causing all mob spawners in the world to keep spawning mobs, even if players were not nearby, which made worlds reach the hostile mob limit. If this update does not fix the issue for you, you can try running the `/kill @e[type=minecraft:skeleton,type=minecraft:zombie,type=minecraft:spider]` command ingame to kill all mobs commonly found in spawners.
+
+Mod Changes
+ - 🟢 Added [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) (by Fuzs)
+ - 🔵 Updated 13 mods
+
+
+Config Changes
+ - Fixed the Jade overlay being in the incorrect position
+ - Disabled the sort button in inventories, as middle click sort was added in v37
+
+
+Fixes
+ - Startup crash when someone would add Alex's Caves to the modpack ([Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects))
+ - Crashes when using sticky pistons, especially for farms or flying machines ([Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta))
