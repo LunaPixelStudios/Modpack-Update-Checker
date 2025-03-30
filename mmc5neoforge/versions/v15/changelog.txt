@@ -1,0 +1,30 @@
+# **[Major Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Nature's Spirit](https://www.curseforge.com/minecraft/mc-mods/natures-spirit) (by Team_Hibiscus)
+ - 🟢 Added [T.O Magic 'n Extras - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells) (by GameTechBC)
+ - 🟢 Added [Ozymandias' Sundries](https://www.curseforge.com/minecraft/mc-mods/ozymandias-sundries) (by 0zymandias)
+ - 🟢 Added [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin) (by lumpazl)
+ - 🟢 Added [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) (by terrariumearth)
+ - 🟢 Added [Reintegrated Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped) (by Apollo)
+ - 🟢 Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) (by Fuzs)
+ - 🟢 Added [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) (by Cheaterpaul)
+ - 🟢 Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) (by KostromDan)
+ - 🔴 Removed [GTBC's Spellbooks - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/gtbcs-spellbooks) (Replaced)
+ - 🔴 Removed [Cataclysm Spellbooks](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks) (Incompatible)
+ - 🔵 Updated 106 mods
+
+
+### Config Changes
+
+ - Added/Updated Excalibur texture support for Chipped, Traveler's Backpack, Handcrafted, Illager Invasion, Aether, Deeper and Darker, End Remastered
+ - Apotheosis Potion Charms will now only work while in Curios slots
+
+
+### Updates
+
+ - Added the Citadel structure and Fire Boss (Iron's Spells n' Spellbooks)
+ - Redesigned the Lich Tower, and reworked the Twilight Lich fight (The Twilight Forest)
+ - Added several new Twilight Forest and Ars Nouveau themed Relics
+ - New custom critical sounds, cooldown indicators, dynamic targeting and parry improvements (Hackers n' Slashers)
