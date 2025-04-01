@@ -1,0 +1,20 @@
+[Minor Update]
+Mod Changes
+ - 🔵 Updated 35 mods
+
+
+Config Changes
+ - Improved Crash Assistant popup to give more information and reduce confusion
+
+
+Updates
+ - Cauldrons can now be used to remove dye from item frames ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
+
+
+Fixes
+ - The Bumblezone having thousands of the exact same structure, making the dimension impossible to explore ([Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric))
+ - Rare crashing issue ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+ - Startup crash on some Linux servers ([Friends&Foes ](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes))
+ - Illagers not spawning in Woodland Mansions ([Illager Invasion [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/illager-invasion))
+ - Potential issues with mobs being invisible ([Does It Tick?](https://www.curseforge.com/minecraft/mc-mods/does-it-tick))
+ - Modded item frames being turned into vanilla item frames ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
