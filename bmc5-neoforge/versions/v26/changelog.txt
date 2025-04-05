@@ -1,0 +1,25 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Snow! Real Magic! ⛄ ](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic) (by Snownee)
+ - Added [Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks) (by pajic)
+ - Added [Polymorph ](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4)
+ - Added [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud) (by Txni)
+ - Added [ScalableLux](https://www.curseforge.com/minecraft/mc-mods/scalablelux) (by ishlandmc)
+ - Added [TwilightForest Thread Safety Addon](https://www.curseforge.com/minecraft/mc-mods/tfthreadsafetyaddon) (by ishlandmc)
+ - Removed [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) (Replaced)
+ - Updated 29 mods
+
+
+Config Changes
+ - Unbound the JEI Select Search Bar keybind as it caused issues while typing
+
+
+Updates
+ - Villagers can now plant on Sandy Farmland ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
+ - Cauldrons can now be used to undye item frames ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
+
+
+Fixes
+ - The JEI item list and other inventory elements flickering ([What Are They Up To ](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to))
+ - New illagers not spawning in Woodland Mansions ([Illager Invasion [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/illager-invasion))
+ - Modded item frames losing special abilities when placed ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
