@@ -1,0 +1,30 @@
+## v19
+
+## **[Combat Update]**
+
+### Mod Changes
+
+ - 🟢 Added [Arsenal ](https://www.curseforge.com/minecraft/mc-mods/arsenal-rpg-series) (by daedelus_dev)
+ - 🟢 Added [Formidulus](https://www.curseforge.com/minecraft/mc-mods/formidulus) (by Absolutelyaya)
+ - 🟢 Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) (by Fuzs)
+ - 🟢 Added [Aether Addon Protect Your Moa](https://www.curseforge.com/minecraft/mc-mods/aether-protect-your-moa) (by TheAetherTeam)
+ - 🟢 Added [Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics) (by Txni)
+ - 🔴 Removed Just Another Witchery Remake (breaks external sources of flight, not patchable)
+ - 🔵 Updated 88 mods
+
+
+### Config Changes
+
+ - Added an overworld combat theme: *Eyes Up!* by Muon
+ - Added 4 new ambient overworld tracks by Vindsvept
+ - Nerfed the damage+armor values for Dragonsteel weapons and armor (by about half)
+ - Updated all TieredZ values, adding better support for the RPG Series and removing some penalties at lower tiers
+
+
+### Fixes
+
+ - Added a patch to prevent Simply Sword's Soulrender from crashing the client
+ - Dupe when accessories are not supposed to be a grave (You're In Grave Danger)
+ - GUI flickering issue when lots of mods are installed (What Are They Up To)
+ - Outdated Stoneborn GUI textures for Brewin' and Chewin'
+ - Simply Swords weapons not being able to receive TieredZ rarities
