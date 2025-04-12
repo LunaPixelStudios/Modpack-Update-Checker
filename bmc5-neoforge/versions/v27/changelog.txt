@@ -1,0 +1,11 @@
+**[Minor Update]**
+Mod Changes
+ - Added [Server Browser [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/server-browser) (by thethonk)
+ - Added [Sodium Leaf Culling](https://www.curseforge.com/minecraft/mc-mods/sodium-leaf-culling) (by Txni)
+ - Added [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) (by Txni)
+ - Updated 19 mods
+
+
+Updates
+ - The Sun Spirit no longer goes through blocks, but will break blocks in its path ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+ - Added 4 new Ender vegetables, 5 new foods, and 1 new structure ([Ender's Delight](https://www.curseforge.com/minecraft/mc-mods/enders-delight))
