@@ -1,0 +1,20 @@
+**[Minor Update]**
+Mod Changes
+ - Added [Armor Trim Compats](https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats) (by Cyber_Rat)
+ - Removed [Autochef's Delight](https://www.curseforge.com/minecraft/mc-mods/autochefs-delight) (Incompatible with latest Farmers Delight update)
+ - Updated 25 mods
+
+
+Config Changes
+ - You can now right click harvest crops without having a hoe in hand
+ - Fixed BCLib forcing fog to be enabled if you add Distant Horizons
+ - Fixed The Nether having large amounts of fog, which made it harder to explore
+
+
+Updates
+ - Flower boxes can now be placed against any block ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+
+Fixes
+ - Rare crash on picking up some modded projectiles ([Pick Up Notifier [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier))
+ - The JEI screen flickering constantly for some users ([What Are They Up To ](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to))
+ - The Beemoth causing glitchy teleporting when ridden ([The Bumblezone ](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
