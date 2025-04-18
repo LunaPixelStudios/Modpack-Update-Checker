@@ -1,0 +1,30 @@
+# **[Integration Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Reliquified L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/reliquified-l-ender-s-cataclysm) (by SSKirillSS)
+ - 🟢 Added [Crawl ](https://www.curseforge.com/minecraft/mc-mods/crawl) (by fewizz_)
+ - 🟢 Added [Cataclysm Spellbooks](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks) (by StarOcean)
+ - 🟢 Added [Server Browser [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/server-browser) (by thethonk)
+ - 🟢 Added [Apotheosis x Iron's Spellbooks Compat](https://www.curseforge.com/minecraft/mc-mods/apotheosis-x-irons-spellbooks-compat) (by MuonR)
+ - 🔴 Removed [Loot Beams Refork](https://www.curseforge.com/minecraft/mc-mods/loot-beams-refork) (Replaced by Apotheosis update)
+ - 🔵 Updated 84 mods
+
+
+### Config Changes
+
+ - Added affixes and gems for Iron's Spellbooks gear
+ - Disabled constant GUI updates in WATUT, fixes menus flickering
+
+
+### Updates
+
+ - Added 4 New Ender vegetables, 5 New foods, and a new structure (Ender's Delight)
+ - Added Giant Glove, Chromatic Cloak, Frost Gem, Bottle of Maple Syrup, Invisibility Cloak (Reliquified Twilight Forest)
+ - Added the Ballistarian Bracer (Reliquified Ars Nouveau)
+
+
+### Fixes
+
+ - Players on dedicated servers getting disconnected with an error related to "clientbound/level_particles"
+ - Outdated GUI textures for Brewin' and Chewin'
