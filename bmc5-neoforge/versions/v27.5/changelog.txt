@@ -1,0 +1,16 @@
+[Minor Update]
+Mod Changes
+ - 🔵 Updated 27 mods
+
+
+Config Changes
+ - Set Leaf Culling to Solid mode to improve appearance of leaves
+ - Fixed JEI menu flickering in the inventory
+
+
+Updates
+ - Villagers are now able to open double doors too ([Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors))
+
+
+Fixes
+ - Spikes not having infinite charges ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
