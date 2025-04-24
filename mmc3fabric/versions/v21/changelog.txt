@@ -1,0 +1,33 @@
+## v20
+
+# **[Exploration Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology) (by Pandarix)
+ - 🟢 Added [Invocations ](https://www.curseforge.com/minecraft/mc-mods/invocations-spell-engine) (by cleannrooster)
+ - 🟢 Added [Primal Druidry [Formerly Storm and Spirit]](https://www.curseforge.com/minecraft/mc-mods/primal-druids) (by cleannrooster)
+ - 🟢 Added [Dynamic Tooltips](https://www.curseforge.com/minecraft/mc-mods/dynamic-tooltips) (by MuonR)
+ - 🔵 Updated 60 mods
+
+
+### Config Changes
+
+ - Lowered the amount of gear added into loot chests overall
+ - Improved the Crash Assistant warning for problematic mods
+ - Set Dungeon Difficulty levels for every dungeon
+ - Set Dungeon Difficulty levels for most bosses and minibosses
+
+
+### Updates
+
+ - Added one more spell to Phoenixfire, Echoing, and Wintertide tomes (Spellblades and Such)
+ - Added a tiny grace period after triggering Intervention where Valkyries still have fall immunity (Medieval Origins Revival)
+ - Healing a player who damaged a boss (with a Spell Engine spell) now counts toward a kill for quests
+
+
+### Fixes
+
+ - Several Bug Fixes (Ice and Fire: Community Edition)
+ - Flame Burst not having an icon (Spellblades and Such)
+ - Crash caused by Revenant's Hellraiser (Medieval Origins Revival)
