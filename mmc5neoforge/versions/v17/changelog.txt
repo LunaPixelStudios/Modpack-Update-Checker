@@ -1,0 +1,31 @@
+# **[Animation Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (by _ForgeUser21552638)
+ - 🟢 Added [Iron's Spells 'n Spellbooks Dynamic Skill Trees](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks-dynamic-skill-trees) (by RaiRaimu)
+ - 🟢 Added [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology) (by Pandarix)
+ - 🟢 Added [Server Browser [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/server-browser) (by thethonk)
+ - 🔵 Updated 100 mods
+
+
+### Config Changes
+
+ - Added [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) (by FreshLX)
+ - Added [F.M.R.P](https://www.curseforge.com/minecraft/texture-packs/freshly-modded) (by Seb_Semos)
+ - Added [Fresh Moves](https://www.curseforge.com/minecraft/texture-packs/fresh-moves) (by TrasTrick)
+ - Added [Excalibur | Fresh Animations Compat](https://www.curseforge.com/minecraft/texture-packs/excalibur-fresh-animations-patch) (by GrandPappyJay)
+ - Improved Excalibur texture support for Amendments, Illager Invasion, Tom's Storage, and Friends & Foes
+ - Temporarily removed *Inhabitants* (Fantasy Villager Races), pending an update
+
+
+### Updates
+
+ - Added Parasite 115, Parasite 116, Fire Gem, Ether Gem, Frenzy Gem, Vengeful Gem, Carminite Gem (Reliquified Twilight Forest)
+ - Added an in-game tutorial for World Tiers (Apotheosis)
+ - Animated Resource Bars can now be disabled via the medieval-client config
+ - Challenge Orbs should now work on most major dungeons and boss arenas (configurable in medieval-common)
+
+### Fixes
+
+ - All cases of GUI flickering caused by WATUT
