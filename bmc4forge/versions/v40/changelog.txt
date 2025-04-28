@@ -1,0 +1,28 @@
+**[Stability Update]**
+In this update, we have updated the Simple Storage Network mod to the latest version. This version of the mod has a bug that prevents hoppers from working with storage networks in some cases, but also fixes several crashes and other small bugs. After careful consideration, we decided that the hopper bug is less urgent than the game crashing issues. If you would like to continue using hoppers in your storage network, you are free to downgrade the Simple Storage Network mod to version 1.11.3
+
+**Mod Changes**
+ - Added [DnT Ancient City Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul) (by Nova_Wostra)
+ - Added [Mining Speed Tooltips](https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips) (by Txni)
+ - Added [Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks) (by pajic)
+ - Added [Aether Addon Emissivity](https://www.curseforge.com/minecraft/mc-mods/aether-emissivity) (by TheAetherTeam)
+ - Updated 34 mods
+
+
+**Config Changes**
+ - Fixed all Dragon Egg quests completing when one dragon egg was obtained
+ - Set Leaf Culling to Solid mode to improve appearance of leaves
+ - Regenerated the ModernFix structure cache to fix a rare crash and improve chunk generation speeds
+ - Unbound the JEI Select Search Bar keybind as it caused issues while typing
+
+
+**Updates**
+ - Enchanted books from BetterNether and Spawners+ will now have unique textures ([Beautiful Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books))
+ - Boulders now have smaller hitboxes while travelling to avoid unwanted collision with terrain ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+
+
+**Fixes**
+ - Crash when opening inventories ([Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph))
+ - Particles turning black while items are being picked up ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+ - Crash when adding the Travelers Backpacks mod to the modpack manually ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Twisting Ivy and Helixes are now properly orientated ([Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion))
