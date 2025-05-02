@@ -1,0 +1,45 @@
+# **[Major Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Just Another Witchery Remake](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake) (by MrSterner_)
+ - 🟢 Added [Eternal Nether](https://www.curseforge.com/minecraft/mc-mods/eternal-nether) (by Fuzs)
+ - 🟢 Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - 🟢 Added [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (by _ForgeUser21552638)
+ - 🟢 Added [Server Browser [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/server-browser) (by thethonk)
+ - 🔵 Updated 44 mods
+
+## Textures
+
+ - 🟢 Added [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) (by FreshLX)
+ - 🟢 Added [Fresh Moves](https://www.curseforge.com/minecraft/texture-packs/fresh-moves) (by TrasTick)
+ - 🟢 Added [F.M.R.P](https://www.curseforge.com/minecraft/texture-packs/freshly-modded) (by Seb_Semos)
+ - 🟢 Added [Excalibur | Fresh Animations Patch](https://www.curseforge.com/minecraft/texture-packs/excalibur-fresh-animations-patch) (by GrandPappyJay)
+ - Updated Excalibur texture support for Handcrafted, Tom's Storage, Amendments, Friends and Foes, Illager Invasion
+ - Temporarily removed Inhabitants (Fantasy Villager Races), pending an update
+
+### Config Changes
+
+ - Made hot environments about 50% less punishing
+ - Fixed some bosses/minibosses being weaker than intended
+ - Challenge Orbs should now work on most boss structures/major dungeons by default, and are now configurable
+ - Re-enabled the Pixie origin
+
+### Updates
+
+ - Tweaked the starting conditions for combat music to require being targeted by a mob, instead of just starting combat music near hostile mobs
+ - RPG Minibosses are now passive by default, have a shared Reputation system, and are less common overall (ANARCHY)
+ - Mirroring and Featherweight are no longer treasure-only enchantments
+ - The Mirroring Enchantment now works on Gorgons from Ice and Fire
+ - Sirens from Ice and Fire will no longer be able to charm Siren players
+ - Pixies from Ice and Fire will no longer steal from Pixie players
+ - Added mild heat resistance to Dwarf and Alfiq
+ - Animated health/stamina bars are now toggleable in medieval-client config
+ - Reworked the **Infested Temple**, introducing trial spawners, vaults and more
+ - Added the **Kisegi Sanctuary**, a bigger and more lethal version of the Infested Temple
+ - Reworked Amplify Spell - Now grants 10% per level critical damage, and only applies to weapons
+ - Add more spell scroll textures (More RPG Classes)
+
+### Fixes
+
+ - Some remaining inventory menus flickering slightly (actually!)
