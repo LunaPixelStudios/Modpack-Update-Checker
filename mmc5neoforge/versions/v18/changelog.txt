@@ -1,0 +1,20 @@
+# **[Quality of Life Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Eternal Nether](https://www.curseforge.com/minecraft/mc-mods/eternal-nether) (by Fuzs)
+ - 🟢 Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - 🟢 Added [HT's TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop) (by hammertater)
+ - 🟢 Added [Polymorph ](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4)
+ - 🟢 Added [Dyed Flames](https://www.curseforge.com/minecraft/mc-mods/dyed-flames) (by Fuzs)
+ - 🟢 Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - 🟢 Added [Golem Spawn Fix](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix) (by bo_bo0)
+ - 🔵 Updated 28 mods
+
+
+### Config Changes
+
+ - Disabled near-broken Tool/Armor replacement in Inventory Profiles Next
+ - Disabled the Uncrafting Table
+ - Disabled some Update Checkers/Mod Notifications
+ - Added Excalibur Texture support for Magnum Torch
