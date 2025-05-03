@@ -1,0 +1,26 @@
+[Content Update]
+Mod Changes
+ - Added [Eternal Nether](https://www.curseforge.com/minecraft/mc-mods/eternal-nether) (by Fuzs)
+ - Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - Added [Dyed Flames](https://www.curseforge.com/minecraft/mc-mods/dyed-flames) (by Fuzs)
+ - Added [Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix) (by Fuzs)
+ - Added [Mining Speed Tooltips](https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips) (by Txni)
+ - Removed [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) (Caused laggy white particles when breaking trees)
+ - Updated 35 mods
+
+
+Config Changes
+ - Disabled ordinary items from being uncrafted via the uncrafting table, as there are too many exploits that allow for infinite resources
+ - Disabled Euphoria Patches update checking
+
+
+Updates
+ - Added several new foods ([My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight))
+ - Adjusted spawn rates of Medium Hollow Hills to make Redcap Sappers a little more common ([Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest))
+
+
+Fixes
+ - Inventory button not working for named targets ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))
+ - Servers freezing when exploring the Otherworld dimension ([Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))
+ - The Darkness effect not working properly ([BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations))
+ - Netherite Dragon Armor not showing in JEI ([Dragon Mounts Remastered](https://www.curseforge.com/minecraft/mc-mods/dmr))
