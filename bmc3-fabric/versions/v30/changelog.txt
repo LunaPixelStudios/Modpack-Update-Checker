@@ -1,0 +1,27 @@
+[Exploration Update]
+Mod Changes
+ - Added [Eternal Nether](https://www.curseforge.com/minecraft/mc-mods/eternal-nether) (by Fuzs)
+ - Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - Added [Mining Speed Tooltips](https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips) (by Txni)
+ - Added [Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix) (by Fuzs)
+ - Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - Updated 36 mods
+
+Config Changes
+ - Disabled Euphoria Patches update checking
+ - Disabled the Aether tips on the loading screen
+
+
+Updates
+ - Added the Kisegi Sanctuary, a bigger and more lethal version of the Infested Temple, featuring trial spawners and vaults ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Reworked the Infested Temple, introducing trial spawners, vaults and more ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added the Purification enchantment, available only as a reward in Infested Temple treasure vaults. Purification grants a chance to negate all incoming poisonous and withering effects, releasing a burst of energy that damages nearby enemies ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added the Ensnaring enchantment, available only in the Kisegi Sanctuary vaults. Ensnaring confers a chance to inflict greater slowness when damaging enemies, and summons fangs that attack all monsters around them ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added the Curse of Lolth, available in several Kisegi Sanctuary chests. Bestows a chance to regenerate health when attacking enemies, but also generates spiders. Damaging an arthropod will reflect damage to the wielder. ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added the Voltaic Shot enchantment, available in treasure and equipment chests in the Mechanical Nest. Charges arrows with electrical energy, allowing them to fly in a straight line and deliver an explosion. ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added the Discharge enchantment, available in treasure and equipment chests in the Mechanical Nest. Attacking enemies builds up speed, however, high levels of speed are discharged in a violent explosion, damaging both victim and attacker. ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+
+
+Fixes
+ - The Darkness effect not working properly ([BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations))
+ - Broken enchanted books found in the Underground Temple ([Explorations](https://www.curseforge.com/minecraft/mc-mods/explorations))
