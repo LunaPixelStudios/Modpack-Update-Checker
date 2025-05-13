@@ -1,0 +1,77 @@
+[Major Update]
+If you have any backpacks from the Backpacked mod, EMPTY THEIR CONTENTS BEFORE UPDATING. Items inside of these backpacks will be gone permanently if not removed first.
+Mod Changes
+ - Added [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether) (by TheAetherTeam)
+ - Added [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) (by BlackAuresArt)
+ - Added [Mediumcore Gamemode](https://www.curseforge.com/minecraft/mc-mods/mediumcore-gamemode) (by Txni)
+ - Added [My Nether's Delight Refabricated](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight-refabricated) (by MerchantCalico)
+ - Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - Added [Toni's Immersive Lanterns](https://www.curseforge.com/minecraft/mc-mods/immersive-lanterns) (by Txni)
+ - Added [Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories) (by Blodhgarm)
+ - Added [Reintegrated Chipped](https://www.curseforge.com/minecraft/mc-mods/reintegrated-chipped) (by Apollo)
+ - Added [BetterGrassify](https://www.curseforge.com/minecraft/mc-mods/bettergrassify) (by UltimatChamp)
+ - Added [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips) (by Txni)
+ - Added [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom) (by Keksuccino)
+ - Added [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) (by Fuzs)
+ - Added [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement) (by Apollo)
+ - Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) (by KostromDan)
+ - Added [Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects) (by LopyTwich)
+ - Added [Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks) (by pajic)
+ - Added [Distraction Free Recipes ](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes) (by Txni)
+ - Added [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud) (by Txni)
+ - Added [Mining Speed Tooltips](https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips) (by Txni)
+ - Added [Does It Tick?](https://www.curseforge.com/minecraft/mc-mods/does-it-tick) (by Txni)
+ - Added [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks) (by MuonR)
+ - Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) (by KostromDan)
+ - Added [Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix) (by Fuzs)
+ - Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) (by Fuzs)
+ - Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) (by NotRyken)
+ - Added [Long NBT Killer](https://www.curseforge.com/minecraft/mc-mods/long-nbt-killer) (by Dovecot_Official)
+ - Added [Despawn Tweaks](https://www.curseforge.com/minecraft/mc-mods/despawn-tweaks) (by Txni)
+ - Added [Open Parties and Claims PvP Support](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims-pvp-support) (by ElocinDev)
+ - Added [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr7zw)
+ - Added [Loot Integrations When Dungeons Arise & Co](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise) (by someaddon)
+ - Added [Loot Integrations L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm) (by someaddon)
+ - Added [Trinkets Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-tc-layer) (by Blodhgarm)
+ - Added [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected) (by Txni)
+ - Added [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) (by Noobanidus)
+ - Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - Added [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) (by juliand665)
+ - Added [Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics) (by Txni)
+ - Added [Biolith](https://www.curseforge.com/minecraft/mc-mods/biolith) (by Prospector)
+ - Removed [Paradise Lost](https://www.curseforge.com/minecraft/mc-mods/paradise-lost) (Replaced)
+ - Removed [Backpacked ](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric) (Inmis is already in the modpack)
+ - Removed [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) (Replaced)
+ - Removed [Inventory Management](https://www.curseforge.com/minecraft/mc-mods/inventory-management) (Deleted from Curseforge)
+ - Removed [Better Fps - Render Distance[Fabric]](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) (Causes user confusion)
+ - Removed [Spyglass Improvements Zoom, Quick Access... [Fabric/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements) (Replaced)
+ - Removed [SuperBetterGrass](https://www.curseforge.com/minecraft/mc-mods/super-better-grass) (Replaced)
+ - Removed [Trinkets ](https://www.curseforge.com/minecraft/mc-mods/trinkets) (Replaced)
+ - Removed [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) (Replaced)
+ - Removed [Redirector [Modern]](https://www.curseforge.com/minecraft/mc-mods/redirector) (Replaced)
+ - Updated 97 mods
+
+
+  Config Changes
+ - Reworked a majority of the questbook, adding new quests and improving many descriptions and rewards
+ - Changed many keybinds, and updated the Keybind quest description accordingly
+ - Invokers now spawn in village raids
+ - The ingame changelog viewer is now much easier to read
+ - Inmis backpacks not being craftable with modded chests
+ - Reduced log spam during gameplay and startup
+ - Fixed the empty biome.terrablender.deffered_placeholder biome generating
+ - Disabled several BetterEnd features that can cause crashes
+ - Disabled update checkers from several mods to reduce startup times and network traffic
+ - Disabled frostiful wind and freezing as it annoyed players
+
+
+Updates
+ - Added a skillet flip animation ([Farmer's Delight Refabricated](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated))
+ - Many performance and stability improvements ([Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium))
+ - Tweaked many block textures to be higher quality ([Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))
+
+
+Fixes
+ - Terminals deleting items if storage block is broken behind ([Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric))
+ - Rare crash when opening an inventory ([Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph))
+ - Darkness effect not working ([BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations))
