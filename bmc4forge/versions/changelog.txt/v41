@@ -1,0 +1,29 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers) (by Fuzs)
+ - Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge) (by Fuzs)
+ - Added [Farmer's Delight Cutting Compat](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-cutting-compat) (by Cyber_Rat)
+ - Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - Removed [TerraBlenderFix](https://www.curseforge.com/minecraft/mc-mods/terrablenderfix) (Caused broken worldgen in some cases)
+ - Updated 45 mods
+
+
+Config Changes
+ - Added an explanation of how Blue Skies arcs work in the Inventory quest
+ - Moved all VillagersPlus quests to the Curiosities chapter, and added a quest for the Aquarium
+ - Fixed the Inventory quest giving incorrect information about how Curios works
+ - Clarified in the questbook that Sculk Snappers only drop six enchanted books
+ - Clarified in the questbook how to enter The Nether for players who are new to Minecraft
+ - Disabled ordinary items from being uncrafted via the uncrafting table, as there are too many exploits that allow for infinite resources
+ - Removed the uncrafting table from the questbook
+ - Disabled update checkers from several mods to reduce startup times and network traffic
+
+
+Updates
+ - The Poaching enchantment now has a better description of what exactly it does ([Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions-compat))
+
+
+Fixes
+ - Critical bug that caused world files to corrupt over time ([Elysium API](https://www.curseforge.com/minecraft/mc-mods/elysium-api))
+ - Waystones not generating naturally in the world ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))
+ - Darkness potion effect not working ([BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations))
