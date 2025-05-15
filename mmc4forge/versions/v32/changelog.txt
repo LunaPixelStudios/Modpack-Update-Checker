@@ -1,0 +1,30 @@
+*Forge is now 47.4.0*
+
+## Mods:
+- Added [Dungeons Delight](https://www.curseforge.com/minecraft/mc-mods/dungeonsdelight)
+- Added [Tiny Skeletons [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
+- Added [Realm RPG: Sea Dwellers](https://www.curseforge.com/minecraft/mc-mods/nocubes-sea-dwellers)
+- Added [Boss Ultimatum (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/boss-ultimatum)
+- Added [Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers)
+- Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames)
+- Added [Sky Breaker: Blue Skies Limit Remover](https://www.curseforge.com/minecraft/mc-mods/sky-breaker)
+- Added [Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core)
+- Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge)
+- Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean)
+- Added [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
+- Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort)
+- Added [Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics)
+- Added [Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks)
+
+## Configs:
+- Unified Dungeons and Combat's steel + silver into Ice and Fire/Samurai Dynasty equivalents
+- Lowered the spawn rate of Dungeons and Combat's "Remanent" and "Hermit Witch"
+- Improved the Traveler's Backpack/Tom's Storage tutorial quests
+- Updated GUI textures for Traveler's Backpack and JEI
+- Added/Updated textures for Friends and Foes, Decorative Blocks, Supplementaries, Tom's Storage, Magnum Torch, Illager Invasion, Vein Mining, Amendments, Twigs, My Nether's Delight, Goblin Traders, Deeper and Darker, Guard Villagers, and End Remastered
+- Fixed an issue with the escape menu in singleplayer
+
+## Updates:
+- Many backported fixes from Medieval Origins Revival
+- Bumped ServerPack-bundled GraalVM version to 21.0.7
+- Updated most other mods
