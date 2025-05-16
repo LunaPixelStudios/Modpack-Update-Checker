@@ -1,0 +1,25 @@
+[Quest Update]
+Mod Changes
+ - Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge) (by Fuzs)
+ - Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) (by KostromDan)
+ - Updated 33 mods
+
+
+Config Changes
+ - Added quests for all MoreVillagers profession blocks
+ - Clarified in the questbook that Sculk Snappers only drop six enchanted books
+ - Clarified in the questbook how to enter The Nether for players who are new to Minecraft
+ - Fixed the Inventory quest giving incorrect information about how Accessories works
+ - Fixed the Alpha Yeti quest requiring you to kill the Snow Queen
+ - Removed the uncrafting table from the questbook
+
+
+Updates
+ - The Poaching enchantment now has a better description of what exactly it does ([Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions-compat))
+
+
+Fixes
+ - Tuff golem not having legs ([Friends&Foes ](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Cherry leaves being white ([Bedrockoid](https://www.curseforge.com/minecraft/mc-mods/bedrockoid))
+ - Many performance improvements ([AllTheLeaks ](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
