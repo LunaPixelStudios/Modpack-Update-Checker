@@ -1,0 +1,12 @@
+**Changes:**
+
+- Added new version of AAA Particles to fix Eldritch End crash on Macs
+- Re-Added Aether Excalibur support (Lag with shaders is fixed!) 
+- Switched CIT Resewn back to Forge CIT, fixes enchanted books all looking the same
+- Updated Clarent, fixes a few texture bugs
+- Updated Excalibur | Supplementaries Support
+- Downgraded Traveler's Backpack to 9.1.36, fixes invisible backpacks
+- Updated most other mods
+- Fixed Traveler's Backpack options button being impossible to click
+- Fixed some dimensions being untranslated in Discord activity integration
+- Disabled advanced tooltips
