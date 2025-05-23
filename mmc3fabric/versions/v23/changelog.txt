@@ -1,0 +1,48 @@
+# **[Adventure Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Loot & Explore](https://www.curseforge.com/minecraft/mc-mods/loot-n-explore) (by Fichteee)
+ - 🟢 Added [LNE Wizards Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-wizards) by (Fichteee)
+ - 🟢 Added [LNE Archers Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-archers) by (Fichteee)
+ - 🟢 Added [LNE Paladins Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-paladins) by (Fichteee)
+ - 🟢 Added [LNE Rogues Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-rogues) by (Fichteee)
+ - 🟢 Added [Alchimiae Magicae](https://www.curseforge.com/minecraft/mc-mods/alchimiae-magicae) (by ssblur)
+ - 🟢 Added [Thief](https://www.curseforge.com/minecraft/mc-mods/thief) (by mortuusars)
+ - 🟢 Added [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) (by Project8gbDeRam)
+ - 🟢 Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean) (by Txni)
+ - 🟢 Added [Better World Loading](https://www.curseforge.com/minecraft/mc-mods/better-world-loading) (by h1ggsk)
+ - 🟢 Added [BetterGrassify](https://www.curseforge.com/minecraft/mc-mods/bettergrassify) (by UltimatChamp)
+ - 🟢 Added [Enchant Limiter ](https://www.curseforge.com/minecraft/mc-mods/enchant-limiter) (by daedelus_dev)
+ - 🟢 Added [Exclusive  Item](https://www.curseforge.com/minecraft/mc-mods/exclusive-item) (by KevzCz)
+ - 🔵 Updated 70 mods
+ - 🟢 Added ATi Structures
+ - 🟢 Added Visual Traveler's Titles
+
+
+### Config Changes
+
+ - Added 8 new starter kit options
+ - Slowed down durability loss and hunger loss by about half
+ - Buffed most items from Relics, Jewelry, Arsenal, and Loot n' Explore
+ - Disabled many useless or redundant enchantments
+ - Added dungeon levels for ATi structures
+ - Moved large text for biome/dimension/structure/difficulty away from the center of the screen
+ - Complementary/Euphoria Settings: Enabled cave smoke, improved the appearance of water, enabled interactive foliage, enabled end stars, enabled twinkling stars
+
+
+### Updates
+
+ - Enchantments are now capped at 4 per item (except books)
+ - Bosses will now heal when killing a player (10% of their health on normal difficulty, 20% on hard)
+ - Spells and attacks will no longer damage your teammates or their pets
+ - Added fluttering wings + nature-themed abilities to the Fae origin (Fae players will need to reselect their origin for new effects)
+ - Retextured the Starter Kit menu and added the player's Origin name into the Starter Kit title
+
+
+### Fixes
+
+ - Ranged Damage attribute not working properly
+ - Client crash caused by being near another player's Revenant summons
+ - Several texture fixes
+ - Duplicate/unusable slots from Accessories and Witchery
