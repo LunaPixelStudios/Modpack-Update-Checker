@@ -1,0 +1,20 @@
+[Stability Update]
+Mod Changes
+  - Added [Dyed Flames](https://www.curseforge.com/minecraft/mc-mods/dyed-flames) (by Fuzs)
+ - Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge) (by Fuzs)
+ - Removed [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) (Caused massive amount of laggy white particles when trees break)
+ - Removed [TerraBlenderFix](https://www.curseforge.com/minecraft/mc-mods/terrablenderfix) (Caused worldgen issues)
+ - Updated 34 mods
+
+
+Config Changes
+ - Fixed the Inventory quest giving wrong information about how Accessories work
+ - Updated the description of the Enter the Nether quest for players who are new to Minecraft
+ - Updated many quests to have better icons, instead of just showing the mob spawn egg
+ - Updated the Cage and Sculk Snapper quest descriptions to clarify more on what they do
+ - Removed Piglin Flag quest as it was misleading
+
+
+Fixes
+ - Crash when a Cartographer or Wandering Trader's explorer map is unable to find the structure in range ([Repurposed Structures ](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric))
+ - Tuff golems not having legs ([Friends&Foes ](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes))
