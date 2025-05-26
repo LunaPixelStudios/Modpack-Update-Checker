@@ -1,0 +1,9 @@
+[Minor Update]
+Mod Changes
+ - Added [Farmer's Delight Cutting Compat](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-cutting-compat) (by Cyber_Rat)
+ - Updated 19 mods
+
+
+Fixes
+ - Crash when a Cartographer or Wandering Trader's explorer map is unable to find the structure in range ([Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures))
+ - Dragon AI not working properly ([Dragon Mounts Remastered](https://www.curseforge.com/minecraft/mc-mods/dmr))
