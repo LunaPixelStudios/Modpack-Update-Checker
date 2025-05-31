@@ -1,0 +1,14 @@
+# [Minor Update]
+Luna World Sharing is now operational again, with EU servers!
+
+## Mod Changes
+ - 🔵 Updated 24 mods
+
+
+### Config Changes
+ - Mining a tree with an axe will now shift the tree downwards one block at a time, instead of the entire tree breaking instantly
+
+
+### Fixes
+ - Sun's Blessing crashing on servers ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+ - Crash when a Cartographer or Wandering Trader's explorer map is unable to find the structure in range ([Repurposed Structures ](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures))
