@@ -1,0 +1,21 @@
+[Stability Update]
+Luna World Sharing is now operational again, with EU servers!
+Mod Changes
+ - Added [Easy Disenchanting](https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting) (by Txni)
+ - Added [Early Bedtime](https://www.curseforge.com/minecraft/mc-mods/early-bedtime) (by Txni)
+ - Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge) (by Fuzs)
+ - Updated 16 mods
+
+
+Config Changes
+ - Mining a tree with an axe will now shift the tree downwards one block at a time, instead of the entire tree breaking instantly
+ - Fixed some menus having a white GUI instead of dark mode
+ - Disabled the Grindstone for unenchanting - use anvil instead
+
+
+Updates
+ - Essence Blocks now will prevent players from placing blocks or fluids on it with right click ([The Bumblezone ](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
+
+
+Fixes
+ - Crash when a Cartographer or Wandering Trader's explorer map is unable to find the structure in range ([Repurposed Structures ](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric))
