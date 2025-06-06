@@ -1,0 +1,52 @@
+# **[Difficulty Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Hazen 'N Stuff](https://www.curseforge.com/minecraft/mc-mods/hazen-n-stuff) (by HazentouvelPrime)
+ - 🟢 Added [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) (by MrCrayfish)
+ - 🟢 Added [Twilight Forest - Dungeons & Villages](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-dungeons-villages) (by cfarielsl)
+ - 🟢 Added [Medieval Buildings [Nether Edition]](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-nether-edition) (by Lupin)
+ - 🟢 Added [Alchimiae Magicae](https://www.curseforge.com/minecraft/mc-mods/alchimiae-magicae) (by ssblur)
+ - 🟢 Added [Thief](https://www.curseforge.com/minecraft/mc-mods/thief) (by mortuusars)
+ - 🟢 Added [Dynamic Difficulty ](https://www.curseforge.com/minecraft/mc-mods/dynamic-difficulty-mod) (by MuonR)
+ - 🟢 Added [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic) (by Apollo)
+ - 🟢 Added [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman) (by mortuusars)
+ - 🟢 Added [Luna](https://www.curseforge.com/minecraft/mc-mods/luna) (by LunaPixelStudios)
+ - 🟢 Added [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies) (by Raycoms)
+ - 🟢 Added [SmallColonies for Minecolonies](https://www.curseforge.com/minecraft/mc-mods/smallcolonies) (by Thaylar)
+ - 🟢 Added [Boss Ultimatum ](https://www.curseforge.com/minecraft/mc-mods/boss-ultimatum) (by ElocinDev)
+ - 🟢 Added [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (by Pepper_Bell)
+ - 🟢 Added [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) (by Project8gbDeRam)
+ - 🔴 Removed [Armor of the Ages](https://www.curseforge.com/minecraft/mc-mods/armor-of-the-ages)
+ - 🔴 Removed [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library)
+ - 🔴 Removed [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) (Replaced)
+ - 🔵 Updated 82 mods
+
+
+### Config Changes
+
+ - Added mob levels! For now, dimensions or distance have only a small effect, but entities have innate levels - Ignis is level 120, cows are generally level 0, etc.
+ - Greatly increased the buffs mob receive from higher World Tiers, and added more World Tier player buffs
+ - Blacklisted most curios from receiving Apotheosis rarities. Necklaces, rings, and gloves are still reforgable
+ - Disabled the Creative Flight and Elytra Flight affixes
+ - Bosses will now heal when they kill a player - a % of their max health based on difficulty
+ - Lowered the spawn rate of relics in chests from 0.33 to 0.05
+ - Lowered the spawn weight of Hunter Belt relics from 100 to 30
+ - Lowered the spawn weight of Phantom Boots relics from 100 to 5, made them exclusive to The End
+ - Many changes to Complementary shader presets
+
+
+### Updates
+
+ - Target Dummies can no longer be used to spawn Treasure Goblins
+ - Target Dummies can no longer be used to gain Rage Glove charge stacks or spread experience
+ - Mobs will now display their level and world tier next to their name
+ - Added Cypress Wetlands, Red Rock Peaks biomes. Revamped Pumpkin Valley and Redrock Valley. New villagers and village types (Oh the Biomes We've Gone)
+ - Improvements in AI, new visuals, and bugfixes (Hackers n' Slashers)
+
+
+### Fixes
+
+ - Luna worldsharing not working properly
+ - Lag caused by leaf particles when breaking a tree
+ - Lag if shaders were enabled in the Aether dimension
