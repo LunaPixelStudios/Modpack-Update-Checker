@@ -1,0 +1,22 @@
+[Stability Update]
+Mod Changes
+ - Added [Easy Disenchanting](https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting) (by Txni)
+ - Added [Early Bedtime](https://www.curseforge.com/minecraft/mc-mods/early-bedtime) (by Txni)
+ - Removed [Enchantment Transfer ](https://www.curseforge.com/minecraft/mc-mods/enchantment-transfer) (Replaced)
+ - Updated 35 mods
+
+
+Config Changes
+ - Some resourcepacks that were previously hidden from the resourcepacks screen are now visible again and can be optionally enabled by users
+ - Set the FallingTree tree size limit to 500, as trees no longer break instaneously
+
+
+Updates
+ - Added Glow Jam Cookies ([Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful))
+ - Stained glass now has connected textures ([Stay Clear](https://www.curseforge.com/minecraft/mc-mods/stay-clear))
+ - Changed several recipes to be much simpler ([Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful))
+
+
+Fixes
+ - Frequent crash due to Aether Redux compat ([Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful))
+ - Servers not fully closing after crashing/shutting down ([Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics))
