@@ -1,0 +1,26 @@
+[Stability Update]
+Mod Changes
+ - Added [Easy Disenchanting](https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting) (by Txni)
+ - Added [Early Bedtime](https://www.curseforge.com/minecraft/mc-mods/early-bedtime) (by Txni)
+ - Updated 21 mods
+
+
+Config Changes
+ - Added a quest for the Anvil to explain how disenchanting works
+ - Mining a tree with an axe will now shift the tree downwards one block at a time, instead of the entire tree breaking instantly
+ - Set the FallingTree tree size limit to 500
+
+
+Updates
+ - Luna World Hosting is operational again, now with EU servers! ([Luna](https://www.curseforge.com/minecraft/mc-mods/luna))
+ - Made many recipes simpler ([Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight))
+ - Updated the Chiller texture ([More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+
+
+Fixes
+ - Backpacks duping when the player dies and in some other scenarios ([Curios Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer))
+ - Servers not fully closing after crashing/shutting down ([Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics))
+ - Player crashing in some cases after dying ([Curios Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer))
+ - Occasional crashing when using storage networks ([Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage))
+ - Long-standing issue that changed the spawn behaviors of Nether Fortress mobs, which prevented vanilla-style mob farms from working ([Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge))
+ - Many recipes being missing ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
