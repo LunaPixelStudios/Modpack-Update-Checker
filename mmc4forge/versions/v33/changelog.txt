@@ -1,0 +1,27 @@
+# **[Bugfix Update]**
+
+## Mod Changes
+
+ - 🟢 Added [ATi Structures - Default](https://www.curseforge.com/minecraft/mc-mods/ati-structures-datapack-vanilla) (ATii)
+ - 🟢 Added [Twilight Forest - Dungeons & Villages](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-dungeons-villages) (by cfarielsl)
+ - 🔴 Removed ATi Structures (replaced)
+ - 🔵 Updated 25 mods
+
+
+### Config Changes
+
+ - Enchantment descriptions are now collapsed by default (press Shift)
+
+
+### Updates
+
+ - Luna Worldsharing is now functional again, with EU Servers!
+ - Added (some) Excalibur texture support for Dungeons and Combat and Dramatic Doors
+
+
+### Fixes
+
+ - Custom Item Texture issues (all pickaxes appearing as hammers, etc.)
+ - Attribute modifier bonuses from gems equipped into Curios slots not applying
+ - Minecolonies Citizens deactivating when not in close range
+ - Crash when joining world (Icarus)
