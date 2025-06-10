@@ -1,0 +1,21 @@
+[Stability Update]
+Mod Changes
+ - Added [Early Bedtime](https://www.curseforge.com/minecraft/mc-mods/early-bedtime) (by Txni)
+ - Updated 23 mods
+
+
+Config Changes
+ - Mining a tree with an axe will now shift the tree downwards one block at a time, instead of the entire tree breaking instantly
+ - Set the FallingTree tree size limit to 500
+
+Updates 
+ - Luna World Hosting is operational again, now with EU servers! ([Luna](https://www.curseforge.com/minecraft/mc-mods/luna))
+ - Tinted glass now has connected textures ([Stay Clear](https://www.curseforge.com/minecraft/mc-mods/stay-clear))
+ - Updated the Chiller textures ([More Villagers  Re-employed](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+ - Many new blocks can now be waterlogged ([Bedrockoid](https://www.curseforge.com/minecraft/mc-mods/bedrockoid))
+
+
+Fixes
+ - Servers not fully closing after crashing/shutting down ([Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics))
+ - Long-standing issue that changed the spawn behaviors of Nether Fortress mobs, which prevented vanilla-style mob farms from working ([Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric))
+ - Essence items not recharging properly when in inventory of a player that had consumed Essence of the Bees ([The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
