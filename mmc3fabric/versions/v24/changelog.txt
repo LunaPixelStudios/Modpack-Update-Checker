@@ -1,0 +1,35 @@
+# **[Minor Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Loot Beams Up](https://www.curseforge.com/minecraft/mc-mods/loot-beams-up) (by EnsoX)
+ - 🟢 Added [HT's TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop) (by hammertater)
+ - 🟢 Added [Dynamic RPG Resource Bars](https://www.curseforge.com/minecraft/mc-mods/dynamic-rpg-resource-bars) (by MuonR)
+ - 🟢 Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge) (by Fuzs)
+ - 🔴 Removed [Loot Beams Refork](https://www.curseforge.com/minecraft/mc-mods/loot-beams-refork) (Replaced)
+ - 🔴 Removed [Falling Leaves ](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) (Replaced)
+ - 🔴 Removed [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) (Replaced)
+ - 🔴 Removed [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) (Replaced)
+ - 🔵 Updated 50 mods
+
+
+### Config Changes
+
+ - Improved the default appearance of the journeymap minimap
+ - Improved the default loot beam appearance
+ - Added Excalibur resourcepack for Supplementaries
+
+
+### Updates
+
+ - Luna World Hosting is operational again, now with EU servers!
+ - Terrain will now into continent-like landmasses. Oceans will spawn with smaller islands (Tectonic)
+ - Terrain is no longer excessively smoothed out (Tectonic)
+ - Greatly improved underground rivers (Tectonic)
+ - Added new terrain shapes, like valleys, canyons, rolling hills, and jungle pillars (Tectonic)
+
+
+### Fixes
+
+ - Some meats from My Nether's Delight, Tide, and AndventureZ not being edible to carnivores
+ - Bugged hunger/health overlays with Farmer's Delight
