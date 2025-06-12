@@ -1,0 +1,54 @@
+# [Major Update]
+
+## Mod Changes
+ - 🟢 Added [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
+ - 🟢 Added [Loot & Explore](https://www.curseforge.com/minecraft/mc-mods/loot-n-explore)
+ - 🟢 Added [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures)
+ - 🟢 Added [LNE Wizards Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-wizards)
+ - 🟢 Added [LNE Rogues Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-rogues)
+ - 🟢 Added [LNE Archers Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-archers)
+ - 🟢 Added [LNE Paladins Add-On](https://www.curseforge.com/minecraft/mc-mods/lne-paladins)
+ - 🟢 Added [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
+ - 🟢 Added [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks)
+ - 🟢 Added [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean)
+ - 🟢 Added [Nature's Delight](https://www.curseforge.com/minecraft/mc-mods/natures-delight)
+ - 🟢 Added [My Nether's Delight Refabricated](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight-refabricated)
+ - 🟢 Added [Tiny Skeletons [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
+ - 🟢 Added [Distraction Free Recipes ](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes)
+ - 🟢 Added [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant)
+ - 🟢 Added [Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement)
+ - 🟢 Added [Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics)
+ - 🟢 Added [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames)
+ - 🟢 Added [Redirected](https://www.curseforge.com/minecraft/mc-mods/redirected)
+ - 🟢 Added [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort)
+ - 🟢 Added [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman)
+ - 🟢 Added [Long NBT Killer](https://www.curseforge.com/minecraft/mc-mods/long-nbt-killer)
+ - 🟢 Added [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge)
+ - 🟢 Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric)
+ - 🟢 Added [Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories) (required by The Aether)
+ - 🔴 Removed Better Chunk Loading (Incompatible)
+ - 🔴 Removed Better Fps - Render Distance (Replaced)
+ - 🔴 Removed Controlify (Incompatible)
+ - 🔴 Removed Chef's Delight (Incompatible)
+ - 🔴 Removed Paradise Lost (Replaced)
+ - 🔴 Removed Nether's Delight Refabricated (Replaced)
+ - 🔴 Removed Trinkets (replaced)
+ - 🔵 Updated 160 mods
+
+
+### Config Changes
+
+ - Added quests for The Aether
+ - Updated Backpacks and Storage quests
+ - Rebalanced the damage/protection values of Dragonsteel gear
+
+
+### Updates
+
+ - Added Eldritch Eye boss, replacing the AdventureZ eye (Eldritch End)
+ - Redesigned Prison dimension (Mine Cells)
+
+
+### Fixes
+
+ - Crash when a Spellblades entity damaged a player (caused by Conjuring)
