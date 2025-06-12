@@ -1,0 +1,12 @@
+[Minor Update]
+Mod Changes
+ - Updated 5 mods
+
+
+Config Changes
+ - JEI's ingredient list now occupies 20 rows instead of 16
+ - Reduced the Charm and Hand slots to 1 instead of 2
+
+
+Fixes
+ - Dragons duplicating when the whistle keybind is pressed ([Dragon Mounts Remastered](https://www.curseforge.com/minecraft/mc-mods/dmr))
