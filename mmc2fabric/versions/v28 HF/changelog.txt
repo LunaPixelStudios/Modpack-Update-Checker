@@ -1,0 +1,6 @@
+## v28 HF (HOTFIX):
+
+- Downgraded AAAParticles to 1.20.1-1.4.8, fixes brown square artifacts appearing on-screen
+- Fixed Medieval core mod not being included (fixes missing images in questbook, mob levels not updating when scaled by Simply Skills, and Spellblades entities still freezing when hitting a player)
+- Updated Moog's Voyager Structures
+- Updated the modernfix structure cache
