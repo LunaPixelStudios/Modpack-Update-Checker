@@ -1,0 +1,24 @@
+# **[Fixes Update]**
+## Mod Changes
+ - 🟢 Added [Vital Herbs](https://www.curseforge.com/minecraft/mc-mods/vital-herbs) (by praizazdd)
+ - 🟢 Added [Better World Loading ](https://www.curseforge.com/minecraft/mc-mods/better-world-loading-forge) (by h1ggsk)
+ - 🟢 Added [Dynamic RPG Resource Bars](https://www.curseforge.com/minecraft/mc-mods/dynamic-rpg-resource-bars) (by MuonR)
+ - 🔵 Updated 29 mods
+
+
+### Config Changes
+ - Moved Jade overlay to the topleft
+ - Improved the default journeymap appearance
+ - Added mob levels for Eternal Starlight dimension + bosses
+ - Updated Chinese translation for quests (thank you Ayrault!)
+
+
+### Updates
+ - Health/stamina bars are now compatible with Farmer's Delight effects
+
+
+### Fixes
+ - Mana attribute bonuses from the skill tree not applying properly
+ - Crash when cutting down trees from Witchery
+ - Broken structure NBT (Moog's Soaring Structures)
+ - Rare crash when loading world (Horseman)
