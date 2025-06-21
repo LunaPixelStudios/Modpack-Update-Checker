@@ -1,0 +1,27 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication) (by unascribed)
+ - Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - Added [Mandala's GUI - Dark mode - Utopia extension](https://www.curseforge.com/minecraft/texture-packs/mandala-gui-dark-mode-utopia-extension) (by Arp_sys)
+ - Updated 34 mods
+
+
+Config Changes
+ - Configured Fabrication to enable hundreds of small game tweaks. If you would like to see everything that was changed, you can press escape ingame, click “Mods”, and search “Fabrication”. Click on it, and on the bottom left click Config.
+ - Added hover tooltips to the main menu
+ - Reverted the FallingTree config to how it was before, where breaking one log block breaks the entire tree instantly, due to mass user confusion
+ - Enabled ClientSort clickable sort buttons
+ - Disabled the Lithium moving block shapes optimization to prevent Supplementaries sliding block crash
+ - Euphoria Patches no longer gives warnings on the main menu
+ - Fixed Game Menu text in escape menu moving when the window resizes
+
+
+Updates
+ - Added support for more modded mob icons on the minimap ([Icon Xaero](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros))
+ - Major performance improvements ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - All colored and tinted glass now has connected textures ([Stay Clear](https://www.curseforge.com/minecraft/texture-packs/stay-clear))
+
+
+Fixes
+ - Servers not shutting down properly after being closed / crashing ([Pack Analytics](https://www.curseforge.com/minecraft/mc-mods/pack-analytics))
+ - Maps in item frames not loading for other players in multiplayer ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
