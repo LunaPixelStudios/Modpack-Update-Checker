@@ -1,0 +1,23 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - Added [Better World Loading ](https://www.curseforge.com/minecraft/mc-mods/better-world-loading-forge) (by h1ggsk)
+ - Updated 30 mods
+
+
+Config Changes
+ - Added hover tooltips to the main menu
+ - Enabled ClientSort clickable sort buttons
+ - Euphoria Patches no longer gives warnings on the main menu
+ - Reverted the FallingTree config to how it was before, where breaking one log block breaks the entire tree instantly, due to mass user confusion
+ - Decreased the quantity of arrow and shulker box accessories slots by 2 and updated the shulker box quest accordingly
+
+
+Updates
+ - Added support for more modded mob icons on the minimap ([Icon Xaero](https://www.curseforge.com/minecraft/mc-mods/icon-xaeros))
+ - Major performance improvements ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+
+
+Fixes
+ - Frequent dupe glitch with graves when dying ([Curios Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer))
+ - Maps in item frames not loading for other players in multiplayer ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
