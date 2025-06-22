@@ -14,7 +14,7 @@ Config Changes
 
 
 Updates
- - Added support for more modded mob icons on the minimap ([Icon Xaero](https://www.curseforge.com/minecraft/mc-mods/icon-xaeros))
+ - Added support for more modded mob icons on the minimap ([Icon Xaero](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros))
  - Major performance improvements ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
 
 
