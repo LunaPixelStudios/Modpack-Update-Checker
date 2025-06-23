@@ -1,0 +1,34 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication) (by unascribed)
+ - Added [Mandala's GUI - Dark mode - Utopia extension](https://www.curseforge.com/minecraft/texture-packs/mandala-gui-dark-mode-utopia-extension) (by Arp_sys)
+ - Added [Better World Loading](https://www.curseforge.com/minecraft/mc-mods/better-world-loading-fabric) (by h1ggsk)
+ - Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - Added [Icon Xaero](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros) (by godkyo98)
+ - Removed Too Fast (Replaced)
+ - Updated 33 mods
+
+
+Config Changes
+ - Configured Fabrication to enable hundreds of small game tweaks. If you would like to see everything that was changed, you can press escape ingame, click “Mods”, and search “Fabrication”. Click on it, and on the bottom left click Config.
+ - Reverted the FallingTree config to how it was before, where breaking one log block breaks the entire tree instantly, due to mass user confusion
+ - Enabled ClientSort clickable sort buttons
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+ - Set JEI ingredient list rows to 20
+ - Reduced the amount of Arrow and Shulker slots by 2 and updated the shulker quest accordingly
+ - Reduced the amount of Hand and Charm slots by 1
+ - Accessorify overlay now shows in middle of screen
+ - Euphoria Patches no longer gives warnings on the main menu
+ - Added hover tooltips to the buttons on the main menu
+ - Disabled the Compass and Recovery Compass accessories, as Xaeros Minimap makes these irrelevant
+ - Disabled text background of Accessorify overlays
+
+
+Updates
+ - Major performance improvements ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+
+
+Fixes
+ - Villages spawning very rarely ([Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement))
+ - Maps in item frames not loading for other players in multiplayer ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
