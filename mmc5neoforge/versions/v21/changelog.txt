@@ -1,0 +1,32 @@
+# **[Content Update]**
+
+## Mod Changes
+
+ - 🟢 Added [IceAndFire Community Edition](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce) (by IAFEnvoy)
+ - 🟢 Added [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) (by bobmowzie)
+ - 🟢 Added [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) (by cesarzorak)
+ - 🟢 Added [Tide](https://www.curseforge.com/minecraft/mc-mods/tide) (by Lightning64)
+ - 🟢 Added [Nether Depths Upgrade](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade) (by scouter567)
+ - 🟢 Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - 🔵 Updated 64 mods
+
+
+### Config Changes
+
+ - More small mobs can now be placed into Supplementaries jars
+ - More small mobs and all baby mobs can be placed into Supplementaries cages, and won't despawn once caged
+ - Added mob levels for Mowzie's Mobs and Ice and Fire
+ - Potion Charms now only work when equipped in a Charm slot
+
+
+### Updates
+
+ - Added Excalibur texture support for double cakes
+
+
+### Fixes
+
+ - Item duplication/player data issues when trying to collect a grave with certain accessories equipped
+ - Item duplication bug with backpacks
+ - Broken GUI textures with Minecolonies
+ - Crash when casting Flaming Strike
