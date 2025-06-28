@@ -2,8 +2,6 @@
 Mod Changes
  - Added [Mowzies Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) (by bobmowzie)
  - Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
- - Added [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (by SHsuperCM)
- - Added [CITResewnNeoPatcher](https://www.curseforge.com/minecraft/mc-mods/cit-resewn-neopatcher) (by hiword9)
  - Updated 19 mods
 
 
@@ -15,8 +13,6 @@ Config Changes
  - Disabled the Compass and Recovery Compass accessories, as Xaeros Minimap makes these irrelevant
  - Disabled text background of Accessorify overlays
  - Hid the ClientSort buttons in the Accessories menu
- - Fixed enchanted books not having custom CIT textures
-
 
 Updates
  - The clickable sort buttons, alongside everything in the Accessories menu, now has full parity with the Mandalas GUI resourcepack ([Mandala's GUI - Dark Mode Mod Compatibility](https://www.curseforge.com/minecraft/texture-packs/unofficial-mandalas-gui-dark-mode-mod))
