@@ -1,0 +1,35 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Forgery](https://www.curseforge.com/minecraft/mc-mods/forgery) (by unascribed)
+ - Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - Added [Better World Loading ](https://www.curseforge.com/minecraft/mc-mods/better-world-loading-forge) (by h1ggsk)
+ - Removed [Liberty's Villagers](https://www.curseforge.com/minecraft/mc-mods/libertys-villagers) (Broke many villager farms and caused crash with Frostmaw boss)
+ - Removed [Boat Item View ](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge) (Replaced)
+ - Removed [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) (Replaced)
+ - Updated 25 mods
+
+
+Config Changes
+ - Configured Forgery to enable hundreds of small game tweaks. If you would like to see everything that was changed, you can press escape ingame, click “Mods”, and search “Forgery”. Click on it, and on the bottom left click Config.
+ - Reverted the FallingTree config to how it was before, where breaking one log block breaks the entire tree instantly, due to mass user confusion
+ - Enabled ClientSort clickable sort buttons
+ - Added a quest for defeating Tongbi, the Sculptor
+ - Added hover tooltips to the buttons on the main menu
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+ - JEI's ingredient list now occupies 20 rows instead of 16
+ - Fixed game window having no image
+ - Fixed crash with the Supplementaries sliding block
+ - Euphoria Patches no longer gives warnings on the main menu
+ - Disabled Quark Easy Transfering in favor of ClientSort
+
+Updates
+ - Major performance improvements ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Added compatibility with more mob icons ([Icon Xaero's](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros))
+ - Improved loot generation for modded items ([Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations))
+
+
+Fixes
+ - Villages being abnormally rare ([Improved Village Placement](https://www.curseforge.com/minecraft/mc-mods/improved-village-placement))
+ - Random crashes when reaching the main menu ([Server Browser](https://www.curseforge.com/minecraft/mc-mods/server-browser))
+ - Maps in item frames not loading for other players in multiplayer ([Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames))
