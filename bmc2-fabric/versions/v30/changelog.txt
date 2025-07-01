@@ -1,0 +1,24 @@
+[Minor Update]
+Mod Changes
+ - Added [Accessorify](https://www.curseforge.com/minecraft/mc-mods/accessorify) (by pajic)
+ - Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
+ - Updated 16 mods
+
+
+Config Changes
+ - Added quests for the Accessorify mod and updated the description of the Seasons Calendar
+ - Vein mining now works on all blocks, not just ores
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+ - Offset the Nature's Compass overlay by 15 to not overlay with Accessorify or any FPS overlays
+
+
+Updates
+ - Added new Ancient Ruin structure ([Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins))
+ - Added a new song called Rivers of Honey that will play randomly in the dimension and has a music disc ([The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
+ - There is now a saddle recipe and saddles in loot tables have been replaced with 1-5 leather ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+
+
+Fixes
+ - White Puffball not growing over time ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
+ - Buttons staying highlighted after completion of an action ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort)
