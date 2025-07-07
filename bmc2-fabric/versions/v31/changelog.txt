@@ -1,0 +1,11 @@
+[Minor Update]
+  Mod Changes
+ - Removed [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/minecraft/mc-mods/geckoanimfix) (No longer needed)
+ - Updated 14 mods
+
+
+Config Changes
+ - Changed several button titles and tooltips on the escape menu & main menu to improve clarity
+
+Fixes
+- Snow Real Magic preventing users from joining servers
