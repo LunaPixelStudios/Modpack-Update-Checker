@@ -1,0 +1,48 @@
+# [Quests Update]
+
+## Mod Changes
+
+ - 🟢 Added [What's Your Build](https://www.curseforge.com/minecraft/mc-mods/whats-your-build) (by Clefal15)
+ - 🟢 Added [Tide](https://www.curseforge.com/minecraft/mc-mods/tide) (by Lightning64)
+ - 🟢 Added [Eden Ring Reforked](https://www.curseforge.com/minecraft/mc-mods/eden-ring-reforked) (by ErzeKawek)
+ - 🟢 Added [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere) (by orcinus73)
+ - 🟢 Added [ANARCHY - RPG Trials & Minibosses](https://www.curseforge.com/minecraft/mc-mods/rpg-minibosses-forsaken-adventurers) (by cleannrooster)
+ - 🟢 Added [It Takes a Pillage Continuation](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-continuation) (by Faboslav)
+ - 🟢 Added [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods) (by itsmeowdev)
+ - 🟢 Added [True Ending ~ Ender Dragon Overhaul](https://www.curseforge.com/minecraft/mc-mods/true-ending) (by limesplatus)
+ - 🟢 Added [Accessorify](https://www.curseforge.com/minecraft/mc-mods/accessorify) (by pajic)
+ - 🟢 Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - 🟢 Added [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) (by terrariumearth)
+ - 🟢 Added [Nether Depths Upgrade](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade) (by scouter567)
+ - 🟢 Added [Biolith](https://www.curseforge.com/minecraft/mc-mods/biolith) (by Prospector)
+ - 🟢 Added [Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects) (by LopyTwich)
+ - 🟢 Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - 🟢 Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
+ - 🔴 Removed [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover) (Incompatible with Accessories)
+ - 🔴 Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) (Replaced)
+ - 🔴 Removed [MC Dungeons Artifacts](https://www.curseforge.com/minecraft/mc-mods/mcdar) (Various issues)
+ - 🔴 Removed [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/minecraft/mc-mods/geckoanimfix) (No longer needed)
+ - 🔴 Removed [Elytra Slot ](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) (Replaced)
+ - 🔴 Removed [Spyglass Improvements Zoom, Quick Access... [Fabric/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements) (Replaced)
+ - 🔵 Updated 32 mods
+
+
+### Config Changes
+
+ - Huge revamp to the questbook! Designs on every page, new tutorial chapters, and improvements to almost every quest.
+ - Moved Aether Accessories into the main Accessories menu - **REMOVE YOUR AETHER ACCESSORIES BEFORE UPDATING**!
+ - Increased the XP capacity of Archon experience pouches by ~2x
+ - Buffed Dragon Chestplate (10->12 armor), Dragon Leggings (9->10 armor), Dragon Swords (8 -> 10 damage)
+ - Decreased the spawn weight of Kobolds, disabled Kobold item stealing
+ - Made structures slightly more common overall
+ - Adjusted the recipe for Scorchful's Waterskin, now requires a nether star
+ - Moved Nature's Compass overlay to prevent conflict wtih Jade
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+
+
+### Fixes
+
+ - Overworld having random patches of `deferred_placeholder` biomes
+ - Arrows freezing midair when hitting a player, instead of dealing damage
+ - Crash with Supplementaries sliding blocks
