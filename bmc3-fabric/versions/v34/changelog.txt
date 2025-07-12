@@ -1,0 +1,27 @@
+[Content Update]
+Mod Changes
+ - Added [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) (Replaced)
+ - Removed [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/minecraft/mc-mods/geckoanimfix) (No longer needed)
+ - Updated 40 mods
+
+
+Config Changes
+ - The Nether Ruby pickaxe can no longer be crafted, as it would cause the game to crash. The item can still be found in chests as that will not crash you
+ - Offset the Nature's Compass overlay by 15 to not overlap with Jade or any FPS overlays
+ - Enabled Structure Essentials automatic biome compatibility
+ - Changed several button titles and tooltips on the escape menu & main menu to improve clarity
+
+
+Updates
+ - Saddles can now be crafted ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Enchantments from Charm Forked now have descriptions ([Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions-compat))
+ - Skeletons no longer attack as fast ([Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix))
+ - Re-designed the XP bar texture ([Mandala's GUI](https://www.curseforge.com/minecraft/mc-mods/mandalas-gui-dark-mode))
+
+
+Fixes
+ - Bundles crashing when opened ([Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication))
+ - Crashes related to the Illusioner and the Totem of Illusion ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes))
+ - JEI overlapping with some menu elements ([Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric))
