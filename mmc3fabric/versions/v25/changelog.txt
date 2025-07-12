@@ -1,0 +1,32 @@
+# **[Mana Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - 🟢 Added [RPGMana ](https://www.curseforge.com/minecraft/mc-mods/rpgmana) (by cleannrooster)
+ - 🟢 Added [More Relics ](https://www.curseforge.com/minecraft/mc-mods/more-relics-more-rpg-content) (by Fichteee)
+ - 🟢 Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - 🟢 Added [Basic Skill Sets](https://www.curseforge.com/minecraft/mc-mods/basic-skill-sets) (by cleannrooster)
+ - 🟢 Added [Dungeons Dragon](https://www.curseforge.com/minecraft/mc-mods/dungeons-dragon) (by cleannrooster)
+ - 🟢 Added [Nether Depths Upgrade](https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade) (by scouter567)
+ - 🟢 Added [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) (by MrCrayfish)
+ - 🟢 Added [Medieval Buildings [Nether Edition]](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-nether-edition) (by Lupin)
+ - 🟢 Added [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman) (by mortuusars)
+ - 🔴 Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) (Replaced)
+ - 🔵 Updated 33 mods
+
+
+### Config Changes
+
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+ - Bosses from BOMD can now drop Simply Swords Uniques
+ - Default player mana set to 20
+
+
+### Updates
+
+ - You can now wash the wither out of a skeleton (Supplementaries)
+ - Fixed several AI issues and client crashes (IceAndFire: CE)
+ - Fixed a duplication bug (Traveler's Backpack)
+ - Unique weapons are now obtainable again (Simply Swords)
