@@ -1,0 +1,11 @@
+## Hotfix
+
+**REMOVE YOUR AETHER ACCESSORIES BEFORE UPDATING** - Or they will be deleted!
+
+**CLAIM YOUR BASE WITH FTB CHUNKS BEFORE UPDATING** - If it was a generated structure, it may be automatically regenerated if you don't!
+
+(And as always, back up your world!)
+
+- Downgraded Excalibur and Clarent by one version - fixes some items having strange textures
+- Disabled Survive food spoiling - fixes foods not being stackable
+- Updated 3 Mods
