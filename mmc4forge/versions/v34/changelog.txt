@@ -1,0 +1,41 @@
+# **[Compatibility Update]**
+
+## Mod Changes
+
+ - 🟢 Added [T.O Magic 'n Extras - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells) (by GameTechBC)
+ - 🟢 Added [Dungeons And Combat x Iron's Spells](https://www.curseforge.com/minecraft/mc-mods/dungeons-and-combat-x-irons-spells) (by skydude_)
+ - 🟢 Added [Tide](https://www.curseforge.com/minecraft/mc-mods/tide) (by Lightning64)
+ - 🟢 Added [Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay) (by Dooji)
+ - 🟢 Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - 🟢 Added [Pathfinding Edition For Minecolonies](https://www.curseforge.com/minecraft/mc-mods/pathfinding-edition-for-minecolonies) (by ARxyt)
+ - 🟢 Added [Compatibility addon for MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies-compatibility) (by gisellevonbingen)
+ - 🟢 Added [Better World Loading ](https://www.curseforge.com/minecraft/mc-mods/better-world-loading-forge) (by h1ggsk)
+ - 🟢 Added [Tweaks addon for MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies-tweaks) (by supernover0102)
+ - 🟢 Added [True Ending ~ Ender Dragon Overhaul](https://www.curseforge.com/minecraft/mc-mods/true-ending) (by limesplatus)
+ - 🟢 Added [Particle Effects Reforged](https://www.curseforge.com/minecraft/mc-mods/particle-effects-reforged) (by Project8gbDeRam)
+ - 🟢 Added [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) (by MacTso)
+ - 🟢 Added [SmallColonies for Minecolonies](https://www.curseforge.com/minecraft/mc-mods/smallcolonies) (by Thaylar)
+ - 🔴 Removed [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/minecraft/mc-mods/geckoanimfix) (No longer needed)
+ - 🔴 Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) (Replaced)
+ - 🔵 Updated 45 mods
+
+
+### Config Changes
+
+ - Lowered number of JEI ingredient rows to 20
+ - Small tweaks to questbook design
+ - More structures are now regeneratable by default
+ - All small mobs can now fit inside cages, including any baby mob, and mobs released from cages will never despawn
+ - All very small mobs can now fit inside jars
+ - Merged Aether curios into the main Curios menu. **Remove your Aether accessories before updating!**
+
+
+### Updates
+
+ - Added initial release of **Automatic Structure Regeneration** - The first time you visit most dungeons, they will be regenerated (unless other players are currently inside). Does not work if the structure contains any claimed chunks
+ - Added the **Wayfinder's Medallion**, an item which is NOT consumable (unlike Challenge Orbs), and can be used to trigger your free one-time regeneration of a dungeon, even if it has been recently looted.
+
+![img](https://media.forgecdn.net/attachments/1223/838/image_2025-06-18_071423949-png.png)
+![img](https://raw.githubusercontent.com/LopyMine/Particle-Effects/refs/heads/master/img/banner.webp)
+![img](https://media.forgecdn.net/attachments/1143/591/2025-03-30_16-4911-jpg.jpg)
+![img](https://i.imgur.com/2vUJGN7.png)
