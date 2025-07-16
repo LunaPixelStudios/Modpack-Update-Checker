@@ -1,0 +1,30 @@
+# **[Content Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - 🟢 Added [Burnt Better Vanilla Fire](https://www.curseforge.com/minecraft/mc-mods/burnt) (by pxlbnk)
+ - 🟢 Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - 🟢 Added [Simply Swords [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/simply-swords) (by sweenuss)
+ - 🟢 Added [Armor Damage Limit](https://www.curseforge.com/minecraft/mc-mods/armor-damage-limit) (by hakujoucho)
+ - 🟢 Added [Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix) (by WFPhantom)
+ - 🟢 Added [Dark Window Bar](https://www.curseforge.com/minecraft/mc-mods/dark-window-bar) (by Txni)
+ - 🔴 Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge) (Replaced)
+ - 🔴 Removed [T.O Magic 'n Extras - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells) (Crashing + Unfinished on 1.21.1)
+ - 🔵 Updated 76 mods
+
+
+### Config Changes
+
+ - Villagers are now less likely to react negatively to stealing from chests, and won't react to breaking beds
+ - Village guards will now only attack the player while at absolute minimum reputation
+
+
+### Updates
+
+ - Added Excalibur texture support for Vanilla Backport!
+
+![img](https://media.forgecdn.net/attachments/966/160/housefire.jpg)
+![img](https://media.forgecdn.net/attachments/1235/989/50-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1235/994/55-jpg.jpg)
+![img](https://i.imgur.com/iduZbq5.png)
