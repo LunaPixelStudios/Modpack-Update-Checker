@@ -1,0 +1,25 @@
+[Stability Update]
+Mod Changes
+ - Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - Added [Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix) (by Fuzs)
+ - Added [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) (by MacTso)
+ - Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) (Replaced)
+ - Removed [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/minecraft/mc-mods/geckoanimfix) (No longer needed)
+ - Updated 28 mods
+
+
+Config Changes
+ - Disabled Forge version checking to improve startup times and reduce network usage
+ - Changed several button titles and tooltips on the escape menu & main menu to improve clarity
+ - Mowzie’s Mobs nagas will spawn again, but only on Stony Shores to make their drops obtainable but still prevent overspawning
+
+
+Updates
+ - Added Blackstone Waystone, End Stone Waystone and Deepslate Waystone ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))
+ - Retextured the XP bar ([Mandala's GUI](https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-dark-mode))
+
+
+Fixes
+ - Shotgun Pellets depleating unusual amount of durability from armor ([Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion))
+ - Roots not being plantable on wart blocks ([Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion))
+ - Certain entities (e.g., Void Runes) would attack tamed pets ([L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm))
