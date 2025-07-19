@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "Beta v3",
+      "releasedAt": 1726615315000,
+      "updateType": "minor_breaking"
+    }
+  ]
+}
