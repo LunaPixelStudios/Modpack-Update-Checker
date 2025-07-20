@@ -1,0 +1,17 @@
+[Minor Update]
+Mod Changes
+ - Added [Abridged](https://www.curseforge.com/minecraft/mc-mods/abridged) (by Celestium)
+ - Removed [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) (Replaced)
+ - Updated 22 mods
+
+
+Config Changes
+ - Disabled ModMenu update checking for a small performance boost
+
+
+Updates
+ - Skeletons no longer attack super fast ([Skeleton AI Fix](https://www.curseforge.com/minecraft/mc-mods/skeleton-ai-fix))
+
+
+Fixes
+ - Rare crash when many slabs were placed on Singleplayer ([KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs))
