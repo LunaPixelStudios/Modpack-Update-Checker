@@ -1,0 +1,2 @@
+Hotfix:
+- Fixed Mowzies Mobs nagas spawning in all biomes, instead of only spawning on Stony Shores
