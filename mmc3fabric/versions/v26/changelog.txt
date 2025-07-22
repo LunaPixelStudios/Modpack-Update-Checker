@@ -1,0 +1,25 @@
+# **[Visual Update]**
+
+## Mod Changes
+
+ - 🟢 Added [What's Your Build](https://www.curseforge.com/minecraft/mc-mods/whats-your-build) (by Clefal15)
+ - 🟢 Added [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) (by Clefal15)
+ - 🔵 Updated 38 mods
+
+
+### Config Changes
+
+ - Sleeping in village beds is no longer considered a crime
+ - Villagers now have to be much closer to players to catch them committing a crime
+ - Increased the threshold for negative reputation before village guards attack the player on-sight
+
+
+### Updates
+
+ - When a player loses health, stamina, or mana, that chunk of the bar will fade smoothly instead of disappearing abruptly.
+ - Added Excalibur Texture Support for Vanilla Backport and Eternal Nether (Thanks Ruseki!)
+ - Retextured many new items, thanks to KrimsonCinder and thyreo (Mythic Metals)
+ - Added Starfire birds, and two new weapon/tool materials: Flowglaze and Starlight (Eternal Starlight)
+ - Update Spell Book & Scrolls Textures (Witcher RPG)
+ - Replaced Aard/Axii/Igni/Yrden/Quen intensity enchantments with a single enchantment "Sign Intensity" (Witcher RPG)
+ - Increased the attack range of Witcher swords (Witcher RPG)
