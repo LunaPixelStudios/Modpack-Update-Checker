@@ -1,0 +1,16 @@
+# **[Stealth Update]**
+
+## Mod Changes
+ - 🟢 Added [Hearth and Harvest](https://www.curseforge.com/minecraft/mc-mods/hearth-and-harvest) (by AlabasterLeking)
+ - 🟢 Added [What's Your Build](https://www.curseforge.com/minecraft/mc-mods/whats-your-build) (by Clefal15)
+ - 🟢 Added [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) (by Clefal15)
+ - 🔵 Updated 32 mods
+
+
+### Updates
+
+ - Added Excalibur Texture support for Eternal Nether (thanks Ruseki!)
+ - Added Wizard armorset. Has interchangeable hood/hat variants for the helmet.
+ - All Arcane Cloth armors are now crafted from the Wizard set using a smithing table
+ - Reworked the summon system, summon spells now use the recast bar, which will unsummon the mob. Buffed most summon spells to compensate.
+ - Revamped the mob stealth system! Armor makes sound when walking, armor pieces have weights that change their volume, and mobs have different levels of vision/sight based on type.
