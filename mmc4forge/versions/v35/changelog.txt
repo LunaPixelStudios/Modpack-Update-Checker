@@ -1,0 +1,24 @@
+# **[Bugfix Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Vanilla Backport Chase the Skies, The Garden Awakens](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - 🟢 Added [Corpse x Curios API Compat](https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat) (by Project8gbDeRam)
+ - 🟢 Added [Obscure Tooltips Fix](https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips-fix) (by Cadentem)
+ - 🔵 Updated 41 mods
+
+
+### Updates
+
+ - Fixed crash with Minecolonies Cook Workstation
+ - Added more Excalibur Textures for Eidolon and Dungeons and Combat (thanks A_Shfox!)
+ - Added Excalibur Textures for Vanilla Backport and Illager Invasion (thanks Ruseki!)
+ - Fixed some mana perks in the Skill Tree not working properly
+ - Fixed Survive purified water not being drinkable from a Traveler's Backpack
+ - Drinking purified water from a Traveler's Backpack now drains only a bottle's worth of water, instead of a bucket.
+ - Fixed Traveler's Backpack crafting not receiving Skill Tree bonuses
+ - Fixed Apotheosis gems providing boosts to the wrong mana attribute
+
+![img](https://media.forgecdn.net/attachments/1235/994/55-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1235/989/50-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/description/null/description_1bd427bd-aad6-44f4-ab24-2bfd7233cc59.gif)

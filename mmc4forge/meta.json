@@ -112,6 +112,11 @@
       "id": "v34 HF",
       "releasedAt": 1752563988001,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v35",
+      "releasedAt": 1754015468000,
+      "updateType": "minor_breaking"
     }
   ]
 }
