@@ -1,0 +1,19 @@
+[Stability Update]
+Mod Changes
+ - Added [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix) (by ascpixi)
+ - Updated 47 mods
+
+
+Config Changes
+ - Removed the Accessories arrow slot due to it causing issues with quivers
+
+
+Updates
+ - Added five new structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Adjusted loot tables for all structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Buntings can now be placed on walls and ceilings ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+
+
+Fixes
+ - Crash with the Inventory Proxy ([Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage))
+ - Hid the page down button in the accessories menu as it'd crash the game ([Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories))
