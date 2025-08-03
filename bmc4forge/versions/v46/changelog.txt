@@ -1,0 +1,15 @@
+[Minor Update]
+Mod Changes
+ - Added [Supplementaries Compat](https://www.curseforge.com/minecraft/data-packs/supplementaries-compat) (by Cyber_Rat)
+ - Added [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina) (by bawnorton)
+ - Updated 13 mods
+
+
+Updates
+ - Added five new structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Adjusted loot tables for all structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+
+
+Fixes
+ - Deepslate and some variants of waystones being impossible to pick up, teleport to, or break ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))
+ - Rare crash when a Guard Villagers dies with armor equipped ([Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers))
