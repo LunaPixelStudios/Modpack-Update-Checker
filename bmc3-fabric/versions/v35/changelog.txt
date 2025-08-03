@@ -1,0 +1,23 @@
+[Exploration Update]
+Mod Changes
+ - Added [Supplementaries Compat](https://www.curseforge.com/minecraft/data-packs/supplementaries-compat) (by Cyber_Rat)
+ - Added [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix) (by ascpixi)
+ - Updated 41 mods
+
+
+Config Changes
+ - Removed the Accessories arrow slot due to it causing issues with quivers
+
+
+Updates
+ - Added many small features to deserts, such as dead trees, pebbles, fossils, geysers, and more ([Unnamed Desert](https://www.curseforge.com/minecraft/mc-mods/unnamed-desert))
+ - Added five new structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Villager raids started in cold biomes will now have Chillagers and Frostologers instead of Pillagers and Evokers ([Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful))
+ - Adjusted loot tables for all structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Buntings can now be placed on walls and ceilings ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+
+
+Fixes
+ - Invalid enchants being found in some chests ([Random Enchant Fix](https://www.curseforge.com/minecraft/mc-mods/random-enchant-fix))
+ - Crash with inventory proxies ([Tom's Simple Storage Mod ](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric))
+ - Rare startup crash on some systems ([FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu))
