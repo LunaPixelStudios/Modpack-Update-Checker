@@ -6,7 +6,8 @@ Mod Changes
 
 
 Config Changes
- - Removed the Accessories arrow slot due to it causing issues with quivers
+- Vein mining now works on all blocks and can be activated by holding down the Z button
+- Removed the Accessories arrow slot due to it causing issues with quivers
 
 
 Updates
