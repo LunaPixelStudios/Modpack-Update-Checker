@@ -1,0 +1,27 @@
+[Compatibility Update]
+Mod Changes
+ - Added [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) (by baarondones)
+ - Added [Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx) (by gayaslily)
+ - Added [Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) (by L200)
+ - Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+ - Added [Deeper and Darker to Cataclysm Progression](https://www.curseforge.com/minecraft/mc-mods/deeper-and-darker-to-cataclysm-progression) (by PinkMT)
+ - Added [Repurposed Structures - Sawmill Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-sawmill-compat) (by telepathicgrunt)
+ - Added [Repurposed Structures - Illager Invasion Compat](https://www.curseforge.com/minecraft/data-packs/repurposed-structures-illager-invasion-compat) (by Glitchtopher)
+ - Updated 10 mods
+
+
+Config Changes
+ - Added clarification in the questbook for how to hatch a dragon egg
+ - Fixed Icon Xaeros resourcepack being disabled, causing custom mobs to not have icons on the minimap
+ - Aether items with abilities now have explanatory tooltips
+ - The dragon quest category's icon no longer alternates between several images
+
+
+Updates
+ - Added Dragon Charges ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Fire charges can now be thrown ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Ghast fireballs now set more blocks and mobs on fire ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+
+
+Fixes
+ - Many decoration/wooden blocks being uncraftable ([Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat))
