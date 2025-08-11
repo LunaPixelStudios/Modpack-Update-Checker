@@ -1,0 +1,28 @@
+[Compatibility Update]
+Mod Changes
+ - Added [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) (by baarondones)
+ - Added [Supplementaries Compat](https://www.curseforge.com/minecraft/mc-mods/supplementaries-compat) (by Cyber_Rat)
+ - Added [Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx) (by gayaslily)
+ - Added [Repurposed Structures - Sawmill Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-sawmill-compat) (by telepathicgrunt)
+ - Added [Repurposed Structures - Illager Invasion Compat](https://www.curseforge.com/minecraft/data-packs/repurposed-structures-illager-invasion-compat) (by Glitchtopher)
+ - Added [Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) (by L200)
+
+
+Config Changes
+ - Aether items with abilities now have explanatory tooltips
+ - Fixed Void Shadow quest sometimes not completing
+
+
+Updates
+ - Added five new structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Added Dragon Charges ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Added support for many more slabs ([KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs))
+ - Improved the description for the My Nether's Delight poaching enchant ([Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/texture-packs/enchantment-descriptions-compat))
+ - Fire charges can now be thrown ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Villager raids started in cold biomes will now have Chillagers and Frostologers instead of Pillagers and Evokers ([Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful))
+ - Adjusted loot tables for all structures ([Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld))
+ - Ghast fireballs now set more blocks and mobs on fire ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+
+
+Fixes
+ - Tall Beach and Prairie Grass dropping two tall grass instead of normal grass ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
