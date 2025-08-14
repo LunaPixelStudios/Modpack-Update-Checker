@@ -1,0 +1,56 @@
+# **[Bosses Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Bosses'Rise ](https://www.curseforge.com/minecraft/mc-mods/bossesrise) (by blockfactorystudio)
+ - 🟢 Added [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix) (by ascpixi)
+ - 🟢 Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+ - 🔴 Removed [TerraBlenderFix](https://www.curseforge.com/minecraft/mc-mods/terrablenderfix) (Many incompatibilities)
+ - 🔵 Updated 71 mods
+
+
+### Config Changes
+
+ - Lowered the max level of Backstabbing (8 -> 4)
+ - Lowered the max level of all Protection enchants (8-11 -> 5)
+ - Renamed Ars Nouveau Spell Power -> Source Potency
+ - Disabled Spell Power "unification" between Ars and Irons
+ - Greatly reduced the amount of armor high level bosses have
+ - Added mob levels and quests for Bosses'Rise
+ - Blacklisted villagers, traders, and most bosses from dropping spawn eggs with Capturing
+ - Lowered the spawn weight of Mutant mobs (0.05 -> 0.01)
+ - Warlord gems are now unique
+ - Lowered crit chance on Samurai gems (50% -> 25%)
+ - Lowered crit damage on Warlord gems (70% -> 50%)
+ - Lowered crit chance from affixing (55% -> 25%)
+ - Increased crit damage from affixing (40% -> 50%)
+ - Vein mining now works on any block, not just ores (still requires the Vein Mining enchantment)
+ - Several nerfs/adjustments to Reliquified Twilight Forest's Lich Crown gems
+ - Buffed Dragongsteel weapons (9 base damage -> 13 base damage)
+
+
+### Updates
+
+ - Familiars Rework -  completely overhauled the summoning system, added a new Frostling familiar, and much more! (Alshanex's Familiars)
+ - Added Excalibur textures for Bosses'Rise and Realm RPG | Fallen Adventurers, updated Excalibur textures for Amendments, Friends&Foes, Illager Invasion, Vanilla Backport (Thanks Ruseki!)
+ - Updated Excalibur textures for Apotheosis and Mutant Monsters (Thanks BoFill_Pablito!)
+ - Buffed the spell power bonus on many gems
+ - Added Spell Trigger affixes (cast spells automatically on-hit/on-heal/on-damage taken)
+ - Added Mana Cost reduction affixes (for individual schools - weapons only)
+ - Spellbooks can now receive affixes and gem scokets (slightly fewer than staves)
+ - Added Peanut Butter Pie and Roasted Peanuts (Hearth and Harvest)
+
+
+### Fixes
+
+ - Nether Forests not generating properly
+ - Grass/Gravel blocks appearing throughout desert biomes
+ - Fireblossom being unobtainable
+ - A few affixes being assigned to the wrong category
+ - Random crash when killing mobs while using the Poaching enchantment
+ - All generic Spell Power bonuses being far weaker than intended
+
+![img](https://media.forgecdn.net/attachments/1268/774/desc_sandworm-png.png)
+![img](https://media.forgecdn.net/attachments/1268/740/desc_knight-png.png)
+![img](https://media.forgecdn.net/attachments/1268/739/desc_dragon-png.png)
+![img](https://media.forgecdn.net/attachments/1276/74/blend_ba1-png.png)
