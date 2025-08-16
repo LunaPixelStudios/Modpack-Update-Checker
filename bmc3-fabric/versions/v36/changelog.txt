@@ -1,0 +1,22 @@
+[Compatibility Update]
+Mod Changes
+Added [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) (by baarondones)
+Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+Added [Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements) (by NamelessJu)
+Added [Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx) (by gayaslily)
+Added [Modded Omelet - Modern Spawn Eggs](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) (by L200)
+Added [Repurposed Structures - Illager Invasion Compat](https://www.curseforge.com/minecraft/data-packs/repurposed-structures-illager-invasion-compat) (by Glitchtopher)
+Updated 20 mods
+
+
+Config Changes
+ - Aether items with abilities now have explanatory tooltips
+
+
+Updates
+ - Added compatibility with more mods ([KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs))
+
+
+Fixes
+ - Carpets and other random blocks sometimes appearing floating in the sky ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Loot table names sometimes appearing with underscores in the name ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
