@@ -4,7 +4,7 @@ Mod Changes
  - Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
  - Added [Supplementaries Compat](https://www.curseforge.com/minecraft/mc-mods/supplementaries-compat) (by Cyber_Rat)
  - Added [Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements) (by NamelessJu)
- - Added Repurposed Structures - Illager Invasion Compat (by Glitchtopher)
+ - Added [Repurposed Structures - Illager Invasion Compat](https://www.curseforge.com/minecraft/data-packs/repurposed-structures-illager-invasion-compat) (by Glitchtopher)
  - Added [Modded Omelet - Modern Spawn Eggs](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) (by L200)
  - Updated 28 mods
 
