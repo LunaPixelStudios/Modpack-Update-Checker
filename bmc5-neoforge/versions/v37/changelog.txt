@@ -1,0 +1,26 @@
+[Compatibility Update]
+Mod Changes
+ - Added [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) (by baarondones)
+ - Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+ - Added [Supplementaries Compat](https://www.curseforge.com/minecraft/mc-mods/supplementaries-compat) (by Cyber_Rat)
+ - Added [Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements) (by NamelessJu)
+ - Added Repurposed Structures - Illager Invasion Compat (by Glitchtopher)
+ - Added [Modded Omelet - Modern Spawn Eggs](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) (by L200)
+ - Updated 28 mods
+
+
+Config Changes
+ - Aether items with abilities now have explanatory tooltips
+
+
+Updates
+ - Redesigned the server browser menu ([Server Browser](https://www.curseforge.com/minecraft/mc-mods/server-browser))
+ - The player can now swim in water while riding mounted mobs from the Aether ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+ - Statue poses of copper golems can now be changed by right clicking ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Added compatibility with more mods ([KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs))
+
+
+Fixes
+ - Rare startup crash ([Server Browser](https://www.curseforge.com/minecraft/mc-mods/server-browser))
+ - Carpets and other random blocks sometimes appearing floating in the sky ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Loot table names sometimes appearing with underscores in the name ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
