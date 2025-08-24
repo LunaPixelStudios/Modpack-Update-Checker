@@ -1,0 +1,34 @@
+[Stability Update]
+Mod Changes
+ - Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - Added [Corpse x Curios API Compat](https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat) (by Project8gbDeRam)
+ - Added [Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements) (by NamelessJu)
+ - Added [Aether Addon Treasure Reforging](https://www.curseforge.com/minecraft/mc-mods/aether-treasure-reforging) (by TheAetherTeam)
+ - Added [MES - Biomes O' Plenty Compat Pack](https://www.curseforge.com/minecraft/data-packs/mes-biomes-o-plenty-compat-pack) (by finndog_123)
+ - Added [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) (by Maxence)
+ - Removed [Sparse Structures Reforged](https://www.curseforge.com/minecraft/mc-mods/ssr) (Replaced)
+ - Updated 16 mods
+
+
+Config Changes
+ - Fixed the bug that caused dispensers with eggs inside to drop the egg item instead of shooting the egg projectile. If it still does not work, make sure you are using a dispenser and not a dropper
+ - Fixed changelog text on main menu not lining up with Mojang copyright text
+ - The quest for Entering the Otherside no longer depends on Crafting a Warden Helmet, as users did not understand that there was a dependency
+
+
+Updates
+ - Added 7 new ship structures to The End ([MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures))
+ - Added compatibility with more mods ([KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs))
+ - Goblins will now occasionally sit on the ground ([Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders))
+ - Goblins are now more animated when reacting to their favorite food ([Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders))
+ - Fireballs/snowballs that touch water/fire will now be extinguished ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Added textures for the new waystones (Fresh Waystone Texture)
+
+
+Fixes
+ - Mob griefing gamerule not preventing creeper explosions ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Carpets and other random blocks sometimes appearing floating in the sky ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Rare crash when trading with a villager ([Forgified Fabric API](https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api))
+ - Goblins still despawning when put into a boat or nametagged ([Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders))
+ - Many memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Water spear not despawning ([L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm))
