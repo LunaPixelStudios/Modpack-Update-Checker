@@ -1,0 +1,22 @@
+[Stability Update]
+Mod Changes
+ - Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - Updated 10 mods
+
+
+Config Changes
+ - Fixed the bug that caused dispensers with eggs inside to drop the egg item instead of shooting the egg projectile. If it still does not work, make sure you are using a dispenser and not a dropper
+ - Fixed changelog text on main menu not lining up with Mojang copyright text
+
+
+Updates
+ - Added 7 new ship structures to The End ([MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures))
+ - Thunder and explosion sounds are now delayed based on how far away the sound occured ([Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements))
+ - Fireballs/snowballs that touch water/fire will now be extinguished ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+
+
+Fixes
+ - Mob griefing gamerule not preventing creeper explosions ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Carpets and other random blocks sometimes appearing floating in the sky ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Loot table names sometimes appearing with underscores in the name ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Jukeboxes not making any noise ([Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements))
