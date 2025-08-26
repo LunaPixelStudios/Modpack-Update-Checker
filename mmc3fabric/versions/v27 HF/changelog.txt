@@ -1,0 +1,3 @@
+# Hotfix
+
+- Updated bundled Mixin Extras version to fix a crash
