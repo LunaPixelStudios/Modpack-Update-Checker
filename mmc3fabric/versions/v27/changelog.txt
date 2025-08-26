@@ -1,0 +1,34 @@
+# **[Skill Tree Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Marium's Soulslike Weaponry](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry) (by mariumbacchus)
+ - 🟢 Added [Armory ](https://www.curseforge.com/minecraft/mc-mods/armory-rpg-series) (by daedelus_dev)
+ - 🟢 Added [Skill Tree ](https://www.curseforge.com/minecraft/mc-mods/skill-tree) (by daedelus_dev)
+ - 🟢 Added [Clavis](https://www.curseforge.com/minecraft/mc-mods/clavis) (by SSKirillSS)
+ - 🟢 Added [Kev's Attributes Panel](https://www.curseforge.com/minecraft/mc-mods/kevs-attributes-panel) (by KevzCz)
+ - 🟢 Added [OctoLib](https://www.curseforge.com/minecraft/mc-mods/octo-lib) (by SSKirillSS)
+ - 🟢 Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+ - 🟢 Added [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix) (by ascpixi)
+ - 🟢 Added [Dark Window Bar](https://www.curseforge.com/minecraft/mc-mods/dark-window-bar) (by Txni)
+ - 🟢 Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - 🔴 Removed [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library)
+ - 🔴 Removed [Default Skill Trees](https://www.curseforge.com/minecraft/mc-mods/default-skill-trees)
+ - 🔴 Removed [What's Your Build](https://www.curseforge.com/minecraft/mc-mods/whats-your-build)
+ - 🔵 Updated 99 mods
+
+
+### Updates
+
+ - Added 5 combat skill trees, based on the RPG Series Skill Tree and Elemental Wizards: **Weaponry**, **Archery**, **Entropic Magics**, **Coalescent Magics**, and **Agility**. More to come!
+ - Added a number of custom performance patches, improving performance by ~20%
+ - Power Level on items can now be upgraded in a Smithing Table
+ - Added 7 new ships to the end (Moog's End Structures)
+ - Added new Relic swords, **Azure Wrath**, **Reach of the Damned**, **Iris** (Witcher)
+ - Added new Tier 5 staff, **The Avatar** (Elemental Wizards)
+
+
+### Fixes
+
+ - Java failing to install automatically when using the Server Pack
+ - System icon for the modpack on MacOS being lower resolution than intended
