@@ -1,0 +1,39 @@
+# **[Performance Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Twilight Forest - Aurora Palace Regeared](https://www.curseforge.com/minecraft/data-packs/twilight-forest-aurora-palace-regeared) (by sm644me)
+ - 🟢 Added [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me) (by ishlandmc)
+ - 🟢 Added [Moderately Enough Effect Descriptions ](https://www.curseforge.com/minecraft/mc-mods/moderately-enough-effect-descriptions-meed) (by NeonCranberries)
+ - 🟢 Added [Ace's Spell Utils](https://www.curseforge.com/minecraft/mc-mods/aces-spell-utils) (by Ace_The_Eldritch_King)
+ - 🟢 Added [Better Combat Compat](https://www.curseforge.com/minecraft/data-packs/better-combat-compat) (by Cyber_Rat)
+ - 🟢 Added [EMIffect ](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) (by fzzyhmstrs)
+ - 🟢 Added [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) (by decce)
+ - 🔵 Updated 54 mods
+ - 🔴 Removed Just Enough Effect Descriptions  (Replaced)
+ - 🔴 Removed Burnt: Better Vanilla Fire (Causing slow worldgen)
+
+
+### Config Changes
+
+ - Blacklisted several menus from having middle-click sort functionality or IPN buttons, for potential dupes or lag issues
+ - Nerf spell power bonus from Warlord gems 30% -> 22.5%
+ - Fix Blood Lord gems receiving Holy Spell Power instead of Blood Spell Power
+
+
+### Updates
+
+ - Some dungeons now have increased mob levels, based on the quality of their loot
+ - Added a new structure, Mega Ship (and variants) to The End (Moog's End Structures)
+ - Huge performance improvements from Ice and Fire
+ - Added death animations for all 3 bosses (Bosses'Rise)
+ - Added Sweet Berry Wine, and Crate (Hearth and Harvest)
+ - Updated Excalibur texture support for a few Delight mods
+
+
+### Fixes
+
+ - Creepers, Skeletons and some other mobs not having their damage scaled with World Tier
+
+![img](https://media.forgecdn.net/attachments/928/852/1.png)
+![img](https://media.forgecdn.net/attachments/1296/41/2025-08-21_11-19-43_11zon-png.png)
