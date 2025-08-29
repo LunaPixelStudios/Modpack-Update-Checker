@@ -4,7 +4,6 @@
 
  - 🟢 Added [Twilight Forest - Aurora Palace Regeared](https://www.curseforge.com/minecraft/data-packs/twilight-forest-aurora-palace-regeared) (by sm644me)
  - 🟢 Added [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me) (by ishlandmc)
- - 🟢 Added [Moderately Enough Effect Descriptions ](https://www.curseforge.com/minecraft/mc-mods/moderately-enough-effect-descriptions-meed) (by NeonCranberries)
  - 🟢 Added [Ace's Spell Utils](https://www.curseforge.com/minecraft/mc-mods/aces-spell-utils) (by Ace_The_Eldritch_King)
  - 🟢 Added [Better Combat Compat](https://www.curseforge.com/minecraft/data-packs/better-combat-compat) (by Cyber_Rat)
  - 🟢 Added [EMIffect ](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) (by fzzyhmstrs)
@@ -16,7 +15,7 @@
 
 ### Config Changes
 
- - Blacklisted several menus from having middle-click sort functionality or IPN buttons, for potential dupes or lag issues
+ - Blacklisted several menus from having middle-click sort functionality or IPN buttons, due to potential dupes or lag issues
  - Nerf spell power bonus from Warlord gems 30% -> 22.5%
  - Fix Blood Lord gems receiving Holy Spell Power instead of Blood Spell Power
 
