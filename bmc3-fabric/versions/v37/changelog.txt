@@ -1,0 +1,20 @@
+Mod Changes
+ - Added [InmisAddon](https://www.curseforge.com/minecraft/mc-mods/inmisaddon) (by Globox_Z)
+ - Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - Added [Aether Addon Treasure Reforging](https://www.curseforge.com/minecraft/mc-mods/aether-treasure-reforging) (by TheAetherTeam)
+ - Added [Hardcover](https://www.curseforge.com/minecraft/mc-mods/hardcover) (by dicedpixels)
+ - Added [MES - Biomes O' Plenty Compat Pack](https://www.curseforge.com/minecraft/mc-mods/mes-biomes-o-plenty-compat-pack) (by finndog_123)
+ - Updated 32 mods
+
+
+Updates
+ - Added seven more ship structures to The End ([MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures))
+ - Added two new Fossil structures ([Unnamed Desert](https://www.curseforge.com/minecraft/mc-mods/unnamed-desert))
+ - The player can now swim in water while riding mounted mobs from the Aether ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+ - All liquids in the cauldron can now bubble ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+
+
+Fixes
+ - Mob griefing gamerule not working ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Wandering Traders not being able to sell Beena Box Music Disc ([The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
+ - Some river biomes having invalid names ([Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers))
