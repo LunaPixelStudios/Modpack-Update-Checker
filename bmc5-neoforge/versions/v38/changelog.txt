@@ -1,0 +1,26 @@
+[Stability Update]
+Mod Changes
+ - Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - Added [Particle Effects Reforged](https://www.curseforge.com/minecraft/mc-mods/particle-effects-reforged) (by Project8gbDeRam)
+ - Added [Aether Addon Treasure Reforging](https://www.curseforge.com/minecraft/mc-mods/aether-treasure-reforging) (by TheAetherTeam)
+ - Updated 41 mods
+
+
+Config Changes
+ - The quest for Entering the Otherside no longer depends on Crafting a Warden Helmet, as users did not understand that there was a dependency
+
+
+Updates
+ - Added several new meals ([My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight))
+ - Added seven more ship structures to The End ([MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures))
+ - Added support for more mob spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - All liquids in the cauldron can now bubble ([Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments))
+ - Tools now wear out faster when they have the Curse of Poaching ([My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight))
+ - When the Poaching enchant fails, some entities will transform into a hostile version ([My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight))
+ - Lunch boxes can now be dyed all colors, similar to leather armor ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+
+
+Fixes
+ - Mob griefing gamerule not working ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Some river biomes having invalid names ([Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers))
+ - Rare crash when trading with a villager ([Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill))
