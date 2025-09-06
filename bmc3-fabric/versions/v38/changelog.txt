@@ -1,0 +1,18 @@
+[Minor QoL Update]
+Mod Changes
+ - Added [Zombie Improvements](https://www.curseforge.com/minecraft/mc-mods/zombie-improvements) (by pajic)
+ - Added [Rewithered](https://www.curseforge.com/minecraft/mc-mods/rewithered) (by pajic)
+ - Added [Power damage fix](https://www.curseforge.com/minecraft/mc-mods/power-damage-fix) (by pajic)
+ - Updated 16 mods
+
+
+Config Changes
+ - Temporarily disabled Audio Improvements mono audio settings to fix jukeboxes not playing music
+
+
+Updates
+ - Small improvements to ingame chat ([Chat Patches](https://www.curseforge.com/minecraft/mc-mods/chatpatches))
+
+
+Fixes
+ - Praires having very high wolf spawn rates ([Nature's Spirit](https://www.curseforge.com/minecraft/mc-mods/natures-spirit))
