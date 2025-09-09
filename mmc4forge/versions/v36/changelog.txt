@@ -1,0 +1,41 @@
+# **[Quality of Life Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - 🟢 Added [Medieval Buildings [Nether Edition]](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-nether-edition) (by Lupin)
+ - 🟢 Added [Pufferfish's Attributes [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-attributes) (by Pufferfish)
+ - 🔴 Removed [Shield Overhaul](https://www.curseforge.com/minecraft/mc-mods/shield-overhaul)
+ - 🔵 Updated 63 mods
+
+
+### Config Changes
+
+ - Rename Ars Nouveau Spell Power -> Source Potency
+ - Hid many irrelevant attributes from the AttributesLib menu (thanks cHin4916!)
+ - Added attribute descriptions for every relevant attribute (thanks cHin4916!)
+ - Rebalanced Artifact, Esoteric, and Heirloom affixes, and some Curio affixes/gem bonuses (thanks cHin4916!)
+
+
+### Updates
+
+ - Added/Improved Excalibur texture support for Bosses'Rise, It Takes a Pillage, Transmog, Target Dummy, Iron's Spells n' Spellbooks, Realm RPG Fallen Adventurers, Apotheosis, Amendments, and Dramatic Doors (Thanks Ruseki, payangar_dev, oni7suka!)
+ - Added patch for Iron's Spellbooks spells and FTB Teams friendly fire compat
+ - Autoregeneration is now only enabled when a player has an equipped and active Wayfinder's Medallion - Autoregeneration can still be disabled in the config
+ - Improve worldgen performance when generating structures with item frames (Fast Item Frames)
+
+
+### Fixes
+
+ - Crash related to Veridium Knife compat (Delightful/Aether Redux)
+ - Entities not always being healed to their full health when being scaled with Autoleveling
+ - A few broken rewards/quest triggers in the Twilight Forest, Undergarden, End, and Aether categories
+ - Downgraded EMF to fix a crash with Corpse
+ - Healthbars/entity names showing up for irrelevant spell entities like Root
+ - Modpack icon on MacOS being very low-resolution
+ - Cleaned up some worldgen-related log spam
+ - Java not being installed automatically when using the start.bat/start.sh files
+ - Survive Canteen not being fillable with water bottles/potions in the crafting menu
+
+![img](https://media.forgecdn.net/attachments/1207/759/medieval-buildings-1.jpg)
+![img](https://media.forgecdn.net/attachments/1207/760/medieval-buildings-2.jpg)
