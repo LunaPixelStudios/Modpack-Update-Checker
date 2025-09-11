@@ -1,0 +1,34 @@
+# **[Quality of Life Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - 🟢 Added [Epic Structures Villages ](https://www.curseforge.com/minecraft/mc-mods/epic-villages) (by ATii)
+ - 🟢 Added [Curios API ](https://www.curseforge.com/minecraft/mc-mods/curios) (by TheIllusiveC4)
+ - 🟢 Added [Accessories Compatibility Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer) (by Blodhgarm)
+ - 🔴 Removed Curios Compatibility Layer for Accessories (Replaced)
+ - 🔵 Updated 41 mods
+
+
+### Config Changes
+
+ - Nerfed Spectral Hammer, Evasion, Fortify, and Oakskin
+
+
+### Updates
+
+ - Added/updated Excalibur texture support for Twilight Forest, Target Dummy, Transmog, Ice and Fire, Iron's Spellbooks, Twilight Forest, It Takes a Pillage (thanks payangar_dev, Ruskei, oni7suka!)
+ - Camera distance now scales with player's Scale attribute (Shoulder Surfing)
+ - Added new unique weapon Chomp'olotl (Simply Swords)
+ - Improve worldgen performance for structures with Item Frames (Fast Item Frames)
+ - Added Festive affix for Staffs (Apotheosis x Iron's Spellbooks Compat)
+
+
+### Fixes
+
+ - Crash related to loading structures containing dread torch (Ice and Fire)
+ - Broken entity textures with Twilight Forest
+
+![img](https://media.forgecdn.net/attachments/1265/261/taiga-village-morning-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1265/257/snowy-village-dusk-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1265/255/plains-village-noon-jpg.jpg)
