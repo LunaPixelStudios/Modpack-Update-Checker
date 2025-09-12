@@ -1,0 +1,28 @@
+[Stability Update]
+Mod Changes
+ - Added [Netherite Tweaks & Fixes](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks) (by lunakibby)
+ - Added [Twilight Forest Cave Fix](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix) (by danmatisk)
+ - Added [Dolphin Fix](https://www.curseforge.com/minecraft/mc-mods/dolphin-fix) (by tazgirl_)
+ - Added [Item Split Bug Fix](https://www.curseforge.com/minecraft/mc-mods/item-split-bug-fix) (by iwaliner)
+ - Added [Passengers Portal Fix](https://www.curseforge.com/minecraft/mc-mods/passengersportalfix) (by mahmudindes)
+ - Added [Golem Spawn Fix](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix) (by bo_bo0)
+ - Updated 20 mods
+
+
+Config Changes
+ - Rainbow Lamps no longer require Corundum to craft, as Corundum spawning is disabled
+ - Regenerated structure cache for improved chunk generation speeds
+ - Temporarily disabled Audio Improvements mono audio settings to fix jukeboxes not playing music
+ - Disabled the Audio Improvements doppler effect that would change the speed/pitch of some sounds
+
+
+Updates
+ - Added the Pearl Necklace, equippable in the Chest Slot, which grants the wearer Water Breathing and Dolphins Grace ([Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight))
+ - Added support for many new mods, and redesigned some existing spawn egg textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Pings now appear slightly bigger ([Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel))
+ - Added much more information on how to breed certain mobs ([Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding))
+
+
+Fixes
+ - Several memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Some inventories randomly being unsortable ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort))
