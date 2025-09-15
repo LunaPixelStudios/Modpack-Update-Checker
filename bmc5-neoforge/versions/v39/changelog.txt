@@ -1,0 +1,16 @@
+[Performance Update]
+Mod Changes
+ - Added [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me) (by ishlandmc)
+ - Added [Dolphin Fix](https://www.curseforge.com/minecraft/mc-mods/dolphin-fix) (by tazgirl_)
+ - Added [Netherite Tweaks & Fixes](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks) (by lunakibby)
+ - Updated 19 mods
+
+
+Config Changes
+ - Unbound the mysterious Builders Button keybind on Button 4 that made placing/breaking blocks impossible
+ - Fixed issue where chests would randomly become unsortable
+ - Fixed music discs not playing music
+
+
+Updates
+ - Dithering now occurs on the vertical axis, so biomes with verticality will have the dithering effect ([Pufferfish's Biome Dither](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither))
