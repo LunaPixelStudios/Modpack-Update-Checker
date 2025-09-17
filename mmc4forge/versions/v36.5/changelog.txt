@@ -1,0 +1,24 @@
+# **[Bug Fix Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither) (by Pufferfish)
+ - 🟢 Added [Netherite Tweaks & Fixes](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks) (by lunakibby)
+ - 🟢 Added [Passengers Portal Fix](https://www.curseforge.com/minecraft/mc-mods/passengersportalfix) (by mahmudindes)
+ - 🟢 Added [Golem Spawn Fix](https://www.curseforge.com/minecraft/mc-mods/golem-spawn-fix) (by bo_bo0)
+ - 🟢 Added [Twilight Forest Cave Fix](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix) (by Project8gbDeRam)
+ - 🟢 Added [Dolphin Fix](https://www.curseforge.com/minecraft/mc-mods/dolphin-fix) (by tazgirl_)
+ - 🔴 Removed [Pathfinding Edition For Minecolonies](https://www.curseforge.com/minecraft/mc-mods/pathfinding-edition-for-minecolonies) (Unstable)
+ - 🔵 Updated 12 mods
+
+
+### Fixes
+
+ - Hostile mobs no longer scaling based on player level, since v36
+ - Passive Skill Tree crafting bonuses not applying to Celestisynth, Eidolon, and Wizards Reborn
+ - Some containers improperly being unable to be sorted with middle-click
+ - Item Duplication related to Traveler's Backpack and sorting
+ - Mismatched textures for Eidolon : Repraised hearts
+
+![img](https://media.forgecdn.net/attachments/1276/76/blend_ba3-png.png)
+![img](https://media.forgecdn.net/attachments/1276/74/blend_ba1-png.png)
