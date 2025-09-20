@@ -1,0 +1,20 @@
+[Stability Update]
+Mod Changes
+ - Added [What Are They Up To ](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) (by Corosus)
+ - Added [Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix) (by MrErenK)
+ - Added [Passengers Portal Fix](https://www.curseforge.com/minecraft/mc-mods/passengersportalfix) (by mahmudindes)
+ - Added [Underwater Swim Fix ](https://www.curseforge.com/minecraft/mc-mods/underwater-swim-fix-mc-220390) (by bikerboys)
+ - Removed [Public Gui Announcement](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement) (Replaced)
+ - Updated 22 mods
+
+ Updates
+ - Added textures for more modded spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Dithering now occurs on the vertical axis, so biomes with verticality will have the dithering effect ([Pufferfish's Biome Dither](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither))
+ - Improved underwater sound muffling ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Increased scale of pings to improve visibility ([Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel))
+ - Foxes can now eat blueberries ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
+
+ Fixes
+ - Carpets and other random blocks sometimes appearing floating in the sky ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Rare issue where game would not launch and servers wouldn't start ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Lag spike when joining worlds with a lot of sounds playing ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
