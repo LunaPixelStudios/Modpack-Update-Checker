@@ -1,0 +1,32 @@
+[Shader Update]
+Mod Changes
+ - Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - Added [NaNny Reforked](https://www.curseforge.com/minecraft/mc-mods/nanny-reforked) (by adam98991)
+ - Removed [Eldritch End](https://www.curseforge.com/minecraft/mc-mods/eldritch-end) (Caused many issues and adds almost no content)
+ - Removed [NaNny ](https://www.curseforge.com/minecraft/mc-mods/nanny) (Replaced)
+ - Removed [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) (Replaced a long time ago)
+ - Updated 20 mods
+
+
+Config Changes
+ - Never before seen in any other modpack, Better MC now has a variety of shader presets within the shaderpack menu for both Windows and Mac users (Thanks to SpacEagle17 for making this possible!)
+ - All shader presets now have more things enabled by default, such as biome-based portal coloring in the Nether, a special dragon death effect, a visual overhaul of the Soul Sand Valley, and a glowing effect around end portals
+ - Fixed waypoints defaulting to overworld when entering Nether/End
+
+
+Updates
+ - Added two new structures ([Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins))
+ - Improved compatibility between a lot of food-related mods and gave some foods potion effects when eaten ([Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful))
+ - Dithering now occurs on the vertical axis, so biomes with verticality will have the dithering effect ([Pufferfish's Biome Dither](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither))
+ - Improved underwater sound muffling ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Improved corpse spawn position ([Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse))
+
+
+Fixes
+ - Rare issue where game would not launch and servers wouldn't start ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Issue where the server console would sometimes stop printing logs ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Recipes not showing in the recipe book or in JEI when hosting a world via world sharing ([Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding))
+ - Lag spike when joining worlds with a lot of sounds playing ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Corpse not spawning when player is riding an entity ([Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse))
+ - Missing Pearl Necklace recipe ([Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight))
+ - Direction evaluation being incorrect at long distances ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
