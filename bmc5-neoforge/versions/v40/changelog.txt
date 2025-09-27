@@ -1,0 +1,30 @@
+[Shader Update]
+Mod Changes
+ - Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - Added [Damage Tilt Fixes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt-fixes) (by cintlep)
+ - Added [Horse Breeding Fix](https://www.curseforge.com/minecraft/mc-mods/horse-breeding-fix) (by MisterXYCB)
+ - Added [HRTF Fix](https://www.curseforge.com/minecraft/mc-mods/hrtffix) (by dsx137)
+ - Added [Accessories Compatibility Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer) (by Blodhgarm)
+ - Removed [Curios Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer) (Replaced)
+ - Updated 30 mods
+
+
+Config Changes
+ - Never before seen in any other modpack, Better MC now has a variety of shader presets within the shaderpack menu for both Windows and Mac users (Thanks to SpacEagle17 for making this possible!)
+ - All shader presets now have more things enabled by default, such as biome-based portal coloring in the Nether, a special dragon death effect, a visual overhaul of the Soul Sand Valley, and a glowing effect around end portals
+ - Fixed waypoints defaulting to overworld when entering Nether/End
+
+
+Updates
+ - Added compatibility with many mods ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Improved underwater sound muffling ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Nerfed the Iceologer and Illusioner to only have 24 max health ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+
+
+Fixes
+ - Rare issue where game would not launch and servers wouldn't start ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Issue where the server console would sometimes stop printing logs ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Lag spike when joining worlds with a lot of sounds playing ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Direction evaluation being incorrect at long distances ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Many memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Potential issues where water splashing sound effect would repeatedly play while in water ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
