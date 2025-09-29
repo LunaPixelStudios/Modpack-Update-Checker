@@ -1,0 +1,35 @@
+[Shader Update]
+Mod Changes
+ - Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - Added [Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix) (by MrErenK)
+ - Added [Horse Breeding Fix](https://www.curseforge.com/minecraft/mc-mods/horse-breeding-fix) (by MisterXYCB)
+ - Added [Damage Tilt Fixes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt-fixes) (by cintlep)
+ - Added [HRTF Fix](https://www.curseforge.com/minecraft/mc-mods/hrtffix) (by dsx137)
+ - Added [Underwater Swim Fix ](https://www.curseforge.com/minecraft/mc-mods/underwater-swim-fix-mc-220390) (by bikerboys)
+ - Added [Accessories Compatibility Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer) (by Blodhgarm)
+ - Removed [Trinkets Compat Layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-tc-layer) (Replaced)
+ - Updated 35 mods
+
+
+Config Changes
+ - Never before seen in any other modpack, Better MC now has a variety of shader presets within the shaderpack menu for both Windows and Mac users (Thanks to SpacEagle17 for making this possible!)
+ - All shader presets now have more things enabled by default, such as biome-based portal coloring in the Nether, a special dragon death effect, a visual overhaul of the Soul Sand Valley, and a glowing effect around end portals
+
+
+Updates
+ - Added a new armor enchantment called Hive Lifeline that causes attack damaage to deflect onto nearby bees ([The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric))
+ - Added compatibility with many mods ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Dithering now occurs on the vertical axis, so biomes with verticality will have the dithering effect ([Pufferfish's Biome Dither](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither))
+ - Improved underwater sound muffling ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Nerfed the Iceologer and Illusioner to only have 24 max health ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes))
+ - Players can now swim in water while riding mounted mobs from the Aether ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+
+
+Fixes
+ - Rare issue where game would not launch and servers wouldn't start ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Issue where the server console would sometimes stop printing logs ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Lag spike when joining worlds with a lot of sounds playing ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Direction evaluation being incorrect at long distances ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
+ - Potential issue where water splashing sound effect would repeatedly play while in water ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Valkyrie Lance accepting the Sweeping Edge enchant when it shouldn't ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
+ - Cloud Staff and Dart Shooter not accepting durability-related enchantments ([The Aether](https://www.curseforge.com/minecraft/mc-mods/aether))
