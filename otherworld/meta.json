@@ -6,6 +6,11 @@
       "id": "Beta v3",
       "releasedAt": 1726615315000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "Pre-Release 1",
+      "releasedAt": 1759527112000,
+      "updateType": "minor_breaking"
     }
   ]
 }

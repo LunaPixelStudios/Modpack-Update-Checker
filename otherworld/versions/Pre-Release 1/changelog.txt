@@ -1,0 +1,46 @@
+## Mod Changes
+
+ - 🟢 Added [Integrated Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/integrated-dungeons-arise) (by Aarods)
+ - 🟢 Added [Particle Effects Reforged](https://www.curseforge.com/minecraft/mc-mods/particle-effects-reforged) (by Project8gbDeRam)
+ - 🟢 Added [Ice and Fire Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker) (by syrikalis)
+ - 🟢 Added [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) (by decce)
+ - 🟢 Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - 🟢 Added [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters) (by LatvianModder)
+ - 🟢 Added Malfu Combat Animation
+ - 🔵 Updated 39 mods
+ - 🔴 Removed AME's Mobs Renew (Causing random crashes)
+ - 🔴 Removed DreamCasLib (No longer needed)
+ - 🔴 Removed Create: The Factory Must Grow (Bugged)
+ - 🟢 Added [GTBC's Geomancy Plus - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/gtbcs-geomancy-plus) (by GameTechBC)
+
+
+### Config Changes
+
+ - Campaign: Chapter 6 (and the entire campaign) are now complete and fully playable! Changed final reward items for the end of Chapter 2, and many other reward changes. Fixed a critical bug with Chapter 5.
+ - Revamped the Tutorial quest chapter, added much more crucial info for beginners
+ - Added thirst values for consumables from Aether, Alex's Caves, Alex's Mobs, BetterEnd, BWG, Create, Dungeon's Delight, Ender's Delight, Mineral Delight, Regions Unexplored, Realm RPG, Valoria
+ - Disabled the generic Curio slot, and the unused Feet slot
+ - Lowered the loot rate of Echoes by 60%
+ - Frostward/Fireward/Poisonward rings can no longer be crafted, only found in loot
+ - Nerfed Angel Wings, Fortify, Oakskin, Root
+
+
+### Updates
+
+ - Doubled the mana bonus from Magic stat's Mana Spring passive
+ - Added a new capstone to the Magic skill: **Ancient Wisdom** - Increases the level of all spells by 1.
+ - Projectiles and other non-living entities should now never have a nametag or health bar
+ - Summoned mobs will no longer have a mob level
+ - Some improvements to worldgen performance
+ - Adding an upgrade orb to an item will allow it to roll school-specific affixes of that type
+ - Added and rebalanced a few other affixes
+ - Rebalanced a few boss levels
+
+### Fixes
+
+ - Keybind conflict with spell wheel/shaders
+ - Crash when viewing other players' corpses
+ - Broken textures for Summoned Skeletons
+ - Wayfinder's Medallion not being craftable
+ - Bugged nametag/health bar positioning for some mobs
+ - Log spam related to "create:goggle_info"
