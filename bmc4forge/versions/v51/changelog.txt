@@ -1,0 +1,21 @@
+[Stability Update]
+Mod Changes
+ - Added [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) (by decce)
+ - Updated 20 mods
+
+ Config Changes
+ - Added coloring to the shaderpacks in the shaderpack screen
+ - Changed the order of a few resourcepacks, which may subtlety change some textures
+ - Fixed many blocks, especially those from Chipped, being uncraftable due to the developer of Every Compat not maintaining his mod properly
+ - Fixed ghast fireballs doing no damage to blocks/players
+ - Fixed bug where putting a stack of glass bottles in a dispenser would use all of them instead of using them one at a time
+
+Updates
+ - The player head in chat will now reflect skin customization changes, such as the hat layer being removed ([Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads))
+ - Improved the Book and Quill screen by making the background color white again and readding the previous/next page buttons ([Mandala's GUI - Dark Mode Mod Compatibility](https://www.curseforge.com/minecraft/mc-mods/unofficial-mandalas-gui-dark-mode-mod))
+
+Fixes
+ - Netherite spawn rates being way too high in vanilla biomes ([Netherite Tweaks & Fixes](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks))
+ - Many memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Crash that would rarely occur on startup ([Server Browser](https://www.curseforge.com/minecraft/mc-mods/server-browser))
+ - Potential issue where water splashing sound effect would repeatedly play while in water ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
