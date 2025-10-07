@@ -11,6 +11,11 @@
       "id": "Pre-Release 1",
       "releasedAt": 1759527112000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "Pre-Release 2",
+      "releasedAt": 1759870433000,
+      "updateType": "minor_breaking"
     }
   ]
 }

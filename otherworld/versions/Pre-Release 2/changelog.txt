@@ -1,0 +1,13 @@
+## Mod Changes
+
+ - 🟢 Added [Otherworld Core](https://www.curseforge.com/minecraft/mc-mods/otherworld-core) (by MuonR)
+ - 🟢 Added [Otherworld - Origins](https://www.curseforge.com/minecraft/mc-mods/otherworld-origins) (by MuonR)
+ - 🟢 Added [Otherworld - Apotheosis](https://www.curseforge.com/minecraft/mc-mods/otherworld-apotheosis) (by MuonR)
+ - 🟢 Added [Medieval Buildings [Nether Edition]](https://www.curseforge.com/minecraft/mc-mods/medieval-buildings-nether-edition) (by Lupin)
+ - 🔵 Updated 16 mods
+
+
+### Updates
+
+ - Fixed an issue with in-world Ice Stone transforms
+ - Fixed several keybind conflicts/unnecessary keybinds
