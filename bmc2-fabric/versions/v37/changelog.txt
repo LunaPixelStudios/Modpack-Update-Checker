@@ -1,0 +1,29 @@
+[Shader Update]
+Mod Changes
+ - Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - Updated 31 mods
+
+
+Config Changes
+ - Never before seen in any other modpack, Better MC now has a variety of color-coded shader presets within the shaderpack menu for both Windows and Mac users (Thanks to SpacEagle17 for making this possible!)
+ - All shader presets now have more things enabled by default, such as biome-based portal coloring in the Nether, a special dragon death effect, a visual overhaul of the Soul Sand Valley, and a glowing effect around end portals
+ - Updated the wither spawn quest as Soul Stone is no longer required for summoning
+ - Fixed waypoints defaulting to overworld when entering Nether/End
+
+
+Updates
+ - Added 11 new mobs, including Octopus and Otters ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Added 2 new structures ([Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins))
+ - Added many new blocks ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Added textures to more modded spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added compatibility with many more mods ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Added a crafting recipe for tridents which requires a new item dropped by Elder Guardians ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - The player head in chat will now reflect skin customization changes, such as the hat layer being removed ([Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads))
+ - Improved the Book and Quill screen by making the background color white again and readding the previous/next page buttons ([Mandala's GUI - Dark Mode Mod Compatibility](https://www.curseforge.com/minecraft/texture-packs/unofficial-mandalas-gui-dark-mode-mod))
+ - Deep Oceans are now deeper ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+
+
+Fixes
+ - Issue where the server console could not be typed in ([Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof))
+ - Potential issue where water splashing sound effect would repeatedly play while in water ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Direction evaluation being incorrect at long distances ([Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered))
