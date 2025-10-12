@@ -1,0 +1,25 @@
+[Performance Update]
+Mod Changes
+ - Added [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) (by 04find)
+ - Added [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) (by decce)
+ - Added [Forge CIT](https://www.curseforge.com/minecraft/mc-mods/forge-cit) (by tfarecnim)
+ - Updated 43 mods
+
+
+Config Changes
+ - Added coloring to the preset shaderpacks in the shaderpack screen
+ - The Ultra shader preset now has Advanced Color Tracing at 12 chunks instead of 16 to prevent unneeded performance impact
+ - Fixed the Sculk Snapper quest being impossible to complete
+ - Fixed Beautiful Enchanted Books resourcepack not working
+
+
+Updates
+ - Major changes to the visuals of the shaderpack, such as better colors, improved reflections, synced clouds between players, and more ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/mc-mods/complementary-reimagined))
+ - Added support for more modded spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - The player head in chat will now reflect skin customization changes, such as the hat layer being removed ([Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads))
+ - Improved appearance of lava when using shaders ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+
+
+Fixes
+ - Many memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Netherite spawn rates being too high ([Netherite Tweaks](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks))
