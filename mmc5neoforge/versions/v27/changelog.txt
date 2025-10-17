@@ -1,0 +1,34 @@
+# **[Quality of Life Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) (by Project8gbDeRam)
+ - 🟢 Added [Malfu Combat Animation](https://www.curseforge.com/minecraft/texture-packs/malfu-combat-animation) (by Malfu)
+ - 🟢 Added [Netherite Tweaks & Fixes](https://www.curseforge.com/minecraft/mc-mods/netherite-tweaks) (by lunakibby)
+ - 🟢 Added [Better Biome Reblend](https://www.curseforge.com/minecraft/mc-mods/bbrb) (by Cartrigger)
+ - 🟢 Added [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) (by 04find)
+ - 🔴 Removed What's Your Build (Broken)
+ - 🔵 Updated 92 mods
+
+
+### Updates
+
+ - Added 3D splash effects for entities falling in water/lava (Subtle Effects)
+ - Added waterfalls with mist clouds, which come in 3 different sizes (Subtle Effects)
+ - More than tripled the amount of unique armor sets, weapons, and curios (Hazen n' Stuff)
+ - Adding an upgrade orb to an item will now allow it to roll spell-school specific affixes of that type (Apotheosis x Iron's Spellbooks)
+ - Improved worldgen performance by up to 30% (Tectonic)
+
+
+### Fixes
+
+ - Traveler's Backpacks furnace upgrade background being invisible
+ - Mismatched GUI textures for many Accessories slots
+ - Siren charmed effect persisting on players even after the Siren has died (Ice and Fire: Community Edition)
+ - Rare crash caused by rendering other players' backpacks (Traveler's Backpack)
+ - Several Memory leaks from other mods (All the Leaks)
+
+![img](https://media.forgecdn.net/attachments/1349/507/2025-10-06_22-23-30_3-png.png)
+![img](https://media.forgecdn.net/attachments/description/1223529/description_694706eb-9195-4514-a174-577a8e2b6f91.png)
+![img](https://media.forgecdn.net/attachments/1349/484/2025-10-06_22-27-24-png.png)
+![img](https://media.forgecdn.net/attachments/description/1223529/description_b4dbf21d-685a-4f22-bd4b-51eac3a29d17.png)
