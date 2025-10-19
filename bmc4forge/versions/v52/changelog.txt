@@ -1,0 +1,37 @@
+[Content Update]
+Mod Changes
+ - Added [MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages) (by finndog_123)
+ - Added [Blended Compat](https://www.curseforge.com/minecraft/mc-mods/blended-compat) (by Kanadeyoru)
+ - Added [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) (by Project8gbDeRam)
+ - Added [Fixed Walls](https://www.curseforge.com/minecraft/mc-mods/fixed-walls) (by Robdog)
+ - Added [Loot Integrations Moog's Voyager, Soaring, End & Nether Structures](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-moogs-voyager-soaring-end-nether) (by someaddon)
+ - Added [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) (by 04find)
+ - Added [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin) (by jozufozu)
+ - Added [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel) (by djefrey)
+ - Removed [Grass Overhaul ](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) (Unmaintained and has broken textures)
+ - Removed [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) (Replaced)
+ - Updated 22 mods
+
+
+Config Changes
+ - Added the modpack logo to the CrashAssistant screen
+ - The Ultra shader preset now has Advanced Color Tracing at 12 chunks instead of 16 to prevent unneeded performance impact
+ - With any of the shader presets enabled, there is now a small chance of seeing shooting stars in the night sky
+ - Regenerated the ModernFix structure cache for improved world generation speed
+ - Updated the CrashAssistant problematic mods message
+ - Disabled the AllTheLeaks memory usage warning in chat as it confused users
+ - Disabled ModernFix branding in F3 menu
+
+
+Updates
+ - Added the Coconut Helmet which grants Resistance when worn, obtainable by being hit by the head by a coconut ([Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight))
+ - Added textures for more modded spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Major changes to the visuals of the shaderpack, such as better colors, improved reflections, synced clouds between players, and more ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/mc-mods/complementary-reimagined))
+ - Many fixes and improvements to shaders ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Improved appearance of lava when using shaders ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Reworked the texture for Crab Cakes ([Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight))
+
+
+Fixes
+ - Items in Curios slots sometimes going into the cosmetic slot when taking items from a corpse, which led to people thinking their items were deleted ([Corpse x Curios API Compat](https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat))
+ - Rare startup crash ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))
