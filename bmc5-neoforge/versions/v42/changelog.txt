@@ -1,0 +1,33 @@
+[Visuals Update]
+Mod Changes
+ - Added [MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages) (by finndog_123)
+ - Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - Added [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) (by Project8gbDeRam)
+ - Added [Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards) (by Project8gbDeRam)
+ - Added [Better Client](https://www.curseforge.com/minecraft/mc-mods/better-client) (by ENC_Euphony)
+ - Added [Better Biome Reblend](https://www.curseforge.com/minecraft/mc-mods/bbrb) (by Cartrigger)
+ - Added [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin) (by jozufozu)
+ - Added [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel) (by djefrey)
+ - Removed [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) (Caused Xaeros Minimap to glitch, seemingly only on 1.21.1)
+ - Updated 30 mods
+
+
+Config Changes
+ - Disabled ModernFix branding in F3 menu
+ - Disabled the AllTheLeaks memory usage warning in chat as it confused users
+ - Removed clutter from the top left of the screen around the questbook icon
+
+
+Updates
+ - Enchantment descriptions now show under the hints in the enchantment table ([Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic))
+
+
+Fixes
+ - Crash when using a quiver ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Several memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - River biome display names showing as code names in the biome display ([Climate Rivers](https://www.curseforge.com/minecraft/mc-mods/climate-rivers))
+ - Maulers not despawning ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Tuff golems having empty enchant books ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Villagers not running from Illusioners ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Illusioners holding an invisible bow ([Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge))
+ - Rare crash during startup ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))
