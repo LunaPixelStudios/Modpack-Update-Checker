@@ -1,0 +1,66 @@
+# **[Stability Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Sunken Spires](https://www.curseforge.com/minecraft/data-packs/sunken-spires) (by joshieman)
+ - 🟢 Added [[Let's Do] Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) (by satisfy)
+ - 🟢 Added [[Let's Do] HerbalBrews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) (by satisfy)
+ - 🟢 Added [[Let's Do] BloomingNature](https://www.curseforge.com/minecraft/mc-mods/lets-do-bloomingnature) (by satisfy)
+ - 🟢 Added [Wakes](https://www.curseforge.com/minecraft/mc-mods/wakes) (by Goby56)
+ - 🟢 Added [Icon Leading Tooltip](https://www.curseforge.com/minecraft/mc-mods/icon-leading-tooltip) (by KevzCz)
+ - 🟢 Added [Accessories Compatibility Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer) (by Blodhgarm)
+ - 🟢 Added [More RPG Classes - Skill Tree](https://www.curseforge.com/minecraft/mc-mods/mrpgc-skill-tree) (by Fichteee)
+ - 🟢 Added [Underwater Swim Fix ](https://www.curseforge.com/minecraft/mc-mods/underwater-swim-fix-mc-220390) (by bikerboys)
+ - 🟢 Added [ScalableLux](https://www.curseforge.com/minecraft/mc-mods/scalablelux) (by ishlandmc)
+ - 🟢 Added [Trinkets ](https://www.curseforge.com/minecraft/mc-mods/trinkets) (by EmilyPloszaj)
+ - 🟢 Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - 🟢 Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - 🟢 Added Malfu Combat Animation
+ - 🔴 Removed Affinity (Memory leak)
+ - 🔴 Removed CIT Resewn (High memory usage)
+ - 🔴 Removed Clavis (Unstable)
+ - 🔴 Removed Trinkets Compat Layer for Accessories (Replaced)
+ - 🔴 Removed Satin API (No longer needed)
+ - 🔴 Removed OctoLib (No longer needed)
+ - 🔵 Updated 106 mods
+
+
+### Config Changes
+
+ - Integrated More RPG's Skills into the skill trees!
+ - Increased the experience cost for higher levels of combat skill trees
+ - Increased the available points for a few newly modified skill tree categories
+ - Buffed Dragonsteel Weapons 11 base damage ->14 base damage
+ - When dying in a claim, items will now still be placed in a grave instead of dropping
+ - Eternal Starlight boss music will now no longer overlap with other music
+ - Lowered the warming rate from fireballs, being on fire, or in lava by ~50%
+
+
+### Updates
+
+ - Improved worldgen performance by ~30% (Tectonic)
+ - Major changes to the visuals of the shaderpack, such as better colors, improved reflections, synced clouds between players, and more (Complementary Shaders - Unbound)
+ - Added 3D splash effects for entities falling in water/lava (Subtle Effects)
+ - Added waterfalls with mist clouds, which come in 3 different sizes (Subtle Effects)
+ - Revenant summons will now teleport to the player when set to follow, if they get stuck too far away
+ - Added new unique weapon Chomp'olotl (Simply Swords)
+
+
+### Fixes
+
+ - GUI textures for Travelers Backpack Furnace Upgrade
+ - Undead origins being unable to fight the wither
+ - Origin temperature resistance powers resetting on death
+ - Dwarves not sinking in water
+ - Orb of Oblivion not working on skill trees
+ - Crash when parrots rode on a player's shoulder
+ - Demon Fire/Ebonbreath/Blazenbreath not damaging the primary target, only nearby enemies
+ - Gorgons being able to jump while petrified
+ - Revenant and Pixie being able to bypass trading restrictions
+ - Guards and Iron Golems not being hostile to Revenants
+ - Banshee's "Hexed" not working
+
+![img](https://media.forgecdn.net/attachments/description/1367962/description_c446d4d1-3d0b-4d9e-923e-d78e023837bc.png)
+![img](https://media.forgecdn.net/attachments/791/54/larchforest2.png)
+![img](https://media.forgecdn.net/attachments/776/907/screenshot_2023-12-19_133800.png)
+![img](https://media.forgecdn.net/attachments/1349/507/2025-10-06_22-23-30_3-png.png)

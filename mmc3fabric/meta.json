@@ -161,6 +161,11 @@
       "id": "v27 HF",
       "releasedAt": 1756195928001,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v28",
+      "releasedAt": 1761260580000,
+      "updateType": "minor_breaking"
     }
   ]
 }
