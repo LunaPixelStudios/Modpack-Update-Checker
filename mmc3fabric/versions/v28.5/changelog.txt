@@ -1,0 +1,21 @@
+# [Performance Update]
+## Mod Changes
+ - 🟢 Added [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me) (by ishlandmc)
+ - 🔴 Removed [Guard Villagers ](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric) (Incompatible with C2ME)
+ - 🔴 Removed [Almanac Lib](https://www.curseforge.com/minecraft/mc-mods/almanac-lib) (Not needed)
+ - 🔴 Removed True Ending (Bugged)
+ - 🔵 Updated 27 mods
+
+
+### Config Changes
+ - Regenerated the RPG Series loot config
+ - Fixed some bosses being about 50% weaker than intended
+ - Fixed some Loot n Explore items being weaker than intended
+ - Tweaked lighting settings for the default Complementary+Euphoria shaders preset
+ - Removed duplicate Spell Engine Accessory slots
+
+
+### Fixes
+ - 6 Datapacks not actually being included, including Sunken Spires (thanks joshieman!)
+ - Rare rendering crash when some minibosses activated a custom effect (thanks Forg!)
+ - Wrong texture for Spell Engine Accessory slots
