@@ -1,0 +1,36 @@
+[Visuals Update]
+Mod Changes
+ - Added [MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages) (by finndog_123)
+ - Added [Blended Compat](https://www.curseforge.com/minecraft/mc-mods/blended-compat) (by Kanadeyoru)
+ - Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - Added [Wakes](https://www.curseforge.com/minecraft/mc-mods/wakes) (by Goby56)
+ - Added [Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards) (by Project8gbDeRam)
+ - Added [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin) (by jozufozu)
+ - Added [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel) (by djefrey)
+ - Removed [Grass Overhaul ](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) (Unmaintained and has broken textures)
+ - Updated 24 mods
+
+
+Config Changes
+ - Added the modpack logo to the CrashAssistant screen
+ - With any of the shader presets enabled, there is now a small chance of seeing shooting stars in the night sky
+ - The Ultra shader preset now has Advanced Color Tracing at 12 chunks instead of 16 to prevent unneeded performance impact
+ - Improved clarity of quest for defeating The Wither
+ - Cauldrons can no longer be picked up with CarryOn as it would cause a softlock
+ - Disabled the Fabrication feature that made falling entities trigger note blocks
+ - Disabled ModernFix branding in F3 menu
+
+
+Updates
+ - Major changes to the visuals of the shaderpack, such as better colors, improved reflections, synced clouds between players, and more ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined))
+ - Many fixes and improvements to shaders ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - You can now ping through transparent blocks while standing ([Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel))
+ - Improved appearance of lava when using shaders ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Reduced aggression of otters ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Critters and Crustaceans can now walk on walls ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+
+
+Fixes
+ - Crash when using a quiver ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Items in sacks having no tooltips ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Rare crash during startup ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))
