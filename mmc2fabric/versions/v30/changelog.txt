@@ -1,0 +1,44 @@
+# [Creatures Update]
+## Mod Changes
+ - 🟢 Added [Companions!](https://www.curseforge.com/minecraft/mc-mods/companions-mod) (by xylonity)
+ - 🟢 Added [Vanilla Backport Chase the Skies, The Garden Awakens](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - 🟢 Added [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) (by Peppercorn)
+ - 🟢 Added [Shoulder Surfing - Pehkui Compat](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-pehkui-compat) (by pandaismyname1)
+ - 🟢 Added [Better Combat Particle](https://www.curseforge.com/minecraft/mc-mods/better-combat-particle) (by Malfu)
+ - 🟢 Added [Dark Window Bar](https://www.curseforge.com/minecraft/mc-mods/dark-window-bar) (by Txni)
+ - 🟢 Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - 🟢 Added [Knight Lib](https://www.curseforge.com/minecraft/mc-mods/knight-lib) (by xylonity)
+ - 🟢 Added [Foolproof](https://www.curseforge.com/minecraft/mc-mods/foolproof) (by Txni)
+ - 🟢 Added [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (by _ForgeUser21552638)
+ - 🟢 Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - 🟢 Added [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) (by EmilyPloszaj)
+ - 🟢 Added [Platform](https://www.curseforge.com/minecraft/mc-mods/platform) (by BlackGear)
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🟢 Added Malfu Combat Animation
+ - 🔴 Removed [Roughly Enough Items Fabric/Forge/NeoForge ](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (Replaced)
+ - 🔴 Removed [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) (Not needed)
+ - 🔴 Removed [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (Bugged)
+ - 🔴 Removed [What's Your Build](https://www.curseforge.com/minecraft/mc-mods/whats-your-build) (Bugged)
+ - 🔵 Updated 88 mods
+
+
+### Config Changes
+ - Tweaked many defaults for the Complementary Shaders + Euphoria Patches shader preset
+ - Increased the resolution of the modpack icon on MacOS
+ - Updated Excalibur, added/updated many Excalibur addons, and added Fresh Animations + Excalibur | Fresh Animations
+
+
+### Updates
+ - Added entities: Otters, Octopus, Hound Shark, Mackerel, Herring, Barracuda, Seadragons, Wrasse, Pupfish, Karcinoge, Karcinoid (Hybrid Aquatic)
+ - Added blocks: Pearl Block, Black Pearl Block, Glowslime, Dunegrass, Tall Dunegrass, Green Anemones, Bull Kelp, Leaf COral, Rose Coral (Hybrid Aquatic)
+ - Completely reworked the Fae origin (Medieval Origins Revival)
+ - Revenant summons now scale will spell power, can be commanded to sit or teleport, and can be equipped with armor  (Medieval Origins Revival)
+ - Pixies now have more maximum flight power, regenerate it faster after defeating the ender dragon, and can restore it by drinking dragon's breath (Medieval Origins Revival)
+ - All "Allied" checks should now also include members of the same FTB Team, and their pets/summons (Medieval Origins Revival)
+ - Massive updates to Complementary Shaders and Euphoria Patches, adding many improvements and new visual features
+
+
+### Fixes
+ - Siren Song not interrupting mobs that were already targeting you (Medieval Origins Revival)
+ - Valkyrie heal and Banshee shriek not scaling with spell power (Medieval Origins Revival)
+ - Correct Java version not being installed automatically when using the server pack
