@@ -88,6 +88,11 @@
       "id": "v30",
       "releasedAt": 1762073071000,
       "updateType": "minor"
+    },
+    {
+      "id": "v30 HF",
+      "releasedAt": 1762400105000,
+      "updateType": "minor"
     }
   ]
 }

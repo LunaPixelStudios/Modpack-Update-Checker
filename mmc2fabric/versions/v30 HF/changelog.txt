@@ -1,0 +1,9 @@
+# [Hotfix Update]
+## Mod Changes
+ - 🔵 Updated 3 mods
+
+
+### Fixes
+ - Travelers Backpacks being invisible
+ - Millions of fireflies always appearing at night
+ - A few vanilla entities having some invisible or broken model parts
