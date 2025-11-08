@@ -1,0 +1,47 @@
+# [Aquatic Update]
+## Mod Changes
+ - 🟢 Added [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic) (by HybridLabs)
+ - 🟢 Added [Seasonal Integration](https://www.curseforge.com/minecraft/mc-mods/seasonal-integration) (by The_Lamb_Of_Bernicia)
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🟢 Added [Grave Destruction fix for "You're in Grave Danger" and "L_Ender 's Cataclysm" bosses](https://www.curseforge.com/minecraft/mc-mods/grave-destruction-fix-for-youre-in-grave-danger) (by RasArtGhul)
+ - 🟢 Added [World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time) (by khajiitos)
+ - 🟢 Added [Reset Controls Confirmation](https://www.curseforge.com/minecraft/mc-mods/reset-controls-confirmation) (by joshieman)
+ - 🟢 Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - 🔴 Removed [Visuality Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged) (Replaced by Subtle Effects)
+ - 🔴 Removed [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) (Archived on CF)
+ - 🔵 Updated 50 mods
+
+
+### Config Changes
+ - Added a Russian translation to the questbook (Thanks Slava_vas!)
+ - Added a quest for crafting & using the Supplementaries quiver
+ - Snow and ice no longer generate during the Winter season. Let us know your thoughts on this change, as we've seen a lot of complaints about it but some people might still like it
+ - Improved order of icons at top left of inventory
+ - Improved appearance of mod logo in CrashAssistant screen
+ - Cauldrons can no longer be picked up with CarryOn as it would cause a softlock
+ - Enabled Modernfix Worldgen Allocation for improved world gen speeds
+ - Fixed the Shulker box quest having a grammatical error and saying the wrong keybind
+ - Disabled Subtle Effects waterfalls due to them appearing in places they shouldn’t and causing massive lag
+ - Disabled the Accessorify arrow slot, as the Supplementaries Quiver already exists
+ - Disabled the CrashAssistant MCreator mod detector to prevent user confusion
+
+
+### Updates
+ - Added the Mining Complex structure, replacing the Mining System. All loot has been reworked and the structure has a new look ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Added compatibility with MANY new mods, and fixed consistency across some entity/block names ([Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added support for many new modded enchantment books ([Beautiful Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books))
+ - Added Badlands Villagers that spawn in Badlands biomes ([More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+ - Added ability to ping through transparent blocks when standing ([Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel))
+ - Reworked the Enchantment Table GUI ([Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic))
+ - Explosions now cause splashes when under water/lava ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - When opening a modded chest under water, bubbles will come out ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+
+
+### Fixes
+ - Villagers opening double doors having a chance to crash the game ([Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors))
+ - Memory leaks present in several other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+
+![img](https://i.postimg.cc/gkXwYm91/2025-10-26-00-22-31.png)
+![img](https://media.forgecdn.net/attachments/1111/342/silhouette-png.png)
+![img](https://media.forgecdn.net/attachments/799/528/2024-01-30-23-05-56.png)
+![img](https://media.forgecdn.net/attachments/1111/350/hammerhead-png.png)
