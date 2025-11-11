@@ -1,0 +1,18 @@
+[Stability Update]
+Mod Changes
+ - Removed [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (Made game unplayable on MacOS)
+ - Updated 10 mods
+
+
+Config Changes
+ - CrashAssistant will now warn the player when they make too many modifications to the modpack after a game crash
+ - Fixed game crash when opening video settings (was already fixed in v43.5 but not everyone updated)
+
+
+Updates
+ - Added more mod compatibility ([Mandala's GUI - Add-Ons](https://www.curseforge.com/minecraft/mc-mods/mandalas-gui-add-ons))
+
+
+Fixes
+ - Fish falling from the sky when its raining ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Many minor shader issues ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
