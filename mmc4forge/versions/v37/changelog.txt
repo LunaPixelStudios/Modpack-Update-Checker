@@ -1,0 +1,54 @@
+# **[Integration Update]**
+## Mod Changes
+ - 🟢 Added [Malfu Combat Datapack](https://www.curseforge.com/minecraft/data-packs/malfu-combat-datapack) (by Malfu)
+ - 🟢 Added [Malfu Combat Animation](https://www.curseforge.com/minecraft/texture-packs/malfu-combat-animation)
+ - 🟢 Added [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) (by _ForgeUser21552638)
+ - 🟢 Added [Shoulder Surfing Iron's Spells Integration](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-irons-spells-integration) (by Ellet)
+ - 🟢 Added [Shoulder Surfing - Pehkui Compat](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-pehkui-compat) (by pandaismyname1)
+ - 🟢 Added [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) (by Peppercorn)
+ - 🟢 Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - 🟢 Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - 🟢 Added [Origins ](https://www.curseforge.com/minecraft/mc-mods/origins) (by Apace)
+ - 🟢 Added [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic) (by HybridLabs)
+ - 🟢 Added [Better Combat Particle](https://www.curseforge.com/minecraft/mc-mods/better-combat-particle) (by Malfu)
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🔴 Removed Origins Forge
+ - 🔴 Removed Too Many Bows
+ - 🔵 Updated 61 mods
+
+
+### Config Changes
+ - Renamed Cold/Fire Damage to "Cold/Fire Damage On Hit"
+ - Added base levels for several bosses
+ - Added the Corpse Warlock, Sunleia, Scylla, Kamath Dead King, Frostmaw, and Tongbi the Sculptor to the bosses quests
+ - Nerfed the "Arcane Barrier" Skill Tree capstone by ~50%
+ - Small tweaks to bonus rare loot, springed, stamina affixes (cHin4916)
+ - Sunleia now no longer drops a Blessed Amulet (cHin4916)
+ - Blessed Amulets are now crafted in a starlit factory with ignitium ingots, a sculk transmitter, esoteric rarity scrap, and 2 divine blood vials (cHin4916)
+ - Added Eidolon rituals for Ancient City maps, and summoning a Shattered (cHin4916)
+ - Added enchanting infusion recipe for duplicating echo shards (cHin4916)
+ - Added enchanting infusion recipe for converting XP bottles into Aureal bottles (cHin4916)
+ - Esoteric Reforging tables are now crafted in the Eidolon worktable, and now require an Esoteric gem, Obsidian heart, Eternal Stella, and Eternal Crystal - and no longer require Esoteric scrap (cHin4916)
+ - Dragonforge cores now require a Tier 5 Hephaestus Forge to craft (cHin4916)
+
+
+### Updates
+ - Huge improvements to CPU usage, thanks to removing Apugli and switching from the unofficial Forge port of Origins to the official version!
+ - Revenants can now command their summons, equip them with armor, and received many other QoL improvements
+ - Fae have received a rework adding many nature-themed abilities and wings
+ - Pixies now have more base FP, regenerate it twice as fast after defeating the ender dragon, and can consume Glow Berries/Dragon Breath to restore FP
+ - Valkyrie's Intervention heal and Banshee's Sonic Shriek now scale with Iron's spell power
+
+
+### Fixes
+ - Mismatched excalibur textures for Alshanex's "Familiar Ring" (Thanks cHin4916!)
+ - Add missing translations for high level potion effects (cHin4916)
+ - Missing translations for modpack added ability affix tooltips
+ - Outdated GUI texture for Wizards Reborn Alchemy Machine
+ - Cataclysm Bosses being able to destroy graves
+ - Siren Song not interrupting mobs that were already targeting the player
+
+![img](https://media.forgecdn.net/attachments/1111/350/hammerhead-png.png)
+![img](https://media.forgecdn.net/attachments/1349/507/2025-10-06_22-23-30_3-png.png)
+![img](https://i.imgur.com/fTyKanI.png)
+![img](https://media.forgecdn.net/attachments/1371/266/screenshot-2025-10-26-210844-jpg.jpg)
