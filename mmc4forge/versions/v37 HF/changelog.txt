@@ -1,0 +1,10 @@
+# **[Hotfix Update]**
+## Mod Changes
+ - 🔴 Removed Ixeris
+ - 🔵 Updated 3 mods
+
+
+### Fixes
+ - Thousands of fireflies appearing everywhere
+ - Modded GUIs flashing/flickering
+ - Main menu buttons being unclickable on MacOS
