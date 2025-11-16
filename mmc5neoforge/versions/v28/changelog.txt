@@ -1,0 +1,33 @@
+# **[Leveling Update]**
+## Mod Changes
+ - 🟢 Added [Better Combat Particle](https://www.curseforge.com/minecraft/mc-mods/better-combat-particle) (by Malfu)
+ - 🟢 Added [Ender's Spells and Stuff Requiem](https://www.curseforge.com/minecraft/mc-mods/enders-spells-and-stuff-requiem) (by EnderTheNerd)
+ - 🟢 Added [Seasonal Integration](https://www.curseforge.com/minecraft/mc-mods/seasonal-integration) (by The_Lamb_Of_Bernicia)
+ - 🟢 Added [Disconnect Packet Fix](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix) (by ascpixi)
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🔵 Updated 69 mods
+ - 🔴 Removed Noisium (Archived)
+ - 🔴 Removed Nirvana Library (Not needed)
+
+
+### Config Changes
+ - Graves can now no longer be destroyed by Cataclysm bosses
+ - Renamed Fire/Cold Damage to Fire/Cold Damage On Hit
+ - Added quests for Ferrous Wroughtnaut, Frostmaw, Tongbi the Sculptor, Umvuthi, Fire/Ice/Lightning Dragons, Hydras, and the Wise Mystical Oak Tree
+ - Disabled armor toughness display in Mob Plaques
+
+
+### Updates
+ - Added 5 new items: Potion of Growth, Elixir of Nurturing, Essence of Vitality, Draught of Ascension, Crystal of Awakening. These consumables drop from leveled mobs, can be used to level up your tamed pets and mounts (or other mobs)
+ - Player level nameplates now update based on skill tree points
+ - Enemy levels now increase slightly based on skill tree points of nearby players
+ - Added the Mining Complex. This new structure is a complete rework of the old Mining System, and features many improvements. An outpost of the Mechanical Nest can be found in the surface, leading down into the mines. (When Dungeons Arise)
+ - Major reworks from Just Another Witchery Remake (i have no idea what changed though)
+
+
+### Fixes
+ - Boss quests for Netherite Monstrosity and The Harbinger being mixed up
+ - Gravity modifiers persisting after certain lunar events (Lunar)
+
+![img](https://media.forgecdn.net/attachments/1371/266/screenshot-2025-10-26-210844-jpg.jpg)
+![img](https://raw.githubusercontent.com/HollowHorizon/CertainQuestingAdditions/refs/heads/master/demo/opening.gif)
