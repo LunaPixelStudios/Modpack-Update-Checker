@@ -14,6 +14,8 @@
  - Graves can now no longer be destroyed by Cataclysm bosses
  - Renamed Fire/Cold Damage to Fire/Cold Damage On Hit
  - Added quests for Ferrous Wroughtnaut, Frostmaw, Tongbi the Sculptor, Umvuthi, Fire/Ice/Lightning Dragons, Hydras, and the Wise Mystical Oak Tree
+ - Added the starting level of bosses to all of their quest titles
+ - Fixed quests for Netherite Monstrosity/The Harbinger
  - Disabled armor toughness display in Mob Plaques
 
 
@@ -23,11 +25,7 @@
  - Enemy levels now increase slightly based on skill tree points of nearby players
  - Added the Mining Complex. This new structure is a complete rework of the old Mining System, and features many improvements. An outpost of the Mechanical Nest can be found in the surface, leading down into the mines. (When Dungeons Arise)
  - Major reworks from Just Another Witchery Remake (i have no idea what changed though)
-
-
-### Fixes
- - Boss quests for Netherite Monstrosity and The Harbinger being mixed up
- - Gravity modifiers persisting after certain lunar events (Lunar)
+ - Fixed gravity modifiers persisting after certain lunar events (Lunar)
 
 ![img](https://media.forgecdn.net/attachments/1371/266/screenshot-2025-10-26-210844-jpg.jpg)
 ![img](https://raw.githubusercontent.com/HollowHorizon/CertainQuestingAdditions/refs/heads/master/demo/opening.gif)
