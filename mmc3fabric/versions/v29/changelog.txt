@@ -1,0 +1,47 @@
+# [Mine Cells Update]
+## Mod Changes
+ - 🟢 Added [Mine Cells - Dead Cells Mod](https://www.curseforge.com/minecraft/mc-mods/minecells) (by mim1q)
+ - 🟢 Added [Better Combat Particle](https://www.curseforge.com/minecraft/mc-mods/better-combat-particle) (by Malfu)
+ - 🟢 Added [Critical Strike](https://www.curseforge.com/minecraft/mc-mods/critical-strike) (by daedelus_dev)
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🟢 Added [Simple Snowy Fix ](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) (by KostromDan)
+ - 🟢 Added [Two Players One Horse](https://www.curseforge.com/minecraft/mc-mods/two-players-one-horse) (by Beethoven92)
+ - 🟢 Added [Farsight [Fabric]](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) (by someaddon)
+ - 🟢 Added [Serene Seasons Plus - ](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus) (by Gaboouu)
+ - 🟢 Added [Epic Structures Witch Huts](https://www.curseforge.com/minecraft/mc-mods/epic-structures-witch-huts) (by ATii)
+ - 🟢 Added [Fancy Door Animations](https://www.curseforge.com/minecraft/mc-mods/fancy-door-animations) (by Yomna)
+ - 🟢 Added [Patchouli ](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric) (by Vazkii)
+ - 🟢 Added [Epic Structures Villages ](https://www.curseforge.com/minecraft/mc-mods/epic-villages) (by ATii)
+ - 🟢 Added [Horseshoes](https://www.curseforge.com/minecraft/mc-mods/horseshoes) (by CyborgPigeon)
+ - 🟢 Added [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (by Povstalec)
+ - 🟢 Added [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds) (by Qendolin)
+ - 🔴 Removed Fabric Seasons: Extras (Incompatible with Patchouli)
+ - 🔴 Removed Visuality (Replaced by Subtle Effects)
+ - 🔴 Removed Noisium (Archived by Developer)
+ - 🔴 Removed Bobby (Replaced)
+ - 🔴 Removed Fabric Seasons: Delight Compat (Replaced)
+ - 🔵 Updated 27 mods
+
+
+### Config Changes
+ - Updated Tiered rarities to use Critical Strike mod attributes
+ - Some rare items will now have additional enchantment slots
+ - Fixed duplicate Spell Book slot tooltip on books
+ - Fixed Oathsworn Paladins books not being equippable
+
+
+### Updates
+ - Backported all of Spring to Life, Bundles of Bravery, Armored Paws, Bats and Pots: Added leaf litter, firefly bushes, fallen trees, wolf armor, armadillos, animal variants, and more (Vanilla Backport)
+ - Added the Mining Complex. This new structure is a complete rework of the old Mining System, and features many improvements. An outpost of the Mechanical Nest can be found in the surface, leading down into the mines. (When Dungeons Arise)
+ - Spell Votalility enchantment is now for weapons only (Spell Power Attributes)
+ - New Dragon Caves/Roost generation (Ice and Fire: CE)
+
+
+### Fixes
+ - Charm chests not being craftable into Mythic Metals chests (MM: Decorations)
+ - Powers sometimes desyncing after being on a server for a long period of time (Medieval Origins Revival)
+
+![img](https://media.forgecdn.net/attachments/800/511/2024-02-01_18.png)
+![img](https://media.forgecdn.net/attachments/1371/266/screenshot-2025-10-26-210844-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1218/752/8ada0fc84d4bf9c20c467e0c28484be53ee86bab-png.png)
+![img](https://media.forgecdn.net/attachments/1258/316/img_5283-gif.gif)
