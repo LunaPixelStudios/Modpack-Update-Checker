@@ -6,8 +6,8 @@
  - 🟢 Added [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds) (by Qendolin)
  - 🟢 Added [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (by Povstalec)
  - 🔴 Removed [Dynamic Trim](https://www.curseforge.com/minecraft/mc-mods/dynamic-trim)
- - 🔵 Updated 25 mods
  - 🔴 Removed [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) (Archived by Developer)
+ - 🔵 Updated 25 mods
 
 
 ### Updates
