@@ -1,0 +1,23 @@
+# [Sky Update]
+## Mod Changes
+ - 🟢 Added [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) (by finndog_123)
+ - 🟢 Added [Epic Structures Witch Huts](https://www.curseforge.com/minecraft/mc-mods/epic-structures-witch-huts) (by ATii)
+ - 🟢 Added [Epic Structures Villages ](https://www.curseforge.com/minecraft/mc-mods/epic-villages) (by ATii)
+ - 🟢 Added [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds) (by Qendolin)
+ - 🟢 Added [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (by Povstalec)
+ - 🔴 Removed [Dynamic Trim](https://www.curseforge.com/minecraft/mc-mods/dynamic-trim)
+ - 🔵 Updated 25 mods
+ - 🔴 Removed [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) (Archived by Developer)
+
+
+### Updates
+ - Backported all of Spring to Life, Bundles of Bravery, Armored Paws, Bats and Pots: Added leaf litter, firefly bushes, fallen trees, wolf armor, armadillos, animal variants, and more (Vanilla Backport)
+ - Huge improvements to CPU usage, thanks to removing Apugli
+ - Revenants can now command their summons, equip them with armor, and received many other QoL improvements
+ - Fae have received a rework adding many nature-themed abilities and wings
+ - Pixies now have more base FP, regenerate it twice as fast after defeating the ender dragon, and can consume Glow Berries/Dragon Breath to restore FP
+ - Valkyrie's Intervention heal and Banshee's Sonic Shriek now scale with Spell Power
+
+![img](https://media.forgecdn.net/attachments/1258/331/img_5285-gif.gif)
+![img](https://media.forgecdn.net/attachments/1302/986/2025-08-26_22-05-11-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1324/725/1000027742-jpg.jpg)
