@@ -12,11 +12,6 @@
 
 ### Updates
  - Backported all of Spring to Life, Bundles of Bravery, Armored Paws, Bats and Pots: Added leaf litter, firefly bushes, fallen trees, wolf armor, armadillos, animal variants, and more (Vanilla Backport)
- - Huge improvements to CPU usage, thanks to removing Apugli
- - Revenants can now command their summons, equip them with armor, and received many other QoL improvements
- - Fae have received a rework adding many nature-themed abilities and wings
- - Pixies now have more base FP, regenerate it twice as fast after defeating the ender dragon, and can consume Glow Berries/Dragon Breath to restore FP
- - Valkyrie's Intervention heal and Banshee's Sonic Shriek now scale with Spell Power
 
 ![img](https://media.forgecdn.net/attachments/1258/331/img_5285-gif.gif)
 ![img](https://media.forgecdn.net/attachments/1302/986/2025-08-26_22-05-11-jpg.jpg)
