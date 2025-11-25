@@ -1,0 +1,27 @@
+[Visuals Update]
+Mod Changes
+ - Added [Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards) (by Project8gbDeRam)
+ - Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - Added [Climate Rivers language Fix](https://www.curseforge.com/minecraft/texture-packs/cr-lang-fix) (by Robdog)
+ - Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - Updated 17 mods
+
+
+Config Changes
+ - Snow and ice no longer generate during the Winter season. Let us know your thoughts on this change, as we've seen a lot of complaints about it but some people might still like it
+ - Cauldrons can no longer be picked up with CarryOn to prevent a potential softlock
+ - Improved appearance of modpack logo in CrashAssistant screen
+ - Disabled the Forgery feature that made falling entities trigger note blocks
+ - Disabled the CrashAssistant MCreator mod detector to prevent user confusion
+
+
+Updates
+ - Added ability to ping through transparent blocks when standing ([Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel))
+
+
+Fixes
+ - Colored lighting breaking in some scenarios ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Small stools not letting you sit when holding a block in hand ([Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture))
+ - Rare memory leak ([Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged))
+ - Settings Resetting
+ - Error Downloading Modpack
