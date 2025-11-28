@@ -1,0 +1,25 @@
+## Mod Changes
+
+ - 🟢 Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - 🟢 Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
+ - 🟢 Added [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (by MincraftEinstein)
+ - 🟢 Added [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) (by Project8gbDeRam)
+ - 🟢 Added [Better Combat Particle](https://www.curseforge.com/minecraft/mc-mods/better-combat-particle) (by Malfu)
+ - 🔴 Removed Just Enough Resources  (Replaced)
+ - 🔴 Removed Simple Voice Chat (Memory leak)
+ - 🔴 Removed Forge CIT (Memory usage)
+ - 🔴 Removed Nirvana Library (No longer needed)
+ - 🔴 Removed Fluffy Fur (No longer needed)
+ - 🔴 Removed AzureLib Armor (No longer needed)
+ - 🔵 Updated 62 mods
+
+
+### Updates
+
+ - Fix in-world Fire stone transformations
+ - Patch a rare crash caused by lootbeams
+ - Add better effects to other in-world transforms
+ - Tweak some end-of-campaign lore
+ - Nexus Return Portals now first try to take the player to the End Portal they used to get there
+ - Fixed Eye of Nothingness recipe
+ - Lowered hunger exhaustion amount
