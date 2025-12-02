@@ -1,0 +1,43 @@
+# **[Copper Update]**
+## Mod Changes
+
+ - 🟢 Added [Copper Age Backport](https://www.curseforge.com/minecraft/mc-mods/copper-age-backport) (by Smallinger)
+ - 🟢 Added [Pillager Caravans](https://www.curseforge.com/minecraft/mc-mods/pillager-caravans) (by Obscuria)
+ - 🟢 Added [Better Clouds](https://www.curseforge.com/minecraft/mc-mods/better-clouds) (by Qendolin)
+ - 🟢 Added [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (by Povstalec)
+ - 🟢 Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - 🟢 Added [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat) (by Vykket)
+ - 🟢 Added [Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks) (by pajic)
+ - 🟢 Added [Compatibility addon for MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies-compatibility) (by gisellevonbingen)
+ - 🟢 Added [Tweaks addon for MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies-tweaks) (by supernover0102)
+ - 🔵 Updated 50 mods
+
+
+### Config Changes
+
+ - Lowered Accessory slot amounts: Now 1 shoes, 1 wrist, 1 hands, 1 charm.
+ - Temporarily disable the Cleanse cast affix due to a potential rendering crash
+ - Added 5 selections for Starter Kits
+ - Spell damage (from Iron's+addons and Ars Nouveau) is now treated as magic damage
+ - Disabled Friends and Foes' copper golem
+ - Disabled Ice and Fire's base copper gear
+
+
+### Updates
+
+ - Added Excalibur textures for Mowzie's Mobs (thanks Ruseki!)
+ - Added more fitting combat animations for weapons from Iron's Spellbooks and Hazen n' Stuff (thanks RikkaDev!)
+ - 11 new structures! Additional buildings and base houses (Farmers Structures)
+ - Added Crows, Scarecrows, Nests, Hay Rugs, Corn Stalks, Corn Mazes, Moonshine, Mums (Hearth and Harvest)
+
+
+### Fixes
+
+ - Level-up items dropping from blocks, and being too common
+ - Rings/Necklaces having no gems that could be socketed into them
+ - Inventory slot desyncing in multiplayer when players are hit by a mob (Fixes attacks randomly not working)
+
+![img](https://media.forgecdn.net/attachments/1396/750/golem-transport-small-gif.gif)
+![img](https://media.forgecdn.net/attachments/1343/459/3-jpg.jpg)
+![img](https://raw.githubusercontent.com/Qendolin/better-clouds/1.19/assets/panorama_sm.webp)
+![img](https://media.forgecdn.net/attachments/1066/29/2025-01-13_20.png)
