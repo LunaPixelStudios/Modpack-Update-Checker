@@ -1,0 +1,3 @@
+HOTFIX:
+
+Downgraded Hazen n' Stuff to 1.2.0, due to various issues in 1.3+ that were only resolved after it ported to AzureLib 3.1+, which 4 other mods in this modpack don't yet support.
