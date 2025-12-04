@@ -1,0 +1,32 @@
+# **[Copper Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Copper Age Backport](https://www.curseforge.com/minecraft/mc-mods/copper-age-backport) (by Smallinger)
+ - 🟢 Added [Serene Seasons Plus - ](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus) (by Gaboouu)
+ - 🟢 Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - 🟢 Added [Excalibur | Mowzie's Mobs Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support) (by Ruseki)
+ - 🔵 Updated 45 mods
+
+
+### Config Changes
+
+ - Disabled Friends and Foes Copper Golem
+ - Disabled Ice and Fire base copper gear
+
+
+### Updates
+
+ - Added new and overhauled animations (Faunify)
+
+### Fixes
+
+ - Crash when loading multi-part entities like Twilight Forest Naga or Alex's Caves Gum Worm
+ - Crash when Revenants gave their summons a weapon
+ - Revenant/Siren "mobs ignore" powers not working properly
+ - High Elf's Highborne not granting mana regen when activated
+
+![img](https://media.forgecdn.net/attachments/1408/945/117-png.png)
+![img](https://media.forgecdn.net/attachments/1408/941/113-png.png)
+![img](https://media.forgecdn.net/attachments/1408/953/125-png.png)
+![img](https://media.forgecdn.net/attachments/1396/750/golem-transport-small-gif.gif)
