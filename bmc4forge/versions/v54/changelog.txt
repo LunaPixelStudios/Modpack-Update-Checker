@@ -1,0 +1,46 @@
+[Content Update]
+Mod Changes
+ - Added [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - Added [Alex's Mobs Compat](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-compat) (by Cyber_Rat)
+ - Added [World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time) (by khajiitos)
+ - Added [Reset Controls Confirmation](https://www.curseforge.com/minecraft/mc-mods/reset-controls-confirmation) (by joshieman)
+ - Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - Added [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) (by 04find)
+ - Removed [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) (Archived by developer)
+ - Removed [Pale Garden and Creaking](https://www.curseforge.com/minecraft/mc-mods/pale-garden) (Replaced)
+ - Removed [Visuality Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged) (Replaced)
+ - Updated 50 mods
+
+
+Config Changes
+ - Added a quest for crafting & using the Supplementaries quiver
+ - Enabled Modernfix Worldgen Allocation for improved world generation speeds
+ - Improved coloring of some quest subtitles
+ - Fixed trading post quest subtitle saying villagers follow emeralds instead of emerald blocks
+ - Fixed Pet Collar quest saying Craft instead of Obtain, as the Pet Collar is not craftable
+ - Regenerated ModernFix structure cache for improved world generation speeds
+ - CrashAssistant will now warn the player when they make too many modifications to the modpack after a game crash
+ - Disabled Subtle Effects waterfalls due to them appearing in places they shouldn’t and causing massive lag
+
+
+Updates
+ - Added support for MANY new mods ([Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added 11 new structures ([Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures))
+ - Added custom spawn egg textures for 30 more mods and improved some existing textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added custom enchant book textures for more modded enchantments ([Beautiful Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books))
+ - Added sheep fluff particles when attacking sheep ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added slime particles when attacking slimes ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Converted all blocks from the old Pale Garden mod to blocks from the Vanilla Backport mod ([BMC Pale Garden "Datafixer"](https://www.curseforge.com/minecraft/mc-mods/bmc-pale-garden-patcher))
+ - Greatly improved performance when modded HUD elements are on screen ([Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum))
+ - The Copper Tower structure is now rarer and no longer spawns with a netherite block inside ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - Guard inventory now shows hearts and armor icons instead of just numbers ([Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers))
+ - Major improvements to CrashAssistant UI ([Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant))
+ - Updated Bisect integration mod for new Bisect One plan ([BisectHosting Server Integration](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge))
+
+
+Fixes
+ - Antivirus false positives that would sometimes make the modpack fail to download ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Many consistency issues with item & entity names ([Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Guards not patrolling near villages ([Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers))
+ - Several memory leaks present in other mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+ - Crash in the Statistics screen ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
