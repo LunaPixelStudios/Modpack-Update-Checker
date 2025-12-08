@@ -1,0 +1,41 @@
+[Content Update]
+Mod Changes
+ - Added [Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) (by BlackGear)
+ - Added [Farsight [Fabric]](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) (by someaddon)
+ - Added [World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time) (by khajiitos)
+ - Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - Added [Climate Rivers Language Fix](https://www.curseforge.com/minecraft/texture-packs/cr-lang-fix) (by Robdog)
+ - Added [Reset Controls Confirmation](https://www.curseforge.com/minecraft/mc-mods/reset-controls-confirmation) (by joshieman)
+ - Removed [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) (Caused issue where lighting would stop working in some chunks)
+ - Removed [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) (Archived by developer)
+ - Removed [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality) (Replaced)
+ - Updated 30 mods
+
+
+Config Changes
+ - Added a quest for obtaining a quiver
+ - Enabled Modernfix Worldgen Allocation for improved world gen speeds
+ - CrashAssistant will now warn the player when they make too many modifications to the modpack after a game crash
+ - Regenerated ModernFix structure cache for improved world generation speeds
+ - Improved appearance of mod logo in CrashAssistant screen
+ - Fixed GraalVM 21 not always auto-installing when using the server files
+ - Fixed trading post quest subtitle saying villagers follow emeralds instead of emerald blocks
+ - Disabled Subtle Effects waterfalls due to them appearing in places they shouldn’t and causing massive lag
+ - Disabled the CrashAssistant MCreator mod detector to prevent user confusion
+
+
+Updates
+ - Added support for MANY new mods ([Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added custom spawn egg textures for 30 more mods and improved some existing textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added slime particles when attacking slimes ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sheep fluff particles when attacking sheep ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - The Copper Tower structure is now rarer and no longer spawns with a netherite block inside ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - The ingame Bisect purchase menu is now updated for the Bisect One plan ([BisectHosting Server Integration](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-fabric))
+ - Major improvements to CrashAssistant UI ([Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant))
+ - Improved sculk transmitter behavior ([Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))
+
+
+Fixes
+ - Many consistency issues with item & entity names ([Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Crash in the Statistics screen ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Map arrow spinning randomly in The Nether ([Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix))
