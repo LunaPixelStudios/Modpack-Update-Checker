@@ -1,0 +1,36 @@
+# [Winter Update]
+
+## Mod Changes
+
+ - 🟢 Added [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) (by PinkGoosik)
+ - 🟢 Added [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) (by moepus)
+ - 🟢 Added [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat) (by Vykket)
+ - 🟢 Added [Pillager Caravans](https://www.curseforge.com/minecraft/mc-mods/pillager-caravans) (by Obscuria)
+ - 🟢 Added [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts) (by Bivrik)
+ - 🟢 Added [Wizard Villagers!](https://www.curseforge.com/minecraft/mc-mods/kevs-guardvillagers-fork) (by KevzCz)
+ - 🟢 Added [WindChime Unofficial Continued](https://www.curseforge.com/minecraft/mc-mods/windchime-unofficial-continued) (by NightEpiphany)
+ - 🔴 Removed [Advancement Plaques [Fabric]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric) (Replaced)
+ - 🔵 Updated 58 mods
+
+
+### Config Changes
+
+ - Disabled Mythic Metals copper tools/armor in favor of Ice and Fire's
+
+
+### Updates
+
+ - Added Sword of the Nightlord (Marium's Soulslike Weaponry)
+ - Added a new weapon upgrading system with the Smithing Table. A new item Twinkling Titanite has been added, use it to upgrade items' stats, like damage and attack speed for melee and ranged weapons, or armor values for armor (Marium's Soulslike Weaponry)
+ - Added slime particles when attacking slimes (Subtle Effects)
+ - Added netherite horseshoe (Horseshoes)
+
+
+### Fixes
+
+ - Excalibur textures not applying to all Ice and Fire
+ - Malfu Combat's Dash Animation not applying to Combat Roll
+
+![img](https://i.imgur.com/zRirSaD.png)
+![img](https://media.forgecdn.net/attachments/1343/459/3-jpg.jpg)
+![img](https://media.forgecdn.net/attachments/1292/800/screenshot_3-png.png)
