@@ -1,0 +1,31 @@
+[Quality of Life Update]
+Mod Changes
+ - Added [Zombie Improvements](https://www.curseforge.com/minecraft/mc-mods/zombie-improvements) (by pajic)
+ - Added [Rewithered](https://www.curseforge.com/minecraft/mc-mods/rewithered) (by pajic)
+ - Updated 60 mods
+
+
+Config Changes
+ - Added a quest for the new Explorer villager
+ - Fixed GraalVM 21 not always auto-installing when using the server files
+ - Fixed issue where some inventories would become unsortable
+ - Fixed some instances of incorrect resourcepack order
+ - Fixed Quiver quest saying Craft instead of Obtain
+ - Removed line in Trading Post quest about villagers following players when an emerald is in hand, as that feature does not exist currently
+
+
+Updates
+ - Added 11 new structures ([Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures))
+ - Added 6 new structures ([AdoraBuild Structures](https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures))
+ - Added the Explorer villager profession ([More Villagers  Re-employed](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+ - Added many new custom spawn egg textures and improved existing ones ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added slime particles when attacking slimes ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sheep fluff particles when attacking sheep ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Significantly decreased spawn rates of structures ([AdoraBuild Structures](https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures))
+ - The Copper Tower structure is now rarer and no longer spawns with a netherite block inside ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - Major improvements to CrashAssistant UI ([Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant))
+
+
+Fixes
+ - Reduced memory usage ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Crash in the Statistics screen ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
