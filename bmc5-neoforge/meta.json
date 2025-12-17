@@ -256,11 +256,6 @@
         "id": "v45",
         "releasedAt": 1765690475000,
         "updateType": "minor_breaking"
-      },
-      {
-        "id": "v45.5",
-        "releasedAt": 1765732839000,
-        "updateType": "minor_breaking"
       }
     ]
   }
