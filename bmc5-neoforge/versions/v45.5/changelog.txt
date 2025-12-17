@@ -1,1 +1,0 @@
-- Fixed mismatch between client and server files that caused blocks to incorrectly appear as other blocks. This issue was purely visual and did not cause any damage to worlds.
