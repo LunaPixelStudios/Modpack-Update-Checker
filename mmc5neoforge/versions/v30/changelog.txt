@@ -1,0 +1,29 @@
+# **[Winter Update]**
+
+## Mod Changes
+
+ - 🟢 Added [ChristmasColonies](https://www.curseforge.com/minecraft/mc-mods/christmascolonies) (by Raycoms)
+ - 🟢 Added [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) (by PinkGoosik)
+ - 🟢 Added [Transmog](https://www.curseforge.com/minecraft/mc-mods/transmog) (by Hidoni)
+ - 🟢 Added [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts) (by Bivrik)
+ - 🟢 Added [Cinematic Cataclysm](https://www.curseforge.com/minecraft/mc-mods/cinematic-cataclysm) (by FINDERFEED)
+ - 🟢 Added [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) (by GamesOfLife)
+ - 🟢 Added [Moog's Seasonal Expansion: A Moogmas Miracle](https://www.curseforge.com/minecraft/data-packs/moogs-seasonal-expansion-a-moogmas-miracle) (by finndog_123)
+ - 🔵 Updated 50 mods
+ - 🔴 Removed Advancement Plaques [Neo/Forge] (Replaced)
+
+
+### Updates
+
+ - Ported Malfu Combat Roll Animation from 1.20.1
+ - Added Excalibur textures for Better Archaeology (thanks Ruseki!)
+
+
+### Fixes
+
+ - Excalibur textures not applying for most Ice and Fire equipment
+ - Rare crash caused by having certain Relics equipped
+ - Fixed issue where some inventories would become unsortable
+
+![img](https://i.imgur.com/zRirSaD.png)
+![img](https://media.forgecdn.net/attachments/1292/800/screenshot_3-png.png)
