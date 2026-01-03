@@ -1,0 +1,57 @@
+[Major Update]
+Mod Changes
+ - Added [Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials) (by Aureljz)
+ - Added [Certain Questing Additions](https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions) (by HollowHorizon)
+ - Added [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me) (by ishlandmc)
+ - Added [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (by decce)
+ - Added [Reset Controls Confirmation](https://www.curseforge.com/minecraft/mc-mods/reset-controls-confirmation) (by joshieman)
+ - Removed [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (Caused crash on world rejoin)
+ - Removed [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) (Caused lighting to stop working in rare cases)
+ - Removed [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality) (Replaced)
+ - Updated 80 mods
+
+
+Config Changes
+ - Added a new "Villagers" quest category
+ - Optimized the c2me config for improved chunk generation speeds and overall performance (Thanks omo50!)
+ - Enabled Modernfix Worldgen Allocation for improved world generation speeds
+ - Swapped the location of the Quest Book and Teams icons
+ - Bound the Open Shulker keybind to N and fixed the Shulker Box quest description being incorrect
+ - Improved appearance of mod logo in CrashAssistant screen
+ - CrashAssistant will now warn the player when they make too many modifications to the modpack after a game crash
+ - Quest categories for the more difficult dimensions now have bold names
+ - Fixed GraalVM 21 not always auto-installing when using the server files
+ - Fixed some cases of GUI textures missing the Mandalas GUI theming
+ - Fixed issue where some inventories would become unsortable
+ - Disabled the Accessorify arrow slot, as the Supplementaries Quiver already exists
+ - Disabled Subtle Effects waterfalls due to them appearing in places they shouldn’t and causing massive lag
+ - Disabled the CrashAssistant MCreator mod detector to prevent user confusion
+
+
+Updates
+ - Added compatibility with hundreds of new mods and fixed many item naming inconsistencies ([The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added support for many new enchanted books ([Beautiful Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books))
+ - Added 6 new structures ([AdoraBuild Structures](https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures))
+ - Added the Explorer villager profession ([More Villagers  Re-employed](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+ - Added many new custom spawn egg textures and improved existing ones ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added feature that can block malicious traffic ([Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity))
+ - Added slime particles when attacking slimes ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sheep fluff particles when attacking sheep ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Completely reworked the Mining System structure into the Mining Complex.  The enchantments Discharge and Voltaic Shot can be found within this structure ([When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Significantly decreased spawn rates of structures ([AdoraBuild Structures](https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures))
+ - Re-balanced villager trades ([More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+ - The Copper Tower structure is now rarer and no longer spawns with a netherite block inside ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - Zombies will now be converted to Gelids in powdered snow ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
+ - The ingame Bisect purchase menu is now updated for the Bisect One plan ([BisectHosting Server Integration](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-fabric))
+ - Major improvements to CrashAssistant UI ([Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant))
+
+
+Fixes
+ - Many small things not working as intended ([Charm Forked](https://www.curseforge.com/minecraft/mc-mods/charm-forked))
+ - Map arrow spinning randomly in the nether ([Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix))
+ - Enchanting slot tooltips rendering twice ([Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic))
+ - Reduced memory usage ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Crash in the Statistics screen ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Z-fighting when placing carpets under blocks such as beds and chests ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Nametags causing a decrease in FPS ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Improved compatibility when picking up modded blocks ([Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on))
