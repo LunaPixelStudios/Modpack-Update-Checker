@@ -1,0 +1,30 @@
+[Content Update]
+Mod Changes
+ - Added [Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials) (by Aureljz)
+ - Added [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) (by GamesOfLife)
+ - Added [Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects) (by LopyTwich)
+ - Removed [Particle Effects Reforged](https://www.curseforge.com/minecraft/mc-mods/particle-effects-reforged) (Replaced)
+ - Updated 50 mods
+
+
+Config Changes
+ - Added a new "Villagers" quest category
+ - Recolored & reordered quest order to better reflect each dimension's difficulty
+ - Improved Cataclysm ability activation keybinds
+ - Fixed some cases of GUI textures missing the Mandalas GUI theming
+ - Disabled Wakes boat particles as they were visually intrusive
+
+
+Updates
+ - Added compatibility with hundreds of new mods and fixed many item naming inconsistencies ([The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added Freshwater Trout, Sunfish, Shiners, and Plecos ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Added feature that can block malicious traffic ([Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity))
+ - Improved spawn rates of underwater creatures ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Improved compatibility when picking up modded blocks ([Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on))
+ - Zombies will now be converted to Gelids in powdered snow ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
+ - Re-balanced villager trades ([More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-re-employed))
+
+
+Fixes
+ - Crabs spawning in caves ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Nametags causing a decrease in FPS ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
