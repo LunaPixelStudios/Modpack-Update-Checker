@@ -1,0 +1,65 @@
+## Mod Changes
+
+ - 🟢 Added [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin) (by jozufozu)
+ - 🟢 Added [Fancy Toasts | Better Advancements](https://www.curseforge.com/minecraft/mc-mods/fancy-toasts) (by Bivrik)
+ - 🟢 Added [Create Better FPS](https://www.curseforge.com/minecraft/mc-mods/create-better-fps) (by moepus)
+ - 🟢 Added [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman) (by mortuusars)
+ - 🟢 Added [Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!](https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books) (by Lupin)
+ - 🟢 Added [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) (by moepus)
+ - 🟢 Added [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui) (by Raycoms)
+ - 🟢 Added [Golem Overhaul](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul) (by joosh_7889)
+ - 🟢 Added [Bountiful Villager](https://www.curseforge.com/minecraft/mc-mods/bountiful-villager) (by P1nero)
+ - 🟢 Added [Create Dynamic Village](https://www.curseforge.com/minecraft/mc-mods/dynamic-village) (by a0a7)
+ - 🟢 Added [Sophisticated Backpacks Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration) (by P3pp3rF1y)
+ - 🟢 Added [YUNG's Bridges ](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) (by YUNGNICKYOUNG)
+ - 🟢 Added [Pillager Caravans](https://www.curseforge.com/minecraft/mc-mods/pillager-caravans) (by Obscuria)
+ - 🟢 Added [Sophisticated Storage Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration) (by P3pp3rF1y)
+ - 🟢 Added [P1nero's Dialogue Lib](https://www.curseforge.com/minecraft/mc-mods/p1neros-dialogue-lib) (by P1nero)
+ - 🟢 Added [Iris/Oculus Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder) (by SpacEagle17)
+ - 🟢 Added [Elysium API](https://www.curseforge.com/minecraft/mc-mods/elysium-api) (by ThatJadenXgamer)
+ - 🟢 Added [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion) (by ThatJadenXgamer)
+ - 🔴 Removed [Underground Villages, Stoneholm ](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm) (Replaced)
+ - 🔴 Removed [Pufferfish's Biome Dither [Fabric & Forge & NeoForge]](https://www.curseforge.com/minecraft/mc-mods/puffish-biome-dither)
+ - 🔴 Removed [Mineral Delight](https://www.curseforge.com/minecraft/mc-mods/mineral-delight)
+ - 🔴 Removed [MAtmos ambient sound](https://www.curseforge.com/minecraft/mc-mods/matmos2)
+ - 🔴 Removed [Immersive Tips](https://www.curseforge.com/minecraft/mc-mods/immersive-tips)
+ - 🔴 Removed [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+ - 🔴 Removed [SmartBrainLib ](https://www.curseforge.com/minecraft/mc-mods/smartbrainlib)
+ - 🔴 Removed [YUNG's Better Witch Huts ](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+ - 🔴 Removed [HammerLib](https://www.curseforge.com/minecraft/mc-mods/hammer-lib)
+ - 🔴 Removed [Mobs of Mythology](https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology)
+ - 🔴 Removed [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
+ - 🔴 Removed [Common Network](https://www.curseforge.com/minecraft/mc-mods/common-network)
+ - 🔴 Removed [Async Locator](https://www.curseforge.com/minecraft/mc-mods/async-locator) (Replaced)
+ - 🔴 Removed [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) (Replaced)
+ - 🔴 Removed [Rotten Creatures](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures)
+ - 🔴 Removed [Chef's Delight [Forge] - Farmer's Delight Villagers](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge)
+ - 🔴 Removed [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium) (Performance)
+ - 🔴 Removed [Faded Conquest II](https://www.curseforge.com/minecraft/mc-mods/faded-conquest-ii)
+ - 🔴 Removed [Platform](https://www.curseforge.com/minecraft/mc-mods/platform)
+ - 🔴 Removed [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-forge)
+ - 🔴 Removed [CrescentLib](https://www.curseforge.com/minecraft/mc-mods/crescentlib)
+ - 🔴 Removed [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)
+ - 🔴 Removed [TCDCommons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons)
+ - 🔴 Removed [TCT Core](https://www.curseforge.com/minecraft/mc-mods/tct-core)
+ - 🔴 Removed [Create Better Villager ](https://www.curseforge.com/minecraft/mc-mods/create-better-villager) (Replaced)
+ - 🔴 Removed [Bobby Reforged](https://www.curseforge.com/minecraft/mc-mods/bobby-reforged) (Replaced)
+ - 🔴 Removed [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) (Performance)
+ - 🔴 Removed [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (Performance)
+ - 🔵 Updated 55 mods
+
+
+### Config Changes
+
+ - Minor rebalancing to Apotheosis affixes
+ - Disabled Perception's screen shake
+ - Adjusted the hint on the final boss tips for how to counterspell
+ - Updated several ability keybinds
+
+
+### Updates
+
+ - Lowered passive hunger drain
+ - Added bedrock layer below Nexus hub
+ - Remastered audio tracks for Nexus
+ - Added second Nexus background track
