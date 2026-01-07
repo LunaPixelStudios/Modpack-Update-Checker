@@ -1,0 +1,4 @@
+- Fixed issue where game would crash upon entering any dimension
+- Fixed issue where biomes would generate without flowers and trees
+- Fixed issue where game would crash upon closing
+- Fixed issue where servers would not close properly
