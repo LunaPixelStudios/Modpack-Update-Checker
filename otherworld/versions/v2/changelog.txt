@@ -1,0 +1,16 @@
+## Mod Changes
+
+ - 🔴 Removed [Shoulder Surfing - Pehkui Compat](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-pehkui-compat) (Unneeded / Performance Issues)
+ - 🔵 Updated 8 mods
+
+
+### Config Changes
+
+ - Changed default perspective to Shoulder Surfing
+ - Update ServerBrowser settings for viewing public Otherworld servers
+ - Update Bisect config to use the correct modpack ID
+
+
+### Updates
+
+ - Fix summons trying to attack their owner, and summons not always protecting their owner (T.O Tweaks)
