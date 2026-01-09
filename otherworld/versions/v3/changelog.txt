@@ -17,7 +17,6 @@
  - Updated the loading screen background
  - Lowered thirst drain from sprinting, jumping, block breaking, and attacking by ~50%
  - Fixed optional Lifestealer quest in Chapter 1 not completing
- - Hid donation prompt in video settings
 
 
 ### Updates
