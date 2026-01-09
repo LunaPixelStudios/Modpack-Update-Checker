@@ -1,0 +1,41 @@
+## Mod Changes
+
+ - 🟢 Added [Shoulder Surfing Iron's Spells Integration](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-irons-spells-integration) (by Ellet)
+ - 🔴 Removed Noisium  (Archived by developer)
+ - 🔴 Removed Villagers Refreshed + Fresh Animations (Archived / Texture Issues)
+ - 🔴 Removed Golems Refreshed (Not needed)
+ - 🔵 Updated 2 mods
+
+
+### Config Changes
+
+ - Buffed Legendary Survival Overhaul Bandage healing 0.1 -> 0.5 health per tick (same as Valoria bandages)
+ - Unbound Soulbound weapon key from R (didn't actually conflict, but was confusing)
+ - Iron's Spells Greater Healing Potion and Valoria Vials now restore thirst
+ - Changed a few experience rewards near the end of the campaign
+ - The "Health and Regeneration" quest now gives 16 bandages and 4 potions, instead of 1 bandage
+ - Updated the loading screen background
+ - Lowered thirst drain from sprinting, jumping, block breaking, and attacking by ~50%
+ - Fixed optional Lifestealer quest in Chapter 1 not completing
+ - Hid donation prompt in video settings
+
+
+### Updates
+
+ - Casting a spell, cantrip or Race/Class ability while in third person mode now turns you toward your crosshair before firing
+ - Attacking with a weapon now properly turns you toward your crosshair before swinging
+ - Buffed Dragonborn breath abilities
+ - Added cooldown bars for Dragonborn Breath, Infernal Legacy, College of Lore
+ - Updated cooldown bar textures for Cantrips
+ - Wizard, Sorcerer, Bard, Cleric, Druid, Eldritch Knight can now choose a Cantrip
+ - High Elves (not just High Half-Elves) can now choose a Cantrip
+ - Removed +1 Magic bonus from High Elf/High Half-Elf  to compensate cantrip
+ - Nerfed attack damage bonus +3 -> +1 for Eldritch Knight to compensate cantrip
+
+
+### Fixes
+
+ - Patched a crash triggered by talking to the Aqua GrandMaster
+ - Lightning/Magic damage modifiers not working properly
+ - Rare crash caused by having shaders enabled while viewing a Fantasy Furniture bed (or clicking the Health and Regeneration quest)
+ - Zombie piglins randomly teleporting to y=-65 (Medieval Buildings)
