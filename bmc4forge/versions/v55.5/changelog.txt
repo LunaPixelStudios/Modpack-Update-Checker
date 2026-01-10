@@ -1,0 +1,1 @@
+- Fixed backpacks not having the intended amount of storage
