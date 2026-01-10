@@ -1,0 +1,34 @@
+[Stability Update]
+Mod Changes
+ - Added [Sweety's Items ](https://www.curseforge.com/minecraft/texture-packs/sweetys-items-alexs-mobs) (by Sweetygamer)
+ - Added [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) (by GamesOfLife)
+ - Removed [Geophilic Reforged – Biome Additions](https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged) (Replaced by main Geophilic mod)
+ - Removed [ucrashedlol](https://www.curseforge.com/minecraft/mc-mods/ucrashedlol) (No longer needed)
+ - Updated 40 mods
+
+Config Changes
+ - Added a reward for the Quiver quest
+ - Quest categories for the more difficult dimensions now have bold names
+ - Updated the safe quest for improved clarity
+ - Disabled Wakes boat particles as they were visually intrusive
+ - Fixed the modpacks custom controls not being bound due to a bug
+ - Fixed GraalVM 21 not always auto-installing when using the server files
+ - Fixed some minor issues with resourcepack order
+ - Fixed issue where some inventories would become unsortable
+
+Updates
+ - Added compatibility with hundreds of new mods and fixed many item naming inconsistencies ([The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added support for more modded spawn egg textures and improved textures of many existing spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added Chef and Cook houses for Savanna and Snowy biomes ([Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge))
+ - Added integration with many new mods ([Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding))
+ - Added feature that can block malicious network traffic ([Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity))
+ - You can now crawl while in mid-air, falling, jumping, and while swimming ([Crawl on Demand](https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand))
+ - Guard villagers will now intentionally avoid hazards like powdered snow ([Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers))
+ - The leaderboards icon is no longer on its own line and is now grouped with the rest of the icons ([Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards))
+ - Major performance improvements when using GUIs ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+
+Fixes
+ - Z-fighting when placing carpets under blocks such as beds and chests ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - BetterNether chests having the vanilla chest texture ([Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx))
+ - Nametags causing a decrease in FPS ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Ocean tower having a missing loot table ([Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
