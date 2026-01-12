@@ -1,0 +1,20 @@
+[Content Update]
+Mod Changes
+ - Added [Alex's Mobs ](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-1-21-1-port) (by Raguto)
+ - Added [Sweety's Items ](https://www.curseforge.com/minecraft/texture-packs/sweetys-items-alexs-mobs) (by Sweetygamer)
+ - Added [Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection) (by nullifyac)
+ - Updated 21 mods
+
+
+Config Changes
+ - CarryOn no longer prevents filled item frames from being turned invisible by shift right clicking with an empty hand
+ - Tweaked many Overworld quest descriptions
+ - Updated the quest for the Supplementaries Safe
+ - Downgraded CarryOn mod version to fix issue that would kick everyone on a multiplayer server when more than 4 people were connected
+
+
+Updates
+ - Added 7 new paintings ([Aurelj's Paintings](https://www.curseforge.com/minecraft/mc-mods/aureljs-paintings))
+ - Added support for Nether Trials & Chambers ([Loot Integrations When Dungeons Arise & Co](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise))
+ - Removed loose loot and armor stands in the Central Chamber ([Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials))
+ - Removed unnecessary particle effects that would cause lag ([Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials))
