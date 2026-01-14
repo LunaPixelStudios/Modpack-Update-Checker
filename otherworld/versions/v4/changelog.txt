@@ -1,0 +1,42 @@
+## Mod Changes
+ - 🟢 Added [Gallant Gauntlets](https://www.curseforge.com/minecraft/mc-mods/gauntlets) (by joshieman)
+ - 🔵 Updated 15 mods
+
+
+### Config Changes
+
+ - Increased distance to reach Overworld max level (12) to 10000 blocks
+ - First boss and its minions now have a fixed level of 4, regardless of distance
+ - Most basic mobs (zombie, skeleton, etc.) are now capped at level 6
+ - Updated boss levels throughout the campaign to progress more evenly
+ - Removed Bard music from playing randomly
+ - Recategorized several support/defensive spells. Counterspell is no-longer class restricted
+ - Gems are now about 50% more rare
+ - Removed Enchantment restrictions for Luck of the Sea/Flame/Loyalty/Fortune (Different enchantments coming at a later time)
+ - Disabled all guns and gun enchantments
+
+
+### Updates
+
+ - Health Rework - All classes now gain health per level, varying by class
+ - Constitution's health passive has been changed to an additional max health bonus per level. Some classes received small changes to balance this out.
+ - Some classes now have additional access to entire spell schools. For example, Clerics can access all Holy spells
+ - "Fortify" cantrip no longer rotates the player toward their crosshair
+ - Added a new *shader-based background* for the questbook (Certain Questing Additions)
+ - Lowered cooldowns for all class summon abilities (Recasting them only despawns the old summon)
+ - Charisma now gives a small trade discount
+ - Champion tier is now restricted by chapter progression (Will only apply to newly created worlds, limitation of Champions)
+ - Captain Cornelia is now susceptible to arrows
+ - Mobs will no longer drop adhesive bandages
+ - Mobs now have a chance to drop healing potions based on their level and the player's luck
+
+
+### Fixes
+
+ - Cantrips that interrupt channeling spells instantly casting them, instead of cancelling them
+ - Chain Lightning cantrip not being able to properly target multipart entities like dragons
+ - Cantrip auto-rotate while in third person not working through grass/plants
+ - Enchantment Cost subclass bonuses not working properly
+ - Rare issue where some campaign bosses that spawn in reaction to events wouldn't appear
+
+![img](https://raw.githubusercontent.com/HollowHorizon/CertainQuestingAdditions/refs/heads/master/demo/shader_bg.gif)
