@@ -1,0 +1,2 @@
+## v4 HF
+- Fixed Leveled Health bonuses from classes resetting on death
