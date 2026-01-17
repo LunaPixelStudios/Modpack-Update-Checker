@@ -1,0 +1,27 @@
+[Quality of Life Update]
+Mod Changes
+ - 🟢 Added [Convenient Effects](https://www.curseforge.com/minecraft/mc-mods/convenient-effects) (by Fuzs)
+ - 🟢 Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
+ - 🟢 Added [Ender Dragon Loot x Advanced Netherite Compat](https://www.curseforge.com/minecraft/data-packs/enderdragon-loot-x-advanced-netherite) (by nullifyac)
+ - 🟢 Added [Jade Addons ](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric) (by Snownee)
+ - 🔵 Updated 30 mods
+
+
+Config Changes
+ - Migrated the BCC config, fixing issue where the modpack version displays as CHANGE_ME in the CrashAssistant message
+ - CarryOn no longer prevents filled item frames from being turned invisible by shift right clicking with an empty hand
+ - Improved clarity of Safe quest
+ - Further optimized the C2ME config for faster chunk generation speeds (Thanks omo50!)
+ - Downgraded the CarryOn mod to fix issue where setting a chest down next to another would crash servers
+ - Disabled Wakes boat particles as they were visually intrusive
+
+
+Updates
+ - Added 7 new paintings ([Aurelj's Paintings](https://www.curseforge.com/minecraft/mc-mods/aureljs-paintings))
+ - Improved distance calculation ([Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix))
+ - Removed unnecessary particle effects that would cause lag ([Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials))
+ - Removed loose loot and armor stands in the Central Chamber ([Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials))
+
+
+Fixes
+ - Some mods not burning in daylight ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
