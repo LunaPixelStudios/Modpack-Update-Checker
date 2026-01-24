@@ -1,0 +1,42 @@
+[Stability Update]
+Mod Changes
+ - Added [Shuttfup](https://www.curseforge.com/minecraft/mc-mods/shuttfup) (by itsfelix5)
+ - Added [Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection) (by nullifyac)
+ - Added [Jade Addons ](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric) (by Snownee)
+ - Updated 45 mods
+
+
+Config Changes
+ - Heavily tuned down the effects from Subtle Effects mod, including white particles on dropped items
+ - CarryOn no longer prevents filled item frames from being turned invisible by shift right clicking with an empty hand
+ - Quest categories for the more difficult dimensions now have bold names
+ - Dynamic lighting is now set to realtime by default
+ - Improved clarity of Magnum Torch quest description
+ - Improved clarity of quest for crafting the Safe
+ - Improved Overworld quest category
+ - Fixed issue where some inventories would become unsortable
+ - Fixed some cases of GUI textures missing the Mandalas GUI theming
+ - Fixed modded spawn eggs creating missing texture particles when used
+ - Disabled Wakes boat particles as they were visually intrusive
+
+
+Updates
+ - Added 8 new structures ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - Added compatibility with hundreds of new mods and fixed many item naming inconsistencies ([The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp))
+ - Added support for more modded spawn egg textures and improved textures of many existing spawn eggs ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added Trout, Freshwater Sunfish, Shiners and Plecos ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Added Chef and Cook houses for Savanna and Snowy biomes ([Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric))
+ - Added protection against malicious traffic ([Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity))
+ - Massively edited spawnrates for all underwater creatures ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Improved performance of particles by 20% ([Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects))
+ - Improved distance calculation ([Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix))
+
+
+Fixes
+ - Chests from Better Nether having no texture ([Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx))
+ - Z-fighting when placing carpets under blocks such as beds and chests ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Very large bright flashes when using Euphoria Patches shaders ([Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel))
+ - Right click harvesting plants not granting statistics ([RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest))
+ - Ocean tower having a missing loot table ([Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Nametags causing a decrease in FPS ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Crabs spawning in caves ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
