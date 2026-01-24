@@ -195,5 +195,10 @@
         "releasedAt": 1765201600000,
         "updateType": "minor_breaking"
       }
+      {
+        "id": "v40",
+        "releasedAt": 1769249527000,
+        "updateType": "minor_breaking"
+      }
     ]
   }
