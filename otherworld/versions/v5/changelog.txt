@@ -1,0 +1,52 @@
+# Class Balance Update
+
+## Mod Changes
+
+ - 🟢 Added [Wither Spawn Fix W.S.A. Compatible](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-fix-wsa-compatible) (by bo_bo0)
+ - 🟢 Added [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4)
+ - 🔵 Updated 57 mods
+
+
+### Config Changes
+
+ - Rebalanced several Bounties (Thanks cHin4916!)
+ - Getting an advancement no longer hides Jade
+ - Added a tutorial quest chapter for Magic
+ - Disabled Cockatrices
+ - Heap of Raw Iron ability cooldown 10 seconds -> 2 minutes
+ - Increased minimum distance for projectiles for Cataclysm bosses to 128 blocks
+ - Added Clawdian+Coralssus to spawn egg blacklist
+ - Bosses will now heal when they kill a player, and heal to full if killing a player 3 times. (Only on Normal/Hard)
+ - Blacklisted copper through netherite backpacks from receiving affixes
+ - Re-enabled Frostward Rings (bug has been fixed)
+
+
+### Updates
+
+ - Added class abilities Second Wind (Fighter), Lay on Hands (Paladin), Step of the Wind and Deflect Missiles (Monk), Rage (Barbarian), Sneak Attack and Uncanny Dodge (Rogue), Hunter's Mark and Herbalism (Ranger)
+ - **Doubled** FPS with shaders disabled (seriously!)
+ - Experience bar in the JustLeveling screen now shows your level progress instead of vanilla experience
+ - Updated the quests screen background
+ - Backported all changes from 1.21.1 (Alshanex Familiars)
+ - Increased safe zone around protected areas where pillager caravans will not spawn
+ - Nerfed spell level, cooldown reduction, mana cost, and spell power affixes to be more in line with ranged/melee
+ - All in-game PVP checks now also use the FTB Teams ally flag
+ - The soft cap for cooldown reduction is now more aggressive
+ - Added locator eyes for Aether dungeons and the Aquamirae ship
+ - Cataclysm bosses, Nexus bosses, Nameless Guardian are no longer fully projectile immune
+ - Withers in their second phase now only have a 50% chance to reflect arrows
+ - Champions will now always have their equipment drop with a rarity, and drop a gem. The quality of both is based on their level.
+
+
+### Fixes
+
+ - Mine Cells dimensions being the incorrect level
+ - Rangers not actually receiving health per level
+ - Sockets accruing infinitely when reforging at high tiers
+ - Added a patch to prevent Knowledge enchant being usable if it was somehow obtained
+ - Umvuthi quest only triggering when near him, rather than when defeating him
+ - Cradle of Will duplicating infinitely when thrown
+ - Using the obsidian mirror will now clone a weapon you own, instead of the mirror
+ - Nexus Return portals sometimes teleporting players strangely and spawning new portal blocks
+ - Crash when Augmenting low rarity staffs
+ - Crash caused by teleportation spells in certain instances
