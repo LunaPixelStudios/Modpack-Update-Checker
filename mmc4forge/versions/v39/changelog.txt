@@ -17,6 +17,5 @@
 
  - Backported all new features from 1.21.1 (Iron's Spells n' Spellbooks)
  - Backported all changes from 1.21.1 (Alshanex' Familiars)
- - Tons of bugfixes and performance improvements, mod is no longer MCreator (Bosses'Rise)
  - Fix a crash caused by using the "breaks in an area" affix on tools
  - Fixed spawnrates for many creatures (Hybrid Aquatic)
