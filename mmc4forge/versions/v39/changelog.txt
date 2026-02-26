@@ -1,0 +1,22 @@
+# **[Magic Update]**
+
+## Mod Changes
+
+ - 🟢 Added [Excalibur | Ice and Fire | Tabla's Dragon Retextures](https://www.curseforge.com/minecraft/texture-packs/excalibur-ice-and-fire-tablas-dragon-retextures) (by LaTablaG)
+ - 🔴 Removed Eldritch End (Incompatible with latest AzureLib)
+ - 🔵 Updated 83 mods
+
+
+### Config Changes
+
+ - Crash logs will now upload to gnomebot.dev
+ - Fixed lava speed, bonus loot affixes not loading
+
+
+### Updates
+
+ - Backported all new features from 1.21.1 (Iron's Spells n' Spellbooks)
+ - Backported all changes from 1.21.1 (Alshanex' Familiars)
+ - Tons of bugfixes and performance improvements, mod is no longer MCreator (Bosses'Rise)
+ - Fix a crash caused by using the "breaks in an area" affix on tools
+ - Fixed spawnrates for many creatures (Hybrid Aquatic)
