@@ -1,0 +1,56 @@
+[Major Update]
+This update will automatically convert your backpacks from the Backpacked mod into an Inmis backpack. Please make sure to remove backpacks from any shelves or other storage you may have, as the Backpacked mod will be completely removed in a future update.
+  
+Mod Changes
+ - Added [Inmis ](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port) (by nullifyac)
+ - Added [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) (by nullifyac)
+ - Added [Convenient Effects](https://www.curseforge.com/minecraft/mc-mods/convenient-effects) (by Fuzs)
+ - Added [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat) (by Vykket)
+ - Added [Aether Compat](https://www.curseforge.com/minecraft/data-packs/aether-compat) (by Cyber_Rat)
+ - Added [VanillaBackport Mob Variants Compat](https://www.curseforge.com/minecraft/mc-mods/vb-terralith-mob-variants-compat) (by SynergyShadow)
+ - Added [Cataclysm Compat](https://www.curseforge.com/minecraft/data-packs/cataclysm-compat) (by Cyber_Rat)
+ - Added [Geophilic Backport - Vanilla Backport Compact](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact) (by Aarods)
+ - Added [The Brazilian Localization Project [PT-BR]](https://www.curseforge.com/minecraft/texture-packs/brazilian-project) (by L200)
+ - Added [Jade Addons ](https://www.curseforge.com/minecraft/mc-mods/jade-addons) (by Snownee)
+ - Added [Missing Mods Warning](https://www.curseforge.com/minecraft/mc-mods/missing-mods-warning) (by tfarecnim)
+ - Added [BMC "Datafixer"](https://www.curseforge.com/minecraft/mc-mods/bmc-patcher) (by MuonR)
+ - Removed [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) (Caused crashes)
+ - Updated 67 mods
+
+
+Config Changes
+ - Added quests for the Inmis mod and hid items from the Backpacked mod in JEI
+ - Added a quest for the Warp Plate from Waystones
+ - Integrated DragonLoot into Advanced Netherite armor progression (Thanks nullifyac!)
+ - Updated the Magnum Torch quest description for better clarity
+ - Dynamic lighting is now set to realtime by default
+ - Crash Assistant now uploads to gnomebot.dev instead of mclo.gs
+ - Temporarily disabled ModernFix Dynamic Resources due to Vanilla Backport incompatibility. Please follow the full performance linked on the main menu if you start to notice a decrease in performance
+ - Disabled the Neoforge early loading window as it adds a lot to loading times
+ - Disabled the Narrator keybind
+
+
+Updates
+ - Added all content from Minecraft versions 1.21.2 - 1.21.5, alongside hundreds of bug fixes and improvements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Added support for 35 more mods and improved several existing textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added new structures and items ([L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm))
+ - Added new music that plays in swamp biomes, alongside Purple Trees and Crawfish ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+ - Added Plunderers and Plunderer Ships ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Added a spawner and more loot into the Large Warped Tower structure ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Added visual icon next to player nametags while loading protection is active ([Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection))
+ - Many fixes and improvements to all shaderpacks that the modpack comes with ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Improved light shafts, colored lighting, water coloring, fog balance, and much more, alongside tons of fixes ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined))
+ - Improved generation of the Ocean Tower and Mineshaft structures ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Improved performance of particles by 20% ([Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core))
+ - Improved memory usage and loading times ([FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore))
+ - The leader of zombie hordes now deal extra damage and have a unique appearance ([Zombie Improvements](https://www.curseforge.com/minecraft/mc-mods/zombie-improvements))
+ - Renamed, retextured, and reworked many items ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+ - Villagers now use confetti after a successful raid defense ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Renamed the "Transfer Matching" sort button to "Restock" ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort))
+ - Shift clicking recipe output when crafting now causes less lag ([Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric))
+
+
+Fixes
+ - Capsid block not accepting the Crimson Mosquito Larva ([Alex's Mobs ](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-1-21-1-port))
+ - Alex's Mobs lasso tethering not working as intended ([Alex's Mobs ](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-1-21-1-port))
+ - Right click harvesting plants not granting statistics ([RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest))
