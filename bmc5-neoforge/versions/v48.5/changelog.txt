@@ -1,0 +1,16 @@
+[Minor Update]
+Mod Changes
+ - Added [Missing Mods Checker](https://www.curseforge.com/minecraft/mc-mods/missing-mods-checker) (by Txni)
+ - Removed [Missing Mods Warning](https://www.curseforge.com/minecraft/mc-mods/missing-mods-warning) (Added by mistake)
+ - Updated 10 mods
+
+
+Config Changes
+ - The Vanilla Backport Mob Variants datapack is now properly enabled on singleplayer worlds
+
+Updates
+ - Changed some recipes ([Ender's Delight](https://www.curseforge.com/minecraft/mc-mods/enders-delight))
+
+
+Fixes
+ - Crash when shift-click equipping backpacks ([Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port))
