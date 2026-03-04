@@ -1,0 +1,55 @@
+# **[Nether Update]**
+## Mod Changes
+
+**Neoforge is now 21.1.219**
+ - 🟢 Added [Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials) (by Aureljz)
+ - 🟢 Added [Prometheus](https://www.curseforge.com/minecraft/mc-mods/prometheus) (by CrystalSpider)
+ - 🟢 Added [Soul fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d) (by CrystalSpider)
+ - 🟢 Added [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic) (by HybridLabs)
+ - 🟢 Added [Realm RPG Treasure Balloons](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) (by nocubeyt)
+ - 🟢 Added [Cobweb](https://www.curseforge.com/minecraft/mc-mods/cobweb) (by CrystalSpider)
+ - 🟢 Added [Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection) (by nullifyac)
+ - 🟢 Added [Beltborne Lanterns Accessories Layer](https://www.curseforge.com/minecraft/mc-mods/beltborne-lanterns-accessories-layer) (by 0xCoDSnet)
+ - 🟢 Added [Reliable Remover](https://www.curseforge.com/minecraft/mc-mods/reliable-remover) (by evanbones)
+ - 🟢 Added [Health Bars Dynamic Difficulty Compatibility](https://www.curseforge.com/minecraft/mc-mods/health-bars-dynamic-difficulty-compatibility) (by Maeiro)
+ - 🟢 Added [Convenient Effects](https://www.curseforge.com/minecraft/mc-mods/convenient-effects) (by Fuzs)
+ - 🟢 Added [Shoulder Surfing Iron's Spells Integration](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-irons-spells-integration) (by Ellet)
+ - 🟢 Added [Geophilic Backport - Vanilla Backport Compact](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact) (by Aarods)
+ - 🟢 Added [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) (by yanny7777)
+ - 🟢 Added [Jade Addons ](https://www.curseforge.com/minecraft/mc-mods/jade-addons) (by Snownee)
+ - 🔴 Removed [Stellar View](https://www.curseforge.com/minecraft/mc-mods/stellarview) (Large FPS impact)
+ - 🔴 Removed [Mobs of Mythology](https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology) (Incompatible with latest AzureLib)
+ - 🔴 Removed [Item Obliterator ](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) (Replaced)
+ - 🔴 Removed [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) (Incompatible with latest Ars Nouveau)
+ - 🔴 Removed [Toni's Immersive Lanterns](https://www.curseforge.com/minecraft/mc-mods/immersive-lanterns) (Requires Sodium Dynamic Lights))
+ - 🔴 Removed [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) (Incompatible with latest C2ME)
+ - 🔴 Removed [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) (Replaced)
+ - 🔴 Removed [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) (No longer needed)
+ - 🔵 Updated 141 mods
+
+
+### Config Changes
+
+ - Logs will now upload to gnomebot.dev instead of mclo.gs
+ - Updated the questbook for changes to Bosses'Rise
+
+
+### Updates
+
+ - Shader clouds will now light up when lightning strikes during a thunder storm (Euphoria Patches)
+ - Holding the tool swap key now opens up a radial menu, instead of requiring scrolling (Traveler's Backpack)
+ - Cryomancers are now neutral and will trade. All merchant wizards trade runes instead of dropping them on death (Iron's Spellbooks)
+ - Overhauled the Arena (Moog's Soaring Structures)
+ - Added the Seeker, a new squid-like flying hostile mob (Eternal Starlight)
+ - Added the Tentacle Spike, a whip weapon dropped by Seekers (Eternal Starlight)
+ - Added the Dragoon Familiar, an ender themed familiar that spawns in the end islands, and more important, the first melee oriented familiar (Alshanex's Familiars)
+ - Added leaf litter, firefly bushes, and falling leaves to the Twilgiht Forest (Van Backport Compat)
+ - Huge performance and stability updates with a rewrite, now no longer based on MCreator (Bosses'Rise)
+
+
+### Fixes
+
+ - Mana from Iron's Jewelry applying to the wrong mana pool
+ - Spell power/elemental gems being too rare compared to other gems
+ - Removed uses of Streams in hot paths, increasing overall performance (Accessories)
+ - Levelup Items not being usable on Tamed Wolves, or other mobs that override right click behavior
