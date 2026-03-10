@@ -1,0 +1,69 @@
+[Major Update]
+This update will automatically convert your backpacks from the Backpacked mod into an Inmis backpack. Please make sure to remove backpacks from any shelves or other storage you may have, as the Backpacked mod will be completely removed in a future update.
+Mod Changes
+ - Added [Inmis ](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port) (by nullifyac)
+ - Added [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) (by nullifyac)
+ - Added [Mandala's Dragon Mount Refreshed](https://www.curseforge.com/minecraft/texture-packs/mandalas-dragon-mount-refreshed) (by cesarzorak)
+ - Added [You're in Grave Dangers](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-dangers) (by nullifyac)
+ - Added [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat) (by Vykket)
+ - Added [Ender Dragon Loot x Advanced Netherite Compat](https://www.curseforge.com/minecraft/data-packs/enderdragon-loot-x-advanced-netherite) (by nullifyac)
+ - Added [Aether Compat](https://www.curseforge.com/minecraft/data-packs/aether-compat) (by Cyber_Rat)
+ - Added [Quark  Corundumless Corundum Recipes](https://www.curseforge.com/minecraft/data-packs/quark-corundumless-corundum-recipes) (by Nyagi_Byte)
+ - Added [VanillaBackport Mob Variants Compat](https://www.curseforge.com/minecraft/data-packs/vb-terralith-mob-variants-compat) (by SynergyShadow)
+ - Added [Cataclysm Compat](https://www.curseforge.com/minecraft/data-packs/cataclysm-compat) (by Cyber_Rat)
+ - Added [Quark Compat](https://www.curseforge.com/minecraft/data-packs/quark-compat) (by Cyber_Rat)
+ - Added [Abnormals Compat](https://www.curseforge.com/minecraft/data-packs/abnormals-compat) (by Cyber_Rat)
+ - Added [Geophilic Backport - Vanilla Backport Compact](https://www.curseforge.com/minecraft/mc-mods/geophilic-backport-vanilla-backport-compact) (by Aarods)
+ - Added [Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection) (by nullifyac)
+ - Added [Smooth Movement](https://www.curseforge.com/minecraft/mc-mods/smooth-movement) (by someaddon)
+ - Added [StopRendering](https://www.curseforge.com/minecraft/mc-mods/stoprendering) (by Corosus)
+ - Added [Jade Addons ](https://www.curseforge.com/minecraft/mc-mods/jade-addons) (by Snownee)
+ - Added [Rebind Narrator](https://www.curseforge.com/minecraft/mc-mods/rebind-narrator) (by quat)
+ - Added [Missing Mods Checker](https://www.curseforge.com/minecraft/mc-mods/missing-mods-checker) (by Txni)
+ - Removed [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (Replaced)
+ - Removed [Corpse x Curios API Compat](https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat) (Replaced)
+ - Removed [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) (Caused crashes)
+ - Updated 50 mods
+
+
+Config Changes
+ - Temporarily disabled ModernFix Dynamic Resources due to Vanilla Backport incompatibility. Please follow the full performance linked on the main menu if you start to notice a decrease in performance
+ - Overhauled the End quest category
+ - Tweaked many Overworld quest descriptions
+ - Added a quest for crafting the Warp Plate
+ - CarryOn no longer prevents filled item frames from being turned invisible by shift right clicking with an empty hand
+ - Crash Assistant now uploads to gnomebot.dev instead of mclo.gs
+ - Improved visuals when using Lava Vision potions with shaders enabled
+ - Updated the Magnum Torch quest description for better clarity
+ - Updated the Backpacked backpack quest for the new Inmis backpack mod
+ - Dynamic lighting is now set to realtime by default
+ - Unbound the Narrator keybind by default
+ - Hid the Uncrafting Table from JEI, alongside all items from the Backpacked mod
+ - Fixed issue where rendering certain mobs and items from BetterEnd/BetterNether would cause a game crash
+ - Fixed modded spawn eggs creating missing texture particles when used
+ - Quark Corundum is now fully craftable with a custom recipe, making runic etching & beacon redirecting possible again
+
+
+Updates
+ - Added all content from Minecraft versions 1.21.2 - 1.21.5, alongside hundreds of bug fixes and improvements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Added support for 35 more mods and improved several existing textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added 3 new foods ([Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight))
+ - Added Plunderers and Plunderer Ships ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Added a spawner and more loot into the Large Warped Tower structure ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Many fixes and improvements to all shaderpacks that the modpack comes with ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Major performance and stability improvements ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Improved light shafts, colored lighting, water coloring, fog balance, and much more, alongside tons of fixes ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined))
+ - Improved performance of particles by 20% ([Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core))
+ - Improved generation of the Ocean Tower and Mineshaft structures ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Improved pathfinding of guards ([Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers))
+ - Improved the waystone texture ([Fresh Waystones Texture](https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture))
+ - Further optimized network performance ([Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp))
+ - Shift clicking recipe output when crafting now causes less lag ([Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric))
+ - Renamed the "Transfer Matching" sort button to "Restock" ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort))
+ - Villagers now use confetti after a successful raid defense ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Many performance and stability improvements ([ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix))
+
+
+Fixes
+ - Serverside memory leak related to world data loading ([Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel))
+ - Improved positioning of in-world sounds ([Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements))
