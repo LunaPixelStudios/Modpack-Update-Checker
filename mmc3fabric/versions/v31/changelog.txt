@@ -1,0 +1,35 @@
+# [Archery Update]
+## Mod Changes
+ - 🟢 Added [Nether Trials & Chambers](https://www.curseforge.com/minecraft/mc-mods/hellish-trials) (by Aureljz)
+ - 🟢 Added [Simply Bows](https://www.curseforge.com/minecraft/mc-mods/simply-bows) (by sweenuss)
+ - 🟢 Added [Teams Friendly Fire Addon](https://www.curseforge.com/minecraft/mc-mods/teams-friendly-fire-addon) (by MuonR)
+ - 🟢 Added [Simply Tooltips](https://www.curseforge.com/minecraft/mc-mods/simply-tooltips) (by sweenuss)
+ - 🟢 Added [Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix) (by WFPhantom)
+ - 🟢 Added [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) (by zenxarch)
+ - 🔵 Updated 58 mods
+
+
+### Config Changes
+ - Blacklisted Item frames from Carryon
+ - Fixed resource pack order (which caused errored ghast wing textures and some other issues)
+ - Logs will now be uploaded to gnomebot.dev
+
+
+### Updates
+ - Adjusted windup time for vanilla Mace and axes (Better Combat)
+ - Pressing the tool swap key now opens a radial menu (Traveler's Backpack)
+ - Overhauled the Arena (Moog's Soaring Structures)
+ - Added the Seeker, a new squid-like flying hostile mob (Eternal Starlight)
+ - Added the Tentacle Spike, a whip weapon dropped by Seekers (Eternal Starlight)
+ - Changed default keybind for Pixie dash modifier (now separate from Sprint)
+ - Animals will now search for nearby food items dropped on the ground
+
+
+### Fixes
+ - Fixed being unable to attack after during during an attack windup (Better Combat)
+ - Several performance improvements and bug fixes (Origins Fabric)
+
+![img](https://i.postimg.cc/y6SCC945/2025_12_27_16_44_36.png)
+![img](https://i.imgur.com/M34sXK8.gif)
+![img](https://media.forgecdn.net/attachments/description/null/description_933e46d5-c6a7-440c-99d1-5b15701c77b6.png)
+![img](https://i.postimg.cc/prjwQNJz/2025_12_28_00_17_22.png)
