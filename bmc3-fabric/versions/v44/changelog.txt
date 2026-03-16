@@ -1,0 +1,46 @@
+[Content Update]
+Mod Changes
+ - Added [Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat) (by Vykket)
+ - Added [VanillaBackport Mob Variants Compat](https://www.curseforge.com/minecraft/data-packs/vb-terralith-mob-variants-compat) (by SynergyShadow)
+ - Added [Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection) (by nullifyac)
+ - Added [Fake Date](https://www.curseforge.com/minecraft/mc-mods/fakedate) (by decce)
+ - Added [Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix) (by WFPhantom)
+ - Added [Missing Mods Checker](https://www.curseforge.com/minecraft/mc-mods/missing-mods-checker) (by Txni)
+ - Added [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) (by zenxarch)
+ - Removed [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) (Causes crashes)
+ - Updated 80 mods
+
+
+Config Changes
+ - Temporarily disabled ModernFix Dynamic Resources due to Vanilla Backport incompatibility. Please follow the full performance linked on the main menu if you start to notice a decrease in performance
+ - Dynamic lighting is now set to realtime by default
+ - The Narrator keybind is now unbound by default, and can be re-enabled in Accessibility settings
+ - Updated the Magnum Torch quest description for better clarity
+ - Fixed modded spawn eggs creating missing texture particles when used
+
+
+Updates
+ - Added all content from Minecraft versions 1.21.2 - 1.21.5, alongside hundreds of bug fixes and improvements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Added support for 35 more mods and improved several existing textures ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added Plunderers and Plunderer Ships ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Added a spawner and more loot into the Large Warped Tower structure ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Added a Ice Speed enchantment for Ice Skates which increases movement speed on ice ([Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful))
+ - Many fixes and improvements to all shaderpacks that the modpack comes with ([Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches))
+ - Improved light shafts, colored lighting, water coloring, fog balance, and much more, alongside tons of fixes ([Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined))
+ - Improved generation of the Ocean Tower and Mineshaft structures ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Improved performance of particles by 20% ([Particle Core](https://www.curseforge.com/minecraft/mc-mods/particle-core))
+ - Improved memory usage and loading times ([FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric))
+ - The leader of zombie hordes now deal extra damage and have a unique appearance ([Zombie Improvements](https://www.curseforge.com/minecraft/mc-mods/zombie-improvements))
+ - Animals will now search for dropped food and eat it automatically ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Leg armor now reduces the slowness applied by berry bushes by 50% ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Villagers now use confetti after a successful raid defense ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Renamed the "Transfer Matching" sort button to "Restock" ([Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort))
+ - Shift clicking recipe output when crafting now causes less lag ([Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting))
+
+
+Fixes
+ - Right click harvesting plants not granting statistics ([RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest))
+ - Frostologers spamming freezing effects while in a well-lit area ([Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful))
+ - The Cloak of Frostology not protecting against freeze damage ([Frostiful](https://www.curseforge.com/minecraft/mc-mods/frostiful))
+ - Major performance and stability improvements ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Improved game performance ([Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel))
