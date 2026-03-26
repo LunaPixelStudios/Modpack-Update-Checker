@@ -1,0 +1,2 @@
+v57.5:
+- Fixed initial villager quest having impossible task
