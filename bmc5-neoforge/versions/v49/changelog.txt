@@ -1,0 +1,47 @@
+[Content Update]
+Mod Changes
+ - Added [Moog's Glow Up](https://www.curseforge.com/minecraft/mc-mods/moogs-glow-up) (by finndog_123)
+ - Added [Smooth Movement](https://www.curseforge.com/minecraft/mc-mods/smooth-movement) (by someaddon)
+ - Updated 50 mods
+
+
+Config Changes
+ - Added a theme for the CrashAssistant screen
+ - Enabled CrashAssistant simple mode to make the screen much more concise
+ - Hid the Uncrafting Table from JEI
+
+
+Updates
+ - Added translations for 55 more mods ([The Brazilian Localization Project](https://www.curseforge.com/minecraft/texture-packs/brazilian-project))
+ - Added 12 berry bushes, 12 types of jerky, 8 types of berries, and 2 types of edible slime ([Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest))
+ - Added 3 new foods ([Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight))
+ - Added 2 new advancements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Added Traveller's Gear, an armor set with high mobility and low armor ([Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest))
+ - Added the Bilokosa and Bilokosa Howler ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+ - Added falling leaves to more leaves ([Van Backport Compat](https://www.curseforge.com/minecraft/mc-mods/vb-compat))
+ - Added a new music disc ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+ - Added a new boss bar for Umvuthi ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+ - Added sparks when a magma cube lands on the ground ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sound effect when using a spawn egg ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sparks and sounds to monster spawners ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - The "Claim all Rewards" button now lists all claimable rewards when clicked ([FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge))
+ - Trial chambers can now spawn under OBWG biomes ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
+ - Snow golem footsteps now make snow sounds ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Changed some recipes ([Ender's Delight](https://www.curseforge.com/minecraft/mc-mods/enders-delight))
+ - Improved the effects of some foods ([Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight))
+ - Animals will now search for dropped food and eat it automatically ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Retextured the Crawfish ([Wetland Whimsy](https://www.curseforge.com/minecraft/mc-mods/wetland-whimsy))
+ - Leg armor now reduces the slowness applied by berry bushes by 50% ([Misc Tweaks](https://www.curseforge.com/minecraft/mc-mods/misc-tweaks))
+ - Placing carpets under blocks like stairs now works more like normal block placement ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+
+
+Fixes
+ - Many fixes and improvements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Many fixes and improvements ([Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest))
+ - Many bug fixes ([Deep Aether](https://www.curseforge.com/minecraft/mc-mods/deep-aether))
+ - Boulders being placed into trees ([Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone))
+ - Some weapons not being enchantable ([Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs))
+ - Farmhand backpack upgrade not planting reliably ([Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port))
+ - Seedflow backpack upgrade auto-planting invalid items, such as saplings and mushrooms ([Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port))
+ - Loyalty tridents not returning to the player when thrown at an entity ([Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port))
+ - Memory leaks present in Minecraft and some mods ([AllTheLeaks](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
