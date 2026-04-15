@@ -1,0 +1,58 @@
+# Subclass Update
+## Mod Changes
+**Forge is now 47.4.18**
+ - 🟢 Added Integrated  Seven Seas (by Aarods)
+ - 🟢 Added Transmog (by Hidoni)
+ - 🟢 Added Aether Delight  (by NoCube)
+ - 🟢 Added Teams Friendly Fire Addon (by MuonR)
+ - 🟢 Added Tom's Performant Storage (by MuonR)
+ - 🟢 Added Cataclysm x YUNG's Better Nether Fortresses Compat (by GamesOfLife)
+ - 🟢 Added [Aether Adornments](https://www.curseforge.com/minecraft/texture-packs/aether-adornments) (by Aarods)
+ - 🔵 Updated 29 mods
+
+
+### Config Changes
+ - Disabled the Champions "Shielding" affix
+ - Added several items to the auto-pickup list (Thanks KuryKat and Bela!)
+ - Disabled Quark's feeding trough (major AI performance overhead)
+ - Fix some bosses not healing when they kill a player
+ - Lowered the damage of piglin brutes and ravagers, increased the damage of a few campaign bosses
+ - Prevented Born in Chaos Mobs from spawning in Alex's Caves biomes
+ - Lowered Valoria Ent spawn rate by 70%
+ - Nerfed Death Laser damage by 30%
+ - Changed recipes for Heap of Raw Iron and T.O death laser necklace to better reflect their value (cHin4916)
+ - Disabled the Cursed Sword
+ - Reverted (some) nerfs to Heartstop
+ - Nerfed magic/spell power gems slightly to better match other Apotheosis gems
+
+
+### Updates
+ - Huge subclass balancing/scaling update and improvements to the Character creation screen. Nearly every single class or subclass was updated significantly and had scaling, level features, or other unique abilities added. Highly recommended to start a new character!
+ - Added a new selection screen for Origins that allows backtracking and greatly improved UX
+ - Patched item-on-ground tooltips, item pickup, mob levels, and mob healthbars to all use the shoulder-surfing crosshair, rather than player's head-facing
+ - Campfires will now heal nearby players when they are not in combat
+ - Pillager Caravans will no longer spawn within or near minecolony borders
+ - Added a patch for T.O spells bypassing claimed chunks
+ - Added CPU performance patches for Apoli, Pehkui, Alex's Caves, and Tom's Storage. Servers should see a significant improvement in overall performance
+ - Reworked spell restrictions with more categories and better spell lists for each subclass; added new feats for school spell access
+ - Added 30 new cantrips, most restricted by class (e.g. Clerics can select Wisp, Guiding Bolt, Healing Circle, Blessing of Life, Divine Smite)
+ - Goblins and Hobgoblins are now have permanent goblin ears and are allowed in goblin villages
+ - Undead races no longer have hunger, thirst, or need air underwater
+ - Changed the Wayfinder's Medallion to provide better feedback
+
+
+### Fixes
+ - Aether Dungeon/Pirate ship eyes consuming 2 of themselves when thrown
+ - Nether Gauntlet's laser attack one-shotting player armor
+ - Buff duration exploit with certain subclasses when changing dimensions
+ - Issues with player nameplate rendering
+ - Githyanki ability being unusable at exactly level 11, rewrote their teleport to be more consistent
+ - Broken textures for Magma Cubes and Blazes (thanks Ivan_RU!)
+ - Add a patch for Blaze Enchanter to only enchant one item within a stack at a time, fixing an exploit with Apotheosis tomes
+ - Patched an Origins Forge bug where active powers would start on cooldown
+ - Lowered the enchanting power of shelves hidden in the Lich's Sanctum
+
+![img](https://i.imgur.com/tWr1zL7.png)
+![img](https://media.forgecdn.net/attachments/650/853/transmog_example.png)
+![img](https://media.forgecdn.net/attachments/description/null/description_933e46d5-c6a7-440c-99d1-5b15701c77b6.png)
+![img](https://media.forgecdn.net/attachments/1574/933/comparative-png.png)
