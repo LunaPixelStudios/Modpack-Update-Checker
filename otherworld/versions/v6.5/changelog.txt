@@ -1,0 +1,18 @@
+# Bugfix Update
+## Mod Changes
+ - 🔵 Updated 1 mods
+
+
+### Config Changes
+ - Lowered the spawn rate of Geo Grandmasters
+ - Added Valoria wicked crystal to the spawner blacklist
+
+
+### Updates
+ - All spell access can now be seen (with spell lists) when selecting a subclass
+
+
+### Fixes
+ - Fixed an issue where Origins would desync on death ("You can not have any Origins + missing powers")
+ - Fixed selecting an Undead race crashing or kicking the player
+ - Add a patch to prevent a Watchdog ServerChunkManager crash caused by Realm RPG Skeletons features

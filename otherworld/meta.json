@@ -61,6 +61,11 @@
       "id": "v6HF",
       "releasedAt": 1776212150001,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "v6.5",
+      "releasedAt": 1776212150002,
+      "updateType": "minor_breaking"
     }
   ]
 }
