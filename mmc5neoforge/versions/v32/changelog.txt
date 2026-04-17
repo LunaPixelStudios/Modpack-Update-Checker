@@ -1,0 +1,41 @@
+# **[Magic Update]**
+## Mod Changes
+**Neoforge is now 21.1.226**
+ - 🟢 Added [Ice and Fire Spellbooks](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-spellbooks) (by Ace_The_Eldritch_King)
+ - 🟢 Added [Reliquified Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/reliquified-irons-spells-n-spellbooks) (by SSKirillSS)
+ - 🟢 Added [Magic Realms](https://www.curseforge.com/minecraft/mc-mods/magic-realms) (by alshanex)
+ - 🟢 Added [GTBC's Geomancy Plus - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/gtbcs-geomancy-plus) (by GameTechBC)
+ - 🟢 Added [Tunes n' Tomes a bards journey](https://www.curseforge.com/minecraft/mc-mods/tunes-n-tomes-a-bards-journey) (by alshanex)
+ - 🟢 Added [Wither Spawn Animation](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation) (by bo_bo0)
+ - 🟢 Added [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) (by finndog_123)
+ - 🟢 Added [MouseTweaks x Accessories Fix](https://www.curseforge.com/minecraft/mc-mods/mousetweaks-x-accessories-fix) (by Stalemated)
+ - 🟢 Added [Fake Date](https://www.curseforge.com/minecraft/mc-mods/fakedate) (by decce)
+ - 🟢 Added [Simply Bows](https://www.curseforge.com/minecraft/mc-mods/simply-bows) (by sweenuss)
+ - 🟢 Added [Teams Friendly Fire Addon](https://www.curseforge.com/minecraft/mc-mods/teams-friendly-fire-addon) (by MuonR)
+ - 🟢 Added [Smooth Movement](https://www.curseforge.com/minecraft/mc-mods/smooth-movement) (by someaddon)
+ - 🔴 Removed [Reliquified Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/reliquified-twilight-forest) (Incompatible with latest Relics)
+ - 🔴 Removed [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) (Replaced)
+ - 🔴 Removed [Reliquified L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/reliquified-l-ender-s-cataclysm) (Incompatible with latest Relics)
+ - 🔵 Updated 105 mods
+
+
+### Config Changes
+ - Blacklisted Fast Item Frames from Carryon
+ - Regenerated the relics config due to new changes (any previous nerfs have been undone for now)
+ - Added fake date config to block seasonal events from a few problematic mods
+
+
+### Updates
+ - Adjusted windup time and animation for vanilla Mace, to be more instant-like (Better Combat)
+ - The following backpack upgrades can now be used when the backpack is placed as a block: Magnet, Pickup, Feeding, Refill, Furnace, Smoker, and Blast Furnace (Traveler's Backpack)
+ - Added Field of Mourning (Replaced Finality of Decay), Summons graves which each summon a horde of zombies and skeletons each (ESS: Requiem)
+ - Added falling leaves to all Biomes We've Gone trees (Vanilla Backport)
+
+
+### Fixes
+ - Fixed being unable to attack after dying during the windup phase of an attack (Better Combat)
+
+![img](https://media.forgecdn.net/attachments/1450/828/2026-01-01_22-24-29-png.png)
+![img](https://media.forgecdn.net/attachments/1632/403/hired-help.png)
+![img](https://media.forgecdn.net/attachments/1623/225/piercing_solo_effect-png.png)
+![img](https://media.forgecdn.net/attachments/1324/727/1000027744-jpg.jpg)
