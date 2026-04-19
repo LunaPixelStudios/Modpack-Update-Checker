@@ -1,0 +1,19 @@
+# Archery Update
+## Mod Changes
+ - 🔵 Updated 4 mods
+
+
+### Updates
+ - Add 3 new Archery-focused feats: Momentum, Skybound, Hail of Arrows
+ - Reworked the Sharpshooter feat - now increases your arrow speed and accuracy + After charging for 3 seconds, your arrows pierce additional targets
+ - The Mobile feat now prevents slowdown while using any item (charging a bow, drinking a potion, etc.)
+ - Alchemists now have improved duration on their *crafted* potions (all types) instead of effects they receive
+ - Alchemist's Chemical Mastery now also applies an additional amplifier level to crafted potions of the mastery type
+
+
+### Fixes
+ - Properly fixed a ServerHangWatchdog crash/Worldgen deadlock introduced in v6
+ - Way of the Open Hand Monk's Quivering Palm being usable at level 1
+ - Gloom Stalker's Shadowy Dodge power being hidden
+ - Patched a tooltip conflict that caused some Valoria items to have "Tropics" logos in their description
+ - Arcane Ward and Druid-Wildshape-death-prevention not working due to Hardcore Revival (knockout)
