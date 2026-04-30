@@ -1,0 +1,26 @@
+[Stability Update]
+Mod Changes
+ - Added [MouseTweaks x Accessories Fix](https://www.curseforge.com/minecraft/mc-mods/mousetweaks-x-accessories-fix) (by Stalemated)
+ - Updated 60 mods
+
+Config Changes
+ - Disabled the Collective update checker
+
+Updates
+ - Added support for 200 more mods ([The Brazilian Localization Project](https://www.curseforge.com/minecraft/texture-packs/brazilian-project))
+ - Added support for 50 more mods ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added tons of new content and improvements ([Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker))
+ - Added Onion Soup, Gleaming Salad, Rope Fence, and a new wooden variant for the Basket ([Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight))
+ - Added tons of quality of life changes to the villager trade screen ([Better Client](https://www.curseforge.com/minecraft/mc-mods/better-client))
+ - Added the Blazier block ([My Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/my-nethers-delight))
+ - Added more foods (Ocean's Delight)
+ - Greatly improved structure spawning and generation speeds ([Moog's Structure Lib](https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib))
+ - Improved mineshaft generation and reduced its spawnrate ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Improved generation for jungle and swamp villages ([MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages))
+ - Reworked the Cutting Board to hold a full stack of items ([Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight))
+ - Reworked the leaderboard screen ([Leaderboard](https://www.curseforge.com/minecraft/mc-mods/leaderboards))
+ - Many fixes and improvements ([Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight))
+
+Fixes
+ - Many fixes to cannon behavior ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Armor rendering issues ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
