@@ -1,0 +1,38 @@
+# [Spell Choices Update]
+
+## Mod Changes
+**Fabric is now 0.19.2**
+ - 🟢 Added [Battlemage ](https://www.curseforge.com/minecraft/mc-mods/battlemage-rpg-series-plus) (by cleannrooster)
+ - 🟢 Added [Soulwarden ](https://www.curseforge.com/minecraft/mc-mods/soulwarden) (by cleannrooster)
+ - 🟢 Added [Rival Trespassers](https://www.curseforge.com/minecraft/mc-mods/rival-trespassers) (by cleannrooster)
+ - 🟢 Added [MSW Compat](https://www.curseforge.com/minecraft/mc-mods/msw-compat) (by KevzCz)
+ - 🟢 Added [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) (by finndog_123)
+ - 🟢 Added [MBS - Moog's Bountiful Structures](https://www.curseforge.com/minecraft/mc-mods/mbs-moogs-bountiful-structures) (by finndog_123)
+ - 🔴 Removed [Spellblades and Such ](https://www.curseforge.com/minecraft/mc-mods/spellblade-next) (Replaced by Battlemage)
+ - 🔴 Removed [Spellblades and Such Hexblade](https://www.curseforge.com/minecraft/mc-mods/spellblades-and-such-hexblade) (Incompatible with new versions)
+ - 🔴 Removed [Mobs of Mythology](https://www.curseforge.com/minecraft/mc-mods/mobs-of-mythology) (Incompatible with new versions)
+ - 🔴 Removed [Invocations ](https://www.curseforge.com/minecraft/mc-mods/invocations-spell-engine) (Incompatible with new versions)
+ - 🔴 Removed [Dungeons Dragon](https://www.curseforge.com/minecraft/mc-mods/dungeons-dragon) (Incompatible with new versions)
+ - 🔴 Removed [Primal Druidry [Formerly Storm and Spirit]](https://www.curseforge.com/minecraft/mc-mods/primal-druids) (Replaced by Soulwarden)
+ - 🔴 Removed [Basic Skill Sets and Combat Tweaks](https://www.curseforge.com/minecraft/mc-mods/basic-skill-sets) (Replaced by Spell Engine update)
+ - 🔵 Updated 96 mods
+
+
+### Config Changes
+ - Updated magic quest book entries for Spell Engine 1.9
+ - Removed Glass Ocean dimension chapter
+ - Small changes to the Skill Tree to allow loading on Spell Engine 1.9
+ - Disabled Chungus spawning (currently bugged)
+
+
+### Updates
+ - Notice: All spell books will be reset this version, due to changes in Spell Engine
+ - Major changes to spell selection across all classes/spell books - some books have been removed or combined, and each book now allows selecting one of multiple spells per each tier
+ - All CTOV villages can now spawn in Nature's Spirit biomes
+ - Magnet, Pickup, Feeding, Refill, Furance, Blast Furnace upgrades can now be used while the backpack is placed as a block (Traveler's Backpack)
+ - Revamped the Forsaken Magus fight (ANARCHY - RPG Factions & Minibosses)
+
+![img](https://media.forgecdn.net/attachments/description/1476374/description_59983d15-83e1-4334-bf84-f613c98344f9.png)
+![img](https://media.forgecdn.net/attachments/description/1520464/description_14b9a67d-3e21-4878-9195-e39c22f218c2.png)
+![img](https://media.forgecdn.net/attachments/description/1413515/description_08b88068-dfce-426e-97a7-95dde1d86cab.png)
+![img](https://media.forgecdn.net/attachments/1324/726/1000027743-jpg.jpg)
