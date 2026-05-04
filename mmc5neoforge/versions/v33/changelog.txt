@@ -1,0 +1,33 @@
+# **[Mercenaries Update]**
+## Mod Changes
+
+**Neoforge is now 21.1.228**
+
+ - 🟢 Added [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa) (by maDU59_)
+ - 🟢 Added [Epic Structures Dungeons](https://www.curseforge.com/minecraft/mc-mods/epic-structures-dungeons) (by HardWater)
+ - 🟢 Added [Epic Structures Igloo](https://www.curseforge.com/minecraft/mc-mods/epic-structures-igloo) (by HardWater)
+ - 🔵 Updated 64 mods
+ - Downgraded Shoulder Surfing Reloaded to fully disable "follow player rotation" camera setting
+
+
+### Config Changes
+
+ - Disabled ATL memory warning, since it would appear even when there were no memory leaks
+ - Disabled duplicate roll mechanic from Bosses'Rise (again)
+
+
+### Updates
+
+ - Adjusted attack windup time for maces and axes (Better Combat)
+ - Added bandits, hostile mercenaries that attack players on sight. You can notice which humans are bandits because of their red name (Magic Realms)
+ - Added personalities. Mercenaries now get random personalities including hobbies and quirks, which affect many parts of the gameplay (Magic Realms)
+ - The interaction with mercenaries has been reworked. right clicking a contracted mercenary to chat, which is affected by the mercenary's hobby and personality. Shift+right click open the mercenary menu, which shows their inventory, personal info, and a button to switch between patrol and follow modes (Magic Realms)
+ - Added many features to the tavern, like a welcome message from the tavernkeeper on entering, a farewell one when exiting, mercenary cross protection inside taverns and a new sleeping pass (Magic Realms)
+ - CTOV villages will now spawn in all Nature's Spirit biomes
+ - Magnet, Pickup, Feeding, Refill, Furnace, Smoker, and Blast Furnace upgrades now work when the backpack is placed as a block (Traveler's Backpack)
+ - Added Field of Mourning (Replaced Finality of Decay), Summons graves which each summon a horde of zombies and skeletons each (ESS: Requiem)
+
+![img](https://media.forgecdn.net/attachments/1610/214/img_8404-png.png)
+![img](https://cdn.modrinth.com/data/IAzUFvS6/images/e33e6b3d4dc16ba72369d90ede8543f012342cc6.gif)
+![img](https://cdn.modrinth.com/data/IAzUFvS6/images/e87dff10addb69c8d1710cf3886aaf6c07d7e59e.gif)
+![img](https://media.forgecdn.net/attachments/1628/130/2026-04-12_11-38-12-png.png)
