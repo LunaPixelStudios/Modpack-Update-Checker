@@ -1,0 +1,44 @@
+[Major Update]
+Mod Changes
+ - Added [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic) (by HybridLabs)
+ - Added [Moog's Glow Up](https://www.curseforge.com/minecraft/mc-mods/moogs-glow-up) (by finndog_123)
+ - Added [MouseTweaks x Accessories Fix](https://www.curseforge.com/minecraft/mc-mods/mousetweaks-x-accessories-fix) (by Stalemated)
+ - Removed [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) (Caused world generation to freeze in The End)
+ - Updated 65 mods
+
+
+Config Changes
+ - Added quests for the Moog's Glow Up mod
+ - Added a theme for the CrashAssistant screen
+ - Enabled CrashAssistant simple mode to make the screen much more concise
+ - Villagers are no longer assigned last names as it would cause the name display to overflow outside the trade GUI
+ - Disabled potentially problematic seasonal features in more mods
+
+
+Updates
+ - Added translations for 300 more mods ([The Brazilian Localization Project](https://www.curseforge.com/minecraft/texture-packs/brazilian-project))
+ - Added support for 50 more mods ([Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet))
+ - Added the Dark Forest village ([MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages))
+ - Added new loot tables to the End ([MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures))
+ - Added 2 new advancements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Added tons of quality of life changes to the villager trade screen ([Better Client](https://www.curseforge.com/minecraft/mc-mods/better-client))
+ - Added sparks when a magma cube lands on the ground ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sound effect when using a spawn egg ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Added sparks and sounds to monster spawners ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - The "Claim all Rewards" button now lists all claimable rewards when clicked ([FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric))
+ - Reworked the leaderboard screen ([Leaderboard](https://www.curseforge.com/minecraft/mc-mods/leaderboards))
+ - Snow golem footsteps now make snow sounds ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+ - Empty barrels in nether structures now contain loot ([MNS - Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures))
+ - Placing carpets under blocks like stairs now works more like normal block placement ([Underlay](https://www.curseforge.com/minecraft/mc-mods/underlay))
+ - Greatly improved structure spawning and generation speeds ([Moog's Structure Lib](https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib))
+ - Improved game performance and reduced mouse latency ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Improved generation for jungle and swamp villages ([MMV - Moog's Missing Villages](https://www.curseforge.com/minecraft/mc-mods/mmv-moogs-missing-villages))
+ - Improved mineshaft generation and reduced its spawnrate ([MVS - Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+ - Improved display of villager names ([Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric))
+
+
+Fixes
+ - Many fixes and improvements ([Vanilla Backport](https://www.curseforge.com/minecraft/mc-mods/vanillabackport))
+ - Many fixes to cannon behavior ([Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+ - Game freeze on world start ([Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info))
+ - Armor rendering issues ([Variants&Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures))
