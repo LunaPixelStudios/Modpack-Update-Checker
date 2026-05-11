@@ -1,0 +1,37 @@
+# Progression Update
+## Mod Changes
+ - 🟢 Added [Armory of Remnants](https://www.curseforge.com/minecraft/mc-mods/armory-of-remnants) (by SupremeCatalyst)
+ - 🟢 Added [Catalytic Lib](https://www.curseforge.com/minecraft/mc-mods/catalytic-lib) (by SupremeCatalyst)
+ - 🟢 Added [Soul fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d) (by CrystalSpider)
+ - 🟢 Added [Cobweb](https://www.curseforge.com/minecraft/mc-mods/cobweb) (by CrystalSpider)
+ - 🟢 Added [Magic Circles - ISAS Addon](https://www.curseforge.com/minecraft/mc-mods/magic-circles-isas-addon) (by or1904)
+ - 🔴 Removed [JourneyMap Teams](https://www.curseforge.com/minecraft/mc-mods/journeymap-teams) (Caused players to randomly disappear from map)
+ - 🔵 Updated 36 mods
+Downgraded Shoulder Surfing Reloaded to 4.21.0
+
+
+### Config Changes
+ - Buffed the health and damage of every campaign boss in Chapter 3+
+ - Increased Aqua/Geo grandmaster spawnrate 20% -> 40%
+ - Removed Valoria Ent spawning tweaks (changed by mod)
+ - Narrowed the wild magic surge spell list to no longer include recast spells, summons, or eldritch magic
+ - Ticking Entity errors on players will now kill instead of disconnecting, due to an issue related to reconnecting in an errored state
+ - Slightly nerfed the Obsidian Mirror boss' spellcasting power
+
+
+### Updates
+ - Greatly buffed Druid Wildshapes; their attributes now scale with Druids' Character level and Magic level
+ - Champions will now have a guaranteed drop for a new affixed item, rarity based on their champion rank
+
+
+### Fixes
+ - Fixed 2 more Origins Forge desyncs which would cause race/class powers, keybinds, and hud bars to disappear
+ - Added a patch for Create potato cannons causing a ticking entity exception on upon logging back in
+ - Summons incorrectly displaying a mob level
+ - Circle of The Land Druid's Nature's Ward power not working properly
+ - Fixed an issue where some story/quest items would not drop when killed by a spell, projectile, or non-vanilla summoned mob
+ - Current health sometimes dropping to a very low amount on login or dimension change
+ - Fixed the resonant quartz gem not loading
+
+![img](https://media.forgecdn.net/attachments/1641/197/2026-04-20_14-46-08-png.png)
+![img](https://media.forgecdn.net/attachments/1628/298/2026-04-12_17-54-13-png.png)
