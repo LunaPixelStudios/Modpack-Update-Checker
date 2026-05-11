@@ -1,0 +1,4 @@
+## v8 HF2 (Hotfix 2): 
+- Fix Champions sometimes dropping 4 affixes and 4 gems (!) per Champion kill
+- Fix a few more items being available way too early through Champions drops (apologies, there were 440 item rolls added in v8)
+- Disable randomly spawned mobs (not champions) receiving random affix items
