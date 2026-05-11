@@ -1,0 +1,5 @@
+v8 HF:
+- Fixed low rank Champions dropping far more valuable affix items than intended
+- Increased the mana cost and cooldown of Pyrosanguine Storm
+- Fixed the server pack not including defaultconfigs
+- Updated Otherworld Origins
