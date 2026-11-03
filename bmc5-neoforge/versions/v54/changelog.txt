@@ -1,0 +1,19 @@
+# [Stability Update]
+
+## Mod Changes
+
+ - 🔴 Removed Sodium/Embeddium Options Mod Compat (Crashing)
+ - 🔵 Updated 88 mods
+
+### Config Changes
+
+ - Structures no longer cluster around world spawn ([Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures))
+
+### Fixes
+
+ - Fixed memory leak caused by Fabric API ([Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling))
+ - Fixed rendering issues ([ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast))
+ - Improved performance of chunk cache packets ([Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric))
+ - Fixed issue causing preview chunks to be saved in the wrong dimension ([Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight))
+ - Fixed a memory leak caused by improper scheduled tick storage ([Oh The Trees You'll Grow](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow))
+ - Rendering fixes ([Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects))

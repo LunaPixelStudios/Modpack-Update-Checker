@@ -1,0 +1,9 @@
+[Hotfix]
+
+Properly added WorldHost mod and changed the Open to LAN screen
+
+Unbound FTB Chunks map keybind
+
+Fixed missing Graphics folder causing all icons to be missing
+
+Fixed several textures in the inventory GUI

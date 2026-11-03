@@ -1,0 +1,24 @@
+# [Content Update]
+
+## Mod Changes
+
+ - 🟢 Added [aleki's Nifty Ships](https://www.curseforge.com/minecraft/mc-mods/alekiships) (by alekiponi)
+ - 🟢 Added [Nifty Ships + Biomes O'Plenty Compat Update ](https://www.curseforge.com/minecraft/mc-mods/nifty-ships-biomes-oplenty-compat-update-muddyfork) (by MuckyMonkey)
+ - 🟢 Added [Bits and Bobs for Minecolonies](https://www.curseforge.com/minecraft/mc-mods/bits-and-bobs-for-minecolonies) (by hogbits)
+ - 🟢 Added [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud) (by Txni)
+ - 🟢 Added [Early Bedtime](https://www.curseforge.com/minecraft/mc-mods/early-bedtime) (by Txni)
+ - 🟢 Added [GTBC's Geomancy Plus - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/gtbcs-geomancy-plus) (by GameTechBC)
+ - 🟢 Added [GTBC's Cataclysmic Boss UI](https://www.curseforge.com/minecraft/mc-mods/gtbcs-cataclysmic-boss-ui) (by GameTechBC)
+ - 🟢 Added [GTBC's SpellLib/API](https://www.curseforge.com/minecraft/mc-mods/gtbcs-spelllib) (by GameTechBC)
+ - 🟢 Added [Does It Tick?](https://www.curseforge.com/minecraft/mc-mods/does-it-tick) (by Txni)
+ - 🟢 Added [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (by Pepper_Bell)
+ - 🟢 Added [Immersive Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/immersive-damage-indicators) (by Txni)
+ - 🔴 Removed [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) (Replaced)
+ - 🔴 Removed [Biolith x MCreator biome fix](https://www.curseforge.com/minecraft/mc-mods/biolith-x-mcreator-biome-fix) (Broken)
+ - 🔵 Updated 36 mods
+
+### Fixes
+
+ - Removed dependency on Biolith, fixed mobs despawning ([Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic))
+ - Fixed shadowing bundled libraries causing launch failures ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Fix errors with UUID parsing ([Neruina](https://www.curseforge.com/minecraft/mc-mods/neruina))

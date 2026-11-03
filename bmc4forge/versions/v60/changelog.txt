@@ -1,0 +1,16 @@
+**[Stability Update]**
+
+Small bugfix update, fixing a few crashes in various mods.
+
+Moog's Nether Structures also got a major update, which added the Mega Fortress - A massive new nether fortress made up of 207 pieces and packed with loot, mobs and traps. It's best structure yet across all of Moogs' structure mods!
+
+**Mod Changes**
+🟢 Added Iris Search! You can now search through shader settings to instantly find what you're looking for!
+🔵 Updated 39 Mods
+
+**Fixes**
+- Fixed error with pack version being set to v58 instead of v59, leading to user confusion
+- Fixed items sometimes showing as doubled in the storage terminal ([Simple Storage Network]([https://www.curseforge.com/minecraft/mc-mods/simple-storage-network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network)))
+- Fixed crash when generating new structures ([Moog's Voyager Structures]([https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)))
+- Fixed game freeze after tabbing out. ([Ixeris]([https://www.curseforge.com/minecraft/mc-mods/ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris)))
+- Fixed potential crash on startup when installed on server ([Audio Improvements]([https://www.curseforge.com/minecraft/mc-mods/audio-improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements)))

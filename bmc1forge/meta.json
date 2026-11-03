@@ -5,6 +5,16 @@
     {
       "id": "v61",
       "releasedAt": 1689470265689
+    },
+    {
+      "id": "v61.5",
+      "releasedAt": 1750464648713,
+      "updateType": "minor_breaking"
+    },
+    {
+      "id": "v62",
+      "releasedAt": 1750625025547,
+      "updateType": "minor_breaking"
     }
   ]
 }

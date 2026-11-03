@@ -1,0 +1,32 @@
+# [Content Update]
+
+This update adds [Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher), a wonderfully polished fishing overhaul mod! There are 100+ new fishes ready for you to catch and record in your catalogue, and with integration with Farmer's Delight, you can cook and eat them all!
+
+[Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures) also got a major update, which added the Mega Fortress - A massive new nether fortress made up of 207 pieces and packed with loot, mobs and traps. It's best structure yet across all of Moogs' structure mods!
+
+## Mod Changes
+
+ - 🟢 Added [Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher) (by wdiscute)
+ - 🟢 Added [Starcatcher's Delight](https://www.curseforge.com/minecraft/mc-mods/starcatchers-delight) (by wdiscute)
+ - 🟢 Added [IrisSearch](https://www.curseforge.com/minecraft/mc-mods/irissearch) (by SpacEagle17)
+ - 🔵 Updated 93 mods
+
+### Updates
+
+ - ([Moog's Nether Structures](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures)) Added the Mega Fortress - A massive new nether fortress made up of 207 pieces and packed with loot, mobs and traps. The best structure yet across all Moogs structure mods!
+ - Added Iris Search! You can now search through shader settings to instantly find what you're looking for!
+ - Updated to Complementary Shaders r5.8.1 + Euphoria Patches 1.9.3, adding support for Photonics and many shader improvements!
+ - Overhauled biome colors, added integration with Climate Rivers ([Seasonal Integration](https://www.curseforge.com/minecraft/mc-mods/seasonal-integration))
+ - 40 new structures added to ([Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures))! Including the cat house, flower beds, pond with frogs, blacksmith's workshop with a mine and many others.
+
+### Fixes
+
+ - Improved world generation speed, reduced CPU usage ([ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix))
+ - Fixed a major flaw in the Forge handshake system (i.e. 1.20.1 only) that caused a long delay while joining singleplayer or multiplayer worlds ([ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix))
+ - Fixed a duplication exploit ([Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked))
+ - Fixed random concurrent modification crashes ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))
+ - ([Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)) 0.15.4 backport, fixing a few bugs
+ - Fixed a concurrency modification exception crash (Repurposed Structures)
+ - Repurposed Structures (Neoforge/Forge)}!
+ - Fix potential crashes when looking up enchantment IDs ([Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions))
+ - Fixed lag issues ([Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged))

@@ -1,0 +1,4 @@
+# Hotfix
+
+ - Fixed servers not being joinable
+ - Regenerated modernfix structure cache for better performance

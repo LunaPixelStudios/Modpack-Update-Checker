@@ -1,0 +1,30 @@
+# [Ocean Update]
+
+This update adds Hybrid Aquatic, an ocean overhaul mod with all kinds of aquatic life, alongside Hybrid Birds and Hybrid Delights, a culinary addon adding many new seafood dishes! To make seafaring more enjoyable, we've also added Shippy Ships, a new ship mod where you can build large ships and set sail across the ocean!
+
+## Mod Changes
+
+ - 🟢 Added [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic) (by HybridLabs)
+ - 🟢 Added [Hybrid Birds](https://www.curseforge.com/minecraft/mc-mods/hybrid-birds) (by HybridLabs)
+ - 🟢 Added [Hybrid Delights](https://www.curseforge.com/minecraft/mc-mods/hybrid-delights) (by HybridLabs)
+ - 🟢 Added [Hybrid API [HAPI]](https://www.curseforge.com/minecraft/mc-mods/hybrid-api) (by HybridLabs)
+ - 🟢 Added [Shippy Ships](https://www.curseforge.com/minecraft/mc-mods/shippy-ships) (by Caesius_Leo)
+ - 🟢 Added [Old Cannons](https://www.curseforge.com/minecraft/mc-mods/old-cannons) (by Caesius_Leo)
+ - 🟢 Added [Ingenium API](https://www.curseforge.com/minecraft/mc-mods/ingenium-api) (by Caesius_Leo)
+ - 🟢 Added [Audio Improvements](https://www.curseforge.com/minecraft/mc-mods/audio-improvements) (by NamelessJu)
+ - 🔵 Updated 51 mods
+
+### Updates
+
+ - Improved performance with ([Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric))
+ - Improved search results ([Iris & Oculus Search](https://www.curseforge.com/minecraft/mc-mods/iris-search))
+ - Added support for Moog's ocean structures ([Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations))
+
+### Fixes
+
+ - Various backpack fixes ([Inmis ](https://www.curseforge.com/minecraft/mc-mods/inmis-forge-port))
+ - Fixed world gen features being registered multiple times, causing crashes ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))
+ - Fixed memory leak with block entities ([Balm](https://www.curseforge.com/minecraft/mc-mods/balm))
+ - Fix issue with preview chunks not loading correctly ([Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight))
+ - Rendering fixes ([Particle Effects](https://www.curseforge.com/minecraft/mc-mods/particle-effects))
+ - Fixed crash with graves ([You're in Grave Dangers](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-dangers))

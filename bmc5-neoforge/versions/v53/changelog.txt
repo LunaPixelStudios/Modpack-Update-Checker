@@ -1,0 +1,29 @@
+# [QoL Update]
+
+## Mod Changes
+
+ - 🟢 Added [Reconnectible Chains](https://www.curseforge.com/minecraft/mc-mods/reconnectible-chains) (by evanbones)
+ - 🟢 Added [Ziplines Rezipped](https://www.curseforge.com/minecraft/mc-mods/ziplines-rezipped) (by evanbones)
+ - 🟢 Added [Diagonal Windows](https://www.curseforge.com/minecraft/mc-mods/diagonal-windows) (by Fuzs)
+ - 🟢 Added [Enchantment Insights](https://www.curseforge.com/minecraft/mc-mods/enchantment-insights) (by Fuzs)
+ - 🟢 Added [Let Me Sleep](https://www.curseforge.com/minecraft/mc-mods/let-me-sleep) (by Fuzs)
+ - 🟢 Added [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) (by tr7zw)
+ - 🟢 Added [SWAY API](https://www.curseforge.com/minecraft/mc-mods/sway) (by RazorPlay01)
+ - 🟢 Added [Hybrid API](https://www.curseforge.com/minecraft/mc-mods/hybrid-api) (by HybridLabs)
+ - 🔴 Removed [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) (Replaced)
+ - 🔵 Updated 43 mods
+
+### Config Changes
+
+ - Disable Loading Protection messages, prevents spam
+
+### Updates
+
+ - Golden worms now award extra golden chance, improved radar animation, various fixes ([Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher))
+ - Improvements to rendering with shaders enabled ([Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged))
+
+### Fixes
+
+ - Fixed crash when closing unused buffers ([ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast))
+ - Fixed duplication bug ([Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage))
+ - Fixed crash when rendering warp requirements ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))

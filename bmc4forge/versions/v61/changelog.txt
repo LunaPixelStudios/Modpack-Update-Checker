@@ -1,0 +1,17 @@
+# [Minor Update]
+
+This patch updates many mods, and adds a few new structures: YUNG's Better Desert Temples, which replace the vanilla temples with a complete redesign, and Tidal Towns, which adds villages floating on the water!
+
+## Mod Changes
+
+ - 🟢 Added [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples) (by YUNGNICKYOUNG)
+ - 🟢 Added [Tidal Towns](https://www.curseforge.com/minecraft/mc-mods/tidal-towns) (by joshieman)
+ - 🔵 Updated 26 mods
+
+### Fixes
+
+ - Fixed server ping crash ([No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports))
+ - Fixed dedicated servers failing to start when Wakes was left in the server's mods folder. ([Wakes](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged))
+ - Fixed crash on Forge when changing cursor ([Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris))
+ - Fixed short flickering of the HUD when opening/closing chat screen ([Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum))
+ - Fixed crash from running out of memory ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))

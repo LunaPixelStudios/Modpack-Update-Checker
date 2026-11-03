@@ -1,0 +1,20 @@
+# [Stability Update]
+
+## Mod Changes
+
+ - 🔵 Updated 63 mods
+
+### Updates
+
+ - Major performance overhaul to rendering Wakes ([Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged))
+
+### Fixes
+
+ - Fixed repeatable quests not syncing to client ([FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge))
+ - Fixed claim protection messages causing errors ([Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims))
+ - Fix worldgen crash ([Moog's Structure Lib](https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib))
+ - Fix items not disappearing from terminals until re-opening ([Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage))
+ - Fix JEI/REI/EMI recipes showing missing items ([Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage))
+ - Fix rendering error with Villager UI ([ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast))
+ - Fixed Slowness issues when stacking entities ([Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on))
+ - Fixed crashes with very long distance Waystones ([Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones))

@@ -291,6 +291,26 @@
         "id": "v50",
         "releasedAt": 1777527022000,
         "updateType": "minor_breaking"
+      },
+      {
+        "id": "v51",
+        "releasedAt": 1782721233330,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v52",
+        "releasedAt": 1786144555080,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v53",
+        "releasedAt": 1788843984257,
+        "updateType": "minor_breaking"
+      },
+      {
+        "id": "v54",
+        "releasedAt": 1793257251080,
+        "updateType": "minor_breaking"
       }
     ]
   }
