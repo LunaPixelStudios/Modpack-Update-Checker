@@ -86,11 +86,6 @@
       "id": "v8HF2",
       "releasedAt": 1778468050002,
       "updateType": "minor_breaking"
-    },
-    {
-      "id": "RHF",
-      "releasedAt": 1793731338000,
-      "updateType": "minor_breaking"
     }
   ]
 }
